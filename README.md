@@ -6,7 +6,7 @@
 You can add it to this file, which is sorted alphabetically. I'd search for valid sub-domains.
 
 * **If you find a valid sub-domain that is not blocked:**
-You can create the `manual` file, if not already present and add it to this new file in HOSTS format.
+You can create the `manual` file, if not already present and add it to this new file (format: only sub-domains).
 It will be sorted alphabetically too.
 
 * **Otherwise, if you're not familiar with `git` , you can also open an ISSUE.**
