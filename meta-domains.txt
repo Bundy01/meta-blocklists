@@ -1,3 +1,10 @@
+# Title: Meta Domains
+# Description: Blocking Domains Belonging to Meta Platforms
+# Author: Bundy01
+# Homepage: https://github.com/Bundy01/meta-blocklists
+# Licence: https://raw.githubusercontent.com/Bundy01/meta-blocklists/refs/heads/main/LICENSE
+# RAW: https://raw.githubusercontent.com/Bundy01/meta-blocklists/refs/heads/main/meta-domains.txt
+#
 0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.internet.org
 0.0.0.0.0.0.0.0.0.0.0.0.0.0.internet.org
 000.000.000.000.wxmpperis-myaccount-cdn.assetswa19.www.prod.onavo.com
@@ -189,6 +196,7 @@
 0-14.freebasics.com
 0151e2a8-83ae-4eed-a4f8-4db02c5b8409-netseer-ipaddr-assoc.xz.fbcdn.net
 0.152.channel.facebook.co
+0152ea45-89c4-46f6-87d4-bbbae7b0785f-netseer-ipaddr-assoc.xz.fbcdn.net
 0.154.channel.facebook.co
 0-157-102.workplace.com
 0157-82495719www.facebook.de
@@ -296,6 +304,7 @@
 02c04544-2746-44be-967c-3ea64d165036-netseer-ipaddr-assoc.xz.fbcdn.net
 02c431dd-1c40-41ee-b873-46cf5ea9c02b-netseer-ipaddr-assoc.xz.fbcdn.net
 02c5cbf4-48f1-4131-b8e6-6c64f7abdc59-netseer-ipaddr-assoc.xz.fbcdn.net
+02c8662f-c6a8-44a8-8c05-76c80a2d3845-netseer-ipaddr-assoc.xz.fbcdn.net
 02cfe293-ca06-4677-b43c-4400c6af2263-netseer-ipaddr-assoc.xz.fbcdn.net
 02d6fce8-629c-43f8-bf12-45de8590f41c-netseer-ipaddr-assoc.xz.fbcdn.net
 02dc47e9-3d02-4fec-88c6-8cf2ccfa275f-netseer-ipaddr-assoc.xz.fbcdn.net
@@ -339,6 +348,7 @@
 03-7.freebasics.com
 0381.facebook.nl
 038250a2-4c3c-4140-ac24-1eeaa5fdd11a-netseer-ipaddr-assoc.xz.fbcdn.net
+0387ced0-d155-470f-8d17-fb758bdcffa9-netseer-ipaddr-assoc.xz.fbcdn.net
 0.38.channel.facebook.co
 0-38.freebasics.com
 03.alpha.accountkit.com
@@ -396,8 +406,11 @@
 04t.internet.org
 04w02a298821kxglpj3c-ge4toojugeydsmrw3.snr.whatsapp.net
 04w02a298821kxglpj3c-ge4toojugeydsmrw5.snr.whatsapp.net
+04xothaicreationwww.facebook.co
 050100150200250300350400450sonstigede.youtube.comkiz-tv.dewww.mzee.comwww.alphabetisiwww.bing.comwww.facebook.co
 050238.fbsbx.com
+050296ae-ac47-4386-a6a8-dd2de0aee3a1-netseer-ipaddr-assoc.xz.fbcdn.net
+050e8c3d-cde4-419b-a5cf-156ef7711fb1-netseer-ipaddr-assoc.xz.fbcdn.net
 050f-9.freebasics.com
 050fgraph.accountkit.com
 0-5.0.freebasics.com
@@ -478,6 +491,7 @@
 05.im.freebasics.com
 05www.facebook.at
 0600a55f-a919-437c-9689-e3aaacc5e849-netseer-ipaddr-assoc.xz.fbcdn.net
+0601344e-dbd3-47dd-bb0e-fab5690835c4-netseer-ipaddr-assoc.xz.fbcdn.net
 0603.facebook.nl
 06.06.2017www.facebook.de
 0-6.0.freebasics.com
@@ -489,6 +503,7 @@
 0624556865www.facebook.co
 0625e5d1-1d32-4447-9d8d-de627a6488a1-netseer-ipaddr-assoc.xz.fbcdn.net
 06-2fgraph-35.accountkit.com
+063a2a18-ee78-423f-8b04-5dd6d0194f39-netseer-ipaddr-assoc.xz.fbcdn.net
 0-6-3.freebasics.com
 063.freebasics.com
 0-641.freebasics.com
@@ -558,6 +573,7 @@
 0-8120.indosat-2.freebasics.com
 081292-internet.internet.org
 08141-347068-4www.facebook.de
+0815264b-38f0-4d0b-b8ab-dafa6a62f74a-netseer-ipaddr-assoc.xz.fbcdn.net
 081aa6572e-teste1235.facebook.com.br
 082682.facebookbrand-2018-dev.fb.com
 0835.accountkit.com
@@ -644,6 +660,8 @@
 0ba2014.oculusvr.com
 0balance.freebasics.com
 0.basic.fb.me
+0bb0c3fa-7b88-4c0c-836b-eaf27cb03a6b-netseer-ipaddr-assoc.xz.fbcdn.net
+0bc6e9d5-608b-464f-ad24-51a70bc3f7b6-netseer-ipaddr-assoc.xz.fbcdn.net
 0bcae36a-7af3-4ad1-bfb3-2e50370ad877-netseer-ipaddr-assoc.xz.fbcdn.net
 0bd8a6ms5xl8tfas0uhrfm80b.facebookbrand-2018-dev.fb.com
 0bdz.accountkit.com
@@ -709,6 +727,7 @@
 0d1b22d8-4d69-4f2c-86e3-a3212debaa70-netseer-ipaddr-assoc.xz.fbcdn.net
 0d299a3b-5718-4fb3-8b15-4411bff421c4-netseer-ipaddr-assoc.xz.fbcdn.net
 0d324201d46c4e6c31e0e927e7d48422.safeframe.freebasics.com
+0d463096-aa3e-4a70-84b2-4e379c6d29a1-netseer-ipaddr-assoc.xz.fbcdn.net
 0d712219-5213-49f3-9530-2ee3b2429d98-netseer-ipaddr-assoc.xz.fbcdn.net
 0d796ba4-360f-4ee3-be1a-b855d914d4cd-netseer-ipaddr-assoc.xz.fbcdn.net
 0ddcfa1b-d98a-4640-a9b8-ed4aee601e7a-netseer-ipaddr-assoc.xz.fbcdn.net
@@ -738,6 +757,7 @@
 0-edge-chat.z.facebook.com
 0f0-0.freebasics.com
 0f05.freebasics.com
+0f07befe-7722-4d6b-a58d-b51cf9d1fcf6-netseer-ipaddr-assoc.xz.fbcdn.net
 0f0-8.freebasics.com
 0f-0.messenger.com
 0f1.freebasics.com
@@ -784,6 +804,7 @@
 0fbb4332-0fd5-4088-bb19-f01d56f3afd5-netseer-ipaddr-assoc.xz.fbcdn.net
 0.fb.me
 0.fbsbx.com
+0fc94f4b-3d62-4ae6-a9cd-a82730fc1afa-netseer-ipaddr-assoc.xz.fbcdn.net
 0fe23f4c-023e-4140-abaa-125774ccc0ee-netseer-ipaddr-assoc.xz.fbcdn.net
 0fedb3c6-e443-4fbd-99da-06bfdc571a37-netseer-ipaddr-assoc.xz.fbcdn.net
 0.feedback00by5.facebookbrand-2018-dev.fb.com
@@ -1231,6 +1252,7 @@
 1-11.i.org
 111www.knowyourmedicines.gov.mtwww.medicinesauthority.gov.mtwww.maltamedicineslist.comwww.facebook.co
 112006111developer.facebook.de
+11201317050100150200250300350400450sonstigede.youtube.comkiz-tv.dewww.mzee.comwww.alphabetisiwww.bing.comwww.facebook.co
 112-18.facebook.com.ve
 112400703183.facebook.com.ve
 112770.i.org
@@ -1411,6 +1433,7 @@
 1.35.channel.facebook.co
 135.facebook.be
 1-35.i.org
+1367312b-eb4f-4c43-8c8d-39fc2c604a36-netseer-ipaddr-assoc.xz.fbcdn.net
 1368qipaizenmeyang.facebook.com.ve
 137-144.i.org
 137-161.facebook.com.ve
@@ -1436,6 +1459,7 @@
 13ww.facebook.co
 13ww.facebook.coww.facebook.co
 13ww.facebook.coww.facebook.co800947800684ww.facebook.co
+13www.facebook.co
 1400g.freebasics.com
 14045ive.oculusvr.com
 1406-1417.i.org
@@ -1457,6 +1481,7 @@
 14300www.facebook.de
 143.246.227.i.org
 143347-57-3.internet.org
+143d9558-0cf7-49b3-b3a3-f03422c0814d-netseer-ipaddr-assoc.xz.fbcdn.net
 1448.facebook.in
 145-130.fbsbx.com
 145-187.thefacebook.de
@@ -1492,6 +1517,7 @@
 14pcengimawebproxy.fb.me
 14thfebruary2023.facebook.co
 14www.facebook.at
+14www.facebook.co
 14yki77.messenger.com
 15018a05-7e5e-4c00-a460-ecc1fb4ccc81-netseer-ipaddr-assoc.xz.fbcdn.net
 1501.facebook.nl
@@ -1617,6 +1643,7 @@
 16.26.16.15.15.25.35.423knuddelmonster.chknuddelmonsterwww.facebook.co
 16277.internalfb.com
 162.accountkit.com
+162ad44c-034b-43cb-8923-0dfe3808f0be-netseer-ipaddr-assoc.xz.fbcdn.net
 162bb7d3-bd93-4bf0-9d29-33b19fe134cf-netseer-ipaddr-assoc.xz.fbcdn.net
 1-6-2.freebasics.com
 162.internet.org
@@ -1636,6 +1663,7 @@
 165-137-112-7.internalfb.com
 165-137-112-82.internalfb.com
 165-137-112-98.workplace.com
+1660e3d0-3ddd-4e60-98fa-5a4aee59cea4-netseer-ipaddr-assoc.xz.fbcdn.net
 166-42.internet.org
 1.66.channel.facebook.co
 167243r7o73643123223.internalfb.com
@@ -1667,6 +1695,7 @@
 16viruswall.freebasics.com
 16viruswall.internet.org
 170-22.internet.org
+17050100150200250300350400450sonstigede.youtube.comkiz-tv.dewww.mzee.comwww.alphabetisiwww.bing.comwww.facebook.co
 1-7.0.freebasics.com
 17.0.freebasics.com
 17.11-ar.facebookbrand-2018-dev.fb.com
@@ -1815,6 +1844,7 @@
 1892977.lm.facebook.com671568.l.facebook.co
 18.alpha.accountkit.com
 1-8-appstore.facebookbrand-2018-dev.fb.com
+18b79eef-5692-4503-9c71-66d2a5d61b7b-netseer-ipaddr-assoc.xz.fbcdn.net
 18c455f6-0332-46e8-b39c-57bb3587199e-netseer-ipaddr-assoc.xz.fbcdn.net
 18c798b7-24e1-43d2-88a1-4179ba528471-netseer-ipaddr-assoc.xz.fbcdn.net
 18ca058c-a65f-47d6-b666-e9e9241dd1ac-netseer-ipaddr-assoc.xz.fbcdn.net
@@ -1857,6 +1887,7 @@
 194-161-218-217.facebook.com.co
 194-161-219-178.facebook.com.pl
 194-161-219-75.facebook.com.br
+194510.l.facebook.co
 194.internet.org
 1951d9de-97b7-4a36-aff8-18885fdeadb8-netseer-ipaddr-assoc.xz.fbcdn.net
 1-960.freebasics.com
@@ -1919,7 +1950,9 @@
 19-www.facebook.co
 1a04.0.freebasics.com
 1a6c017a-54d7-44ec-8901-aed96d7d0887-netseer-ipaddr-assoc.xz.fbcdn.net
+1abc2f72-8abb-4fc2-ab37-9e74662cae3b-netseer-ipaddr-assoc.xz.fbcdn.net
 1.accountkit.com
+1adb380e-1b1d-4ce3-a597-7baf08c3c9ae-netseer-ipaddr-assoc.xz.fbcdn.net
 1-aisweb-3.facebookbrand-2018-dev.fb.com
 1-aisweb-3.facebookbrand-preprod.fb.com
 1.alpha-04-2.accountkit.com
@@ -1943,6 +1976,7 @@
 1c1covid19.internet.org
 1c2387e9-b3c2-4240-bd7c-8af93e9efd54-netseer-ipaddr-assoc.xz.fbcdn.net
 1c2be1f7-d392-4048-98f1-3c7097947af5-netseer-ipaddr-assoc.xz.fbcdn.net
+1c40d208-507d-453f-b00f-d3aea8b49906-netseer-ipaddr-assoc.xz.fbcdn.net
 1c54.accountkit.com
 1c8i.accountkit.com
 1ca18fa6-1b49-42a5-8b60-cfc8e461d6f6-netseer-ipaddr-assoc.xz.fbcdn.net
@@ -2465,6 +2499,7 @@
 208-64-200-84.workplace.com
 208-64-200-85.fb.me
 2-08.freebasics.com
+209fa7e7-da16-4dc3-a233-b0662d886b7e-netseer-ipaddr-assoc.xz.fbcdn.net
 20.accountkit.com
 20.alpha.accountkit.com
 20c4.messenger.com
@@ -2516,6 +2551,7 @@
 2.18.channel.facebook.co
 219-140.fbsbx.com
 219-245.facebook.com.ve
+21937f01-c304-45e5-9382-ce7018aaacd9-netseer-ipaddr-assoc.xz.fbcdn.net
 2198848a-a9b2-4268-b651-98ffee117c25.freebasics.com
 21b86744-e8a6-4dff-86a1-620344b2701e-netseer-ipaddr-assoc.xz.fbcdn.net
 21.facebook.com.au
@@ -2583,6 +2619,7 @@
 22f1.freebasics.com
 22.facebook.com.co
 22.freebasics.com
+22www.facebook.co
 22www.rochlitzer-muldental.dewww.porphyrland.dewww.facebook.de
 230-141.facebook.com.ve
 23049737-187c-436e-bbfc-25eb8512530d-netseer-ipaddr-assoc.xz.fbcdn.net
@@ -2610,6 +2647,7 @@
 23dd61b5-835c-44fa-b5a6-efe2fb7cda45-netseer-ipaddr-assoc.xz.fbcdn.net
 23.freebasics.com
 23.internet.org
+23knuddelmonster.chknuddelmonsterwww.facebook.co
 23skatepark.co.ukwww.facebook.co
 2401-2421.i.org
 240.18.1520240.2.2010.128.159.10platform-lookaside.fbsbx.com
@@ -2660,6 +2698,7 @@
 24c4e6a3-8a3e-46d7-b69c-c8e3c95b9553-netseer-ipaddr-assoc.xz.fbcdn.net
 24.channel08.facebook.co
 24d4f32d7bf800c6190e4cd3eed77b80.safeframe.internet.org
+24db83c3-0c22-487a-96c7-49e2a00e2b06-netseer-ipaddr-assoc.xz.fbcdn.net
 24ea3b262a836ca3.facebook.org
 24f5590f-97e7-4afa-b5f3-ddd3b262be9b-netseer-ipaddr-assoc.xz.fbcdn.net
 24fc359d97af64ca6e464c7e89682a21.safeframe.internet.org
@@ -2806,6 +2845,7 @@
 29392698-ab1b-4bde-aeb5-e0a1db50862a-netseer-ipaddr-assoc.xz.fbcdn.net
 2939f.thefacebook.at
 29552709.internet.org
+296971e4-a118-46b6-826b-ea6b38ab437a-netseer-ipaddr-assoc.xz.fbcdn.net
 2977.lm.facebook.com671568.l.facebook.co
 29821594-d5a6-408d-9498-aa67216e0c98-netseer-ipaddr-assoc.xz.fbcdn.net
 2.98.channel.facebook.co
@@ -2823,6 +2863,7 @@
 2a2d958c-f06d-487a-934c-1bea28d6a8ac-netseer-ipaddr-assoc.xz.fbcdn.net
 2a3cbfc8-04d9-4235-bb54-dd9533d061af-netseer-ipaddr-assoc.xz.fbcdn.net
 2a51b220-e9e7-49f3-b817-ac7aa65e21e3-netseer-ipaddr-assoc.xz.fbcdn.net
+2a5e47a8-b66b-43b5-9c9a-ff4eff504436-netseer-ipaddr-assoc.xz.fbcdn.net
 2a6abdf2-1108-46a1-a641-45238f0697a3-netseer-ipaddr-assoc.xz.fbcdn.net
 2a83c761-e490-4244-bf61-78ca87521907-netseer-ipaddr-assoc.xz.fbcdn.net
 2abcfb32-5a31-47fa-b3f3-af16e0f71a6f-netseer-ipaddr-assoc.xz.fbcdn.net
@@ -2853,6 +2894,7 @@
 2c4f0019-018c-4229-8919-c247d305a512-netseer-ipaddr-assoc.xz.fbcdn.net
 2c4f95bd-034a-480b-9fcd-b0451b15caed-netseer-ipaddr-assoc.xz.fbcdn.net
 2c6ae2e8-fc45-4362-952c-25cd0a22db32-netseer-ipaddr-assoc.xz.fbcdn.net
+2cb29d26-8933-4642-8ca5-e2686b4012ac-netseer-ipaddr-assoc.xz.fbcdn.net
 2cb7489de9dfc5daa2a05e3e67c993e3.safeframe.freebasics.com
 2c-cumbres.internet.org
 2.channel01.facebook.co
@@ -3056,6 +3098,7 @@
 30a72bed-a38a-4d54-99e7-d020bb96db79-netseer-ipaddr-assoc.xz.fbcdn.net
 30ab2bd7-f43f-481e-a46c-0a06ea5574ba-netseer-ipaddr-assoc.xz.fbcdn.net
 30b2e70c-0d81-4176-97e6-8a8f121940a4-netseer-ipaddr-assoc.xz.fbcdn.net
+30c9849e-865a-408f-8940-4cc1ccaa6c7d-netseer-ipaddr-assoc.xz.fbcdn.net
 30e8218c-9781-4e38-b74d-2ea0cc3b240e-netseer-ipaddr-assoc.xz.fbcdn.net
 30edb86f-c1b4-48b3-ad77-632871621d5d-netseer-ipaddr-assoc.xz.fbcdn.net
 30f4b9c002957432d24890ad6ecc99c3.safeframe.internet.org
@@ -3099,6 +3142,7 @@
 320fa4c8-e83c-4d21-815e-1d554442f9b3-netseer-ipaddr-assoc.xz.fbcdn.net
 3-2.0.freebasics.com
 32.0.freebasics.com
+321www.hotelcastello-mo.itwww.facebook.co
 3229facebookwww.facebook.co
 322.freebasics.com
 3-23.freebasics.com
@@ -3124,6 +3168,7 @@
 33141-33148.i.org
 33148.i.org
 333.oculusvr.com
+3352ef08-53ab-4056-8118-9cd0a91e4af3-netseer-ipaddr-assoc.xz.fbcdn.net
 33542.facebook.com.ve
 3-357-2013www.facebook.co
 335b7aab-380e-49bb-b789-ab7402b211fd-netseer-ipaddr-assoc.xz.fbcdn.net
@@ -3205,6 +3250,7 @@
 35fgraph.accountkit.com
 35fwww.accountkit.com
 35www.facebook.de
+35www.mint-ec.dewww.facebook.co
 360blueproperties.workplace.com
 360.fb.com
 3-6.0.freebasics.com
@@ -3279,9 +3325,11 @@
 38412ce48f619df964b661295e706222.safeframe.internet.org
 38618c4c-1fde-4968-ac3f-296fd07564d8-netseer-ipaddr-assoc.xz.fbcdn.net
 3.86.channel.facebook.co
+386f26c5-6a00-48ef-b789-6e19fb4a04cc-netseer-ipaddr-assoc.xz.fbcdn.net
 3878-8700www.cff.org.brwww.facebook.com.br
 38999506.freebasics.com
 38a6bf12-1c2a-43d5-8df2-a1050463b82d-netseer-ipaddr-assoc.xz.fbcdn.net
+38cbfd38-45cb-4590-a656-7eedb0c77ba9-netseer-ipaddr-assoc.xz.fbcdn.net
 38f42d34-81ab-49b3-b10c-e4902dc2c524-netseer-ipaddr-assoc.xz.fbcdn.net
 38.freebasics.com
 3-9.0.freebasics.com
@@ -3369,6 +3417,7 @@
 3e585f292b289c6564433233c75238cb.safeframe.freebasics.com
 3e81e1b1-bd8f-42e5-a459-25ea36cd6c6b-netseer-ipaddr-assoc.xz.fbcdn.net
 3e82c50c-86b7-4c55-a485-a4f3457944a2-netseer-ipaddr-assoc.xz.fbcdn.net
+3edff27b-578e-41d2-b722-f98302ce80f1-netseer-ipaddr-assoc.xz.fbcdn.net
 3-edge-chat.facebook.com
 3-edge-chat-fallback.facebook.com
 3-edge-chat-latest.facebook.com
@@ -3524,7 +3573,9 @@
 401u.cinyour0-4-4.accountkit.com
 4029.internet.org
 40423127.facebook.in
+40556065-244d-4c65-a6f2-10acbfb22708-netseer-ipaddr-assoc.xz.fbcdn.net
 4-05.freebasics.com
+40a16708-faba-4b25-8e8d-20168fb5df54-netseer-ipaddr-assoc.xz.fbcdn.net
 40ab8bdc-73cb-48c9-92ff-2d89a816ce51-netseer-ipaddr-assoc.xz.fbcdn.net
 40de33e6-b9c7-4614-90a4-bf2aa7521170-netseer-ipaddr-assoc.xz.fbcdn.net
 40fe4aef-5cd4-4dfa-b330-99df6db078fb-netseer-ipaddr-assoc.xz.fbcdn.net
@@ -3574,6 +3625,7 @@
 4282f.accountkit.com
 4283811201317050100150200250300350400450sonstigede.youtube.comkiz-tv.dewww.mzee.comwww.alphabetisiwww.bing.comwww.facebook.co
 42844c84-de2e-4268-b066-3d72bf5f40a4-netseer-ipaddr-assoc.xz.fbcdn.net
+42859.ntp.msn.com246910.l.facebook.co
 429f0dbd-1ee3-417f-9543-4afb6506842c-netseer-ipaddr-assoc.xz.fbcdn.net
 4-2-9.freebasics.com
 42ac5d.messenger.com
@@ -3586,6 +3638,7 @@
 4-30.07.2014www.avon.rowww.facebook.co
 4-3.0.freebasics.com
 43.0.freebasics.com
+4317-4727www.facebook.com.br
 43182594-c6de-422c-bd91-8ff75505ff79-netseer-ipaddr-assoc.xz.fbcdn.net
 431c7920-0d82-4281-b625-827e86ca6215-netseer-ipaddr-assoc.xz.fbcdn.net
 432488b082c134758a53017053b2a4f9.safeframe.freebasics.com
@@ -3621,6 +3674,7 @@
 44by5kttvghg.fb.me
 44.freebasics.com
 44www.facebook.at
+4503d235-e887-4c93-8daa-27e258b30ee3-netseer-ipaddr-assoc.xz.fbcdn.net
 4-5.0.freebasics.com
 450fwww.accountkit.com
 450sonstigede.youtube.comkiz-tv.dewww.mzee.comwww.alphabetisiwww.bing.comwww.facebook.co
@@ -3645,6 +3699,7 @@
 453fgraph.accountkit.com
 4541.facebook.nl
 45474974-ddbe-4add-a966-46077e10527b-netseer-ipaddr-assoc.xz.fbcdn.net
+4549e8a3-46f1-4715-9e77-9af214fb0040-netseer-ipaddr-assoc.xz.fbcdn.net
 454fgraph.accountkit.com
 454fwww.accountkit.com
 455ae706a78c15030e402d75d87087bb.safeframe.internet.org
@@ -3684,6 +3739,7 @@
 466e1670-4390-41ef-ab93-12f6c03a5dcf-netseer-ipaddr-assoc.xz.fbcdn.net
 4679616www.marketingclub-mainfranken.dewww.facebook.de
 4679.facebook.nl
+468dbe53-cf9d-414b-b59d-4c625ca78965-netseer-ipaddr-assoc.xz.fbcdn.net
 46b0430a-nov48bf5853oimcrm4ip49bf5853oimcrm4-com.facebook.com.br
 46c901f0-52c2-45de-8634-d0db923ae786-netseer-ipaddr-assoc.xz.fbcdn.net
 46f.freebasics.com
@@ -3784,6 +3840,7 @@
 4cy6ft19bo2e8hrvn4az7xxx-wpengine.freebasics.com
 4d25e38dd13fc5d7c1e992b388943061.safeframe.freebasics.com
 4d3773f50800c2a5ed4b395d270a79cc.safeframe.internet.org
+4d967af4-b81e-4685-8a51-8e27e7fadf9e-netseer-ipaddr-assoc.xz.fbcdn.net
 4da1233ca2fa08fe061def35be443c8c.safeframe.internet.org
 4dce4c8b-2477-4009-8167-8252ca821563-netseer-ipaddr-assoc.xz.fbcdn.net
 4dd5f5cc-5805-430d-bc6a-72341291d700-netseer-ipaddr-assoc.xz.fbcdn.net
@@ -4011,6 +4068,7 @@
 501xnxqmhdh3.internalfb.com
 502-508.i.org
 50304e5a-7384-41d1-b6a6-3e8165a01bd7-netseer-ipaddr-assoc.xz.fbcdn.net
+505470ba-65ca-47c1-a044-8d58503daaf9-netseer-ipaddr-assoc.xz.fbcdn.net
 505.freebasics.com
 5-0-6.freebasics.com
 50789693.freebasics.com
@@ -4044,6 +4102,7 @@
 515a1d1a-83ed-4896-9fcd-7acb0a0f1d4e-netseer-ipaddr-assoc.xz.fbcdn.net
 516www.enzkloesterle.dewww.facebook.co
 519228701883502ector.apps.fbsbx.com
+51e081fd-dc0e-487f-b00a-d11b1647d406-netseer-ipaddr-assoc.xz.fbcdn.net
 51fgraph.accountkit.com
 51fgraphhost.accountkit.com
 51fgraphns102.www-0-78.accountkit.com
@@ -4057,13 +4116,16 @@
 52.0.freebasics.com
 52-114-222-41.internalfb.com
 52-1.freebasics.com
+5220www.facebook.co
 523413882-aq-integrated-plugin-canvas-865607683474270-734228987.fbsbx.com
 5.25.35.423knuddelmonster.chknuddelmonsterwww.facebook.co
 5256cb78-dbf6-46af-88f1-cfc032106a5e-netseer-ipaddr-assoc.xz.fbcdn.net
 52571771064283811201317050100150200250300350400450sonstigede.youtube.comkiz-tv.dewww.mzee.comwww.alphabetisiwww.bing.comwww.facebook.co
 52-5.freebasics.com
+5267e65d-d65f-4ece-82c0-e83e6ccba0ee-netseer-ipaddr-assoc.xz.fbcdn.net
 52722d6e-7544-4d1f-a482-3ad67160d868-netseer-ipaddr-assoc.xz.fbcdn.net
 5273.accountkit.com
+529f4293-d7d9-4525-b2b1-f1fb43cc91da-netseer-ipaddr-assoc.xz.fbcdn.net
 52bab011-0f4a-4ab8-878d-181bdfd5b916-netseer-ipaddr-assoc.xz.fbcdn.net
 52be505c-268a-43f7-bbf2-1381d4ad15ce-netseer-ipaddr-assoc.xz.fbcdn.net
 52f02.freebasics.com
@@ -4109,6 +4171,7 @@
 54-8.freebasics.com
 548.freebasics.com
 54ea64d2cd4ab9031fbddc453ab1f929.safeframe.freebasics.com
+54ef2410-a82b-4873-8dd3-55c90cb98b36-netseer-ipaddr-assoc.xz.fbcdn.net
 54fgraph.accountkit.com
 54no.accountkit.com
 54unblock.facebookproxy.com
@@ -4135,6 +4198,7 @@
 554fgraph.accountkit.com
 554fwww.accountkit.com
 55586ef2-3ccb-4406-a44b-3be94a718651-netseer-ipaddr-assoc.xz.fbcdn.net
+555fd0e7-eaf0-4363-83dd-790ffdd57500-netseer-ipaddr-assoc.xz.fbcdn.net
 555fgraph.accountkit.com
 555qipaiguanfangyouxixiazai.fb.me
 55617fa421bd93810e7ed7617941e0a0.safeframe.internet.org
@@ -4162,6 +4226,7 @@
 5642554087309312-fe2.workplace.com
 566-573.i.org
 56662287153440100200300400500600sonstigekiz-tv.devideo.googlewww.alphabundwww.chancen-erarbeiten.dewww.facebook.co
+566c0c1d-e8f4-4587-bd42-a7e9c181616a-netseer-ipaddr-assoc.xz.fbcdn.net
 5.6.7.8.9.10.11.12.13.14.15.16.17.18.19.20.21.22.23.24.25.26.27.28.29.30.31.32.i.org
 567e4ab0-3ca5-4507-a572-1f64c306363b-netseer-ipaddr-assoc.xz.fbcdn.net
 56890383535182208573678454610900416387096568889079.oculusvr.com
@@ -4183,6 +4248,7 @@
 574.prod.oculus.com
 574.svcscm.rampart018.rampart.oculus.com
 5751f08c36d053b619deb344f58174fd.safeframe.internet.org
+57-5483229facebookwww.facebook.co
 575-7842www.facebook.co
 5-7-5.freebasics.com
 5763210187636736-fe2.internet.org
@@ -4190,6 +4256,7 @@
 5776b66d-e29f-4b71-b964-0328649cb74d-netseer-ipaddr-assoc.xz.fbcdn.net
 577a79ed5920d5000fe448ce.snr.whatsapp.net
 5-7842www.facebook.co
+57c99401-5954-4ffc-88cd-5e9dcae5c76c-netseer-ipaddr-assoc.xz.fbcdn.net
 57ce9c45-87be-4854-ac87-29f764c20de7-netseer-ipaddr-assoc.xz.fbcdn.net
 57fgraph.accountkit.com
 57fwww.accountkit.com
@@ -4231,12 +4298,14 @@
 59864c0b-c796-4782-8067-efff789ccea3-netseer-ipaddr-assoc.xz.fbcdn.net
 598d20ff-ad9b-4c87-846d-d9f6576f4e46-netseer-ipaddr-assoc.xz.fbcdn.net
 59fwww.accountkit.com
+5a06ad9f-289d-44bd-9a4e-de47a2313c8f-netseer-ipaddr-assoc.xz.fbcdn.net
 5a5bbd42-1288-41a9-902c-cdcafb8e381b-netseer-ipaddr-assoc.xz.fbcdn.net
 5a81c37a-e082-4021-9b3e-9ceff6ab782e-netseer-ipaddr-assoc.xz.fbcdn.net
 5a9325ae-ae24-4fcf-8eb0-2b8584530b4c-netseer-ipaddr-assoc.xz.fbcdn.net
 5a.internet.org
 5b0ea66ad9b7d0ee84acb353bc37cbb4.safeframe.freebasics.com
 5b5d23a302dfb8267b70cc056953b21c.safeframe.freebasics.com
+5b6f961c-a357-44b9-b5a3-913bd332eb8a-netseer-ipaddr-assoc.xz.fbcdn.net
 5ba29-1-75-239-159-50.loncov3.facebookbrand-preprod.fb.com
 5ba29-1-78-239-159-47affordablevaccines.facebookbrand-preprod.fb.com
 5ba29-1-78-239-159-47.pt-br.facebookbrand-release.fb.com
@@ -4252,8 +4321,10 @@
 5c003396-87bc-4e8e-8aa8-62167ed9572f-netseer-ipaddr-assoc.xz.fbcdn.net
 5c5cf24804049bcafa76b98fdae9ea3e.safeframe.internet.org
 5c5v.accountkit.com
+5c74a14b-d211-4617-a1b5-1702fadf350c-netseer-ipaddr-assoc.xz.fbcdn.net
 5c74c543-540f-41b5-b622-c7d0eb87506d.static.pub.internet.org
 5c956362376ae4d603e5f3419f1f0d7b.safeframe.freebasics.com
+5cc2a8c2-0022-4d8f-99d4-01eebb15db97-netseer-ipaddr-assoc.xz.fbcdn.net
 5.chwww.facebook.co
 5d076iho.dns.facebook.com
 5d934c08-f1cc-4880-8486-69acf1187391-netseer-ipaddr-assoc.xz.fbcdn.net
@@ -4283,6 +4354,7 @@
 5f6f200c-e8dd-4e5a-84ce-e5634617dd52-netseer-ipaddr-assoc.xz.fbcdn.net
 5f8.freebasics.com
 5.facebook.pl
+5fb3e2bb-b52a-44df-8f31-3f949095b2c9-netseer-ipaddr-assoc.xz.fbcdn.net
 5fblive.oculusvr.com
 5feb0d74-63d8-4b2d-a2df-86a7658542ca-netseer-ipaddr-assoc.xz.fbcdn.net
 5ff53f95-96a5-4b74-8ef4-85597d6876e0-netseer-ipaddr-assoc.xz.fbcdn.net
@@ -4377,7 +4449,9 @@
 5v5r.4fgraph3.accountkit.com
 5.workplace.com
 5www.facebook.at
+5www.facebook.com.br
 5www.facebook.de
+5www.hotelcervetta5.comwww.facebook.co
 5www.messenger.com
 5www.sosscisurvey.de55im.facebook.de
 5yhg.accountkit.com
@@ -4409,6 +4483,7 @@
 6130ad23-cb40-4d23-9712-e14a71726d9b-netseer-ipaddr-assoc.xz.fbcdn.net
 613-619.i.org
 613aebce-302d-49da-a89b-8d781ffad8b7-netseer-ipaddr-assoc.xz.fbcdn.net
+6.15.15.25.35.423knuddelmonster.chknuddelmonsterwww.facebook.co
 6.16.15.15.25.35.423knuddelmonster.chknuddelmonsterwww.facebook.co
 617420c0-4906-49fa-ae0a-a52f99ec8259-netseer-ipaddr-assoc.xz.fbcdn.net
 617812ab-abe5-4cd5-aa79-2b3b0d1c784c-netseer-ipaddr-assoc.xz.fbcdn.net
@@ -4426,6 +4501,7 @@
 6206.facebook.nl
 6-2.0.freebasics.com
 62.0.freebasics.com
+6.216.26.16.15.15.25.35.423knuddelmonster.chknuddelmonsterwww.facebook.co
 621f4665-4f6f-47e2-af9e-353a4412e925-netseer-ipaddr-assoc.xz.fbcdn.net
 6-2-1.freebasics.com
 62-1.freebasics.com
@@ -4785,6 +4861,7 @@
 66-220-157-98.mail-mail.facebook.com
 66-220-157-99.mail-mail.facebook.com
 66273c3d-1fc8-44b4-b55e-63686ada2494-netseer-ipaddr-assoc.xz.fbcdn.net
+662b9363-e8ee-40ed-8c01-88eee6fbf7a8-netseer-ipaddr-assoc.xz.fbcdn.net
 6-62.freebasics.com
 66-3.freebasics.com
 6-6-4.freebasics.com
@@ -5076,8 +5153,11 @@
 69b372d5-b783-48ed-a2c2-20f9821d4da7-netseer-ipaddr-assoc.xz.fbcdn.net
 69bc6695-47e1-45ca-95af-752f08f3b03f-netseer-ipaddr-assoc.xz.fbcdn.net
 69cc0d39-4fd5-4b15-8db0-15969c4e10d9-netseer-ipaddr-assoc.xz.fbcdn.net
+69f00321-1440-4252-96cd-7c19d20fe2c9-netseer-ipaddr-assoc.xz.fbcdn.net
 69peropero.blog.freebasics.com
 69ti.accountkit.com
+6a17292d-4b4c-44b5-9cc5-444082ebcdc0-netseer-ipaddr-assoc.xz.fbcdn.net
+6a2719ed-26fc-4926-89a5-4a7029532855-netseer-ipaddr-assoc.xz.fbcdn.net
 6a56af41-020e-4ead-867b-e22770c80319-netseer-ipaddr-assoc.xz.fbcdn.net
 6a790a98-aae4-4cb7-9e02-54deb9c3b4bc-netseer-ipaddr-assoc.xz.fbcdn.net
 6.accountkit.com
@@ -5096,6 +5176,7 @@
 6c16b5d6-1d39-4fea-b840-375f65104718-netseer-ipaddr-assoc.xz.fbcdn.net
 6c229de7-169b-4c38-9fb6-313fd5e1acd2-netseer-ipaddr-assoc.xz.fbcdn.net
 6c35abde-607d-4619-8069-a9ee3b438354-netseer-ipaddr-assoc.xz.fbcdn.net
+6c49537a-5d4b-4eb1-8887-667e19e5bcdb-netseer-ipaddr-assoc.xz.fbcdn.net
 6cb82c15c43707d4d53256fab58aa2ab.safeframe.internet.org
 6cebb1ba-bb7c-4068-a345-93fec3399ecf-netseer-ipaddr-assoc.xz.fbcdn.net
 6-courier2.facebook.dk
@@ -5188,6 +5269,7 @@
 70.0.freebasics.com
 700m.facebook.co
 70-143.accountkit.com
+701493b6-89d6-4601-882d-f1e067dd0c61-netseer-ipaddr-assoc.xz.fbcdn.net
 701e0f72-0199-4d25-b540-9bee7214a71a-netseer-ipaddr-assoc.xz.fbcdn.net
 701xnxqmhdh9.internet.org
 7028dbf6-c339-4afa-85d9-659e060d74b4-netseer-ipaddr-assoc.xz.fbcdn.net
@@ -5223,6 +5305,7 @@
 7-2013www.facebook.co
 7-2.0.freebasics.com
 72.0.freebasics.com
+72196cfa-5c9f-4a65-8ffd-878263bd38ae-netseer-ipaddr-assoc.xz.fbcdn.net
 721.freebasics.com
 7239.facebook.nl
 72-4.freebasics.com
@@ -5381,6 +5464,8 @@
 77-167-186-149admin177-167-187-149payment-analytics-incoming.facebook.com.au
 77-167-186-149boardstage2hwcdnradius-contacts-meta.facebook.com.au
 7.7.2016www.facebook.de
+7721e1f8-ab4f-4eb1-8163-f8c3eba68432-netseer-ipaddr-assoc.xz.fbcdn.net
+7722756662287153440100200300400500600sonstigekiz-tv.devideo.googlewww.alphabundwww.chancen-erarbeiten.dewww.facebook.co
 775-784.i.org
 7759www.redeoba.com.brwww.facebook.com.br
 775cb378-503b-4202-94c6-3d38fef191d1-netseer-ipaddr-assoc.xz.fbcdn.net
@@ -5397,6 +5482,7 @@
 78-164-186-149admin178-164-187-149payment-analyticstestbed.facebook.com.au
 78-164-186-152admin178-164-187-152payment-analyticsorigin-unix.facebook.com.au
 783790065www.agroturystykawarzecha.plwww.facebook.co
+7842www.facebook.co
 78498.internalfb.com
 784.i.org
 78502.internalfb.com
@@ -5406,6 +5492,7 @@
 7871www.facebook.de
 787c5d84-f457-4a67-87ec-da49caf8fa50-netseer-ipaddr-assoc.xz.fbcdn.net
 787de9ad15da4d3b35f07da7cd6c2f84.safeframe.internet.org
+788c5604-e683-4e58-8a5b-d7dee60b5858-netseer-ipaddr-assoc.xz.fbcdn.net
 7.8.9.10.11.12.13.14.15.16.17.18.19.20.21.22.23.24.25.26.27.28.29.30.31.32.i.org
 78b48275-8f83-4c90-9db1-9ca86f59c4cc-netseer-ipaddr-assoc.xz.fbcdn.net
 78bb5f12-cbd8-4296-8ef3-08dd7f5b5ca0-netseer-ipaddr-assoc.xz.fbcdn.net
@@ -5427,12 +5514,14 @@
 7a121e96-9364-42cb-9c6d-e1f7463b41b1-netseer-ipaddr-assoc.xz.fbcdn.net
 7a2378fc5c12e5ef.facebook.org
 7a4f6c0e935362e4118686b492dfc21c.safeframe.internet.org
+7a57.jpgwww.facebook.co
 7a6bfb67-isllight.facebook.com.br
 7a98bc1f-32a7-4160-9637-3a95eed89ad0-netseer-ipaddr-assoc.xz.fbcdn.net
 7aarj80w.dns.facebook.com
 7abe2205-74d2-4d44-9455-a8830ee27a76-netseer-ipaddr-assoc.xz.fbcdn.net
 7-accountswebproxy1.internet.org
 7ae9a9d4-0c5f-428f-881c-6dfc081e1538-netseer-ipaddr-assoc.xz.fbcdn.net
+7b0433e3-0c67-4ab0-91a0-e909a4938fd9-netseer-ipaddr-assoc.xz.fbcdn.net
 7b07d65b-a5a2-47a4-9806-cc4b329d6ef1-netseer-ipaddr-assoc.xz.fbcdn.net
 7b58b8ba-423f-41d0-9cd4-1716b25ffaf3-netseer-ipaddr-assoc.xz.fbcdn.net
 7b71d7af-ae2f-48a4-894d-5d998b4ef517-netseer-ipaddr-assoc.xz.fbcdn.net
@@ -5464,6 +5553,7 @@
 7e44a7b6-40ff-41bc-89b3-647a9a625192-netseer-ipaddr-assoc.xz.fbcdn.net
 7e663ccd-61a0-4695-882d-5ea89923b8a7-netseer-ipaddr-assoc.xz.fbcdn.net
 7eb81988-bdb7-48fb-bdac-3fd058b79b7c-netseer-ipaddr-assoc.xz.fbcdn.net
+7ecd6530-0c00-467a-851c-624ce21cfc0e-netseer-ipaddr-assoc.xz.fbcdn.net
 7-edge-chat.messenger.com
 7efb9fff-76f7-445b-8f4c-dc03dd063020-netseer-ipaddr-assoc.xz.fbcdn.net
 7eleven.facebook.com
@@ -5585,6 +5675,7 @@
 805474480.fbsbx.com
 8060.facebook.nl
 8064e0cd-2699-43db-a489-f791e7bd4961-netseer-ipaddr-assoc.xz.fbcdn.net
+80a31822-d933-4a8c-8867-8110cb843cdd-netseer-ipaddr-assoc.xz.fbcdn.net
 80fc1b9afb8242bc290ad25cba8a0510.safeframe.freebasics.com
 8-0.freebasics.com
 8.0.freebasics.com
@@ -5611,6 +5702,7 @@
 81c1f.accountkit.com
 81c3c292-eac8-4215-8df5-a7fb444af738-netseer-ipaddr-assoc.xz.fbcdn.net
 81cdf055-544e-43f7-9e3a-672bac99c92f-netseer-ipaddr-assoc.xz.fbcdn.net
+81d7f750-ad90-4afe-ade6-67e74c4ec64d-netseer-ipaddr-assoc.xz.fbcdn.net
 81f0b3a15388259d9eec3e8825b05b36.safeframe.internet.org
 8-1.freebasics.com
 81.freebasics.com
@@ -5637,6 +5729,7 @@
 82dd57cc-3a97-4bec-bedd-59905d856bc2-netseer-ipaddr-assoc.xz.fbcdn.net
 82e1951e-27bf-44a6-9339-6876664cefaf-netseer-ipaddr-assoc.xz.fbcdn.net
 82f0.freebasics.com
+82f82cc5-c66b-4a67-9dd8-93141d12c7f5-netseer-ipaddr-assoc.xz.fbcdn.net
 82ff3.accountkit.com
 82.freebasics.com
 82ip.workplace.com
@@ -5648,6 +5741,7 @@
 837d1159-84d1-4e9f-9192-ddce52221857-netseer-ipaddr-assoc.xz.fbcdn.net
 8385b.accountkit.com
 83ab3fee-e994-4bfa-b51f-e5944dfa72cd-netseer-ipaddr-assoc.xz.fbcdn.net
+83e9aa7d-08dd-4ddc-8a76-61d9c3bd7248-netseer-ipaddr-assoc.xz.fbcdn.net
 83fc7e55-9399-4171-b2fc-d65c3f8500c6-netseer-ipaddr-assoc.xz.fbcdn.net
 8-3.freebasics.com
 83.freebasics.com
@@ -5659,6 +5753,7 @@
 84323672-6ccf-4c03-8776-4e30bc1f6882-netseer-ipaddr-assoc.xz.fbcdn.net
 844decbe-a7d2-4765-9241-3e143794e8b5-netseer-ipaddr-assoc.xz.fbcdn.net
 84585fac-e65e-48b7-a4e6-72fe20dd08b6-netseer-ipaddr-assoc.xz.fbcdn.net
+84851761-eaa0-40e6-abde-498603190fad-netseer-ipaddr-assoc.xz.fbcdn.net
 8495.facebook.nl
 849-874.i.org
 849-naz-416.facebook.com.ve
@@ -5759,6 +5854,7 @@
 8846da4b-4b22-4186-8cb4-f8675e13b4be-netseer-ipaddr-assoc.xz.fbcdn.net
 885688.accountkit.com
 885dfd16a13e63f3fffc157a5b2e5a22.safeframe.freebasics.com
+8879.9506www.facebook.com.br
 889701a0f67a5462c2e8ae263e191b84.safeframe.freebasics.com
 88c42045-eba6-412b-b4ff-7e1aea13450d-netseer-ipaddr-assoc.xz.fbcdn.net
 88.comhearing.com.hkfocus.uho.com.twear.com.twelderlysd.comdrhearing.comhkhearingspeech.comepaper.ntuh.govphonak.com.hkodcb.org.hkhearingaids.com.hkweb2.ctsh.hcc.edu.tw.stu98erdo.ccdharmazen.orgpubu.com.twzh.wikipedia.org.wiki.facebook.co
@@ -5828,6 +5924,7 @@
 8e9e3884-a48d-4c8b-b569-c5f82007e41c-netseer-ipaddr-assoc.xz.fbcdn.net
 8e.accountkit.com
 8ec7de99-c075-4580-83f0-a58a32bcb0ba-netseer-ipaddr-assoc.xz.fbcdn.net
+8ed60a77-c2a0-48f5-8394-10fdf28d1f24-netseer-ipaddr-assoc.xz.fbcdn.net
 8-edge-chat.messenger.com
 8ee5df2d-7e64-41a9-bf65-e0a8be23e2aa-netseer-ipaddr-assoc.xz.fbcdn.net
 8engdp5a.dns.facebook.com
@@ -5928,6 +6025,7 @@
 9093b3d0-a33f-4b8a-a317-5ab5ce72d7bd-netseer-ipaddr-assoc.xz.fbcdn.net
 90c95b44-7846-4ba2-9fa4-177ca833024e-netseer-ipaddr-assoc.xz.fbcdn.net
 90d61e3c-375d-4129-9bba-37da8bed6fe8-netseer-ipaddr-assoc.xz.fbcdn.net
+90eefae7-22a3-43b8-a5df-bb704f67d889-netseer-ipaddr-assoc.xz.fbcdn.net
 9.0.freebasics.com
 90.freebasics.com
 90www.vistapoint.dewww.facebook.de
@@ -5957,9 +6055,11 @@
 9-2.0.freebasics.com
 92.0.freebasics.com
 922a0592-5639-476e-9263-847bd2f218e1-netseer-ipaddr-assoc.xz.fbcdn.net
+922a3ec6-0dd8-40c2-856b-901a74081e2a-netseer-ipaddr-assoc.xz.fbcdn.net
 9-22.internet.org
 924584a5-2186-4449-a5f2-ed99be2ea327-netseer-ipaddr-assoc.xz.fbcdn.net
 9259.facebook.nl
+925aa8a5-a523-4d15-8e73-da401362a1c1-netseer-ipaddr-assoc.xz.fbcdn.net
 925f1f1b-4d49-457c-be57-8fbcf77a3041-netseer-ipaddr-assoc.xz.fbcdn.net
 92856a9d-c48d-4ca8-9971-a779808b0604-netseer-ipaddr-assoc.xz.fbcdn.net
 9286609c-a252-408d-9370-c817e976ec5e-netseer-ipaddr-assoc.xz.fbcdn.net
@@ -5968,6 +6068,7 @@
 92977321-8963-4858-89c8-d4d8d50241e9-netseer-ipaddr-assoc.xz.fbcdn.net
 92977.lm.facebook.com671568.l.facebook.co
 9-2-9.freebasics.com
+92a62c02-edcb-4f3b-ad8b-516502fd5654-netseer-ipaddr-assoc.xz.fbcdn.net
 92bb535aab10a461eb47ab363e778347.safeframe.internet.org
 92c285bb-2b57-4a5c-9594-2500653108fa-netseer-ipaddr-assoc.xz.fbcdn.net
 92cf87da-efb9-4bb1-bfe1-8ad98de1ac02-netseer-ipaddr-assoc.xz.fbcdn.net
@@ -5988,6 +6089,7 @@
 9363c1a5-065c-4b8f-a626-ab2acf9c31df-netseer-ipaddr-assoc.xz.fbcdn.net
 936d860c-a40e-440d-b0e1-b5890f2520ea-netseer-ipaddr-assoc.xz.fbcdn.net
 937-945.i.org
+93b41229-8e06-48a0-af80-1b050a442862-netseer-ipaddr-assoc.xz.fbcdn.net
 93.freebasics.com
 93gu5iwv.dns.facebook.com
 93www.facebook.at
@@ -6052,6 +6154,7 @@
 96.0.freebasics.com
 96170752-cfec-4ec7-b017-ef3cbdba16b3-netseer-ipaddr-assoc.xz.fbcdn.net
 9620f787-2055-451d-9ccc-458dbb7171cd.fb.me
+9629d301-6684-4b38-805a-2301b780895d-netseer-ipaddr-assoc.xz.fbcdn.net
 962fe300-5031-4feb-abf6-fad419ff59c6-netseer-ipaddr-assoc.xz.fbcdn.net
 964008f2-7b94-4cb5-975f-0f909dd6240b-netseer-ipaddr-assoc.xz.fbcdn.net
 9-6-4.freebasics.com
@@ -6111,6 +6214,7 @@
 99app.internalfb.com
 99ba5baf-2cc0-45b4-8f8a-8d1f0ba0eca7-netseer-ipaddr-assoc.xz.fbcdn.net
 99d95d74-fd1b-41db-a923-55993beeebe6-netseer-ipaddr-assoc.xz.fbcdn.net
+99e125a0-510b-4663-903e-ae1bcb0267f1-netseer-ipaddr-assoc.xz.fbcdn.net
 99f93d18-7686-40b2-bb17-9f86d15db878-netseer-ipaddr-assoc.xz.fbcdn.net
 99.freebasics.com
 99.internet.org
@@ -6127,6 +6231,7 @@
 9b21f557-3272-42ad-9b21-a40322b42804-netseer-ipaddr-assoc.xz.fbcdn.net
 9b2n.accountkit.com
 9b441852-87f4-4137-83ef-362c05635732-netseer-ipaddr-assoc.xz.fbcdn.net
+9b4c8da8-df6c-4617-91fa-c481b4302f45-netseer-ipaddr-assoc.xz.fbcdn.net
 9b54717d-3971-49b9-83e6-692b9bd418b1-netseer-ipaddr-assoc.xz.fbcdn.net
 9b5f3cf2-2e1c-4470-b151-4c93f7425729-netseer-ipaddr-assoc.xz.fbcdn.net
 9b75az5h.dns.facebook.com
@@ -6153,6 +6258,7 @@
 9da3b22c-6fd6-4ef2-812c-6a092bc9fcda-netseer-ipaddr-assoc.xz.fbcdn.net
 9d.accountkit.com
 9dbc7bca-cdab-47b0-b1f6-61e790eeeb41-netseer-ipaddr-assoc.xz.fbcdn.net
+9dcc6c44-ebe4-4cd6-bedb-f55d15960a62-netseer-ipaddr-assoc.xz.fbcdn.net
 9ddbfd24-ab35-49e3-b0ce-75bfce66e2aa.internet.org
 9dm2.accountkit.com
 9dmginkf1ftx.n.freebasics.com
@@ -6243,7 +6349,9 @@ a0934eec-4b54-4c79-9ed1-dd1259fbf29a-netseer-ipaddr-assoc.xz.fbcdn.net
 a0970536862.fb.me
 a0987827757.workplace.com
 a0b9a743-ff9b-40ec-9490-543947d54793-netseer-ipaddr-assoc.xz.fbcdn.net
+a0baaa0b-b7f9-4a26-8d32-4d1091c7c28a-netseer-ipaddr-assoc.xz.fbcdn.net
 a0badc92-f3f9-4934-864d-33e4fceca6c9-netseer-ipaddr-assoc.xz.fbcdn.net
+a0cb09cd-843d-4cf6-84c4-298feea5db09-netseer-ipaddr-assoc.xz.fbcdn.net
 a0d33271-82d5-47f0-a696-c3d1cdb9d142-netseer-ipaddr-assoc.xz.fbcdn.net
 a-1-0068tnt0068-033163-edge.intern.instagram.com
 -a-1022174.intern.instagram.com
@@ -6301,6 +6409,7 @@ a218p.messenger.com
 a21.facebook.com
 a22049515.fbsbx.com
 a220e2965e84220b457fd87a1ec7c40f.safeframe.internet.org
+a22d0c64-a152-47a7-badd-b252d3905333-netseer-ipaddr-assoc.xz.fbcdn.net
 a23-10-120-60.internalfb.com
 a23-14-177-86.internalfb.com
 a23-194-160-22.internalfb.com
@@ -6391,6 +6500,7 @@ a82f45a9-fe30-45f9-8353-1d428d607ee6-netseer-ipaddr-assoc.xz.fbcdn.net
 a841695758.beta.oculus.com
 a8426a60-5bb6-4023-ac61-7991937c7d5c-netseer-ipaddr-assoc.xz.fbcdn.net
 a8636f40-e193-4fe1-bd15-2269afeece26-netseer-ipaddr-assoc.xz.fbcdn.net
+a8733bb1-6428-4e99-bfe6-8b9f74352a88-netseer-ipaddr-assoc.xz.fbcdn.net
 a8c82e74bdcb853298c3115cf589e74f-200.fb.me
 a8w2xvonzue94lph1biykqg7r3tdfs6m5cj0.fb.me
 a907581.internet.org
@@ -6769,6 +6879,7 @@ ac66fd61-9f97-436e-8191-26171e053ea5-netseer-ipaddr-assoc.xz.fbcdn.net
 ac741b0a-1e73-4a6a-9f81-2e9b1459e725-netseer-ipaddr-assoc.xz.fbcdn.net
 ac801af6-2ec1-4be6-9f72-365d163d3c77-netseer-ipaddr-assoc.xz.fbcdn.net
 ac949eee-8063-4779-bfc4-0ce782545a40-netseer-ipaddr-assoc.xz.fbcdn.net
+ac9bb00e-e5c3-4df8-8457-da8105478732-netseer-ipaddr-assoc.xz.fbcdn.net
 acaa.i.org
 acabaretenoticiascabaretenoticiass.facebook.de
 acaba-tudo-bem.freebasics.com
@@ -7041,6 +7152,7 @@ accredo.accountkit.com
 acctv.facebook.com
 accubits.workplace.com
 accuweather.com.0.freebasics.com
+acd3c516-d900-410a-8e41-185825c17d56-netseer-ipaddr-assoc.xz.fbcdn.net
 acdampicourt.facebook.be
 acebook.comla-comte.frbethunebruay.frlm.facebook.co
 acebookwww.facebook.co
@@ -7079,6 +7191,7 @@ aciworldwide.internet.org
 aciworldwide.m.workplace.com
 aciworldwide.workplace.com
 acjobs.freebasics.com
+ackpigborderchatwww.facebook.co
 aclassofone.freebasics.com
 acltnk.prod.oculus.com
 acme-group.m.me
@@ -7165,6 +7278,7 @@ acut.i.org
 acv-antwerpen.freebasics.com
 acxiomllc676.workplace.com
 ad02.internet.org
+ad181387-43a4-4fcf-b183-4508a6daa757-netseer-ipaddr-assoc.xz.fbcdn.net
 ad2cwe-ch2-l3i.fb.me
 ad3.0.accountkit.com
 ad34f87b7722189b8a8b16bde03d516b.safeframe.internet.org
@@ -7183,6 +7297,7 @@ adaptareincluir.workplace.com
 adapter-mongodb.internet.org
 adapters.facebook.cl
 ada.workplace.com
+adbea941-fa9d-49e4-adc1-04cb878ef517-netseer-ipaddr-assoc.xz.fbcdn.net
 adblock-plus-for-android.fb.me
 adcbijoux.facebook.fr
 adccebcf-3dc8-467d-a8db-efc6e53ebb4d-netseer-ipaddr-assoc.xz.fbcdn.net
@@ -7587,6 +7702,7 @@ adsl.freebasics.com
 ads-manager.api.metastatus.com
 adsmanager.facebook.co
 adsmanager.facebook.com
+adsmanager-graph.facebook.co
 adsmanager-graph.facebook.com
 adsmanager.secure.facebook.com
 ads.messenger.com
@@ -7712,12 +7828,10 @@ ae0.ar01.fmb1.tfbnw.net
 ae0.ar01.hbe1.tfbnw.net
 ae0.ar01.iad3.tfbnw.net
 ae0.ar01.iev1.tfbnw.net
-ae0.ar01.itm1.tfbnw.net
 ae0.ar01.mct1.tfbnw.net
 ae0.ar02.atl1.tfbnw.net
 ae0.ar02.doh1.tfbnw.net
 ae0.ar02.fmz1.tfbnw.net
-ae0.ar02.gru2.tfbnw.net
 ae0.ar02.hbe1.tfbnw.net
 ae0.ar02.iad3.tfbnw.net
 ae0.ar02.iev1.tfbnw.net
@@ -7727,10 +7841,8 @@ ae0.ar02.nrt1.tfbnw.net
 ae0.ar03.atl1.tfbnw.net
 ae0.ar03.iad3.tfbnw.net
 ae0.ar03.ist1.tfbnw.net
-ae0.ar03.lim1.tfbnw.net
 ae0.ar04.atl1.tfbnw.net
 ae0.ar04.iad3.tfbnw.net
-ae0.ar04.lim1.tfbnw.net
 ae0.bb01.bom1.tfbnw.net
 ae0.bb01.gig1.tfbnw.net
 ae0.bb01.gig3.tfbnw.net
@@ -7780,7 +7892,6 @@ ae0.pr01.bkk1.tfbnw.net
 ae0.pr01.bog1.tfbnw.net
 ae0.pr01.bom1.tfbnw.net
 ae0.pr01.bos3.tfbnw.net
-ae0.pr01.bsb1.tfbnw.net
 ae0.pr01.ccu1.tfbnw.net
 ae0.pr01.cgk1.tfbnw.net
 ae0.pr01.cgk2.tfbnw.net
@@ -7792,6 +7903,7 @@ ae0.pr01.doh1.tfbnw.net
 ae0.pr01.dus1.tfbnw.net
 ae0.pr01.eze1.tfbnw.net
 ae0.pr01.fra2.tfbnw.net
+ae0.pr01.gig4.tfbnw.net
 ae0.pr01.gru2.tfbnw.net
 ae0.pr01.hbe1.tfbnw.net
 ae0.pr01.hel3.tfbnw.net
@@ -7813,6 +7925,8 @@ ae0.pr01.mnl1.tfbnw.net
 ae0.pr01.mnl2.tfbnw.net
 ae0.pr01.mrs1.tfbnw.net
 ae0.pr01.nrt5.tfbnw.net
+ae0.pr01.otp1.tfbnw.net
+ae0.pr01.qro1.tfbnw.net
 ae0.pr01.scl1.tfbnw.net
 ae0.pr01.sin11.tfbnw.net
 ae0.pr01.sin1.tfbnw.net
@@ -7825,6 +7939,7 @@ ae0.pr02.ams2.tfbnw.net
 ae0.pr02.ams3.tfbnw.net
 ae0.pr02.arn1.tfbnw.net
 ae0.pr02.bkk1.tfbnw.net
+ae0.pr02.bog1.tfbnw.net
 ae0.pr02.bom1.tfbnw.net
 ae0.pr02.bom2.tfbnw.net
 ae0.pr02.bos3.tfbnw.net
@@ -7869,6 +7984,7 @@ ae0.pr02.mct1.tfbnw.net
 ae0.pr02.mnl2.tfbnw.net
 ae0.pr02.mrs1.tfbnw.net
 ae0.pr02.mxp2.tfbnw.net
+ae0.pr02.otp1.tfbnw.net
 ae0.pr02.pnq1.tfbnw.net
 ae0.pr02.scl1.tfbnw.net
 ae0.pr02.sin1.tfbnw.net
@@ -7903,7 +8019,9 @@ ae0.pr03.lim1.tfbnw.net
 ae0.pr03.los1.tfbnw.net
 ae0.pr03.mad1.tfbnw.net
 ae0.pr03.mct1.tfbnw.net
+ae0.pr03.mxp1.tfbnw.net
 ae0.pr03.ord3.tfbnw.net
+ae0.pr03.otp1.tfbnw.net
 ae0.pr03.sjc1.tfbnw.net
 ae0.pr03.sof1.tfbnw.net
 ae0.pr03.waw1.tfbnw.net
@@ -7921,6 +8039,7 @@ ae0.pr04.cpt1.tfbnw.net
 ae0.pr04.del1.tfbnw.net
 ae0.pr04.del2.tfbnw.net
 ae0.pr04.den4.tfbnw.net
+ae0.pr04.dfw1.tfbnw.net
 ae0.pr04.eze1.tfbnw.net
 ae0.pr04.fra2.tfbnw.net
 ae0.pr04.gru2.tfbnw.net
@@ -7936,6 +8055,8 @@ ae0.pr04.mad1.tfbnw.net
 ae0.pr04.mct1.tfbnw.net
 ae0.pr04.nrt5.tfbnw.net
 ae0.pr04.ord3.tfbnw.net
+ae0.pr04.otp1.tfbnw.net
+ae0.pr04.qro1.tfbnw.net
 ae0.pr04.scl1.tfbnw.net
 ae0.pr04.sea1.tfbnw.net
 ae0.pr04.sjc1.tfbnw.net
@@ -7945,14 +8066,13 @@ ae0.pr04.yyz1.tfbnw.net
 ae0.pr05.atl1.tfbnw.net
 ae0.pr05.dfw1.tfbnw.net
 ae0.pr05.for1.tfbnw.net
-ae0.pr05.lga1.tfbnw.net
+ae0.pr05.iad3.tfbnw.net
 ae0.pr05.mia1.tfbnw.net
 ae0.pr05.sea1.tfbnw.net
 ae0.pr05.waw1.tfbnw.net
 ae0.pr06.atl1.tfbnw.net
 ae0.pr06.cdg5.tfbnw.net
 ae0.pr06.for1.tfbnw.net
-ae0.pr06.lga1.tfbnw.net
 ae0.pr06.mia1.tfbnw.net
 ae0.pr06.sea1.tfbnw.net
 ae0.pr06.waw1.tfbnw.net
@@ -7965,14 +8085,11 @@ ae1000.bb04.atg1.tfbnw.net
 ae1000.br01.bru2.tfbnw.net
 ae1000.br01.phx1.tfbnw.net
 ae1000.pr01.mxp1.tfbnw.net
-ae1001.ar01.akl1.tfbnw.net
-ae1001.ar01.eze1.tfbnw.net
 ae1001.ar01.hel3.tfbnw.net
 ae1001.ar01.kul2.tfbnw.net
 ae1001.ar01.kul3.tfbnw.net
 ae1001.ar01.poa1.tfbnw.net
 ae1001.ar01.sof1.tfbnw.net
-ae1001.ar02.akl1.tfbnw.net
 ae1001.ar02.mct1.tfbnw.net
 ae1001.ar02.poa1.tfbnw.net
 ae1001.ar02.sof1.tfbnw.net
@@ -8000,6 +8117,7 @@ ae1001.bb01.hnd2.tfbnw.net
 ae1001.bb01.iad3.tfbnw.net
 ae1001.bb01.jnb1.tfbnw.net
 ae1001.bb01.lax4.tfbnw.net
+ae1001.bb01.lhr8.tfbnw.net
 ae1001.bb01.maa2.tfbnw.net
 ae1001.bb01.mxp1.tfbnw.net
 ae1001.bb01.mxp3.tfbnw.net
@@ -8031,6 +8149,7 @@ ae1001.bb02.hnd1.tfbnw.net
 ae1001.bb02.hnd3.tfbnw.net
 ae1001.bb02.jnb1.tfbnw.net
 ae1001.bb02.lax4.tfbnw.net
+ae1001.bb02.lhr8.tfbnw.net
 ae1001.bb02.lhr9.tfbnw.net
 ae1001.bb02.mia1.tfbnw.net
 ae1001.bb02.mxp3.tfbnw.net
@@ -8052,8 +8171,10 @@ ae1001.bb03.den3.tfbnw.net
 ae1001.bb03.dfw1.tfbnw.net
 ae1001.bb03.ewr3.tfbnw.net
 ae1001.bb03.hkg7.tfbnw.net
+ae1001.bb03.hnd3.tfbnw.net
 ae1001.bb03.kul2.tfbnw.net
 ae1001.bb03.lax4.tfbnw.net
+ae1001.bb03.lhr8.tfbnw.net
 ae1001.bb03.lhr9.tfbnw.net
 ae1001.bb03.maa2.tfbnw.net
 ae1001.bb03.mia1.tfbnw.net
@@ -8078,6 +8199,7 @@ ae1001.bb04.den3.tfbnw.net
 ae1001.bb04.dfw1.tfbnw.net
 ae1001.bb04.ewr3.tfbnw.net
 ae1001.bb04.hkg7.tfbnw.net
+ae1001.bb04.hnd3.tfbnw.net
 ae1001.bb04.lax4.tfbnw.net
 ae1001.bb04.lhr9.tfbnw.net
 ae1001.bb04.mia1.tfbnw.net
@@ -8098,12 +8220,10 @@ ae1001.dr01.vcn1.tfbnw.net
 ae1001.dr02.kcm1.tfbnw.net
 ae1001.dr02.ldc1.tfbnw.net
 ae1001.dr02.maz1.tfbnw.net
-ae1001.dr02.mwg1.tfbnw.net
 ae1001.dr02.rcd1.tfbnw.net
 ae1001.dr02.snc8.tfbnw.net
 ae1001.dr02.vcn1.tfbnw.net
 ae1001.dr03.frc2.tfbnw.net
-ae1001.dr03.gtn2.tfbnw.net
 ae1001.dr03.rcd1.tfbnw.net
 ae1001.dr03.snb2.tfbnw.net
 ae1001.dr04.kcm2.tfbnw.net
@@ -8119,9 +8239,7 @@ ae1002.ar02.kul2.tfbnw.net
 ae1002.ar02.kul3.tfbnw.net
 ae1002.ar02.poa1.tfbnw.net
 ae1002.ar02.sof1.tfbnw.net
-ae1002.ar03.eze1.tfbnw.net
 ae1002.ar03.sof1.tfbnw.net
-ae1002.ar04.eze1.tfbnw.net
 ae1002.ar04.sof1.tfbnw.net
 ae1002.bb01.atl4.tfbnw.net
 ae1002.bb01.ber1.tfbnw.net
@@ -8142,7 +8260,6 @@ ae1002.bb01.lax4.tfbnw.net
 ae1002.bb01.lhr9.tfbnw.net
 ae1002.bb01.mxp3.tfbnw.net
 ae1002.bb01.pdx1.tfbnw.net
-ae1002.bb01.sea1.tfbnw.net
 ae1002.bb01.sgl1.tfbnw.net
 ae1002.bb01.ssz1.tfbnw.net
 ae1002.bb01.stl1.tfbnw.net
@@ -8166,7 +8283,6 @@ ae1002.bb02.jnb1.tfbnw.net
 ae1002.bb02.lax4.tfbnw.net
 ae1002.bb02.mxp3.tfbnw.net
 ae1002.bb02.pdx1.tfbnw.net
-ae1002.bb02.sea1.tfbnw.net
 ae1002.bb02.sgl1.tfbnw.net
 ae1002.bb02.sin11.tfbnw.net
 ae1002.bb02.sjc1.tfbnw.net
@@ -8216,9 +8332,7 @@ ae1002.dr01.rcd1.tfbnw.net
 ae1002.dr01.snb1.tfbnw.net
 ae1002.dr02.ldc1.tfbnw.net
 ae1002.dr02.maz1.tfbnw.net
-ae1002.dr02.mwg1.tfbnw.net
 ae1002.dr02.snb1.tfbnw.net
-ae1002.dr03.gtn2.tfbnw.net
 ae1002.dr03.ldc5.tfbnw.net
 ae1002.dr03.rcd1.tfbnw.net
 ae1002.dr04.ldc5.tfbnw.net
@@ -8227,10 +8341,8 @@ ae1002.dr04.snb2.tfbnw.net
 ae1003.ar01.bom2.tfbnw.net
 ae1003.ar01.hel3.tfbnw.net
 ae1003.ar01.sof1.tfbnw.net
-ae1003.ar02.eze1.tfbnw.net
 ae1003.ar02.hel3.tfbnw.net
 ae1003.ar02.sof1.tfbnw.net
-ae1003.ar03.eze1.tfbnw.net
 ae1003.ar03.poa1.tfbnw.net
 ae1003.ar04.poa1.tfbnw.net
 ae1003.bb01.atl4.tfbnw.net
@@ -8291,7 +8403,6 @@ ae1003.bb03.lhr9.tfbnw.net
 ae1003.bb03.mxp3.tfbnw.net
 ae1003.bb03.ord1.tfbnw.net
 ae1003.bb03.pdx1.tfbnw.net
-ae1003.bb03.sea1.tfbnw.net
 ae1003.bb03.ttn1.tfbnw.net
 ae1003.bb03.vie1.tfbnw.net
 ae1003.bb04.atl4.tfbnw.net
@@ -8315,31 +8426,23 @@ ae1003.dr01.maz1.tfbnw.net
 ae1003.dr01.rcd1.tfbnw.net
 ae1003.dr01.snb1.tfbnw.net
 ae1003.dr01.vcn1.tfbnw.net
-ae1003.dr02.gtn1.tfbnw.net
 ae1003.dr02.maz1.tfbnw.net
-ae1003.dr02.mwg1.tfbnw.net
 ae1003.dr02.rcd1.tfbnw.net
 ae1003.dr02.snb1.tfbnw.net
 ae1003.dr02.vcn1.tfbnw.net
-ae1003.dr03.gtn2.tfbnw.net
 ae1003.dr03.ldc5.tfbnw.net
 ae1003.dr03.rcd1.tfbnw.net
 ae1003.dr03.snb2.tfbnw.net
-ae1003.dr04.gtn2.tfbnw.net
 ae1003.dr04.ldc5.tfbnw.net
 ae1003.dr04.snb2.tfbnw.net
-ae1004.ar01.eze1.tfbnw.net
 ae1004.ar01.hel3.tfbnw.net
 ae1004.ar01.man2.tfbnw.net
 ae1004.ar01.mct1.tfbnw.net
 ae1004.ar01.sof1.tfbnw.net
-ae1004.ar02.eze1.tfbnw.net
 ae1004.ar02.hel3.tfbnw.net
 ae1004.ar02.mct1.tfbnw.net
 ae1004.ar02.sof1.tfbnw.net
-ae1004.ar03.eze1.tfbnw.net
 ae1004.ar03.sof1.tfbnw.net
-ae1004.ar04.eze1.tfbnw.net
 ae1004.ar04.sof1.tfbnw.net
 ae1004.bb01.atl4.tfbnw.net
 ae1004.bb01.ber1.tfbnw.net
@@ -8396,18 +8499,15 @@ ae1004.bb04.mxp3.tfbnw.net
 ae1004.bb04.sgl1.tfbnw.net
 ae1004.bb04.stl1.tfbnw.net
 ae1004.bb04.vie1.tfbnw.net
-ae1004.br01.bcn1.tfbnw.net
 ae1004.dr01.ldc1.tfbnw.net
 ae1004.dr02.ldc1.tfbnw.net
 ae1004.dr03.ldc5.tfbnw.net
 ae1004.dr04.ldc5.tfbnw.net
 ae1005.ar01.bom2.tfbnw.net
-ae1005.ar01.eze1.tfbnw.net
 ae1005.ar01.sof1.tfbnw.net
 ae1005.ar02.sof1.tfbnw.net
 ae1005.ar03.sof1.tfbnw.net
 ae1005.ar04.bom2.tfbnw.net
-ae1005.ar04.eze1.tfbnw.net
 ae1005.ar04.sof1.tfbnw.net
 ae1005.bb01.ber1.tfbnw.net
 ae1005.bb01.cdg1.tfbnw.net
@@ -8446,14 +8546,10 @@ ae1005.dr01.ldc1.tfbnw.net
 ae1005.dr02.ldc1.tfbnw.net
 ae1005.dr03.ldc5.tfbnw.net
 ae1005.dr04.ldc5.tfbnw.net
-ae1006.ar01.eze1.tfbnw.net
 ae1006.ar01.sof1.tfbnw.net
 ae1006.ar02.bom2.tfbnw.net
-ae1006.ar02.eze1.tfbnw.net
 ae1006.ar02.sof1.tfbnw.net
-ae1006.ar03.eze1.tfbnw.net
 ae1006.ar03.sof1.tfbnw.net
-ae1006.ar04.eze1.tfbnw.net
 ae1006.ar04.sof1.tfbnw.net
 ae1006.bb01.dca2.tfbnw.net
 ae1006.bb01.hnd3.tfbnw.net
@@ -8582,8 +8678,6 @@ ae101.ar01.cpt1.tfbnw.net
 ae101.ar01.del2.tfbnw.net
 ae101.ar01.doh1.tfbnw.net
 ae101.ar01.dus1.tfbnw.net
-ae101.ar01.eze1.tfbnw.net
-ae101.ar01.fco1.tfbnw.net
 ae101.ar01.fmb1.tfbnw.net
 ae101.ar01.fmz1.tfbnw.net
 ae101.ar01.gig4.tfbnw.net
@@ -8592,7 +8686,6 @@ ae101.ar01.hkg1.tfbnw.net
 ae101.ar01.hkg4.tfbnw.net
 ae101.ar01.hyd1.tfbnw.net
 ae101.ar01.iev1.tfbnw.net
-ae101.ar01.itm1.tfbnw.net
 ae101.ar01.jnb1.tfbnw.net
 ae101.ar01.kul2.tfbnw.net
 ae101.ar01.los1.tfbnw.net
@@ -8603,7 +8696,6 @@ ae101.ar01.mct1.tfbnw.net
 ae101.ar01.mrs2.tfbnw.net
 ae101.ar01.nrt1.tfbnw.net
 ae101.ar01.pnq1.tfbnw.net
-ae101.ar01.sin2.tfbnw.net
 ae101.ar01.sof1.tfbnw.net
 ae101.ar01.ssn1.tfbnw.net
 ae101.ar01.syd2.tfbnw.net
@@ -8617,8 +8709,6 @@ ae101.ar02.cpt1.tfbnw.net
 ae101.ar02.del2.tfbnw.net
 ae101.ar02.doh1.tfbnw.net
 ae101.ar02.dus1.tfbnw.net
-ae101.ar02.eze1.tfbnw.net
-ae101.ar02.fco1.tfbnw.net
 ae101.ar02.fmz1.tfbnw.net
 ae101.ar02.gig4.tfbnw.net
 ae101.ar02.hbe1.tfbnw.net
@@ -8627,7 +8717,6 @@ ae101.ar02.hkg1.tfbnw.net
 ae101.ar02.hkg4.tfbnw.net
 ae101.ar02.hyd1.tfbnw.net
 ae101.ar02.iev1.tfbnw.net
-ae101.ar02.itm1.tfbnw.net
 ae101.ar02.jnb1.tfbnw.net
 ae101.ar02.kul2.tfbnw.net
 ae101.ar02.los1.tfbnw.net
@@ -8637,21 +8726,17 @@ ae101.ar02.mct1.tfbnw.net
 ae101.ar02.mia1.tfbnw.net
 ae101.ar02.mrs2.tfbnw.net
 ae101.ar02.nrt1.tfbnw.net
-ae101.ar02.ord5.tfbnw.net
-ae101.ar03.eze1.tfbnw.net
 ae101.ar03.gig4.tfbnw.net
 ae101.ar03.nrt1.tfbnw.net
 ae101.ar03.pnq1.tfbnw.net
 ae101.ar03.sof1.tfbnw.net
 ae101.ar04.nrt1.tfbnw.net
-ae101.ar04.ord5.tfbnw.net
 ae101.ar04.xxr1.tfbnw.net
 ae101.bb01.del1.tfbnw.net
 ae101.bb01.lax1.tfbnw.net
 ae101.bb01.pnq1.tfbnw.net
 ae101.bb01.prn6.tfbnw.net
 ae101.bb01.scu1.tfbnw.net
-ae101.bb01.sin2.tfbnw.net
 ae101.bb02.del1.tfbnw.net
 ae101.bb02.lga1.tfbnw.net
 ae101.bb02.pnq1.tfbnw.net
@@ -8692,7 +8777,6 @@ ae1026.br02.lis1.tfbnw.net
 ae102.ar01.akl1.tfbnw.net
 ae102.ar01.cgk2.tfbnw.net
 ae102.ar01.del2.tfbnw.net
-ae102.ar01.fco1.tfbnw.net
 ae102.ar01.hel3.tfbnw.net
 ae102.ar01.hyd1.tfbnw.net
 ae102.ar01.iev1.tfbnw.net
@@ -8700,7 +8784,6 @@ ae102.ar01.los1.tfbnw.net
 ae102.ar01.man2.tfbnw.net
 ae102.ar01.mct1.tfbnw.net
 ae102.ar01.mrs2.tfbnw.net
-ae102.ar01.ord5.tfbnw.net
 ae102.ar01.sin11.tfbnw.net
 ae102.ar01.waw2.tfbnw.net
 ae102.ar01.xxd1.tfbnw.net
@@ -8710,31 +8793,24 @@ ae102.ar02.ccu1.tfbnw.net
 ae102.ar02.ccu2.tfbnw.net
 ae102.ar02.cgk2.tfbnw.net
 ae102.ar02.dus1.tfbnw.net
-ae102.ar02.eze1.tfbnw.net
 ae102.ar02.hkg4.tfbnw.net
-ae102.ar02.itm1.tfbnw.net
 ae102.ar02.kul2.tfbnw.net
-ae102.ar02.ord5.tfbnw.net
 ae102.ar02.sin11.tfbnw.net
 ae102.ar02.sof1.tfbnw.net
 ae102.ar02.yyz1.tfbnw.net
 ae102.ar03.mrs2.tfbnw.net
-ae102.ar03.ord5.tfbnw.net
 ae102.ar03.pnq1.tfbnw.net
 ae102.ar03.sof1.tfbnw.net
-ae102.ar04.eze1.tfbnw.net
 ae102.ar04.ist1.tfbnw.net
 ae102.ar04.pnq1.tfbnw.net
 ae102.bb01.atg1.tfbnw.net
 ae102.bb01.ccu1.tfbnw.net
 ae102.bb01.gru1.tfbnw.net
 ae102.bb01.pci1.tfbnw.net
-ae102.bb01.sin2.tfbnw.net
 ae102.bb01.stl1.tfbnw.net
 ae102.bb02.del1.tfbnw.net
 ae102.bb02.gru1.tfbnw.net
 ae102.bb02.lga1.tfbnw.net
-ae102.bb02.sin2.tfbnw.net
 ae102.bb02.stl1.tfbnw.net
 ae102.bb03.del2.tfbnw.net
 ae102.bb03.pnq1.tfbnw.net
@@ -8771,7 +8847,6 @@ ae103.ar01.atl1.tfbnw.net
 ae103.ar01.blr1.tfbnw.net
 ae103.ar01.bog2.tfbnw.net
 ae103.ar01.dus1.tfbnw.net
-ae103.ar01.eze1.tfbnw.net
 ae103.ar01.hbe1.tfbnw.net
 ae103.ar01.hyd1.tfbnw.net
 ae103.ar01.iev1.tfbnw.net
@@ -8781,7 +8856,6 @@ ae103.ar01.nrt1.tfbnw.net
 ae103.ar02.akl1.tfbnw.net
 ae103.ar02.atl1.tfbnw.net
 ae103.ar02.dus1.tfbnw.net
-ae103.ar02.fco1.tfbnw.net
 ae103.ar02.fra2.tfbnw.net
 ae103.ar02.hel3.tfbnw.net
 ae103.ar02.ist1.tfbnw.net
@@ -8791,10 +8865,8 @@ ae103.ar02.tpe1.tfbnw.net
 ae103.ar02.xxr1.tfbnw.net
 ae103.ar03.atl1.tfbnw.net
 ae103.ar03.ist1.tfbnw.net
-ae103.ar03.ord5.tfbnw.net
 ae103.ar04.bkk1.tfbnw.net
 ae103.ar04.mrs2.tfbnw.net
-ae103.ar04.ord5.tfbnw.net
 ae103.ar04.pnq1.tfbnw.net
 ae103.bb01.pnq1.tfbnw.net
 ae103.bb02.atg1.tfbnw.net
@@ -8817,16 +8889,13 @@ ae104.ar01.akl1.tfbnw.net
 ae104.ar01.bkk1.tfbnw.net
 ae104.ar01.blr1.tfbnw.net
 ae104.ar01.doh1.tfbnw.net
-ae104.ar01.eze1.tfbnw.net
 ae104.ar01.iad3.tfbnw.net
 ae104.ar01.ist1.tfbnw.net
 ae104.ar01.jnb1.tfbnw.net
 ae104.ar01.mct1.tfbnw.net
-ae104.ar01.ord5.tfbnw.net
 ae104.ar01.tpe1.tfbnw.net
 ae104.ar02.akl1.tfbnw.net
 ae104.ar02.bkk1.tfbnw.net
-ae104.ar02.eze1.tfbnw.net
 ae104.ar02.hbe1.tfbnw.net
 ae104.ar02.hel3.tfbnw.net
 ae104.ar02.iad3.tfbnw.net
@@ -8855,12 +8924,8 @@ ae108.ar03.lga1.tfbnw.net
 ae109.bb03.stl1.tfbnw.net
 ae109.bb04.stl1.tfbnw.net
 ae109.pr03.gru1.tfbnw.net
-ae10.ar01.eze1.tfbnw.net
 ae10.ar01.mct1.tfbnw.net
-ae10.ar02.eze1.tfbnw.net
 ae10.ar02.mct1.tfbnw.net
-ae10.ar03.eze1.tfbnw.net
-ae10.ar04.eze1.tfbnw.net
 ae10.bb01.atl1.tfbnw.net
 ae10.bb01.gig1.tfbnw.net
 ae10.bb01.gru2.tfbnw.net
@@ -8884,7 +8949,6 @@ ae10.pr01.cpt1.tfbnw.net
 ae10.pr01.del1.tfbnw.net
 ae10.pr01.fra4.tfbnw.net
 ae10.pr01.gru1.tfbnw.net
-ae10.pr01.gru2.tfbnw.net
 ae10.pr01.gua1.tfbnw.net
 ae10.pr01.hbe1.tfbnw.net
 ae10.pr01.hel3.tfbnw.net
@@ -8912,6 +8976,7 @@ ae10.pr02.del1.tfbnw.net
 ae10.pr02.del2.tfbnw.net
 ae10.pr02.fra2.tfbnw.net
 ae10.pr02.fra5.tfbnw.net
+ae10.pr02.gig4.tfbnw.net
 ae10.pr02.gru1.tfbnw.net
 ae10.pr02.hel3.tfbnw.net
 ae10.pr02.itm1.tfbnw.net
@@ -8953,6 +9018,7 @@ ae10.pr04.dfw1.tfbnw.net
 ae10.pr04.hbe1.tfbnw.net
 ae10.pr04.iev1.tfbnw.net
 ae10.pr04.jnb1.tfbnw.net
+ae10.pr04.lax1.tfbnw.net
 ae10.pr04.mad1.tfbnw.net
 ae10.pr04.mct1.tfbnw.net
 ae10.pr04.mrs1.tfbnw.net
@@ -8961,15 +9027,11 @@ ae10.pr04.sin6.tfbnw.net
 ae10.pr04.sjc1.tfbnw.net
 ae10.pr04.vie1.tfbnw.net
 ae10.pr05.dfw1.tfbnw.net
-ae10.pr05.lga1.tfbnw.net
 ae10.pr05.mia1.tfbnw.net
 ae10.pr06.dfw1.tfbnw.net
-ae10.pr06.lga1.tfbnw.net
 ae10.pr06.mia1.tfbnw.net
 ae10.pr06.sea1.tfbnw.net
 ae10.pr07.mia1.tfbnw.net
-ae1102.ar04.nrt1.tfbnw.net
-ae1104.ar02.nrt1.tfbnw.net
 ae110.ar01.gua1.tfbnw.net
 ae110.ar02.gua1.tfbnw.net
 ae110.ar02.pnq1.tfbnw.net
@@ -8983,19 +9045,15 @@ ae110.bb04.bom4.tfbnw.net
 ae110.pr01.fmb1.tfbnw.net
 ae110.pr01.gua1.tfbnw.net
 ae110.pr02.gua1.tfbnw.net
-ae111.ar01.gru2.tfbnw.net
 ae111.ar01.lhr3.tfbnw.net
 ae111.ar01.mxp1.tfbnw.net
 ae111.ar02.fml1.tfbnw.net
 ae111.ar02.fml20.tfbnw.net
-ae111.ar02.gru2.tfbnw.net
-ae111.ar02.hkg1.tfbnw.net
 ae111.ar02.lhr3.tfbnw.net
 ae111.ar02.mxp1.tfbnw.net
 ae111.ar02.sjc1.tfbnw.net
 ae111.ar03.mxp1.tfbnw.net
 ae111.ar03.sea1.tfbnw.net
-ae111.ar04.lim1.tfbnw.net
 ae111.ar04.mxp1.tfbnw.net
 ae111.pr01.ams3.tfbnw.net
 ae111.pr01.fml1.tfbnw.net
@@ -9014,15 +9072,12 @@ ae111.pr04.gru2.tfbnw.net
 ae111.pr04.sjc1.tfbnw.net
 ae112.ar01.ccu1.tfbnw.net
 ae112.ar01.fra2.tfbnw.net
-ae112.ar02.hkg1.tfbnw.net
 ae112.ar03.sea1.tfbnw.net
 ae112.ar04.sea1.tfbnw.net
 ae112.bb02.fml1.tfbnw.net
 ae112.pr03.gru1.tfbnw.net
 ae113.ar01.den2.tfbnw.net
-ae113.ar01.hkg1.tfbnw.net
 ae113.ar02.den2.tfbnw.net
-ae113.ar02.hkg1.tfbnw.net
 ae114.ar01.sea1.tfbnw.net
 ae114.bb01.fml1.tfbnw.net
 ae114.bb02.fml1.tfbnw.net
@@ -9078,7 +9133,6 @@ ae11.pr01.del1.tfbnw.net
 ae11.pr01.dfw1.tfbnw.net
 ae11.pr01.gru1.tfbnw.net
 ae11.pr01.gua1.tfbnw.net
-ae11.pr01.hkg1.tfbnw.net
 ae11.pr01.hkg4.tfbnw.net
 ae11.pr01.hou1.tfbnw.net
 ae11.pr01.itm1.tfbnw.net
@@ -9091,7 +9145,6 @@ ae11.pr01.sjc1.tfbnw.net
 ae11.pr01.vie1.tfbnw.net
 ae11.pr02.ams2.tfbnw.net
 ae11.pr02.arn1.tfbnw.net
-ae11.pr02.bom1.tfbnw.net
 ae11.pr02.bos3.tfbnw.net
 ae11.pr02.cgk1.tfbnw.net
 ae11.pr02.del1.tfbnw.net
@@ -9139,7 +9192,6 @@ ae11.pr04.mrs1.tfbnw.net
 ae11.pr04.scl1.tfbnw.net
 ae11.pr04.sof1.tfbnw.net
 ae11.pr05.atl1.tfbnw.net
-ae11.pr05.lga1.tfbnw.net
 ae11.pr06.mia1.tfbnw.net
 ae11.pr07.mia1.tfbnw.net
 ae120.ar01.gua1.tfbnw.net
@@ -9151,18 +9203,14 @@ ae120.br02.lab7.tfbnw.net
 ae120.pr01.gua1.tfbnw.net
 ae120.pr02.gua1.tfbnw.net
 ae120.pr02.pnq1.tfbnw.net
-ae121.ar01.gru2.tfbnw.net
 ae121.ar01.lhr3.tfbnw.net
 ae121.ar01.mxp1.tfbnw.net
 ae121.ar02.fml1.tfbnw.net
-ae121.ar02.gru2.tfbnw.net
 ae121.ar02.lhr3.tfbnw.net
 ae121.ar02.mxp1.tfbnw.net
 ae121.ar02.sjc1.tfbnw.net
 ae121.ar03.fml20.tfbnw.net
-ae121.ar03.lim1.tfbnw.net
 ae121.ar03.mxp1.tfbnw.net
-ae121.ar04.lim1.tfbnw.net
 ae121.ar04.mxp1.tfbnw.net
 ae121.bb01.bio1.tfbnw.net
 ae121.bb02.bio1.tfbnw.net
@@ -9292,10 +9340,8 @@ ae12.pr04.yyz1.tfbnw.net
 ae12.pr05.atl1.tfbnw.net
 ae12.pr05.dfw1.tfbnw.net
 ae12.pr05.for1.tfbnw.net
-ae12.pr05.lga1.tfbnw.net
 ae12.pr06.atl1.tfbnw.net
 ae12.pr06.dfw1.tfbnw.net
-ae12.pr06.lga1.tfbnw.net
 ae12.pr06.mia1.tfbnw.net
 ae12.pr07.lga1.tfbnw.net
 ae12.pr07.mia1.tfbnw.net
@@ -9308,7 +9354,6 @@ ae131.ar01.mxp1.tfbnw.net
 ae131.ar02.mxp1.tfbnw.net
 ae131.ar02.sjc1.tfbnw.net
 ae131.ar03.mxp1.tfbnw.net
-ae131.ar04.lim1.tfbnw.net
 ae131.ar04.mxp1.tfbnw.net
 ae131.pr01.ams3.tfbnw.net
 ae131.pr01.fml1.tfbnw.net
@@ -9363,7 +9408,6 @@ ae13.pr02.ams2.tfbnw.net
 ae13.pr02.arn1.tfbnw.net
 ae13.pr02.cgk1.tfbnw.net
 ae13.pr02.gua1.tfbnw.net
-ae13.pr02.hkg1.tfbnw.net
 ae13.pr02.itm1.tfbnw.net
 ae13.pr02.lhr4.tfbnw.net
 ae13.pr02.maa2.tfbnw.net
@@ -9495,7 +9539,6 @@ ae14.pr04.vie1.tfbnw.net
 ae14.pr05.atl1.tfbnw.net
 ae14.pr05.sea1.tfbnw.net
 ae14.pr06.dfw1.tfbnw.net
-ae14.pr06.lga1.tfbnw.net
 ae14.pr06.mia1.tfbnw.net
 ae14.pr06.sea1.tfbnw.net
 ae14.pr07.lga1.tfbnw.net
@@ -9511,7 +9554,6 @@ ae150.bb03.kul3.tfbnw.net
 ae150.bb03.tpe3.tfbnw.net
 ae150.bb04.kul3.tfbnw.net
 ae150.bb04.tpe3.tfbnw.net
-ae151.ar01.akl1.tfbnw.net
 ae151.ar01.kul2.tfbnw.net
 ae151.ar01.mct1.tfbnw.net
 ae151.ar02.kul3.tfbnw.net
@@ -9528,8 +9570,6 @@ ae151.bb04.hkg7.tfbnw.net
 ae151.bb04.tpe3.tfbnw.net
 ae151.pr02.mba1.tfbnw.net
 ae152.ar01.bkk1.tfbnw.net
-ae152.ar01.itm1.tfbnw.net
-ae152.ar02.akl1.tfbnw.net
 ae152.ar04.mnl1.tfbnw.net
 ae152.bb01.hnd2.tfbnw.net
 ae152.bb02.kul2.tfbnw.net
@@ -9601,7 +9641,6 @@ ae159.bb02.bom4.tfbnw.net
 ae159.bb02.ccu1.tfbnw.net
 ae159.bb03.bom4.tfbnw.net
 ae159.bb04.bom4.tfbnw.net
-ae15.ar04.lim1.tfbnw.net
 ae15.bb01.gig1.tfbnw.net
 ae15.bb01.hnd1.tfbnw.net
 ae15.bb01.hnd2.tfbnw.net
@@ -9611,7 +9650,6 @@ ae15.bb02.gig1.tfbnw.net
 ae15.bb02.sjc1.tfbnw.net
 ae15.bb03.xsp1.tfbnw.net
 ae15.bb04.xsp1.tfbnw.net
-ae15.pr01.ams2.tfbnw.net
 ae15.pr01.arn1.tfbnw.net
 ae15.pr01.bom1.tfbnw.net
 ae15.pr01.cgk1.tfbnw.net
@@ -9663,7 +9701,6 @@ ae15.pr03.sof1.tfbnw.net
 ae15.pr03.vie1.tfbnw.net
 ae15.pr04.cgk1.tfbnw.net
 ae15.pr04.cpt1.tfbnw.net
-ae15.pr04.del1.tfbnw.net
 ae15.pr04.gru1.tfbnw.net
 ae15.pr04.hou1.tfbnw.net
 ae15.pr04.iad3.tfbnw.net
@@ -9678,7 +9715,6 @@ ae15.pr06.atl1.tfbnw.net
 ae15.pr06.cdg5.tfbnw.net
 ae15.pr06.dfw1.tfbnw.net
 ae15.pr06.mia1.tfbnw.net
-ae160.ar02.itm1.tfbnw.net
 ae160.bb01.bom1.tfbnw.net
 ae160.bb01.hnd1.tfbnw.net
 ae160.bb01.hnd2.tfbnw.net
@@ -9751,7 +9787,6 @@ ae16.pr02.sin6.tfbnw.net
 ae16.pr02.sjc1.tfbnw.net
 ae16.pr02.syd2.tfbnw.net
 ae16.pr03.arn2.tfbnw.net
-ae16.pr03.bom1.tfbnw.net
 ae16.pr03.cgk1.tfbnw.net
 ae16.pr03.gru1.tfbnw.net
 ae16.pr03.iad3.tfbnw.net
@@ -9851,8 +9886,6 @@ ae17.pr04.sea1.tfbnw.net
 ae17.pr04.sjc1.tfbnw.net
 ae17.pr04.waw1.tfbnw.net
 ae17.pr05.cdg5.tfbnw.net
-ae17.pr05.lga1.tfbnw.net
-ae17.pr06.lga1.tfbnw.net
 ae17.pr06.mia1.tfbnw.net
 ae17.pr06.waw1.tfbnw.net
 ae17.pr07.mia1.tfbnw.net
@@ -9971,11 +10004,9 @@ ae1.ar01.atl1.tfbnw.net
 ae1.ar01.bog2.tfbnw.net
 ae1.ar01.bos5.tfbnw.net
 ae1.ar01.doh1.tfbnw.net
-ae1.ar01.fco1.tfbnw.net
 ae1.ar01.fmb1.tfbnw.net
 ae1.ar01.fml20.tfbnw.net
 ae1.ar01.fmz1.tfbnw.net
-ae1.ar01.gru2.tfbnw.net
 ae1.ar01.gua1.tfbnw.net
 ae1.ar01.hbe1.tfbnw.net
 ae1.ar01.iad3.tfbnw.net
@@ -9985,14 +10016,11 @@ ae1.ar01.mct1.tfbnw.net
 ae1.ar01.mrs2.tfbnw.net
 ae1.ar01.nrt1.tfbnw.net
 ae1.ar01.nxa1.tfbnw.net
-ae1.ar01.ord5.tfbnw.net
 ae1.ar01.pmo1.tfbnw.net
 ae1.ar02.atl1.tfbnw.net
 ae1.ar02.doh1.tfbnw.net
 ae1.ar02.dus1.tfbnw.net
-ae1.ar02.fco1.tfbnw.net
 ae1.ar02.fmz1.tfbnw.net
-ae1.ar02.gru2.tfbnw.net
 ae1.ar02.gua1.tfbnw.net
 ae1.ar02.hbe1.tfbnw.net
 ae1.ar02.iad3.tfbnw.net
@@ -10002,16 +10030,13 @@ ae1.ar02.mrs2.tfbnw.net
 ae1.ar02.pmo1.tfbnw.net
 ae1.ar03.atl1.tfbnw.net
 ae1.ar03.bog2.tfbnw.net
-ae1.ar03.eze1.tfbnw.net
 ae1.ar03.fml1.tfbnw.net
 ae1.ar03.iad3.tfbnw.net
-ae1.ar03.lim1.tfbnw.net
 ae1.ar03.mrs2.tfbnw.net
 ae1.ar03.nrt1.tfbnw.net
 ae1.ar03.sjc1.tfbnw.net
 ae1.ar04.atl1.tfbnw.net
 ae1.ar04.bog2.tfbnw.net
-ae1.ar04.eze1.tfbnw.net
 ae1.ar04.iad3.tfbnw.net
 ae1.ar04.ist1.tfbnw.net
 ae1.ar04.mrs2.tfbnw.net
@@ -10044,8 +10069,6 @@ ae1.bb04.ttn1.tfbnw.net
 ae1.br01.phx1.tfbnw.net
 ae1.br01.prg1.tfbnw.net
 ae1.br02.phx1.tfbnw.net
-ae1.dr02.snc8.tfbnw.net
-ae1.dr03.snc9.tfbnw.net
 ae1.oobhr01.fra2.tfbnw.net
 ae1.oobhr01.lhr4.tfbnw.net
 ae1.oobhr01.nrt1.tfbnw.net
@@ -10057,7 +10080,6 @@ ae1.pr01.ams2.tfbnw.net
 ae1.pr01.ams3.tfbnw.net
 ae1.pr01.arn1.tfbnw.net
 ae1.pr01.atl1.tfbnw.net
-ae1.pr01.bkk1.tfbnw.net
 ae1.pr01.bog1.tfbnw.net
 ae1.pr01.bom1.tfbnw.net
 ae1.pr01.bom2.tfbnw.net
@@ -10066,12 +10088,14 @@ ae1.pr01.cdg4.tfbnw.net
 ae1.pr01.cpt1.tfbnw.net
 ae1.pr01.del1.tfbnw.net
 ae1.pr01.del2.tfbnw.net
+ae1.pr01.den4.tfbnw.net
 ae1.pr01.dfw1.tfbnw.net
 ae1.pr01.doh1.tfbnw.net
 ae1.pr01.fra2.tfbnw.net
 ae1.pr01.fra4.tfbnw.net
 ae1.pr01.fra5.tfbnw.net
 ae1.pr01.gig2.tfbnw.net
+ae1.pr01.gig4.tfbnw.net
 ae1.pr01.gru1.tfbnw.net
 ae1.pr01.gru2.tfbnw.net
 ae1.pr01.hbe1.tfbnw.net
@@ -10099,12 +10123,14 @@ ae1.pr01.mrs1.tfbnw.net
 ae1.pr01.nrt1.tfbnw.net
 ae1.pr01.nrt3.tfbnw.net
 ae1.pr01.nrt4.tfbnw.net
+ae1.pr01.otp1.tfbnw.net
 ae1.pr01.pnq1.tfbnw.net
+ae1.pr01.poa1.tfbnw.net
 ae1.pr01.pxa2.tfbnw.net
+ae1.pr01.qro1.tfbnw.net
 ae1.pr01.scl1.tfbnw.net
 ae1.pr01.sin1.tfbnw.net
 ae1.pr01.sin2.tfbnw.net
-ae1.pr01.vie1.tfbnw.net
 ae1.pr01.yyz1.tfbnw.net
 ae1.pr02.akl1.tfbnw.net
 ae1.pr02.ams2.tfbnw.net
@@ -10153,6 +10179,7 @@ ae1.pr02.mrs1.tfbnw.net
 ae1.pr02.nrt4.tfbnw.net
 ae1.pr02.nrt5.tfbnw.net
 ae1.pr02.ord3.tfbnw.net
+ae1.pr02.otp1.tfbnw.net
 ae1.pr02.pnq1.tfbnw.net
 ae1.pr02.sin1.tfbnw.net
 ae1.pr02.sin2.tfbnw.net
@@ -10167,18 +10194,22 @@ ae1.pr03.bom1.tfbnw.net
 ae1.pr03.bos3.tfbnw.net
 ae1.pr03.ccu1.tfbnw.net
 ae1.pr03.cgk1.tfbnw.net
+ae1.pr03.del1.tfbnw.net
 ae1.pr03.den4.tfbnw.net
+ae1.pr03.dfw1.tfbnw.net
 ae1.pr03.fra2.tfbnw.net
 ae1.pr03.gru1.tfbnw.net
 ae1.pr03.gru2.tfbnw.net
 ae1.pr03.iad3.tfbnw.net
 ae1.pr03.iev1.tfbnw.net
 ae1.pr03.jnb1.tfbnw.net
+ae1.pr03.lax1.tfbnw.net
 ae1.pr03.lim1.tfbnw.net
 ae1.pr03.mad1.tfbnw.net
 ae1.pr03.mct1.tfbnw.net
 ae1.pr03.mrs1.tfbnw.net
 ae1.pr03.ord3.tfbnw.net
+ae1.pr03.otp1.tfbnw.net
 ae1.pr03.pmo1.tfbnw.net
 ae1.pr03.scl1.tfbnw.net
 ae1.pr03.sea1.tfbnw.net
@@ -10214,23 +10245,21 @@ ae1.pr04.lim1.tfbnw.net
 ae1.pr04.mad1.tfbnw.net
 ae1.pr04.ord3.tfbnw.net
 ae1.pr04.pnq1.tfbnw.net
+ae1.pr04.qro1.tfbnw.net
 ae1.pr04.scl1.tfbnw.net
 ae1.pr04.sea1.tfbnw.net
 ae1.pr04.sjc1.tfbnw.net
 ae1.pr04.sof1.tfbnw.net
-ae1.pr04.vie1.tfbnw.net
 ae1.pr04.waw1.tfbnw.net
 ae1.pr04.yyz1.tfbnw.net
 ae1.pr05.atl1.tfbnw.net
 ae1.pr05.dfw1.tfbnw.net
 ae1.pr05.for1.tfbnw.net
-ae1.pr05.lga1.tfbnw.net
 ae1.pr05.mia1.tfbnw.net
 ae1.pr05.sea1.tfbnw.net
 ae1.pr05.waw1.tfbnw.net
 ae1.pr06.atl1.tfbnw.net
 ae1.pr06.for1.tfbnw.net
-ae1.pr06.lga1.tfbnw.net
 ae1.pr06.mia1.tfbnw.net
 ae1.pr06.sea1.tfbnw.net
 ae1.pr07.lga1.tfbnw.net
@@ -10238,7 +10267,6 @@ ae1.pr07.mia1.tfbnw.net
 ae1.pr08.lga1.tfbnw.net
 ae2000.bb04.atl4.tfbnw.net
 ae2000.bb04.fra8.tfbnw.net
-ae2000.bb05.lhr8.tfbnw.net
 ae2002.bb03.dfw1.tfbnw.net
 ae2002.bb14.lax4.tfbnw.net
 ae200.bb01.vab1.tfbnw.net
@@ -10257,7 +10285,6 @@ ae200.dr02.ash7.tfbnw.net
 ae200.dr03.ash8.tfbnw.net
 ae200.dr04.ash8.tfbnw.net
 ae200.dr04.snc9.tfbnw.net
-ae200.dr07.ftw2.tfbnw.net
 ae2010.bb04.vie1.tfbnw.net
 ae201.ar02.mnl1.tfbnw.net
 ae201.ar02.poa1.tfbnw.net
@@ -10265,7 +10292,6 @@ ae201.ar03.mnl1.tfbnw.net
 ae201.ar03.poa1.tfbnw.net
 ae201.ar04.mnl1.tfbnw.net
 ae201.ar04.poa1.tfbnw.net
-ae201.ar06.bsb1.tfbnw.net
 ae201.bb01.vab1.tfbnw.net
 ae201.bb02.vab1.tfbnw.net
 ae201.bb03.blr1.tfbnw.net
@@ -10305,7 +10331,6 @@ ae201.pr02.itm1.tfbnw.net
 ae201.pr02.jnb1.tfbnw.net
 ae201.pr02.los1.tfbnw.net
 ae201.pr02.nrt3.tfbnw.net
-ae201.pr02.poa1.tfbnw.net
 ae201.pr02.tpe2.tfbnw.net
 ae201.pr02.yyz1.tfbnw.net
 ae201.pr03.blr1.tfbnw.net
@@ -10332,7 +10357,6 @@ ae201.pr08.kul2.tfbnw.net
 ae202.ar01.blr1.tfbnw.net
 ae202.ar01.del2.tfbnw.net
 ae202.ar01.gig4.tfbnw.net
-ae202.ar01.sin2.tfbnw.net
 ae202.ar02.blr1.tfbnw.net
 ae202.ar02.gig4.tfbnw.net
 ae202.ar03.blr1.tfbnw.net
@@ -10371,7 +10395,6 @@ ae202.pr02.jnb1.tfbnw.net
 ae202.pr02.lax4.tfbnw.net
 ae202.pr02.lhr7.tfbnw.net
 ae202.pr02.nrt4.tfbnw.net
-ae202.pr02.poa1.tfbnw.net
 ae202.pr02.sof1.tfbnw.net
 ae202.pr02.tpe2.tfbnw.net
 ae202.pr02.xxe1.tfbnw.net
@@ -10546,7 +10569,6 @@ ae209.dr02.snb1.tfbnw.net
 ae209.dr02.vcn1.tfbnw.net
 ae209.dr03.maz2.tfbnw.net
 ae209.dr03.rcd1.tfbnw.net
-ae209.dr04.mwg2.tfbnw.net
 ae209.dr04.rcd1.tfbnw.net
 ae209.dr04.snb2.tfbnw.net
 ae209.pr01.arn1.tfbnw.net
@@ -10588,7 +10610,6 @@ ae20.pr02.sin2.tfbnw.net
 ae20.pr02.sof1.tfbnw.net
 ae20.pr02.syd2.tfbnw.net
 ae20.pr03.cpt1.tfbnw.net
-ae20.pr03.del1.tfbnw.net
 ae20.pr03.eze1.tfbnw.net
 ae20.pr03.gru1.tfbnw.net
 ae20.pr03.hkg4.tfbnw.net
@@ -10634,10 +10655,6 @@ ae211.pr01.arn1.tfbnw.net
 ae211.pr02.lhr7.tfbnw.net
 ae211.pr02.sin1.tfbnw.net
 ae211.pr04.sin6.tfbnw.net
-ae212.bb01.ewr3.tfbnw.net
-ae212.bb02.ewr3.tfbnw.net
-ae212.bb03.ewr3.tfbnw.net
-ae212.bb04.ewr3.tfbnw.net
 ae212.br01.bcn1.tfbnw.net
 ae212.br01.ber1.tfbnw.net
 ae212.br02.ber1.tfbnw.net
@@ -10732,12 +10749,10 @@ ae21.pr04.sof1.tfbnw.net
 ae21.pr04.waw1.tfbnw.net
 ae21.pr05.atl1.tfbnw.net
 ae21.pr05.dfw1.tfbnw.net
-ae21.pr05.lga1.tfbnw.net
 ae21.pr06.cdg5.tfbnw.net
 ae21.pr06.dfw1.tfbnw.net
 ae21.pr06.for1.tfbnw.net
 ae21.pr06.iad3.tfbnw.net
-ae21.pr06.lga1.tfbnw.net
 ae21.pr06.mia1.tfbnw.net
 ae21.pr06.waw1.tfbnw.net
 ae21.pr07.mia1.tfbnw.net
@@ -10794,11 +10809,9 @@ ae22.pr04.sin6.tfbnw.net
 ae22.pr04.sjc1.tfbnw.net
 ae22.pr04.vie1.tfbnw.net
 ae22.pr04.waw1.tfbnw.net
-ae22.pr05.lga1.tfbnw.net
 ae22.pr05.sea1.tfbnw.net
 ae22.pr05.waw1.tfbnw.net
 ae22.pr06.dfw1.tfbnw.net
-ae22.pr06.lga1.tfbnw.net
 ae22.pr06.mia1.tfbnw.net
 ae230.pr01.mnl3.tfbnw.net
 ae23.ar02.jnb1.tfbnw.net
@@ -10839,10 +10852,8 @@ ae23.pr04.iev1.tfbnw.net
 ae23.pr04.mrs1.tfbnw.net
 ae23.pr04.sea1.tfbnw.net
 ae23.pr05.dfw1.tfbnw.net
-ae23.pr05.lga1.tfbnw.net
 ae23.pr06.dfw1.tfbnw.net
 ae23.pr06.iad3.tfbnw.net
-ae23.pr06.lga1.tfbnw.net
 ae23.pr07.mia1.tfbnw.net
 ae240.pr01.mnl3.tfbnw.net
 ae240.pr02.mnl3.tfbnw.net
@@ -10911,7 +10922,6 @@ ae25.pr02.jnb1.tfbnw.net
 ae25.pr02.mba1.tfbnw.net
 ae25.pr02.mnl1.tfbnw.net
 ae25.pr02.scl1.tfbnw.net
-ae25.pr03.bom1.tfbnw.net
 ae25.pr03.gru1.tfbnw.net
 ae25.pr03.hkg1.tfbnw.net
 ae25.pr03.iev1.tfbnw.net
@@ -10994,7 +11004,6 @@ ae27.pr04.iev1.tfbnw.net
 ae27.pr04.sof1.tfbnw.net
 ae27.pr05.atl1.tfbnw.net
 ae27.pr05.dfw1.tfbnw.net
-ae27.pr05.lga1.tfbnw.net
 ae27.pr06.mia1.tfbnw.net
 ae28.ar01.scl1.tfbnw.net
 ae28.ar02.scl1.tfbnw.net
@@ -11052,20 +11061,16 @@ ae29.pr03.gru2.tfbnw.net
 ae29.pr03.mad1.tfbnw.net
 ae29.pr03.ord3.tfbnw.net
 ae29.pr04.bom1.tfbnw.net
-ae29.pr04.del1.tfbnw.net
 ae29.pr04.jnb1.tfbnw.net
 ae29.pr04.mad1.tfbnw.net
 ae29.pr04.ord3.tfbnw.net
 ae29.pr06.atl1.tfbnw.net
-ae29.pr06.lga1.tfbnw.net
 ae29.pr06.mia1.tfbnw.net
 ae29.pr07.mia1.tfbnw.net
 ae2.ar01.atl1.tfbnw.net
 ae2.ar01.den2.tfbnw.net
 ae2.ar01.doh1.tfbnw.net
-ae2.ar01.fco1.tfbnw.net
 ae2.ar01.fml20.tfbnw.net
-ae2.ar01.gru2.tfbnw.net
 ae2.ar01.gua1.tfbnw.net
 ae2.ar01.hbe1.tfbnw.net
 ae2.ar01.iad3.tfbnw.net
@@ -11073,11 +11078,9 @@ ae2.ar01.mba2.tfbnw.net
 ae2.ar01.mct1.tfbnw.net
 ae2.ar01.mrs2.tfbnw.net
 ae2.ar01.nrt1.tfbnw.net
-ae2.ar01.ord5.tfbnw.net
 ae2.ar01.pmo1.tfbnw.net
 ae2.ar01.sjc1.tfbnw.net
 ae2.ar02.atl1.tfbnw.net
-ae2.ar02.fco1.tfbnw.net
 ae2.ar02.gua1.tfbnw.net
 ae2.ar02.hbe1.tfbnw.net
 ae2.ar02.iad3.tfbnw.net
@@ -11091,11 +11094,9 @@ ae2.ar03.iad3.tfbnw.net
 ae2.ar03.sjc1.tfbnw.net
 ae2.ar03.xxr1.tfbnw.net
 ae2.ar04.atl1.tfbnw.net
-ae2.ar04.eze1.tfbnw.net
 ae2.ar04.iad3.tfbnw.net
 ae2.ar04.ist1.tfbnw.net
 ae2.ar04.mrs2.tfbnw.net
-ae2.ar04.ord5.tfbnw.net
 ae2.ar05.fml1.tfbnw.net
 ae2.bb01.cpt1.tfbnw.net
 ae2.bb01.dur1.tfbnw.net
@@ -11212,12 +11213,10 @@ ae2.pr04.bsb1.tfbnw.net
 ae2.pr04.ccu1.tfbnw.net
 ae2.pr04.cgk1.tfbnw.net
 ae2.pr04.cpt1.tfbnw.net
-ae2.pr04.del1.tfbnw.net
 ae2.pr04.den4.tfbnw.net
 ae2.pr04.dfw1.tfbnw.net
 ae2.pr04.gru2.tfbnw.net
 ae2.pr04.iad3.tfbnw.net
-ae2.pr04.iev1.tfbnw.net
 ae2.pr04.ist1.tfbnw.net
 ae2.pr04.jnb1.tfbnw.net
 ae2.pr04.mad1.tfbnw.net
@@ -11295,7 +11294,6 @@ ae30.pr04.cgk1.tfbnw.net
 ae30.pr04.gru1.tfbnw.net
 ae30.pr04.ord3.tfbnw.net
 ae30.pr04.sea1.tfbnw.net
-ae30.pr05.lga1.tfbnw.net
 ae30.pr05.waw1.tfbnw.net
 ae31.bb01.gru1.tfbnw.net
 ae31.bb02.gru1.tfbnw.net
@@ -11364,7 +11362,6 @@ ae33.pr04.iad3.tfbnw.net
 ae33.pr04.iev1.tfbnw.net
 ae33.pr04.sjc1.tfbnw.net
 ae33.pr05.atl1.tfbnw.net
-ae33.pr05.lga1.tfbnw.net
 ae33.pr06.atl1.tfbnw.net
 ae34.bb01.gru2.tfbnw.net
 ae34.bb01.iad3.tfbnw.net
@@ -11447,24 +11444,20 @@ ae39.pr04.iev1.tfbnw.net
 ae3.ar01.atl1.tfbnw.net
 ae3.ar01.bos5.tfbnw.net
 ae3.ar01.dus1.tfbnw.net
-ae3.ar01.fco1.tfbnw.net
 ae3.ar01.fra2.tfbnw.net
 ae3.ar01.hbe1.tfbnw.net
 ae3.ar01.iad3.tfbnw.net
 ae3.ar01.pmo1.tfbnw.net
 ae3.ar01.sjc1.tfbnw.net
 ae3.ar02.atl1.tfbnw.net
-ae3.ar02.fco1.tfbnw.net
 ae3.ar02.fml1.tfbnw.net
 ae3.ar02.fra2.tfbnw.net
 ae3.ar02.hbe1.tfbnw.net
 ae3.ar02.iad3.tfbnw.net
 ae3.ar02.ist1.tfbnw.net
-ae3.ar02.itm1.tfbnw.net
 ae3.ar02.pmo1.tfbnw.net
 ae3.ar02.waw2.tfbnw.net
 ae3.ar03.atl1.tfbnw.net
-ae3.ar03.eze1.tfbnw.net
 ae3.ar03.iad3.tfbnw.net
 ae3.ar03.ist1.tfbnw.net
 ae3.ar03.mrs2.tfbnw.net
@@ -11556,7 +11549,6 @@ ae3.pr03.bog1.tfbnw.net
 ae3.pr03.ccu1.tfbnw.net
 ae3.pr03.cgk1.tfbnw.net
 ae3.pr03.cpt1.tfbnw.net
-ae3.pr03.del1.tfbnw.net
 ae3.pr03.den4.tfbnw.net
 ae3.pr03.eze1.tfbnw.net
 ae3.pr03.gru1.tfbnw.net
@@ -11586,6 +11578,7 @@ ae3.pr04.jnb1.tfbnw.net
 ae3.pr04.lim1.tfbnw.net
 ae3.pr04.mad1.tfbnw.net
 ae3.pr04.mrs1.tfbnw.net
+ae3.pr04.otp1.tfbnw.net
 ae3.pr04.pmo1.tfbnw.net
 ae3.pr04.pnq1.tfbnw.net
 ae3.pr04.scl1.tfbnw.net
@@ -11642,7 +11635,6 @@ ae40.pr03.gru1.tfbnw.net
 ae40.pr03.hkg1.tfbnw.net
 ae40.pr03.iev1.tfbnw.net
 ae40.pr04.cgk1.tfbnw.net
-ae40.pr04.eze2.tfbnw.net
 ae40.pr04.gru1.tfbnw.net
 ae40.pr04.iev1.tfbnw.net
 ae40.pr04.vie1.tfbnw.net
@@ -11669,7 +11661,6 @@ ae42.pr02.fra4.tfbnw.net
 ae42.pr03.cgk1.tfbnw.net
 ae42.pr03.dfw1.tfbnw.net
 ae42.pr03.gru1.tfbnw.net
-ae42.pr04.del1.tfbnw.net
 ae42.pr04.dfw1.tfbnw.net
 ae42.pr04.gru1.tfbnw.net
 ae42.pr04.yyz1.tfbnw.net
@@ -11736,27 +11727,19 @@ ae49.pr04.del1.tfbnw.net
 ae49.pr04.fra2.tfbnw.net
 ae49.pr04.gru1.tfbnw.net
 ae49.pr07.for1.tfbnw.net
-ae4.ar01.eze1.tfbnw.net
-ae4.ar01.fco1.tfbnw.net
 ae4.ar01.hbe1.tfbnw.net
 ae4.ar01.ist1.tfbnw.net
-ae4.ar01.lhr3.tfbnw.net
 ae4.ar01.mrs2.tfbnw.net
 ae4.ar01.sjc1.tfbnw.net
 ae4.ar01.xxr1.tfbnw.net
 ae4.ar02.atl1.tfbnw.net
 ae4.ar02.den2.tfbnw.net
-ae4.ar02.eze1.tfbnw.net
-ae4.ar02.fco1.tfbnw.net
 ae4.ar02.fml1.tfbnw.net
 ae4.ar02.hbe1.tfbnw.net
 ae4.ar02.ist1.tfbnw.net
-ae4.ar02.lhr3.tfbnw.net
-ae4.ar02.ord5.tfbnw.net
 ae4.ar03.bog2.tfbnw.net
 ae4.ar03.ist1.tfbnw.net
 ae4.ar03.sjc1.tfbnw.net
-ae4.ar04.ord5.tfbnw.net
 ae4.bb01.cpt1.tfbnw.net
 ae4.bb01.hnd2.tfbnw.net
 ae4.bb01.lax4.tfbnw.net
@@ -11807,7 +11790,6 @@ ae4.pr02.ams2.tfbnw.net
 ae4.pr02.ams3.tfbnw.net
 ae4.pr02.arn1.tfbnw.net
 ae4.pr02.bom1.tfbnw.net
-ae4.pr02.bsb1.tfbnw.net
 ae4.pr02.ccu1.tfbnw.net
 ae4.pr02.cpt1.tfbnw.net
 ae4.pr02.del1.tfbnw.net
@@ -11857,7 +11839,6 @@ ae4.pr04.bkk1.tfbnw.net
 ae4.pr04.bog1.tfbnw.net
 ae4.pr04.bsb1.tfbnw.net
 ae4.pr04.ccu1.tfbnw.net
-ae4.pr04.del1.tfbnw.net
 ae4.pr04.gru1.tfbnw.net
 ae4.pr04.iad3.tfbnw.net
 ae4.pr04.iev1.tfbnw.net
@@ -11871,11 +11852,9 @@ ae4.pr04.pmo1.tfbnw.net
 ae4.pr04.sjc1.tfbnw.net
 ae4.pr05.atl1.tfbnw.net
 ae4.pr05.dfw1.tfbnw.net
-ae4.pr05.lga1.tfbnw.net
 ae4.pr05.waw1.tfbnw.net
 ae4.pr06.atl1.tfbnw.net
 ae4.pr06.dfw1.tfbnw.net
-ae4.pr06.lga1.tfbnw.net
 ae4.pr06.sea1.tfbnw.net
 ae4.pr06.waw1.tfbnw.net
 ae500.bb01.xxa1.tfbnw.net
@@ -12019,14 +11998,9 @@ ae59.pr03.gru1.tfbnw.net
 ae59.pr03.iev1.tfbnw.net
 ae59.pr04.gru1.tfbnw.net
 ae5.ar01.atl1.tfbnw.net
-ae5.ar01.eze1.tfbnw.net
-ae5.ar01.lhr3.tfbnw.net
-ae5.ar01.ord5.tfbnw.net
 ae5.ar01.sea1.tfbnw.net
 ae5.ar01.sjc1.tfbnw.net
 ae5.ar02.atl1.tfbnw.net
-ae5.ar02.eze1.tfbnw.net
-ae5.ar02.lhr3.tfbnw.net
 ae5.ar02.sea1.tfbnw.net
 ae5.ar03.atl1.tfbnw.net
 ae5.ar03.fml1.tfbnw.net
@@ -12140,7 +12114,6 @@ ae5.pr05.dfw1.tfbnw.net
 ae5.pr05.sea1.tfbnw.net
 ae5.pr05.waw1.tfbnw.net
 ae5.pr06.atl1.tfbnw.net
-ae5.pr06.lga1.tfbnw.net
 ae60.bb02.bio1.tfbnw.net
 ae60.bb02.sjc1.tfbnw.net
 ae60.pr03.gru1.tfbnw.net
@@ -12269,7 +12242,6 @@ ae6.pr02.man1.tfbnw.net
 ae6.pr02.mct1.tfbnw.net
 ae6.pr02.mrs1.tfbnw.net
 ae6.pr02.nrt4.tfbnw.net
-ae6.pr02.poa1.tfbnw.net
 ae6.pr02.pxa1.tfbnw.net
 ae6.pr02.vie1.tfbnw.net
 ae6.pr03.atl1.tfbnw.net
@@ -12291,7 +12263,6 @@ ae6.pr04.bom1.tfbnw.net
 ae6.pr04.ccu1.tfbnw.net
 ae6.pr04.cgk1.tfbnw.net
 ae6.pr04.cpt1.tfbnw.net
-ae6.pr04.del1.tfbnw.net
 ae6.pr04.gru1.tfbnw.net
 ae6.pr04.gru2.tfbnw.net
 ae6.pr04.iad3.tfbnw.net
@@ -12304,7 +12275,6 @@ ae6.pr04.scl1.tfbnw.net
 ae6.pr04.sjc1.tfbnw.net
 ae6.pr05.atl1.tfbnw.net
 ae6.pr05.dfw1.tfbnw.net
-ae6.pr05.lga1.tfbnw.net
 ae6.pr06.dfw1.tfbnw.net
 ae6.pr06.mia1.tfbnw.net
 ae6.pr07.mia1.tfbnw.net
@@ -12320,20 +12290,16 @@ ae713.bb04.lax4.tfbnw.net
 ae71.ar03.sof1.tfbnw.net
 ae71.ar04.sof1.tfbnw.net
 ae71.bb01.lax1.tfbnw.net
-ae71.bb01.lga1.tfbnw.net
 ae71.pr01.man1.tfbnw.net
 ae71.pr02.gru1.tfbnw.net
 ae71.pr02.lhr7.tfbnw.net
 ae71.pr02.man1.tfbnw.net
 ae71.pr04.gru1.tfbnw.net
-ae72.bb01.lga1.tfbnw.net
 ae72.bb02.lax1.tfbnw.net
-ae72.bb02.lga1.tfbnw.net
 ae72.pr02.man1.tfbnw.net
 ae72.pr02.sin6.tfbnw.net
 ae72.pr04.gru1.tfbnw.net
 ae73.bb02.lax1.tfbnw.net
-ae73.bb02.lga1.tfbnw.net
 ae73.pr01.man1.tfbnw.net
 ae73.pr03.gru1.tfbnw.net
 ae73.pr03.mad1.tfbnw.net
@@ -12357,7 +12323,6 @@ ae78.pr03.gru1.tfbnw.net
 ae78.pr04.gru1.tfbnw.net
 ae79.pr04.gru1.tfbnw.net
 ae7.ar01.los1.tfbnw.net
-ae7.ar01.ord5.tfbnw.net
 ae7.ar01.sea1.tfbnw.net
 ae7.ar01.sjc1.tfbnw.net
 ae7.ar02.atl1.tfbnw.net
@@ -12383,6 +12348,7 @@ ae7.bb04.xsp1.tfbnw.net
 ae7.br02.det1.tfbnw.net
 ae7.br02.phx1.tfbnw.net
 ae7.pr01.akl1.tfbnw.net
+ae7.pr01.ams2.tfbnw.net
 ae7.pr01.ams3.tfbnw.net
 ae7.pr01.arn1.tfbnw.net
 ae7.pr01.bog1.tfbnw.net
@@ -12446,14 +12412,12 @@ ae7.pr04.gru2.tfbnw.net
 ae7.pr04.iev1.tfbnw.net
 ae7.pr04.pmo1.tfbnw.net
 ae7.pr04.yyz1.tfbnw.net
-ae7.pr05.lga1.tfbnw.net
 ae7.pr05.sea1.tfbnw.net
 ae7.pr05.waw1.tfbnw.net
 ae7.pr06.atl1.tfbnw.net
 ae7.pr06.cdg5.tfbnw.net
 ae7.pr06.dfw1.tfbnw.net
 ae7.pr06.iad3.tfbnw.net
-ae7.pr06.lga1.tfbnw.net
 ae7.pr06.mia1.tfbnw.net
 ae7.pr06.sea1.tfbnw.net
 ae7.pr06.waw1.tfbnw.net
@@ -12493,12 +12457,9 @@ ae89.bb03.hkg7.tfbnw.net
 ae89.pr03.gru1.tfbnw.net
 ae8.ar01.hbe1.tfbnw.net
 ae8.ar01.mct1.tfbnw.net
-ae8.ar01.ord5.tfbnw.net
 ae8.ar02.hbe1.tfbnw.net
 ae8.ar02.lhr3.tfbnw.net
 ae8.ar02.man2.tfbnw.net
-ae8.ar02.ord5.tfbnw.net
-ae8.ar03.ord5.tfbnw.net
 ae8.ar04.atl1.tfbnw.net
 ae8.ar04.bog2.tfbnw.net
 ae8.bb01.fml1.tfbnw.net
@@ -12524,7 +12485,6 @@ ae8.pr01.lhr7.tfbnw.net
 ae8.pr01.lim1.tfbnw.net
 ae8.pr01.los1.tfbnw.net
 ae8.pr01.maa2.tfbnw.net
-ae8.pr01.mnl1.tfbnw.net
 ae8.pr01.mrs1.tfbnw.net
 ae8.pr01.sin2.tfbnw.net
 ae8.pr01.sof1.tfbnw.net
@@ -12554,7 +12514,6 @@ ae8.pr03.arn2.tfbnw.net
 ae8.pr03.bog1.tfbnw.net
 ae8.pr03.ccu1.tfbnw.net
 ae8.pr03.cgk1.tfbnw.net
-ae8.pr03.del1.tfbnw.net
 ae8.pr03.del2.tfbnw.net
 ae8.pr03.dfw1.tfbnw.net
 ae8.pr03.gru2.tfbnw.net
@@ -12569,7 +12528,6 @@ ae8.pr04.bkk1.tfbnw.net
 ae8.pr04.bog1.tfbnw.net
 ae8.pr04.bom1.tfbnw.net
 ae8.pr04.cgk1.tfbnw.net
-ae8.pr04.del1.tfbnw.net
 ae8.pr04.eze1.tfbnw.net
 ae8.pr04.gru1.tfbnw.net
 ae8.pr04.gru2.tfbnw.net
@@ -12585,12 +12543,10 @@ ae8.pr04.sea1.tfbnw.net
 ae8.pr04.sin2.tfbnw.net
 ae8.pr04.sof1.tfbnw.net
 ae8.pr05.dfw1.tfbnw.net
-ae8.pr05.lga1.tfbnw.net
 ae8.pr05.sea1.tfbnw.net
 ae8.pr05.waw1.tfbnw.net
 ae8.pr06.atl1.tfbnw.net
 ae8.pr06.dfw1.tfbnw.net
-ae8.pr06.lga1.tfbnw.net
 ae8.pr06.mia1.tfbnw.net
 ae8.pr06.sea1.tfbnw.net
 ae8.pr07.lga1.tfbnw.net
@@ -12632,8 +12588,6 @@ ae99.bb02.fml20.tfbnw.net
 ae99.bb04.vab1.tfbnw.net
 ae99.pr03.gru1.tfbnw.net
 ae9.ar02.mct1.tfbnw.net
-ae9.ar03.eze1.tfbnw.net
-ae9.ar04.eze1.tfbnw.net
 ae9.bb01.gig1.tfbnw.net
 ae9.bb01.hnd1.tfbnw.net
 ae9.bb01.xsp1.tfbnw.net
@@ -12687,7 +12641,6 @@ ae9.pr03.bog1.tfbnw.net
 ae9.pr03.cpt1.tfbnw.net
 ae9.pr03.del1.tfbnw.net
 ae9.pr03.dfw1.tfbnw.net
-ae9.pr03.gru1.tfbnw.net
 ae9.pr03.gru2.tfbnw.net
 ae9.pr03.iad3.tfbnw.net
 ae9.pr03.iev1.tfbnw.net
@@ -12703,7 +12656,6 @@ ae9.pr03.waw1.tfbnw.net
 ae9.pr04.atl1.tfbnw.net
 ae9.pr04.cgk1.tfbnw.net
 ae9.pr04.cpt1.tfbnw.net
-ae9.pr04.del1.tfbnw.net
 ae9.pr04.gru1.tfbnw.net
 ae9.pr04.jnb1.tfbnw.net
 ae9.pr04.los1.tfbnw.net
@@ -12714,11 +12666,9 @@ ae9.pr04.sof1.tfbnw.net
 ae9.pr04.vie1.tfbnw.net
 ae9.pr04.waw1.tfbnw.net
 ae9.pr05.atl1.tfbnw.net
-ae9.pr05.lga1.tfbnw.net
 ae9.pr05.waw1.tfbnw.net
 ae9.pr06.atl1.tfbnw.net
 ae9.pr06.cdg5.tfbnw.net
-ae9.pr06.lga1.tfbnw.net
 ae9.pr06.sea1.tfbnw.net
 ae9.pr07.lga1.tfbnw.net
 ae9.pr07.mia1.tfbnw.net
@@ -12899,6 +12849,7 @@ agendamediavideogroup116.workplace.com
 agendsai.fb.me
 agent.fbsbx.com
 agents-ru2-cloud.fb.me
+agenturberns.dewww.agenturberns.dewww.facebook.co
 a-geometry.facebook.internet.org
 ageuknorthants.facebook.com
 agewww.facebook.co
@@ -13174,6 +13125,7 @@ alchemy.facebook.com
 alchemy.m.facebook.com
 alchemysystems.facebook.com
 alching.freebasics.com
+alcottwww.facebook.co
 aldebaran-iphone.facebook.com.br
 aleatica.workplace.com
 alectrona.facebook.com
@@ -15360,6 +15312,7 @@ apollo-mod.oculusvr.com
 apollotwitchlax3.facebook.com.au
 apollotwitchox.facebook.com.au
 apol-recruit.accountkit.com
+apomegyesulet.huwww.holnapomegyesulet.huwww.facebook.co
 apormen.facebook.com.br
 apostilaccb.fb.me
 apostillagtuv.messenger.com
@@ -18353,6 +18306,7 @@ apps.prod.facebook.us
 apps.prod.nfree.internet.org
 apps-prod.nginx.h4.internet.org
 apps.pro.qa.cc.internet.org
+appsrentukka.facebook.com.br
 apps-repo.fbsbx.com
 apps-rsv.facebook.com.au
 appsrugrat.facebook.nl
@@ -18542,13 +18496,11 @@ ar01.cgk1.tfbnw.net
 ar01.cpt1.tfbnw.net
 ar01.del1.tfbnw.net
 ar01.den2.tfbnw.net
-ar01.eze1.tfbnw.net
 ar01.fco1.tfbnw.net
 ar01.for1.tfbnw.net
 ar01.fra2.tfbnw.net
 ar01.fra5.tfbnw.net
 ar01.gig4.tfbnw.net
-ar01.gru2.tfbnw.net
 ar01.gua1.tfbnw.net
 ar01.hbe1.tfbnw.net
 ar01.hel3.tfbnw.net
@@ -18569,7 +18521,6 @@ ar01.mad1.tfbnw.net
 ar01.mad2.tfbnw.net
 ar01.man2.tfbnw.net
 ar01.mct1.tfbnw.net
-ar01-mgmt.gru2.tfbnw.net
 ar01-mgmt.kul3.tfbnw.net
 ar01.mia1.tfbnw.net
 ar01.mnl1.tfbnw.net
@@ -18582,7 +18533,6 @@ ar01.poa1.tfbnw.net
 ar01.pxa2.tfbnw.net
 ar01.scl1.tfbnw.net
 ar01.sea1.tfbnw.net
-ar01.sin2.tfbnw.net
 ar01.sjc1.tfbnw.net
 ar01.sof1.tfbnw.net
 ar01.syd2.tfbnw.net
@@ -18593,7 +18543,6 @@ ar02.akl1.tfbnw.net
 ar02.ams2.tfbnw.net
 ar02.ams3.tfbnw.net
 ar02.atl1.tfbnw.net
-ar02.bom1.tfbnw.net
 ar02.ccu1.tfbnw.net
 ar02.ccu2.tfbnw.net
 ar02.cdg4.tfbnw.net
@@ -18602,13 +18551,11 @@ ar02.cpt1.tfbnw.net
 ar02.del1.tfbnw.net
 ar02.den2.tfbnw.net
 ar02.doh1.tfbnw.net
-ar02.eze1.tfbnw.net
 ar02.fco1.tfbnw.net
 ar02.fml1.tfbnw.net
 ar02.for1.tfbnw.net
 ar02.fra2.tfbnw.net
 ar02.fra5.tfbnw.net
-ar02.gru2.tfbnw.net
 ar02.gua1.tfbnw.net
 ar02.hbe1.tfbnw.net
 ar02.hel3.tfbnw.net
@@ -18640,7 +18587,6 @@ ar02.pnq1.tfbnw.net
 ar02.pxa2.tfbnw.net
 ar02.scl1.tfbnw.net
 ar02.sea1.tfbnw.net
-ar02.sin2.tfbnw.net
 ar02.sjc1.tfbnw.net
 ar02.sof1.tfbnw.net
 ar02.syd2.tfbnw.net
@@ -18650,7 +18596,6 @@ ar02.xxe1.tfbnw.net
 ar02.yyz1.tfbnw.net
 ar03.atl1.tfbnw.net
 ar03.bog2.tfbnw.net
-ar03.eze1.tfbnw.net
 ar03.for1.tfbnw.net
 ar03.iad3.tfbnw.net
 ar03.ist1.tfbnw.net
@@ -18659,7 +18604,6 @@ ar03.mia1.tfbnw.net
 ar03.mrs2.tfbnw.net
 ar03.mxp1.tfbnw.net
 ar03.nrt1.tfbnw.net
-ar03.ord5.tfbnw.net
 ar03.otp1.tfbnw.net
 ar03.pnq1.tfbnw.net
 ar03.poa1.tfbnw.net
@@ -18672,13 +18616,11 @@ ar03.vie1.tfbnw.net
 ar04.atl1.tfbnw.net
 ar04.bkk1.tfbnw.net
 ar04.bog2.tfbnw.net
-ar04.eze1.tfbnw.net
 ar04.for1.tfbnw.net
 ar04.gig4.tfbnw.net
 ar04.iad3.tfbnw.net
 ar04.ist1.tfbnw.net
 ar04.lga1.tfbnw.net
-ar04.lim1.tfbnw.net
 ar04.mia1.tfbnw.net
 ar04.mrs2.tfbnw.net
 ar04.mxp1.tfbnw.net
@@ -18942,6 +18884,7 @@ aring.com.hkfocus.uho.com.twear.com.twelderlysd.comdrhearing.comhkhearingspeech.
 aring.comhkhearingspeech.comepaper.ntuh.govphonak.com.hkodcb.org.hkhearingaids.com.hkweb2.ctsh.hcc.edu.tw.stu98erdo.ccdharmazen.orgpubu.com.twzh.wikipedia.org.wiki.facebook.co
 aringspeech.comepaper.ntuh.govphonak.com.hkodcb.org.hkhearingaids.com.hkweb2.ctsh.hcc.edu.tw.stu98erdo.ccdharmazen.orgpubu.com.twzh.wikipedia.org.wiki.facebook.co
 ar.internalfb.com
+arinthiansitesinaugustwww.facebook.co
 arionbank.workplace.com
 arion-br.br.xsec.internet.org
 ar.i.org
@@ -19453,6 +19396,7 @@ att.my.yahoo.messenger.com
 atts-api2proms.facebook.co.th
 attune.freebasics.com
 attvisitorwireless.internet.org
+aturel-pilat.frwww.facebook.co
 atwdb.workplace.com
 atwww.facebook.at
 atwww.facebook.co
@@ -19487,6 +19431,7 @@ au.freebasics.com
 aufseinerfacebook-seiteunterwww.facebook.de
 augustwww.facebook.co
 aulavirtual2016.fburl.com
+aulinwww.facebook.co
 au.messenger.com
 aum.internet.org
 aumnetumnets.facebook.com.br
@@ -19712,6 +19657,7 @@ auth.oculus.university
 auth.oculusvr.com
 author.freebasics.com
 author.internet.org
+authority.gov.mtwww.maltamedicineslist.comwww.facebook.co
 author-worldbank-prod.internet.org
 auth.prod.oculus.com
 auth.providers.facebook.cl
@@ -20210,6 +20156,7 @@ azzatssins.internet.org
 b003.fma.fb.me
 b02b.workplace.com
 b02.freebasics.com
+b062da87-cc16-4f68-b290-07cb4561b4a4-netseer-ipaddr-assoc.xz.fbcdn.net
 b0bdev-platform-lookaside.fbsbx.com
 b0b.facebook.com.co
 b0b.fbsbx.com
@@ -20220,6 +20167,7 @@ b1366e6b-f721-42f7-8963-8edbd2bb1930-netseer-ipaddr-assoc.xz.fbcdn.net
 b13980d4-7401-45d3-8fbf-5628175b279a-netseer-ipaddr-assoc.xz.fbcdn.net
 b142cef2-9ac6-48a7-968e-c402c2d96d77-netseer-ipaddr-assoc.xz.fbcdn.net
 b155d12588cb4d92b3f1270977a6dc26.fb.me
+b15dc556-bec5-47aa-ad53-0fd8987ef858-netseer-ipaddr-assoc.xz.fbcdn.net
 b1.accountkit.com
 b1b.facebook.org.uk
 b1blibrary-platform-lookaside.fbsbx.com
@@ -20260,6 +20208,7 @@ b3living.facebook.com
 b3living.workplace.com
 b45f82c7-bf24-4c56-8db2-8fe084497349-netseer-ipaddr-assoc.xz.fbcdn.net
 b46d54db-912e-4c9c-9120-91bb627eb0c9-netseer-ipaddr-assoc.xz.fbcdn.net
+b49e64c6-dcf2-4865-923a-bb4198a15cac-netseer-ipaddr-assoc.xz.fbcdn.net
 b4ad6ad0-68e4-42c9-a7d3-636af9f57666-netseer-ipaddr-assoc.xz.fbcdn.net
 b4d8a339cascorps9locals8authcorps9locals8.facebook.org.uk
 b4e7a5fe-136b-4e6d-920a-c1e638bc6964-netseer-ipaddr-assoc.xz.fbcdn.net
@@ -20301,6 +20250,7 @@ b7.oculusvr.com
 b814aefc-3045-4354-b24a-871d5cf96712-netseer-ipaddr-assoc.xz.fbcdn.net
 b831f154-9616-488d-a490-cbe1af84a725-netseer-ipaddr-assoc.xz.fbcdn.net
 b83aap1i.dns.facebook.com
+b84a9f87-cd7d-48c5-affa-bc9608570638-netseer-ipaddr-assoc.xz.fbcdn.net
 b852e581-37ed-4732-8b0b-82788efa3346-netseer-ipaddr-assoc.xz.fbcdn.net
 b85945b3-51d5-4914-952b-8fca671fde62-netseer-ipaddr-assoc.xz.fbcdn.net
 b8619e3d-426f-46f9-9169-f0730587b40d-netseer-ipaddr-assoc.xz.fbcdn.net
@@ -20308,6 +20258,7 @@ b869c8bf-792f-48ed-bb21-779e934d3d9e-netseer-ipaddr-assoc.xz.fbcdn.net
 b8b2e583-85c4-49ff-ab72-9990106aec90-netseer-ipaddr-assoc.xz.fbcdn.net
 b8fbea7b-fa53-46a7-a5ec-0c2f09091e10-netseer-ipaddr-assoc.xz.fbcdn.net
 b8l4okxr.dns.facebook.com
+b90bbe9d-38e3-4b38-be4e-cad1bdc13166-netseer-ipaddr-assoc.xz.fbcdn.net
 b919b965-df9e-4cff-8e3c-2a09e79e236d-netseer-ipaddr-assoc.xz.fbcdn.net
 b95d02dd177efcc6318db4e0c534d42a.fb.me
 b9b190a7-a87d-4b19-9207-f256c18ce452-netseer-ipaddr-assoc.xz.fbcdn.net
@@ -20786,6 +20737,7 @@ bb06.lis1.tfbnw.net
 bb08.lhr8.tfbnw.net
 bb12.dfw1.tfbnw.net
 bb13.lax4.tfbnw.net
+bb3fc2ac-f604-496a-baf8-738cf2bc9c6f-netseer-ipaddr-assoc.xz.fbcdn.net
 bb51154f-a5f2-4890-aabe-d31839825224-netseer-ipaddr-assoc.xz.fbcdn.net
 bb61793a-938c-454a-8e2f-957148d398d8-netseer-ipaddr-assoc.xz.fbcdn.net
 bbailog.facebook.com.br
@@ -20841,6 +20793,7 @@ bc2082a4b608b315907b6d4a245deb06.fb.me
 bc268536-3f9b-460c-95f3-07521a96b12f-netseer-ipaddr-assoc.xz.fbcdn.net
 bc55af12-5324-451a-b595-b8eb5acc731c-netseer-ipaddr-assoc.xz.fbcdn.net
 bc59-1.freebasics.com
+bc5bc74e-940c-4a9c-8d32-420dc26eab35-netseer-ipaddr-assoc.xz.fbcdn.net
 bc87.accountkit.com
 bca.facebook.com
 bcanberra-datingg.facebook.de
@@ -20885,6 +20838,7 @@ bd-gem-hub-unicore-io.0.internet.org
 bdhc.workplace.com
 bdh-rd.freebasics.com
 bdindiguldhanabalang.facebook.se
+bdivide-build.com.auwww.facebook.co
 bd-mama-hub-unicore-io.0.internet.org
 bd.m.workplace.com
 bdnc.workplace.com
@@ -20903,6 +20857,7 @@ be14.bb04.fml1.tfbnw.net
 be47fb01-fcad-44a8-9972-def28af72b84-netseer-ipaddr-assoc.xz.fbcdn.net
 be704.bb03.pxa2.tfbnw.net
 be750f20-437f-4e71-9c9c-ea72d691ac1f-netseer-ipaddr-assoc.xz.fbcdn.net
+be7cbdb0-c970-4650-8d00-323f5c0a892d-netseer-ipaddr-assoc.xz.fbcdn.net
 beaconacademyph.fb.me
 beaconacademyph.workplace.com
 beaconhealthsystem.facebook.com
@@ -21467,6 +21422,7 @@ b.fb.je
 b.fbjs.facebook.com
 b.fb.me
 b.fbsbx.com
+bfccb44c-4057-49e8-93eb-149e3b5a1a6f-netseer-ipaddr-assoc.xz.fbcdn.net
 bfc.kustomer.com
 bfddnwww.facebook.de
 bfeltsocuteog.facebook.com.br
@@ -21748,6 +21704,7 @@ bh-voitsberg.internalfb.com
 biaiwonjusighoesa679.workplace.com
 biancagr.messenger.com
 bianca-tetteroo.facebook.nl
+bianco.itwww.facebook.co
 biaozhialfatihtalkingpen.fb.me
 biaozhi.fb.me
 biblesociety.facebook.com
@@ -23250,7 +23207,10 @@ bwinccom598.workplace.com
 bwingnutg.facebook.se
 bwitteps.facebook.de
 bwk-berlin.dewww.bwk-berlin.dewww.facebook.de
+b-www.facebook.co
 b-www.facebook.com
+b-www.facebook.com.br
+bwww.facebook.com.br
 b-www-fallback.facebook.com
 b-www.messenger.com
 bwwww.facebook.de
@@ -23301,6 +23261,7 @@ c21anz.m.facebook.com
 c22552a9-ae7e-4d63-baa6-902769449b15-netseer-ipaddr-assoc.xz.fbcdn.net
 c230f450-4f7f-4c75-b646-7b25bf6d1bfb-netseer-ipaddr-assoc.xz.fbcdn.net
 c240dd76-7cfc-4586-b172-9f12a91c0757-netseer-ipaddr-assoc.xz.fbcdn.net
+c257e4da-c03b-4cf5-9544-8a0fcc27c711-netseer-ipaddr-assoc.xz.fbcdn.net
 c2b08-123.fburl.com
 c2b2.facebook.com.ve
 c2c41877-5b69-4db0-83ab-ac6cef8e729b-netseer-ipaddr-assoc.xz.fbcdn.net
@@ -23320,6 +23281,7 @@ c443a0e7-341c-403a-aa55-e3d975edd155-netseer-ipaddr-assoc.xz.fbcdn.net
 c455aa06-c9a4-495c-90fb-0177b6a0ae2e-netseer-ipaddr-assoc.xz.fbcdn.net
 c462cde3-fec7-45ad-9262-ec63daa72970-netseer-ipaddr-assoc.xz.fbcdn.net
 c4681209.fbsbx.com
+c47feb4d-2b29-4e3e-ad7b-c06c7d35ebdf-netseer-ipaddr-assoc.xz.fbcdn.net
 c4e03c4b-a2cf-4d2e-9201-1f5e1bb94277-netseer-ipaddr-assoc.xz.fbcdn.net
 c4eba4fe-ef8d-4e1a-a91b-7ca4554d075f-netseer-ipaddr-assoc.xz.fbcdn.net
 c4.internet.org
@@ -23344,9 +23306,11 @@ c6ebcaca-7a60-4312-a5f9-43658edf9766-netseer-ipaddr-assoc.xz.fbcdn.net
 c719-71-22.fburl.com
 c71c5eb1-1abd-42ad-be4e-d7f426522862-netseer-ipaddr-assoc.xz.fbcdn.net
 c7268641-c288-4c7d-8495-0853ba22b58f-netseer-ipaddr-assoc.xz.fbcdn.net
+c7345bea-6cb2-4b31-a694-c1b80853f0dc-netseer-ipaddr-assoc.xz.fbcdn.net
 c75186bd-1734-4d86-adc0-6f43dff07486-netseer-ipaddr-assoc.xz.fbcdn.net
 c75967082.internet.org
 c77937f7-f8e0-4616-b452-b0c587222b06-netseer-ipaddr-assoc.xz.fbcdn.net
+c7a93b01-3aad-450d-8663-aa0609449c46-netseer-ipaddr-assoc.xz.fbcdn.net
 c7b345ea-a18d-428a-ab88-614c20ec8bee-netseer-ipaddr-assoc.xz.fbcdn.net
 c7ge.accountkit.com
 c84375b9-925c-4dbb-a721-4b7d2e3a15a9-netseer-ipaddr-assoc.xz.fbcdn.net
@@ -23784,6 +23748,7 @@ cawww.facebook.co
 cb384b82-ef35-463d-91a5-b837ed73965e-netseer-ipaddr-assoc.xz.fbcdn.net
 cb4408e3-915c-4353-9495-5e43e7dfad95-netseer-ipaddr-assoc.xz.fbcdn.net
 cb4fd84c-7e26-4100-8784-4399236b1bd8-netseer-ipaddr-assoc.xz.fbcdn.net
+cb83674e-04f3-4acb-8353-f7d8347e01a7-netseer-ipaddr-assoc.xz.fbcdn.net
 cbctexas.workplace.com
 cbc.workplace.com
 cbdsky.facebook.com.ve
@@ -24114,6 +24079,7 @@ cecyt10.internet.org
 cecyt14.internalfb.com
 cecyt2.internet.org
 cecyt9.workplace.com
+ce.czwww.facebook.co
 ced2018.fbsbx.com
 cedars.fburl.com
 cederwall.facebook.com.br
@@ -24501,8 +24467,15 @@ chat.oculus.university
 chat.oculusvr.com
 chat-staging.freebasics.com
 chatsupport.workplace.com
+chatta.9bafdd6a-1595-496d-8fb4-c4635925550a-netseer-ipaddr-assoc.xz.fbcdn.net
+chattanooga-corp-wired-dcgkrjvdnq.9bafdd6a-1595-496d-8fb4-c4635925550a-netseer-ipaddr-assoc.xz.fbcdn.net
+chatt-dn.9bafdd6a-1595-496d-8fb4-c4635925550a-netseer-ipaddr-assoc.xz.fbcdn.net
+chatterbox30.9bafdd6a-1595-496d-8fb4-c4635925550a-netseer-ipaddr-assoc.xz.fbcdn.net
+chatterbox.9bafdd6a-1595-496d-8fb4-c4635925550a-netseer-ipaddr-assoc.xz.fbcdn.net
+chattervm.9bafdd6a-1595-496d-8fb4-c4635925550a-netseer-ipaddr-assoc.xz.fbcdn.net
 chat.tfbnw.com
 chat.tfbnw.net
+chatthairan.9bafdd6a-1595-496d-8fb4-c4635925550a-netseer-ipaddr-assoc.xz.fbcdn.net
 chat.thefacebook.asia
 chat.thefacebook.at
 chat.thefacebook.co.in
@@ -24522,6 +24495,7 @@ chat.thefacebook.mx
 chat.thefacebook.org.uk
 chat.thefacebook.tv
 chat.usage.m.facebook.co.id
+chatuzt.9bafdd6a-1595-496d-8fb4-c4635925550a-netseer-ipaddr-assoc.xz.fbcdn.net
 chat.voicestesting.com
 chat.whatsapp.am
 chat.whatsapp.co.kr
@@ -24533,11 +24507,13 @@ chat.whatsapp.kr
 chat.whatsapp.me.uk
 chat.whatsapp.org.uk
 chat.whatsapp.tw
+chatwindow.9bafdd6a-1595-496d-8fb4-c4635925550a-netseer-ipaddr-assoc.xz.fbcdn.net
 chat.wk.pl
 chat.workplace.com
 chatwww.facebook.co
 chaty-widget-i.facebook.be
 chatzim.fb.me
+chaucer.9bafdd6a-1595-496d-8fb4-c4635925550a-netseer-ipaddr-assoc.xz.fbcdn.net
 chaychay.accountkit.com
 chayut4299.oculusvr.com
 chcc.nsw.gov.auwww.ourlivingcoast.com.auwww.facebook.com.au
@@ -25114,6 +25090,7 @@ cityclick.workplace.com
 citycountydenver-prod.workplace.com
 cityfit-warszawa.internet.org
 cityguides.fb.com
+cityinternationalwww.facebook.co
 city-pantry-1.oculusvr.com
 citytech.fburl.com
 citytechglobal.workplace.com
@@ -25139,6 +25116,7 @@ ckenwww.facebook.de
 cker.dewww.facebook.de
 ck.freebasics.com
 cklementsblog.fb.me
+c.krwww.facebook.co
 c.kustomer.com
 claims.oculusvr.com
 cla.internet.org
@@ -25352,8 +25330,10 @@ cloud-x2p-edge-http-shv-01-dus1.facebook.com
 cloud-x2p-edge-http-shv-01-eze1.facebook.com
 cloud-x2p-edge-http-shv-01-fco2.facebook.com
 cloud-x2p-edge-http-shv-01-fml1.facebook.com
+cloud-x2p-edge-http-shv-01-fml20.facebook.com
 cloud-x2p-edge-http-shv-01-fmx1.facebook.com
 cloud-x2p-edge-http-shv-01-for2.facebook.com
+cloud-x2p-edge-http-shv-01-fra3.facebook.com
 cloud-x2p-edge-http-shv-01-fra5.facebook.com
 cloud-x2p-edge-http-shv-01-gig4.facebook.com
 cloud-x2p-edge-http-shv-01-gmp1.facebook.com
@@ -25568,6 +25548,7 @@ cmon-checkout-edge-shv-01-pmo1.facebook.com
 cmon-checkout-edge-shv-01-pnq1.facebook.com
 cmon-checkout-edge-shv-01-poa1.facebook.com
 cmon-checkout-edge-shv-01-qro1.facebook.com
+cmon-checkout-edge-shv-01-scl2.facebook.com
 cmon-checkout-edge-shv-01-sea1.facebook.com
 cmon-checkout-edge-shv-01-sin11.facebook.com
 cmon-checkout-edge-shv-01-sin2.facebook.com
@@ -26262,6 +26243,7 @@ comwww.facebook.co.id
 comwww.facebook.com.au
 comwww.facebook.com.br
 comwww.facebook.it
+comwww.imdb.comwww.ebay.comwww.facebook.co
 com.xiaomi.smarthome.facebook.sd
 conair002.workplace.com
 conair541.workplace.com
@@ -27201,6 +27183,7 @@ crazytom666.workplace.com
 crbc.workplace.com
 crbwall.freebasics.com
 crc.internet.org
+crcscoficialwww.facebook.com.br
 crc.workplace.com
 creamariacristiana.facebook.it
 crea-member.workplace.com
@@ -27451,8 +27434,16 @@ csakegymondat.messenger.com
 csa-preprod.accountkit.com
 csatheseparatists.freebasics.com
 csbtestingipfacts.fb.me
+csc101.9bafdd6a-1595-496d-8fb4-c4635925550a-netseer-ipaddr-assoc.xz.fbcdn.net
+csc-10build1066c69c95328369dfret.9bafdd6a-1595-496d-8fb4-c4635925550a-netseer-ipaddr-assoc.xz.fbcdn.net
+csc-10dev106687042bab4f24953devpos.9bafdd6a-1595-496d-8fb4-c4635925550a-netseer-ipaddr-assoc.xz.fbcdn.net
 csc-10dev107248c041dc9582902devpos.9bafdd6a-1595-496d-8fb4-c4635925550a-netseer-ipaddr-assoc.xz.fbcdn.net
+csc-10dev991b578bff90b0a6dfdevret.9bafdd6a-1595-496d-8fb4-c4635925550a-netseer-ipaddr-assoc.xz.fbcdn.net
+csc-10report13af122e423ecdeeddevecom.9bafdd6a-1595-496d-8fb4-c4635925550a-netseer-ipaddr-assoc.xz.fbcdn.net
+csc-10rptbuild279b0c9ec899699epos.9bafdd6a-1595-496d-8fb4-c4635925550a-netseer-ipaddr-assoc.xz.fbcdn.net
+csc217-211-jenk.9bafdd6a-1595-496d-8fb4-c4635925550a-netseer-ipaddr-assoc.xz.fbcdn.net
 cscc.facebook.co
+cscie2x.9bafdd6a-1595-496d-8fb4-c4635925550a-netseer-ipaddr-assoc.xz.fbcdn.net
 csc-test.facebook.com
 cs-cz.c.facebook.com
 cs-cz.el-gr.fb.me
@@ -28187,6 +28178,7 @@ cy-gb.workplace.com
 cygnus-vmw.facebook.com.ve
 cyhwyyx.oculusvr.com
 cz.accountkit.com
+czekwww.facebook.co
 cz.facebook.co
 cz.fb.me
 cz.freebasics.com
@@ -28303,6 +28295,7 @@ d72601b7-7253-4129-84a0-f0cd70f6d8df-netseer-ipaddr-assoc.xz.fbcdn.net
 d758e985-e85c-44c0-bb98-549fed4fab4f-netseer-ipaddr-assoc.xz.fbcdn.net
 d7644177-fed6-4ec0-9a32-24f05c534f23-netseer-ipaddr-assoc.xz.fbcdn.net
 d766dac2-9e95-4c21-bd1b-ef82a26ec397-netseer-ipaddr-assoc.xz.fbcdn.net
+d76f73dc-8806-49d4-a318-e6024d37aa21-netseer-ipaddr-assoc.xz.fbcdn.net
 d7b6c897-2104-46bb-bfd7-7d7b0be7c18f-netseer-ipaddr-assoc.xz.fbcdn.net
 d7b73869-b8d0-480a-9454-8fdc792c9f17-netseer-ipaddr-assoc.xz.fbcdn.net
 d7c1ab55-6227-4f74-bb82-4c8b6ec10923-netseer-ipaddr-assoc.xz.fbcdn.net
@@ -29165,6 +29158,7 @@ demammon.facebook.se
 demanmen4guysloper.facebook.com.br
 demant.facebook.com
 demant.workplace.com
+demelloweloper.facebook.com.br
 de.messenger.com
 deminisanastyboy.facebook.it
 demi.oculusvr.com
@@ -29309,6 +29303,7 @@ despiertaimbecilphone.facebook.de
 dessous-gummersbach.dewww.facebook.de
 destinysacs.www-0-78.accountkit.com
 desubnet-226lopers.facebook.com.br
+desunburntpers.facebook.com.br
 desuranetoper.facebook.com.br
 de.sustainability.fb.com
 deswallpaper-z-p4-cdn.fbsbx.com
@@ -29496,6 +29491,7 @@ develdooer.facebook.com.br
 develdorienpers.facebook.com.br
 develdownload14pers.facebook.se
 develdunia-panasper.facebook.de
+develedcs-mainz.facebook.com.br
 develeliteamateurzones.facebook.de
 develelysburg.facebook.nl
 develfabianperezrs.facebook.nl
@@ -30348,6 +30344,7 @@ develowhippeter.facebook.com.br
 develoxlsbj2011.facebook.com.au
 develozht-adsenser.facebook.fr
 develozvarager.facebook.com.br
+develozzyzxrs.facebook.com.br
 develpc1076per.facebook.de
 develpc6099pers.facebook.nl
 develpc9per.facebook.se
@@ -30787,6 +30784,7 @@ devsite.facebook.ca
 devsonicmobileopers.facebook.se
 devsql.freebasics.com
 dev.standalone.xwf.internet.org
+devstcspers.facebook.com.br
 devtareauper.facebook.com.br
 devteam009.workplace.com
 dev.thefacebook.asia
@@ -30919,27 +30917,97 @@ dha-197-41.workplace.com
 dha-45-67.workplace.com
 dha-8-66.accountkit.com
 dhalfasugarlopers.facebook.se
+dhall54.chattec.9bafdd6a-1595-496d-8fb4-c4635925550a-netseer-ipaddr-assoc.xz.fbcdn.net
+dhalmar1.chatsvcagg.9bafdd6a-1595-496d-8fb4-c4635925550a-netseer-ipaddr-assoc.xz.fbcdn.net
+dhalmar1.chatsvr-beta.9bafdd6a-1595-496d-8fb4-c4635925550a-netseer-ipaddr-assoc.xz.fbcdn.net
+dhalmar1.chatterbox17.9bafdd6a-1595-496d-8fb4-c4635925550a-netseer-ipaddr-assoc.xz.fbcdn.net
+dhalmar1.chatterbox51.9bafdd6a-1595-496d-8fb4-c4635925550a-netseer-ipaddr-assoc.xz.fbcdn.net
 dhalmar1.chatvidusa.9bafdd6a-1595-496d-8fb4-c4635925550a-netseer-ipaddr-assoc.xz.fbcdn.net
+dhalpickup.chatwidget-test2.9bafdd6a-1595-496d-8fb4-c4635925550a-netseer-ipaddr-assoc.xz.fbcdn.net
+dhamana.chattanooga.9bafdd6a-1595-496d-8fb4-c4635925550a-netseer-ipaddr-assoc.xz.fbcdn.net
+dhamana.chattec.9bafdd6a-1595-496d-8fb4-c4635925550a-netseer-ipaddr-assoc.xz.fbcdn.net
+dhamark.chattanoogatent-nashville.9bafdd6a-1595-496d-8fb4-c4635925550a-netseer-ipaddr-assoc.xz.fbcdn.net
+dhamark.chatterbox15.9bafdd6a-1595-496d-8fb4-c4635925550a-netseer-ipaddr-assoc.xz.fbcdn.net
+dhamark.chatterbox52.9bafdd6a-1595-496d-8fb4-c4635925550a-netseer-ipaddr-assoc.xz.fbcdn.net
+dhamark.chatv2-gateway.9bafdd6a-1595-496d-8fb4-c4635925550a-netseer-ipaddr-assoc.xz.fbcdn.net
 dhamark.chaucer.9bafdd6a-1595-496d-8fb4-c4635925550a-netseer-ipaddr-assoc.xz.fbcdn.net
+dham.chatsvr-beta.9bafdd6a-1595-496d-8fb4-c4635925550a-netseer-ipaddr-assoc.xz.fbcdn.net
 dham.chatterbox51.9bafdd6a-1595-496d-8fb4-c4635925550a-netseer-ipaddr-assoc.xz.fbcdn.net
+dham.chatter-pca.9bafdd6a-1595-496d-8fb4-c4635925550a-netseer-ipaddr-assoc.xz.fbcdn.net
+dhameis-bo.chatsvr-beta.9bafdd6a-1595-496d-8fb4-c4635925550a-netseer-ipaddr-assoc.xz.fbcdn.net
+dhameis-bo.chatterbox19.9bafdd6a-1595-496d-8fb4-c4635925550a-netseer-ipaddr-assoc.xz.fbcdn.net
 dhameis-bo.chatvip.9bafdd6a-1595-496d-8fb4-c4635925550a-netseer-ipaddr-assoc.xz.fbcdn.net
+dhameis.chatterbird.9bafdd6a-1595-496d-8fb4-c4635925550a-netseer-ipaddr-assoc.xz.fbcdn.net
+dhameis.chatterbox26.9bafdd6a-1595-496d-8fb4-c4635925550a-netseer-ipaddr-assoc.xz.fbcdn.net
+dhameis.chatterbox48.9bafdd6a-1595-496d-8fb4-c4635925550a-netseer-ipaddr-assoc.xz.fbcdn.net
+dhameis.chatterbox4.9bafdd6a-1595-496d-8fb4-c4635925550a-netseer-ipaddr-assoc.xz.fbcdn.net
+dhameis.chatvidusa.9bafdd6a-1595-496d-8fb4-c4635925550a-netseer-ipaddr-assoc.xz.fbcdn.net
+dhameis.chaulasociados.9bafdd6a-1595-496d-8fb4-c4635925550a-netseer-ipaddr-assoc.xz.fbcdn.net
 dhami.chatsvr.9bafdd6a-1595-496d-8fb4-c4635925550a-netseer-ipaddr-assoc.xz.fbcdn.net
+dhami.chatterbox29.9bafdd6a-1595-496d-8fb4-c4635925550a-netseer-ipaddr-assoc.xz.fbcdn.net
+dhami.chatui-dev2.9bafdd6a-1595-496d-8fb4-c4635925550a-netseer-ipaddr-assoc.xz.fbcdn.net
+dhami.chaturbate.9bafdd6a-1595-496d-8fb4-c4635925550a-netseer-ipaddr-assoc.xz.fbcdn.net
+dhami.chatvendas.9bafdd6a-1595-496d-8fb4-c4635925550a-netseer-ipaddr-assoc.xz.fbcdn.net
 dhamma.chatter-pca.9bafdd6a-1595-496d-8fb4-c4635925550a-netseer-ipaddr-assoc.xz.fbcdn.net
+dhamma.chaturbate.9bafdd6a-1595-496d-8fb4-c4635925550a-netseer-ipaddr-assoc.xz.fbcdn.net
+dhammapada.chatter.9bafdd6a-1595-496d-8fb4-c4635925550a-netseer-ipaddr-assoc.xz.fbcdn.net
 dhammapada.chatterbox47.9bafdd6a-1595-496d-8fb4-c4635925550a-netseer-ipaddr-assoc.xz.fbcdn.net
+dhammapada.chatterbox-mdn-webcgi-it.9bafdd6a-1595-496d-8fb4-c4635925550a-netseer-ipaddr-assoc.xz.fbcdn.net
 dhammaweekly.internet.org
+dham-yatra.chatterbox34.9bafdd6a-1595-496d-8fb4-c4635925550a-netseer-ipaddr-assoc.xz.fbcdn.net
+dham-yatra.chatterbox43.9bafdd6a-1595-496d-8fb4-c4635925550a-netseer-ipaddr-assoc.xz.fbcdn.net
+dham-yatra.chatterbox7.9bafdd6a-1595-496d-8fb4-c4635925550a-netseer-ipaddr-assoc.xz.fbcdn.net
+dhana.chatul.9bafdd6a-1595-496d-8fb4-c4635925550a-netseer-ipaddr-assoc.xz.fbcdn.net
+dhana.chatventas.9bafdd6a-1595-496d-8fb4-c4635925550a-netseer-ipaddr-assoc.xz.fbcdn.net
+dhana.chauvin.9bafdd6a-1595-496d-8fb4-c4635925550a-netseer-ipaddr-assoc.xz.fbcdn.net
 dhanamfinancials.chattanoogapublishing.9bafdd6a-1595-496d-8fb4-c4635925550a-netseer-ipaddr-assoc.xz.fbcdn.net
 dhanamfinancials.chatterbox-exp-uat.9bafdd6a-1595-496d-8fb4-c4635925550a-netseer-ipaddr-assoc.xz.fbcdn.net
+dhanamfinancials.chauchas.9bafdd6a-1595-496d-8fb4-c4635925550a-netseer-ipaddr-assoc.xz.fbcdn.net
+dhanamfinancialsolutions.chatsvcagg-msft.9bafdd6a-1595-496d-8fb4-c4635925550a-netseer-ipaddr-assoc.xz.fbcdn.net
 dhanamfinancialsolutions.chatterbox48.9bafdd6a-1595-496d-8fb4-c4635925550a-netseer-ipaddr-assoc.xz.fbcdn.net
 dhananjaymaharaj.fb.me
+dhanaruanursing.chatsvcagg-df.9bafdd6a-1595-496d-8fb4-c4635925550a-netseer-ipaddr-assoc.xz.fbcdn.net
+dhanaruanursing.chattahoochee.9bafdd6a-1595-496d-8fb4-c4635925550a-netseer-ipaddr-assoc.xz.fbcdn.net
+dhanaruanursing.chatterbox35.9bafdd6a-1595-496d-8fb4-c4635925550a-netseer-ipaddr-assoc.xz.fbcdn.net
+dhanaruanursing.chatui-review1.9bafdd6a-1595-496d-8fb4-c4635925550a-netseer-ipaddr-assoc.xz.fbcdn.net
 dhanashreenew.chatsvcagg-int.9bafdd6a-1595-496d-8fb4-c4635925550a-netseer-ipaddr-assoc.xz.fbcdn.net
+dhanashreenew.chatterbox60.9bafdd6a-1595-496d-8fb4-c4635925550a-netseer-ipaddr-assoc.xz.fbcdn.net
+dhanaula-uat.chatter.9bafdd6a-1595-496d-8fb4-c4635925550a-netseer-ipaddr-assoc.xz.fbcdn.net
+dhanaula-uat.chatterbox27.9bafdd6a-1595-496d-8fb4-c4635925550a-netseer-ipaddr-assoc.xz.fbcdn.net
 dhanaula-uat.chatterbox30.9bafdd6a-1595-496d-8fb4-c4635925550a-netseer-ipaddr-assoc.xz.fbcdn.net
+dhanaula-uat.chatterbox51.9bafdd6a-1595-496d-8fb4-c4635925550a-netseer-ipaddr-assoc.xz.fbcdn.net
+dhanbad.chatterbox14.9bafdd6a-1595-496d-8fb4-c4635925550a-netseer-ipaddr-assoc.xz.fbcdn.net
+dhanbad.chatterbox37.9bafdd6a-1595-496d-8fb4-c4635925550a-netseer-ipaddr-assoc.xz.fbcdn.net
+dhanbad.chattervm.9bafdd6a-1595-496d-8fb4-c4635925550a-netseer-ipaddr-assoc.xz.fbcdn.net
+dhan.chatsworth.9bafdd6a-1595-496d-8fb4-c4635925550a-netseer-ipaddr-assoc.xz.fbcdn.net
 dhan.chatt-dn.9bafdd6a-1595-496d-8fb4-c4635925550a-netseer-ipaddr-assoc.xz.fbcdn.net
+dhan-demo.chatzone.9bafdd6a-1595-496d-8fb4-c4635925550a-netseer-ipaddr-assoc.xz.fbcdn.net
+dhandufoari.chatterbird.9bafdd6a-1595-496d-8fb4-c4635925550a-netseer-ipaddr-assoc.xz.fbcdn.net
+dhandufoari.chatwidget-dev.9bafdd6a-1595-496d-8fb4-c4635925550a-netseer-ipaddr-assoc.xz.fbcdn.net
+dhangadhi.chatty-eel-24.9bafdd6a-1595-496d-8fb4-c4635925550a-netseer-ipaddr-assoc.xz.fbcdn.net
+dhanjal.chatterbox8.9bafdd6a-1595-496d-8fb4-c4635925550a-netseer-ipaddr-assoc.xz.fbcdn.net
 dhanjal.chatvendas.9bafdd6a-1595-496d-8fb4-c4635925550a-netseer-ipaddr-assoc.xz.fbcdn.net
+dhanlaxminew.chatv3.9bafdd6a-1595-496d-8fb4-c4635925550a-netseer-ipaddr-assoc.xz.fbcdn.net
+dhanp.chatterbuzz.9bafdd6a-1595-496d-8fb4-c4635925550a-netseer-ipaddr-assoc.xz.fbcdn.net
+dhanp.chattuionline.9bafdd6a-1595-496d-8fb4-c4635925550a-netseer-ipaddr-assoc.xz.fbcdn.net
+dhansen.chatsvr-beta.9bafdd6a-1595-496d-8fb4-c4635925550a-netseer-ipaddr-assoc.xz.fbcdn.net
+dhanshree.chatterbox53.9bafdd6a-1595-496d-8fb4-c4635925550a-netseer-ipaddr-assoc.xz.fbcdn.net
 dhanshree.chatterbox7.9bafdd6a-1595-496d-8fb4-c4635925550a-netseer-ipaddr-assoc.xz.fbcdn.net
+dhaoprod.chattyvid.9bafdd6a-1595-496d-8fb4-c4635925550a-netseer-ipaddr-assoc.xz.fbcdn.net
+dhap.chatterbox4.9bafdd6a-1595-496d-8fb4-c4635925550a-netseer-ipaddr-assoc.xz.fbcdn.net
+dhapi.chatterbox54.9bafdd6a-1595-496d-8fb4-c4635925550a-netseer-ipaddr-assoc.xz.fbcdn.net
+dhapraxis.chattanoogatruckrepair.9bafdd6a-1595-496d-8fb4-c4635925550a-netseer-ipaddr-assoc.xz.fbcdn.net
+dhaprod.chatterbox59.9bafdd6a-1595-496d-8fb4-c4635925550a-netseer-ipaddr-assoc.xz.fbcdn.net
 dhara-ep-1158.chatthairan.9bafdd6a-1595-496d-8fb4-c4635925550a-netseer-ipaddr-assoc.xz.fbcdn.net
+dharapat-bs.chatter.9bafdd6a-1595-496d-8fb4-c4635925550a-netseer-ipaddr-assoc.xz.fbcdn.net
+dharapat-bs.chauvin.9bafdd6a-1595-496d-8fb4-c4635925550a-netseer-ipaddr-assoc.xz.fbcdn.net
+dharc-gis.chatterbox12.9bafdd6a-1595-496d-8fb4-c4635925550a-netseer-ipaddr-assoc.xz.fbcdn.net
+dharchi.chatterbox23.9bafdd6a-1595-496d-8fb4-c4635925550a-netseer-ipaddr-assoc.xz.fbcdn.net
 dharmacon.internet.org
 dharmawan.chatsvr-integ.9bafdd6a-1595-496d-8fb4-c4635925550a-netseer-ipaddr-assoc.xz.fbcdn.net
 dharmazen.orgpubu.com.twzh.wikipedia.org.wiki.facebook.co
+dhar-ocp-1.chattd.9bafdd6a-1595-496d-8fb4-c4635925550a-netseer-ipaddr-assoc.xz.fbcdn.net
+dhbdrtxrnk.chatting.9bafdd6a-1595-496d-8fb4-c4635925550a-netseer-ipaddr-assoc.xz.fbcdn.net
 dhcp105.facebook.com.br
 dhcp113-80.wk.pl
 dhcp-178-213.m.me
@@ -31482,6 +31550,7 @@ dns.oculus.surgery
 dns.oculus.university
 dns.oculusvr.com
 dns.on.fb.me
+dnsprefix-d6b5f0e3.chatt.9bafdd6a-1595-496d-8fb4-c4635925550a-netseer-ipaddr-assoc.xz.fbcdn.net
 dns.rd.i.org
 dns-reliability.facebook.com
 d.ns.snr.fbcdn.net
@@ -31876,6 +31945,7 @@ dpti15.dns.facebook.com
 dpuntvpuntloppuntr.facebook.com.br
 dpupggloper.facebook.se
 dp-usa.orgwww.facebook.co
+dqs-api-forge.chaucer.9bafdd6a-1595-496d-8fb4-c4635925550a-netseer-ipaddr-assoc.xz.fbcdn.net
 dquinevquinelopquiners.facebook.com.au
 dquotenqueenlopers.facebook.com.br
 dr01.ash7.tfbnw.net
@@ -31906,7 +31976,6 @@ dr02.cln1.tfbnw.net
 dr02.eag1.tfbnw.net
 dr02.frc3.tfbnw.net
 dr02.ftw1.tfbnw.net
-dr02.gtn1.tfbnw.net
 dr02.ldc1.tfbnw.net
 dr02.lla1.tfbnw.net
 dr02.maz1.tfbnw.net
@@ -31940,7 +32009,6 @@ dr04.atn3.tfbnw.net
 dr04.cln2.tfbnw.net
 dr04.eag2.tfbnw.net
 dr04.ftw2.tfbnw.net
-dr04.gtn2.tfbnw.net
 dr04.ldc5.tfbnw.net
 dr04.nao2.tfbnw.net
 dr04.ncg2.tfbnw.net
@@ -32145,6 +32213,7 @@ dsa.internalfb.com
 dsb.facebook.dk
 dsc.chem.cinyour0-4-4.accountkit.com
 dscvr.i.org
+dsdining-app-prod.chattesting.9bafdd6a-1595-496d-8fb4-c4635925550a-netseer-ipaddr-assoc.xz.fbcdn.net
 dsheaeloper.facebook.com.br
 dsikorea769.workplace.com
 ds.internet.org
@@ -32417,6 +32486,7 @@ e99.i.org
 e9ca8d4109f5aa2eb5edd321cb23ade0.fb.me
 e9dp.accountkit.com
 e9.whatsapp.net
+ea1378ba-e763-4902-8aa8-3d1fc43d3846-netseer-ipaddr-assoc.xz.fbcdn.net
 ea3b7fb1-3d1e-4f40-8f5a-f89794cbf6b1-netseer-ipaddr-assoc.xz.fbcdn.net
 ea452734-4498-4720-98f9-4f2db0ee338a-netseer-ipaddr-assoc.xz.fbcdn.net
 ea803ede-af77-4b4e-9a6c-4e4045a491fb-netseer-ipaddr-assoc.xz.fbcdn.net
@@ -32446,6 +32516,7 @@ eas-hospiz.dewww.facebook.de
 easia-travel.facebook.com
 easia-travel.m.facebook.com
 easia-travel.workplace.com
+east-asia-5.chatu.9bafdd6a-1595-496d-8fb4-c4635925550a-netseer-ipaddr-assoc.xz.fbcdn.net
 eastern60fsc.alpha0-36.www-0-78.accountkit.com
 easternhealth.workplace.com
 east.facebook.com
@@ -32891,6 +32962,7 @@ ebaystrategiespi.facebook.com.br
 ebay-support.internet.org
 ebayukb.internet.org
 ebcloud.workplace.com
+ebe670f2-48fd-4e8a-bb43-84d390a06323-netseer-ipaddr-assoc.xz.fbcdn.net
 ebelediye.alumni.grid.facebook.com
 eb.facebook.co
 ebg.internet.org
@@ -32954,6 +33026,7 @@ e-calais.gouv.frl.facebook.comla-comte.frbethunebruay.frlm.facebook.co
 ecard.accountkit.com
 ecbbemtnvd.workplace.com
 ecclesia.facebook.com
+eccloud.chaucotaco.9bafdd6a-1595-496d-8fb4-c4635925550a-netseer-ipaddr-assoc.xz.fbcdn.net
 eccouncil.workplace.com
 ecdrappeals.fb.me
 ece.accountkit.com
@@ -33020,6 +33093,7 @@ edege-chat.messenger.com
 edelman.facebook.com
 edelman.workplace.com
 edelweiss.facebook.com
+edemolitionproject.comwww.facebook.co
 eden.mononoke.tests.integration.facebook.be
 edenred.facebook.com
 e.dewww.facebook.co
@@ -33434,6 +33508,7 @@ edge-dgw-mini-shv-02-cgk1.facebook.com
 edge-dgw-mini-shv-02-del1.facebook.com
 edge-dgw-mini-shv-02-del2.facebook.com
 edge-dgw-mini-shv-02-dfw5.facebook.com
+edge-dgw-mini-shv-02-eze1.facebook.com
 edge-dgw-mini-shv-02-fra3.facebook.com
 edge-dgw-mini-shv-02-gig4.facebook.com
 edge-dgw-mini-shv-02-gru1.facebook.com
@@ -33609,6 +33684,7 @@ edge-dgw-shv-01-cpt1.facebook.com
 edge-dgw-shv-01-del1.facebook.com
 edge-dgw-shv-01-del2.facebook.com
 edge-dgw-shv-01-den2.facebook.com
+edge-dgw-shv-01-det1.facebook.com
 edge-dgw-shv-01-dfw5.facebook.com
 edge-dgw-shv-01-dub4.facebook.com
 edge-dgw-shv-01-dus1.facebook.com
@@ -33897,6 +33973,7 @@ edge-fblite-tcp-mini-shv-01-dus1.facebook.com
 edge-fblite-tcp-mini-shv-01-eze1.facebook.com
 edge-fblite-tcp-mini-shv-01-fco2.facebook.com
 edge-fblite-tcp-mini-shv-01-fml1.facebook.com
+edge-fblite-tcp-mini-shv-01-fml20.facebook.com
 edge-fblite-tcp-mini-shv-01-for2.facebook.com
 edge-fblite-tcp-mini-shv-01-fra3.facebook.com
 edge-fblite-tcp-mini-shv-01-fra5.facebook.com
@@ -34290,6 +34367,7 @@ edge-fwdproxy-2-bgp-01-dus1.facebook.com
 edge-fwdproxy-2-bgp-01-eze1.facebook.com
 edge-fwdproxy-2-bgp-01-fco2.facebook.com
 edge-fwdproxy-2-bgp-01-fml1.facebook.com
+edge-fwdproxy-2-bgp-01-fml20.facebook.com
 edge-fwdproxy-2-bgp-01-fmx1.facebook.com
 edge-fwdproxy-2-bgp-01-for2.facebook.com
 edge-fwdproxy-2-bgp-01-fra3.facebook.com
@@ -34799,6 +34877,7 @@ edge-graph-cert-shv-01-bom2.facebook.com
 edge-graph-cert-shv-01-bru2.facebook.com
 edge-graph-cert-shv-01-bsb1.facebook.com
 edge-graph-cert-shv-01-ccu1.facebook.com
+edge-graph-cert-shv-01-cgk1.facebook.com
 edge-graph-cert-shv-01-cgk2.facebook.com
 edge-graph-cert-shv-01-del1.facebook.com
 edge-graph-cert-shv-01-del2.facebook.com
@@ -34908,6 +34987,7 @@ edge-ig-dgw-p42-shv-01-bom1.facebook.com
 edge-ig-dgw-p42-shv-01-bos5.facebook.com
 edge-ig-dgw-p42-shv-01-cdg4.facebook.com
 edge-ig-dgw-p42-shv-01-cgk2.facebook.com
+edge-ig-dgw-p42-shv-01-cph2.facebook.com
 edge-ig-dgw-p42-shv-01-cpt1.facebook.com
 edge-ig-dgw-p42-shv-01-del1.facebook.com
 edge-ig-dgw-p42-shv-01-den2.facebook.com
@@ -35823,6 +35903,7 @@ edge-mqtt-latest-shv-01-dus1.facebook.com
 edge-mqtt-latest-shv-01-eze1.facebook.com
 edge-mqtt-latest-shv-01-fco2.facebook.com
 edge-mqtt-latest-shv-01-fml1.facebook.com
+edge-mqtt-latest-shv-01-fml20.facebook.com
 edge-mqtt-latest-shv-01-fmx1.facebook.com
 edge-mqtt-latest-shv-01-for2.facebook.com
 edge-mqtt-latest-shv-01-fra3.facebook.com
@@ -36260,6 +36341,7 @@ edge-mqtt-shv-01-dus1.facebook.com
 edge-mqtt-shv-01-eze1.facebook.com
 edge-mqtt-shv-01-fco2.facebook.com
 edge-mqtt-shv-01-fml1.facebook.com
+edge-mqtt-shv-01-fml20.facebook.com
 edge-mqtt-shv-01-fmx1.facebook.com
 edge-mqtt-shv-01-fra3.facebook.com
 edge-mqtt-shv-01-fra5.facebook.com
@@ -36802,6 +36884,7 @@ edge-oculus-shv-01-dus1.fbcdn.net
 edge-oculus-shv-01-eze1.fbcdn.net
 edge-oculus-shv-01-fco2.fbcdn.net
 edge-oculus-shv-01-fml1.fbcdn.net
+edge-oculus-shv-01-fml20.fbcdn.net
 edge-oculus-shv-01-fmx1.fbcdn.net
 edge-oculus-shv-01-for2.fbcdn.net
 edge-oculus-shv-01-fra3.fbcdn.net
@@ -38027,6 +38110,7 @@ edgeray-msgr-shv-03-sin2.facebook.com
 edgeray-msgr-shv-03-sin6.facebook.com
 edgeray-msgr-shv-04-bom2.facebook.com
 edgeray-oculus-shv-01-sea1.facebook.co
+edgeray-retina.c10r.facebook.com
 edgeray-retina-shv-01-akl1.facebook.com
 edgeray-retina-shv-01-ams4.facebook.com
 edgeray-retina-shv-01-arn2.facebook.com
@@ -38172,6 +38256,7 @@ edgeray-shv-01-eze1.facebook.com
 edgeray-shv-01-fco2.facebook.com
 edgeray-shv-01-fml1.facebook.com
 edgeray-shv-01-fml1.messenger.com
+edgeray-shv-01-fml20.facebook.com
 edgeray-shv-01-fmx1.facebook.com
 edgeray-shv-01-for2.facebook.com
 edgeray-shv-01-fra3.facebook.com
@@ -38679,6 +38764,7 @@ edgeray-wa-xpop-shv-01-den2.facebook.com
 edgeray-wa-xpop-shv-01-dfw5.facebook.com
 edgeray-wa-xpop-shv-01-dub4.facebook.com
 edgeray-wa-xpop-shv-01-fml1.facebook.com
+edgeray-wa-xpop-shv-01-fml20.facebook.com
 edgeray-wa-xpop-shv-01-fmx1.facebook.com
 edgeray-wa-xpop-shv-01-for2.facebook.com
 edgeray-wa-xpop-shv-01-fra3.facebook.com
@@ -39024,6 +39110,7 @@ edge-secure-shv-01-itm1.facebook.com
 edge-secure-shv-01-kul2.facebook.com
 edge-secure-shv-01-lax3.facebook.com
 edge-secure-shv-01-lga3.facebook.com
+edge-secure-shv-01-lhr6.facebook.com
 edge-secure-shv-01-lhr8.facebook.com
 edge-secure-shv-01-lim1.facebook.com
 edge-secure-shv-01-lis1.facebook.com
@@ -39438,6 +39525,7 @@ edge-sonar-mini-shv-01-dus1.fbcdn.net
 edge-sonar-mini-shv-01-eze1.fbcdn.net
 edge-sonar-mini-shv-01-fco2.fbcdn.net
 edge-sonar-mini-shv-01-fml1.fbcdn.net
+edge-sonar-mini-shv-01-fml20.fbcdn.net
 edge-sonar-mini-shv-01-fmx1.fbcdn.net
 edge-sonar-mini-shv-01-for2.fbcdn.net
 edge-sonar-mini-shv-01-fra3.fbcdn.net
@@ -39609,6 +39697,7 @@ edge-star-mini-shv-01-eze1.facebook.co
 edge-star-mini-shv-01-eze1.facebook.com
 edge-star-mini-shv-01-fco2.facebook.com
 edge-star-mini-shv-01-fml1.facebook.com
+edge-star-mini-shv-01-fml20.facebook.com
 edge-star-mini-shv-01-fmx1.facebook.com
 edge-star-mini-shv-01-for2.facebook.com
 edge-star-mini-shv-01-fra3.facebook.com
@@ -39799,6 +39888,7 @@ edge-star-shv-01-dus1.facebook.com
 edge-star-shv-01-eze1.facebook.com
 edge-star-shv-01-fco2.facebook.com
 edge-star-shv-01-fml1.facebook.com
+edge-star-shv-01-fml20.facebook.com
 edge-star-shv-01-fmx1.facebook.com
 edge-star-shv-01-fra3.facebook.com
 edge-star-shv-01-gig4.facebook.com
@@ -40299,6 +40389,7 @@ edge-turnservice-shv-01-eze1.facebook.co
 edge-turnservice-shv-01-eze1.facebook.com
 edge-turnservice-shv-01-fco2.facebook.com
 edge-turnservice-shv-01-fml1.facebook.com
+edge-turnservice-shv-01-fml20.facebook.com
 edge-turnservice-shv-01-fmx1.facebook.com
 edge-turnservice-shv-01-for2.facebook.com
 edge-turnservice-shv-01-fra3.facebook.com
@@ -40863,6 +40954,7 @@ edge-z-p1-shv-01-eze1.facebook.co
 edge-z-p1-shv-01-eze1.facebook.com
 edge-z-p1-shv-01-fco2.facebook.com
 edge-z-p1-shv-01-fml1.facebook.com
+edge-z-p1-shv-01-fml20.facebook.com
 edge-z-p1-shv-01-fmx1.facebook.com
 edge-z-p1-shv-01-for2.facebook.com
 edge-z-p1-shv-01-fra5.facebook.com
@@ -41108,6 +41200,7 @@ edge-z-p3-shv-02-sin6.facebook.com
 edge-z-p3-shv-02-sof1.facebook.com
 edge-z-p3-shv-03-bom2.facebook.com
 edge-z-p3-shv-03-cdg4.facebook.com
+edge-z-p3-shv-03-dfw5.facebook.com
 edge-z-p3-shv-03-lga3.facebook.com
 edge-z-p3-shv-03-mia3.facebook.com
 edge-z-p3-shv-03-sin2.facebook.com
@@ -41361,6 +41454,7 @@ edm-api-shv-02-sof1.facebook.com
 edm-api-shv-02-waw2.facebook.com
 edm-api-shv-03-bom2.facebook.com
 edm-api-shv-03-cdg4.facebook.com
+edm-api-shv-03-dfw5.facebook.com
 edm-api-shv-03-lga3.facebook.com
 edm-api-shv-03-mia3.facebook.com
 edm-api-shv-03-sin6.facebook.com
@@ -41500,6 +41594,7 @@ ejudiciary.i.org
 ejudisolucoesjuridicas218.workplace.com
 e-kasei.accountkit.com
 ekino.facebook.com
+ekiz-tv.devideo.googlewww.alphabundwww.chancen-erarbeiten.dewww.facebook.co
 ekoendya-dev.facebook.com.au
 ekonomi.oculusvr.com
 ekonsilio.workplace.com
@@ -41961,6 +42056,7 @@ emily.messenger.com
 emily.m.me
 emir-subayi.workplace.com
 emit.fb.im
+em.kustomer.com
 emlreq.facebook.it
 emlvirus.internet.org
 emma1111l.messenger.com
@@ -42356,6 +42452,7 @@ erawan012.messenger.com
 erbagangqianshushipin.fb.me
 erchatwww.facebook.co
 erciyas.workplace.com
+er.dewww.wuerzburg-land.dewww.facebook.co
 erdhaf.freebasics.com
 erdie-blog.freebasics.com
 erdo.ccdharmazen.orgpubu.com.twzh.wikipedia.org.wiki.facebook.co
@@ -42415,6 +42512,7 @@ esalesindia.fbsbx.com
 esaleswww.facebook.de
 es-americas-support.internet.org
 esaso.workplace.com
+esauthority.gov.mtwww.maltamedicineslist.comwww.facebook.co
 esb.facebook.de
 esb.freebasics.com
 esbmbl.fburl.thefacebook.com
@@ -42503,6 +42601,7 @@ es.facebook.org
 es.fb.me
 es.fbsbx.com
 es.freebasics.com
+es.gov.mtwww.medicinesauthority.gov.mtwww.maltamedicineslist.comwww.facebook.co
 eshop.facebook.pl
 eshorizonte2020.internet.org
 es-hub.fb.com
@@ -43758,7 +43857,6 @@ external.fklo1-1.fna.fbcdn.net
 external.fkno10-1.fna.fbcdn.net
 external.fkno3-1.fna.fbcdn.net
 external.fkno4-1.fna.fbcdn.net
-external.fkno5-1.fna.fbcdn.net
 external.fkno6-1.fna.fbcdn.net
 external.fknu1-1.fna.fbcdn.net
 external.fktm10-1.fna.fbcdn.net
@@ -43776,7 +43874,6 @@ external.fkul1-1.fna.fbcdn.net
 external.fkul15-1.fna.fbcdn.net
 external.fkul16-1.fna.fbcdn.net
 external.fkul16-2.fna.fbcdn.net
-external.fkul17-1.fna.fbcdn.net
 external.fkul18-1.fna.fbcdn.net
 external.fkul19-1.fna.fbcdn.net
 external.fkul19-2.fna.fbcdn.net
@@ -43859,6 +43956,7 @@ external.flpg4-1.fna.fbcdn.net
 external.fltn1-2.fna.fbcdn.net
 external.fltn3-1.fna.fbcdn.net
 external.fltn3-2.fna.fbcdn.net
+external.flug2-1.fna.fbcdn.net
 external.fluk1-1.fna.fbcdn.net
 external.flun3-1.fna.fbcdn.net
 external.flux3-1.fna.fbcdn.net
@@ -44591,7 +44689,9 @@ f1-usuat.fb.com
 f22c8a49-9c68-48be-80f0-bec990bffb75-netseer-ipaddr-assoc.xz.fbcdn.net
 f24fc6bb-5153-4f66-80be-c8bf199dc12d-netseer-ipaddr-assoc.xz.fbcdn.net
 f251b3b1-ce38-4ba1-b29a-315e49759a15-netseer-ipaddr-assoc.xz.fbcdn.net
+f2586880-1a1b-45bd-810a-8c40940ca1c9-netseer-ipaddr-assoc.xz.fbcdn.net
 f26218f1-3c89-41a4-9eae-6f296ff29d31-netseer-ipaddr-assoc.xz.fbcdn.net
+f263b8f3-93cc-4f41-a82a-6b1e5fb0c199-netseer-ipaddr-assoc.xz.fbcdn.net
 f26de386180-xbpfhkmd1755110588-sonar.snr.fbcdn.net
 f2710cbc-fd1c-4ce6-afea-feb35021ae8b-netseer-ipaddr-assoc.xz.fbcdn.net
 f2956266d80kmfv3nqa-nnlsstmr1495577638-sonar.xz.fbcdn.net
@@ -44645,6 +44745,7 @@ f713d4d0080kg3dim2a-brgqxmyo1524173846-sonar.xz.fbcdn.net
 f72c0dcc-8870-4c03-8905-e840794bf9bc-netseer-ipaddr-assoc.xz.fbcdn.net
 f74fce8a-ae9f-482e-83cd-4434b0c2711f-netseer-ipaddr-assoc.xz.fbcdn.net
 f75cdc50480kg2rhsua-qpgetucn1524421422-sonar.xz.fbcdn.net
+f760d5c7-4bc6-46c1-b640-f2b0b89a0b27-netseer-ipaddr-assoc.xz.fbcdn.net
 f7941cce980kgznmvoa-ufnbsyhe1519013669-sonar.xz.fbcdn.net
 f7bb7d19-fd89-44da-8247-81560dfaa6f1-netseer-ipaddr-assoc.xz.fbcdn.net
 f7cc43c7-4361-4710-a123-dc6e6336c2b1-netseer-ipaddr-assoc.xz.fbcdn.net
@@ -45403,6 +45504,7 @@ facebook.www.facebook.at
 facebookwww.facebook.ca
 facebookwww.facebook.co
 facebookwww.facebook.com.ar
+facebookwww.facebook.com.br
 facebookwww.facebook.de
 facebook.www.facebook.dk
 facebook.www.facebook.es
@@ -45470,6 +45572,7 @@ faebok.com
 faebook.com
 faebook.com.co
 faebook.de
+faef9a97-8b2b-4480-b7de-cb9897f879cc-netseer-ipaddr-assoc.xz.fbcdn.net
 faerisa.facebook.co
 faezamaska.freebasics.com
 fafacebook.com
@@ -45618,8 +45721,10 @@ fb2.accountkit.com
 fb37871f-2a00-4f4e-9afc-3920980d8e43-netseer-ipaddr-assoc.xz.fbcdn.net
 fb4708f8e80kdno4pyq-bigworkf1521512717-sonar.xz.fbcdn.net
 fb538530-ee79-4b6f-8efc-fe870d4183cf-netseer-ipaddr-assoc.xz.fbcdn.net
+fb6f299f-bac2-4cb3-87a6-eafdc4359055-netseer-ipaddr-assoc.xz.fbcdn.net
 fb7eff37480kg2pvlqi-zbrtfiay1526919554-sonar.xz.fbcdn.net
 fb9.facebook.com.ve
+fba6f91d-b6a6-4ab7-9d87-46f1d6e45ff2-netseer-ipaddr-assoc.xz.fbcdn.net
 fb.accountkit.com
 fbaddins.com
 fb.ai
@@ -46236,6 +46341,7 @@ fdm4.accountkit.com
 fdn.fbsbx.com
 fdou1.internet.org
 fds.workplace.com
+fe2c276c-ed99-4ac1-949c-185d03b922a7-netseer-ipaddr-assoc.xz.fbcdn.net
 feacbook.com
 feacebook.com
 feature-serve-global-xsec.internet.org
@@ -46244,6 +46350,7 @@ feb67860380-jhowogez1588649250-sonar.xz.fbcdn.net
 febnetwebproxy.workplace.com
 feb-project-platform-lookaside.fbsbx.com
 febrifitrivalentine.facebook.co.id
+fec1555a-c95d-4627-aa40-3b673dccffef-netseer-ipaddr-assoc.xz.fbcdn.net
 fecbook.com
 feceboock.com
 fecebook.cl
@@ -46926,7 +47033,6 @@ fna-fbcdn-z-m-shv-01-fmnl9.fbcdn.net
 fna-fbcdn-z-m-shv-01-fmxf1.fbcdn.net
 fna-fbcdn-z-m-shv-01-fpac5.fbcdn.net
 fna-fbcdn-z-m-shv-01-fpat2.fbcdn.net
-fna-fbcdn-z-m-shv-01-fpat5.fbcdn.net
 fna-fbcdn-z-m-shv-01-fper9.fbcdn.net
 fna-fbcdn-z-m-shv-01-fpom1.fbcdn.net
 fna-fbcdn-z-m-shv-01-fprq1.fbcdn.net
@@ -47692,6 +47798,7 @@ fnedge081.02.arn2.facebook.co
 fnedge081.02.lax3.facebook.co
 fnedge082.01.jnb1.facebook.co
 fnedge085.02.arn2.facebook.co
+fnedge086.02.lax3.facebook.co
 fnedge095.02.arn2.facebook.co
 fnedge097.02.lax3.facebook.co
 fnedge100.01.sin2.facebook.co
@@ -47704,6 +47811,7 @@ fnedge105.01.frx5.facebook.co
 fnedge105.02.ort2.facebook.co
 fnedge111.01.frx5.facebook.co
 fnedge111.02.ort2.facebook.co
+fnedge113.01.lht6.facebook.co
 fnedge113.02.lax3.facebook.co
 fnedge117.01.ort2.facebook.co
 fnedge120.02.lax3.facebook.co
@@ -47717,6 +47825,7 @@ fnedge172.01.frx5.facebook.co
 fnedge177.01.lhr3.facebook.co
 fnedge181.02.ort2.facebook.co
 fnedge184.01.lhr3.facebook.co
+fnedge194.01.cdt1.facebook.co
 fnedge205.01.cdt1.facebook.co
 fnedge205.02.ort2.facebook.co
 fnedge206.02.frt3.facebook.co
@@ -48304,6 +48413,7 @@ franprix.m.facebook.com
 fraph.fb.me
 frasersproperty.facebook.com
 frasersproperty.workplace.com
+frases.facebook.com.br
 fraterluz.fbsbx.com
 frc1-bmscfm.thefacebook.com
 frc2-bmscfm.thefacebook.com
@@ -52041,6 +52151,7 @@ harmaskonyv.freebasics.com
 harmaskonyv.me.g.co.4g.fb.me
 harmonydk-29-3.www-0-78.accountkit.com
 harmonytx.workplace.com
+harnosandwww.facebook.co
 haroldomozart.fb.me
 harrachi.facebook.nl
 harrisburg.internet.org
@@ -52710,6 +52821,7 @@ hillbmctube.workplace.com
 hilliscarnesengineeringassociatesinc419.m.workplace.com
 hilliscarnesengineeringassociatesinc419.workplace.com
 hillsdale.facebook.co
+hillsnativeart.comwww.hills.cawww.facebook.co
 hiltonhyland.facebook.com
 hilyanasupyani.freebasics.com
 hima-ari.messenger.com
@@ -53010,6 +53122,7 @@ homepage.freebasics.com
 homepage.internet.org
 homepage.i.org
 homepage.messenger.com
+homepagewww.fcg-wien-aps.atfacebookwww.facebook.co
 homer.freebasics.com
 homer-s2.fbsbx.com
 home.siliconvalley.messenger.com
@@ -53712,9 +53825,11 @@ htmlunit.internet.org
 htmlwap.facebook.com.au
 htmlwww.facebook.ca
 htmlwww.facebook.com.br
+htmlwww.facebook.com.es
 htmlwww.facebook.com.mx
 htmlwww.facebook.co.za
 htmwest773.workplace.com
+htmwww.facebook.co
 htp.oculusvr.com
 htt0-0.freebasics.com
 htt0-4.freebasics.com
@@ -57438,6 +57553,7 @@ https-openx2--match-dotomi-com.0.discoverapp.com
 https-oxp-mxptint-net.0.discoverapp.com
 https-p-adsymptotic-com.0.discoverapp.com
 https-pannie-com.0.discoverapp.com
+https-passport-yandex-com.0.discoverapp.com
 https-passport-yandex-com.0.freebasics.com
 https-pavilion-com-bd.0.freebasics.com
 https-philnews-ph.0.discoverapp.com
@@ -58503,6 +58619,7 @@ h-tw.facebook.co
 htwww.facebook.cl
 htwww.facebook.co
 htwww.facebook.com.au
+htwww.facebook.com.br
 huangguanwangxin2wang.fb.me
 huangguanxianjinwangh.i.org
 huangguanzuqiujishibifenwang.cinyour.accountkit.com
@@ -58979,6 +59096,7 @@ ie.m.facebook.com
 iemt.prod.oculus.com
 ier.facebook.de
 iesmelendezval.fquestions.org
+ievalconcertsatallcarinthiansitesinaugustwww.facebook.co
 ieweb-wc-02s.messenger.com
 iewempn.i.org
 ie.workplace.com
@@ -59574,6 +59692,7 @@ imsw2012.fbsbx.com
 imusica.facebook.com
 imusica.workplace.com
 imx86termx86.facebook.com.au
+in46201marionwww.facebook.co
 in46227marionwww.facebook.co
 inaap.facebook.com
 inabrown.comwww.facebook.co
@@ -59638,6 +59757,7 @@ india.fb.com
 india.freebasics.com
 indianaavebaptistchurch663.workplace.com
 indianapolisin46201marionwww.facebook.co
+indianapolisin46227marionwww.facebook.co
 indian.frontier.facebook.com.ar
 indian.frontier.facebook.com.br
 indianmuslimpost.fburl.com
@@ -59886,6 +60006,7 @@ insickle.messenger.com
 inside.facebook.com
 inside.facebook.org
 insidefeed.fb.com
+inside.kustomer.com
 insiderexposure.freebasics.com
 insidescoot.facebook.co
 insidescoot.facebook.com
@@ -60198,6 +60319,7 @@ instagram.falg3-2.fna.fbcdn.net
 instagram.falg4-1.fna.fbcdn.net
 instagram.falg7-5.fna.fbcdn.net
 instagram.falg7-6.fna.fbcdn.net
+instagram.fallback.c10r.facebook.com
 instagram.faly1-2.fna.fbcdn.net
 instagram.faly2-1.fna.fbcdn.net
 instagram.faly2-2.fna.fbcdn.net
@@ -61822,7 +61944,6 @@ instagram.fkno10-1.fna.fbcdn.net
 instagram.fkno2-1.fna.fbcdn.net
 instagram.fkno3-1.fna.fbcdn.net
 instagram.fkno4-2.fna.fbcdn.net
-instagram.fkno5-1.fna.fbcdn.net
 instagram.fkno6-1.fna.fbcdn.net
 instagram.fkno7-1.fna.fbcdn.net
 instagram.fkno8-1.fna.fbcdn.net
@@ -61843,7 +61964,6 @@ instagram.fktm14-1.fna.fbcdn.net
 instagram.fktm21-1.fna.fbcdn.net
 instagram.fktm3-1.fna.fbcdn.net
 instagram.fktm4-1.fna.fbcdn.net
-instagram.fktm6-1.fna.fbcdn.net
 instagram.fktm7-1.fna.fbcdn.net
 instagram.fktm8-1.fna.fbcdn.net
 instagram.fktp2-1.fna.fbcdn.net
@@ -61857,7 +61977,6 @@ instagram.fkul11-2.fna.fbcdn.net
 instagram.fkul1-1.fna.fbcdn.net
 instagram.fkul15-1.fna.fbcdn.net
 instagram.fkul16-1.fna.fbcdn.net
-instagram.fkul17-1.fna.fbcdn.net
 instagram.fkul18-1.fna.fbcdn.net
 instagram.fkul18-2.fna.fbcdn.net
 instagram.fkul19-1.fna.fbcdn.net
@@ -61953,7 +62072,6 @@ instagram.flim16-2.fna.fbcdn.net
 instagram.flim16-3.fna.fbcdn.net
 instagram.flim17-1.fna.fbcdn.net
 instagram.flim18-1.fna.fbcdn.net
-instagram.flim18-2.fna.fbcdn.net
 instagram.flim18-3.fna.fbcdn.net
 instagram.flim19-1.fna.fbcdn.net
 instagram.flim20-1.fna.fbcdn.net
@@ -62070,7 +62188,6 @@ instagram.fmci1-4.fna.fbcdn.net
 instagram.fmci2-1.fna.fbcdn.net
 instagram.fmcp1-1.fna.fbcdn.net
 instagram.fmct2-3.fna.fbcdn.net
-instagram.fmct4-1.fna.fbcdn.net
 instagram.fmct5-1.fna.fbcdn.net
 instagram.fmcz1-2.fna.fbcdn.net
 instagram.fmcz2-1.fna.fbcdn.net
@@ -62274,6 +62391,7 @@ instagram.fo
 instagram.fods3-1.fna.fbcdn.net
 instagram.fods5-1.fna.fbcdn.net
 instagram.fods5-2.fna.fbcdn.net
+instagram.fods7-1.fna.fbcdn.net
 instagram.fogl3-1.fna.fbcdn.net
 instagram.fogx1-1.fna.fbcdn.net
 instagram.fogx1-2.fna.fbcdn.net
@@ -62386,7 +62504,6 @@ instagram.fplm2-1.fna.fbcdn.net
 instagram.fplm3-1.fna.fbcdn.net
 instagram.fplm4-1.fna.fbcdn.net
 instagram.fplm6-1.fna.fbcdn.net
-instagram.fplu10-1.fna.fbcdn.net
 instagram.fplu1-1.fna.fbcdn.net
 instagram.fplu18-1.fna.fbcdn.net
 instagram.fplu19-1.fna.fbcdn.net
@@ -63048,7 +63165,6 @@ instagram.fuio3-1.fna.fbcdn.net
 instagram.fuio5-1.fna.fbcdn.net
 instagram.fukk2-1.fna.fbcdn.net
 instagram.fuln1-1.fna.fbcdn.net
-instagram.fuln1-2.fna.fbcdn.net
 instagram.fuln3-1.fna.fbcdn.net
 instagram.fuln4-2.fna.fbcdn.net
 instagram.fuln6-1.fna.fbcdn.net
@@ -63460,6 +63576,7 @@ instagram-p3-shv-01-dus1.fbcdn.net
 instagram-p3-shv-01-eze1.fbcdn.net
 instagram-p3-shv-01-fco2.fbcdn.net
 instagram-p3-shv-01-fml1.fbcdn.net
+instagram-p3-shv-01-fml20.fbcdn.net
 instagram-p3-shv-01-for2.fbcdn.net
 instagram-p3-shv-01-fra3.fbcdn.net
 instagram-p3-shv-01-fra5.fbcdn.net
@@ -64281,6 +64398,7 @@ intemitsouko.facebook.com.au
 intencpds-bermudan.facebook.com.br
 intenews.facebook.com.br
 intenmccarthy.facebook.pl
+intepostpedia.facebook.com.br
 interactive.internet.org
 inter-act-jp.oculusvr.com
 interchang.facebook.pl
@@ -64407,6 +64525,7 @@ intern-lethal.facebook.pl
 intern-longhaul.facebook.com.br
 internmaicaoaldia.facebook.com.br
 intern-managed-client.c10r.facebook.com
+intern-managed-client.fallback.c10r.facebook.com
 intern-managed-client-shv-01-akl1.facebook.com
 intern-managed-client-shv-01-ams2.facebook.com
 intern-managed-client-shv-01-ams4.facebook.com
@@ -64558,6 +64677,7 @@ internwsmr06.facebook.com.br
 interparts.internet.org
 intersilvawww.facebook.de
 interventions.internet.org
+intesaranghae-oopa.facebook.com.br
 intesawi-sabyarn.facebook.nl
 intesig-ncpds.facebook.pl
 intesilencen.facebook.com.au
@@ -65248,6 +65368,7 @@ isaw.oculusvr.com
 isbahrain.co.m.me
 isb.workplace.com
 iscflrne.facebook.com.br
+ischcentrum.bewww.facebook.co
 ischoolonline.freebasics.com
 ischwalbe04ne.facebook.se
 isc-netoper.facebook.com.br
@@ -65885,6 +66006,7 @@ jeanfarmtr-autodiscover.oculusvr.com
 jeannedamasdeveloper.facebook.pl
 jeans.freebasics.com
 jebetonlinewww.facebook.nl
+jectthedemolitionproject.comwww.facebook.co
 jedenuniwersytet.workplace.com
 jedfoundation.workplace.com
 jeeves.workplace.com
@@ -66848,6 +66970,7 @@ ko-kr.zh-hk.es-es.roro.fbjs.facebook.com
 ko-kr.zh-tw.tr-tr.fbjs.facebook.com
 koktauu.fb.me
 koleckove-brusle.workplace.com
+kolegy.www.snoeks.comwww.facebook.co
 kolektdb.accountkit.com
 koliopoulosmallissa.fbsbx.com
 kollektivtrafikk.facebook.com
@@ -67526,6 +67649,7 @@ lef2-2-gra.messenger.com
 lef29-1-pda.fb.me
 le.facebook.co
 lef.facebook.com.ve
+lefonorosatorino.itwww.facebook.co
 legacybuildercoaching.workplace.com
 legacy-dr.vault.code42.fb.com
 legacyfarmer.workplace.com
@@ -67800,6 +67924,7 @@ lghnjpm.i.org
 l.g.messenger.com
 lg-monster.workplace.com
 l.google.fbjs.facebook.com
+lgs-landau.dewww.lgs-landau.dewww.facebook.co
 lgt-gervillereache.internet.org
 lgtitleservices.workplace.com
 lg-ug.facebook.com
@@ -68818,6 +68943,7 @@ livestream-edgetee-ws-upload-staging-shv-02-cgk1.facebook.com
 livestream-edgetee-ws-upload-staging-shv-02-cgk2.facebook.com
 livestream-edgetee-ws-upload-staging-shv-02-del1.facebook.com
 livestream-edgetee-ws-upload-staging-shv-02-dfw5.facebook.com
+livestream-edgetee-ws-upload-staging-shv-02-fra3.facebook.com
 livestream-edgetee-ws-upload-staging-shv-02-fra5.facebook.com
 livestream-edgetee-ws-upload-staging-shv-02-gig4.facebook.com
 livestream-edgetee-ws-upload-staging-shv-02-gru2.facebook.com
@@ -68962,6 +69088,7 @@ l.meta.ae
 l.meta.ai
 lm.facebook.co
 lm.facebook.com
+lm.facebook.com42859.ntp.msn.com246910.l.facebook.co
 lm.facebook.com671568.l.facebook.co
 lm.facebook.fr
 l.m.fbjs.facebook.com
@@ -68993,6 +69120,7 @@ ln-cd.facebook.com
 l.new.facebook.com
 lnf0rmation.fb.me
 lnfs.facebook.es
+l-nl.facebook.co
 l.nl-nl.prod.facebook.com
 l.nl-nl.pt-br.fbjs.facebook.com
 l.nl-nl.ro-ro.fbjs.facebook.com
@@ -70897,6 +71025,7 @@ maskbear.internet.org
 maskcara.facebook.cl
 mask-dance-rituals.internet.org
 maskdelily.4g.fb.me
+maskdorei.facebook.co
 maskdorei.freebasics.com
 maskedempire.fbsbx.com
 maskedlemon.internet.org
@@ -71106,6 +71235,7 @@ m.beta.facebook.com
 m.beta.facebook.net
 m.beta.internet.org
 m.beta.workplace.com
+m.bewww.facebook.co
 mb.facebook.es
 m.bg-bg.ku-tr.ro-ro.fbjs.facebook.com
 mbhatnagar.freebasics.com
@@ -72397,7 +72527,6 @@ media.fkno2-1.fna.whatsapp.net
 media.fkno3-1.fna.whatsapp.net
 media.fkno4-1.fna.whatsapp.net
 media.fkno4-2.fna.whatsapp.net
-media.fkno5-1.fna.whatsapp.net
 media.fkno6-1.fna.whatsapp.net
 media.fkno9-2.fna.whatsapp.net
 media.fknu1-1.fna.whatsapp.net
@@ -72420,7 +72549,6 @@ media.fkul15-1.fna.whatsapp.net
 media.fkul16-1.fna.whatsapp.net
 media.fkul16-3.fna.whatsapp.net
 media.fkul16-4.fna.whatsapp.net
-media.fkul17-1.fna.whatsapp.net
 media.fkul18-1.fna.whatsapp.net
 media.fkul18-2.fna.whatsapp.net
 media.fkul19-1.fna.whatsapp.net
@@ -72491,7 +72619,6 @@ media.flim10-1.fna.whatsapp.net
 media.flim1-1.fna.whatsapp.net
 media.flim1-3.fna.whatsapp.net
 media.flim17-1.fna.whatsapp.net
-media.flim21-2.fna.whatsapp.net
 media.flim2-1.fna.whatsapp.net
 media.flim2-2.fna.whatsapp.net
 media.flim2-3.fna.whatsapp.net
@@ -72804,7 +72931,6 @@ media.fplm1-1.fna.whatsapp.net
 media.fplm2-1.fna.whatsapp.net
 media.fplm3-1.fna.whatsapp.net
 media.fplm4-1.fna.whatsapp.net
-media.fplu10-1.fna.whatsapp.net
 media.fplu6-1.fna.whatsapp.net
 media.fplx1-1.fna.whatsapp.net
 media.fpmi1-1.fna.whatsapp.net
@@ -73434,6 +73560,7 @@ media-zrh1-1.cdn.whatsapp.net
 medicalschool.internet.org
 medicinauerj.workplace.com
 medicine.i.org
+medicineslist.comwww.facebook.co
 medidavidrotraseiro.messenger.com
 medienwww.leifiphysik.dewww.facebook.de
 medievalconcertsatallcarinthiansitesinaugustwww.facebook.co
@@ -73490,6 +73617,7 @@ melbournewater.m.facebook.com
 melbournewater.m.workplace.com
 melbournewater.workplace.com
 meled.freebasics.com
+melesswww.facebook.co
 melhor-antivirus.scgraph.facebook.com
 meliamelia.alpha.oculus.com
 meli.facebook.com
@@ -73652,6 +73780,7 @@ metaenterprise-pp-shv-01-dus1.facebook.com
 metaenterprise-pp-shv-01-eze1.facebook.com
 metaenterprise-pp-shv-01-fco2.facebook.com
 metaenterprise-pp-shv-01-fml1.facebook.com
+metaenterprise-pp-shv-01-fml20.facebook.com
 metaenterprise-pp-shv-01-for2.facebook.com
 metaenterprise-pp-shv-01-fra5.facebook.com
 metaenterprise-pp-shv-01-gig4.facebook.com
@@ -74010,6 +74139,7 @@ microsite-edge-shv-01-dus1.facebook.com
 microsite-edge-shv-01-eze1.facebook.com
 microsite-edge-shv-01-fco2.facebook.com
 microsite-edge-shv-01-fml1.facebook.com
+microsite-edge-shv-01-fml20.facebook.com
 microsite-edge-shv-01-fmx1.facebook.com
 microsite-edge-shv-01-for2.facebook.com
 microsite-edge-shv-01-fra3.facebook.com
@@ -80392,6 +80522,7 @@ naksangat-sangat.facebook.se
 nalee14.oculusvr.com
 nalpha.0.freebasics.com
 nalpha.messenger.com
+nalytics.comwww.facebook.co
 namail2.i.org
 namakucell.internet.org
 namaskar.accountkit.com
@@ -80468,6 +80599,7 @@ naturalplatiniumbeautyoflakehuron.newfrance.facebook.co
 natura.m.workplace.com
 natura.workplace.com
 natureconservationandstudycentre414.workplace.com
+naturel-pilat.frwww.facebook.co
 natureonthemap.workplace.com
 natureza-plantas.accountkit.com
 naturschutz.internalfb.com
@@ -81818,6 +81950,7 @@ ns.svcscm.rampart040.rampart.oculus.com
 nstaging.internet.org
 nsterwww.facebook.de
 nstigede.youtube.comkiz-tv.dewww.mzee.comwww.alphabetisiwww.bing.comwww.facebook.co
+nstigekiz-tv.devideo.googlewww.alphabundwww.chancen-erarbeiten.dewww.facebook.co
 nstruction.facebook.co
 nsulaiman.unlimited.sshdb.us.internet.org
 nsun-0.internet.org
@@ -82004,6 +82137,7 @@ o-9.freebasics.com
 o9.freebasics.com
 oa.accountkit.com
 oabmatogrossowww.facebook.com.br
+oabmtwww.facebook.com.br
 oact.internalfb.com
 oado.i.org
 oa.fb.me
@@ -84286,8 +84420,6 @@ peer-as1273.pr04.sjc1.tfbnw.net
 peer-as1273.pr04.sof1.tfbnw.net
 peer-as1273.pr04.vie1.tfbnw.net
 peer-as1273.pr05.cdg5.tfbnw.net
-peer-as1273.pr05.lga1.tfbnw.net
-peer-as1273.pr06.lga1.tfbnw.net
 peer-as12741.pr03.waw1.tfbnw.net
 peer-as12741.pr04.waw1.tfbnw.net
 peer-as12849.pr02.lhr4.tfbnw.net
@@ -84321,7 +84453,6 @@ peer-as131986.pr01.nrt5.tfbnw.net
 peer-as132115.pr01.ccu1.tfbnw.net
 peer-as132116.pr03.del1.tfbnw.net
 peer-as132116.pr03.del2.tfbnw.net
-peer-as132116.pr04.del1.tfbnw.net
 peer-as132215.pr02.maa2.tfbnw.net
 peer-as132215.pr03.del1.tfbnw.net
 peer-as132215.pr04.bom1.tfbnw.net
@@ -84336,7 +84467,6 @@ peer-as132556.pr02.maa2.tfbnw.net
 peer-as132637.pr01.cgk1.tfbnw.net
 peer-as132637.pr04.cgk1.tfbnw.net
 peer-as132746.pr01.del1.tfbnw.net
-peer-as132768.pr04.del1.tfbnw.net
 peer-as132770.pr04.bom1.tfbnw.net
 peer-as132774.pr01.maa2.tfbnw.net
 peer-as132774.pr02.maa2.tfbnw.net
@@ -84389,7 +84519,6 @@ peer-as13335.pr04.mrs1.tfbnw.net
 peer-as13335.pr04.pmo1.tfbnw.net
 peer-as13335.pr04.sea1.tfbnw.net
 peer-as13335.pr06.sea1.tfbnw.net
-peer-as133372.pr04.del1.tfbnw.net
 peer-as133469.pr03.bom1.tfbnw.net
 peer-as133593.pr02.maa2.tfbnw.net
 peer-as13359.pr03.dfw1.tfbnw.net
@@ -84403,7 +84532,6 @@ peer-as133982.pr01.bom1.tfbnw.net
 peer-as133982.pr01.hyd3.tfbnw.net
 peer-as133982.pr02.bom1.tfbnw.net
 peer-as133982.pr03.del1.tfbnw.net
-peer-as133982.pr04.del1.tfbnw.net
 peer-as134022.pr02.bom1.tfbnw.net
 peer-as134022.pr03.bom1.tfbnw.net
 peer-as134026.pr01.del1.tfbnw.net
@@ -84432,8 +84560,6 @@ peer-as134885.pr04.pnq1.tfbnw.net
 peer-as13489.pr06.mia1.tfbnw.net
 peer-as13489.pr07.mia1.tfbnw.net
 peer-as134928.pr02.del1.tfbnw.net
-peer-as134937.pr02.bom1.tfbnw.net
-peer-as134937.pr03.bom1.tfbnw.net
 peer-as135069.pr01.akl1.tfbnw.net
 peer-as135069.pr01.syd2.tfbnw.net
 peer-as135069.pr02.akl1.tfbnw.net
@@ -84449,9 +84575,7 @@ peer-as13536.pr08.lga1.tfbnw.net
 peer-as135419.pr04.bkk1.tfbnw.net
 peer-as135607.pr02.hkg1.tfbnw.net
 peer-as135607.pr02.mnl3.tfbnw.net
-peer-as135709.pr04.del1.tfbnw.net
 peer-as135735.pr02.bom1.tfbnw.net
-peer-as135760.pr04.del1.tfbnw.net
 peer-as13576.pr02.den4.tfbnw.net
 peer-as13576.pr04.den4.tfbnw.net
 peer-as135780.pr02.maa2.tfbnw.net
@@ -84512,7 +84636,6 @@ peer-as13999.pr01.qro1.tfbnw.net
 peer-as13999.pr02.qro1.tfbnw.net
 peer-as13999.pr03.qro1.tfbnw.net
 peer-as13999.pr04.qro1.tfbnw.net
-peer-as140171.pr03.del1.tfbnw.net
 peer-as140384.pr03.cgk1.tfbnw.net
 peer-as140443.pr02.cgk2.tfbnw.net
 peer-as140446.pr02.cgk1.tfbnw.net
@@ -84521,16 +84644,12 @@ peer-as140481.pr04.cgk1.tfbnw.net
 peer-as14061.pr01.ams2.tfbnw.net
 peer-as14061.pr02.ams2.tfbnw.net
 peer-as14061.pr02.sjc1.tfbnw.net
-peer-as14061.pr04.fra2.tfbnw.net
-peer-as14061.pr06.lga1.tfbnw.net
 peer-as14080.pr01.bog1.tfbnw.net
 peer-as14080.pr02.bog1.tfbnw.net
 peer-as14080.pr03.bog1.tfbnw.net
-peer-as141014.pr02.ccu1.tfbnw.net
 peer-as141071.pr01.cgk1.tfbnw.net
 peer-as141254.pr04.pnq1.tfbnw.net
 peer-as141275.pr01.del2.tfbnw.net
-peer-as141275.pr03.del1.tfbnw.net
 peer-as141329.pr01.bom1.tfbnw.net
 peer-as141490.pr02.bom1.tfbnw.net
 peer-as141514.pr04.bom1.tfbnw.net
@@ -84556,8 +84675,6 @@ peer-as146904.pr01.del1.tfbnw.net
 peer-as146904.pr02.del1.tfbnw.net
 peer-as14754.pr01.gua1.tfbnw.net
 peer-as14754.pr02.gua1.tfbnw.net
-peer-as14773.pr05.lga1.tfbnw.net
-peer-as14840.pr02.bsb1.tfbnw.net
 peer-as14868.pr04.gru1.tfbnw.net
 peer-as14907.pr04.iad3.tfbnw.net
 peer-as14907.pr05.dfw1.tfbnw.net
@@ -84574,7 +84691,6 @@ peer-as149883.pr04.cgk1.tfbnw.net
 peer-as14988.pr02.jnb1.tfbnw.net
 peer-as149925.pr01.cgk1.tfbnw.net
 peer-as149934.pr04.cgk1.tfbnw.net
-peer-as150045.pr04.del1.tfbnw.net
 peer-as150208.pr04.cgk1.tfbnw.net
 peer-as150261.pr01.cgk1.tfbnw.net
 peer-as150279.pr01.cgk1.tfbnw.net
@@ -84597,7 +84713,6 @@ peer-as15169.pr04.iad3.tfbnw.net
 peer-as15169.pr04.jnb1.tfbnw.net
 peer-as15169.pr04.qro1.tfbnw.net
 peer-as15169.pr04.waw1.tfbnw.net
-peer-as15169.pr06.lga1.tfbnw.net
 peer-as152297.pr01.mnl1.tfbnw.net
 peer-as15366.pr01.fra4.tfbnw.net
 peer-as15412.pr03.lhr3.tfbnw.net
@@ -84674,7 +84789,6 @@ peer-as17306.pr04.den4.tfbnw.net
 peer-as17306.pr04.ord3.tfbnw.net
 peer-as17306.pr05.dfw1.tfbnw.net
 peer-as17306.pr06.dfw1.tfbnw.net
-peer-as17426.pr03.del1.tfbnw.net
 peer-as17451.pr01.cgk1.tfbnw.net
 peer-as17465.pr01.maa2.tfbnw.net
 peer-as17465.pr02.maa2.tfbnw.net
@@ -84701,7 +84815,6 @@ peer-as17639.pr02.mnl1.tfbnw.net
 peer-as17639.pr02.mnl2.tfbnw.net
 peer-as17639.pr02.tpe1.tfbnw.net
 peer-as17639.pr04.hkg1.tfbnw.net
-peer-as17639.pr05.lga1.tfbnw.net
 peer-as17665.pr01.bom1.tfbnw.net
 peer-as17665.pr02.bom1.tfbnw.net
 peer-as17665.pr03.bom1.tfbnw.net
@@ -84713,7 +84826,6 @@ peer-as17747.pr02.del1.tfbnw.net
 peer-as17762.pr03.bom1.tfbnw.net
 peer-as17806.pr03.pnq1.tfbnw.net
 peer-as17828.pr02.syd2.tfbnw.net
-peer-as17924.pr01.hkg4.tfbnw.net
 peer-as17924.pr03.hkg4.tfbnw.net
 peer-as17924.pr04.hkg4.tfbnw.net
 peer-as18002.pr02.del2.tfbnw.net
@@ -84870,11 +84982,9 @@ peer-as21928.pr03.sjc1.tfbnw.net
 peer-as21928.pr04.bos3.tfbnw.net
 peer-as21928.pr04.sea1.tfbnw.net
 peer-as21928.pr04.sjc1.tfbnw.net
-peer-as21928.pr05.lga1.tfbnw.net
 peer-as21928.pr05.sea1.tfbnw.net
 peer-as21928.pr06.dfw1.tfbnw.net
 peer-as21928.pr06.iad3.tfbnw.net
-peer-as21928.pr06.lga1.tfbnw.net
 peer-as21928.pr06.mia1.tfbnw.net
 peer-as21928.pr06.sea1.tfbnw.net
 peer-as21928.pr07.lga1.tfbnw.net
@@ -84930,7 +85040,6 @@ peer-as237.br02.det1.tfbnw.net
 peer-as237.pr04.ord3.tfbnw.net
 peer-as23860.pr02.maa2.tfbnw.net
 peer-as23860.pr03.bom1.tfbnw.net
-peer-as23944.pr01.hkg4.tfbnw.net
 peer-as23947.pr02.cgk1.tfbnw.net
 peer-as23947.pr04.cgk1.tfbnw.net
 peer-as23951.pr01.cgk1.tfbnw.net
@@ -85013,7 +85122,6 @@ peer-as262808.pr02.gig2.tfbnw.net
 peer-as262821.pr02.gru1.tfbnw.net
 peer-as262865.pr02.gru1.tfbnw.net
 peer-as262865.pr04.gru1.tfbnw.net
-peer-as262907.pr02.poa1.tfbnw.net
 peer-as262928.pr01.bog1.tfbnw.net
 peer-as262928.pr02.bog1.tfbnw.net
 peer-as263042.pr04.gru1.tfbnw.net
@@ -85046,7 +85154,6 @@ peer-as263985.pr04.gru1.tfbnw.net
 peer-as264170.pr04.gru1.tfbnw.net
 peer-as264186.pr02.gru2.tfbnw.net
 peer-as264255.pr01.gru1.tfbnw.net
-peer-as264329.pr01.bsb1.tfbnw.net
 peer-as264491.pr01.gru1.tfbnw.net
 peer-as264543.pr04.gru1.tfbnw.net
 peer-as264780.pr02.scl1.tfbnw.net
@@ -85063,7 +85170,6 @@ peer-as265192.pr05.gru1.tfbnw.net
 peer-as265234.pr03.gru2.tfbnw.net
 peer-as265389.pr03.gru2.tfbnw.net
 peer-as265475.pr04.gru2.tfbnw.net
-peer-as265482.pr01.bsb1.tfbnw.net
 peer-as265482.pr04.bsb1.tfbnw.net
 peer-as265484.pr01.gru2.tfbnw.net
 peer-as265485.pr01.gig2.tfbnw.net
@@ -85302,7 +85408,6 @@ peer-as3356.pr04.vie1.tfbnw.net
 peer-as3356.pr04.waw1.tfbnw.net
 peer-as3356.pr05.atl1.tfbnw.net
 peer-as3356.pr06.atl1.tfbnw.net
-peer-as3356.pr06.lga1.tfbnw.net
 peer-as33763.pr03.jnb1.tfbnw.net
 peer-as33771.pr01.mba1.tfbnw.net
 peer-as33771.pr02.mba1.tfbnw.net
@@ -85353,7 +85458,6 @@ peer-as35745.pr05.waw1.tfbnw.net
 peer-as35847.pr04.hou1.tfbnw.net
 peer-as3605.pr04.nrt5.tfbnw.net
 peer-as36149.pr04.sea1.tfbnw.net
-peer-as3630.pr05.lga1.tfbnw.net
 peer-as3630.pr07.lga1.tfbnw.net
 peer-as36351.pr03.atl1.tfbnw.net
 peer-as36351.pr04.atl1.tfbnw.net
@@ -85547,7 +85651,6 @@ peer-as45117.pr04.del1.tfbnw.net
 peer-as45147.pr01.sin6.tfbnw.net
 peer-as45177.pr01.akl1.tfbnw.net
 peer-as45177.pr02.akl1.tfbnw.net
-peer-as45184.pr03.del1.tfbnw.net
 peer-as45184.pr04.del1.tfbnw.net
 peer-as45235.pr04.del1.tfbnw.net
 peer-as45287.pr03.cgk1.tfbnw.net
@@ -85668,7 +85771,6 @@ peer-as52260.pr07.mia1.tfbnw.net
 peer-as52286.pr01.gua1.tfbnw.net
 peer-as52286.pr02.gua1.tfbnw.net
 peer-as52320.pr02.bog1.tfbnw.net
-peer-as52320.pr05.lga1.tfbnw.net
 peer-as52341.pr03.scl1.tfbnw.net
 peer-as52361.pr01.eze1.tfbnw.net
 peer-as52361.pr02.eze1.tfbnw.net
@@ -85785,7 +85887,6 @@ peer-as5645.pr03.yyz1.tfbnw.net
 peer-as56478.pr03.lhr3.tfbnw.net
 peer-as5650.pr03.dfw1.tfbnw.net
 peer-as5650.pr03.iad3.tfbnw.net
-peer-as5650.pr05.lga1.tfbnw.net
 peer-as5650.pr06.mia1.tfbnw.net
 peer-as5650.pr07.mia1.tfbnw.net
 peer-as56630.pr01.ams2.tfbnw.net
@@ -85798,9 +85899,7 @@ peer-as5769.pr04.yyz1.tfbnw.net
 peer-as577.pr03.ord3.tfbnw.net
 peer-as577.pr04.ord3.tfbnw.net
 peer-as577.pr04.sea1.tfbnw.net
-peer-as577.pr05.lga1.tfbnw.net
 peer-as577.pr05.sea1.tfbnw.net
-peer-as577.pr06.lga1.tfbnw.net
 peer-as577.pr07.lga1.tfbnw.net
 peer-as577.pr08.lga1.tfbnw.net
 peer-as57910.pr03.mad1.tfbnw.net
@@ -85857,8 +85956,6 @@ peer-as60280.pr01.fra4.tfbnw.net
 peer-as60426.pr01.lhr4.tfbnw.net
 peer-as6057.pr04.eze1.tfbnw.net
 peer-as6079.pr01.iad3.tfbnw.net
-peer-as6128.pr05.lga1.tfbnw.net
-peer-as6128.pr06.lga1.tfbnw.net
 peer-as61461.pr06.mia1.tfbnw.net
 peer-as61461.pr07.mia1.tfbnw.net
 peer-as61466.pr02.scl1.tfbnw.net
@@ -86030,10 +86127,8 @@ peer-as7843.pr04.hou1.tfbnw.net
 peer-as7843.pr04.iad3.tfbnw.net
 peer-as7843.pr05.atl1.tfbnw.net
 peer-as7843.pr05.dfw1.tfbnw.net
-peer-as7843.pr05.lga1.tfbnw.net
 peer-as7843.pr06.atl1.tfbnw.net
 peer-as7843.pr06.dfw1.tfbnw.net
-peer-as7843.pr06.lga1.tfbnw.net
 peer-as7843.pr06.mia1.tfbnw.net
 peer-as7843.pr06.sea1.tfbnw.net
 peer-as7843.pr07.lga1.tfbnw.net
@@ -86107,7 +86202,6 @@ peer-as852.pr07.lga1.tfbnw.net
 peer-as8551.pr01.fra2.tfbnw.net
 peer-as8551.pr01.mrs1.tfbnw.net
 peer-as8551.pr02.mrs1.tfbnw.net
-peer-as855.pr06.lga1.tfbnw.net
 peer-as855.pr08.lga1.tfbnw.net
 peer-as8612.pr01.mxp1.tfbnw.net
 peer-as8637.pr03.mad1.tfbnw.net
@@ -86153,8 +86247,6 @@ peer-as9009.pr01.gru1.tfbnw.net
 peer-as9009.pr02.ams3.tfbnw.net
 peer-as9009.pr02.vie1.tfbnw.net
 peer-as9009.pr03.mad1.tfbnw.net
-peer-as9009.pr05.lga1.tfbnw.net
-peer-as9009.pr06.lga1.tfbnw.net
 peer-as9049.pr02.hel3.tfbnw.net
 peer-as9049.pr03.arn2.tfbnw.net
 peer-as9049.pr04.arn2.tfbnw.net
@@ -86201,7 +86293,6 @@ peer-as9498.pr02.ccu1.tfbnw.net
 peer-as9498.pr02.del1.tfbnw.net
 peer-as9498.pr02.maa2.tfbnw.net
 peer-as9498.pr03.bom1.tfbnw.net
-peer-as9498.pr03.del1.tfbnw.net
 peer-as9498.pr04.bom1.tfbnw.net
 peer-as9498.pr04.del1.tfbnw.net
 peer-as9498.pr04.mrs1.tfbnw.net
@@ -86225,7 +86316,6 @@ peer-as9829.pr01.del1.tfbnw.net
 peer-as9829.pr02.bom1.tfbnw.net
 peer-as9829.pr02.ccu1.tfbnw.net
 peer-as9829.pr03.ccu1.tfbnw.net
-peer-as9829.pr03.del1.tfbnw.net
 peer-as9829.pr04.del1.tfbnw.net
 peer-as9873.pr03.hkg4.tfbnw.net
 peer-as9885.pr01.bom1.tfbnw.net
@@ -86991,7 +87081,6 @@ po101.asw02.mad1.tfbnw.net
 po101.asw02.mrs2.tfbnw.net
 po101.asw02.qro1.tfbnw.net
 po101.asw02.sof1.tfbnw.net
-po101.asw02.yyz1.tfbnw.net
 po101.asw03.akl1.tfbnw.net
 po101.asw03.blr1.tfbnw.net
 po101.asw03.bos5.tfbnw.net
@@ -87009,7 +87098,6 @@ po101.asw04.los1.tfbnw.net
 po101.asw04.man2.tfbnw.net
 po101.asw04.mct1.tfbnw.net
 po101.asw04.ord5.tfbnw.net
-po101.asw04.yyz1.tfbnw.net
 po101.psw01.gua1.tfbnw.net
 po101.psw02.gua1.tfbnw.net
 po101.psw02.pnq1.tfbnw.net
@@ -87027,7 +87115,6 @@ po102.asw01.mad2.tfbnw.net
 po102.asw01.man2.tfbnw.net
 po102.asw01.poa1.tfbnw.net
 po102.asw01.xxr1.tfbnw.net
-po102.asw01.yyz1.tfbnw.net
 po102.asw02.cgk1.tfbnw.net
 po102.asw02.cgk2.tfbnw.net
 po102.asw02.cpt1.tfbnw.net
@@ -87039,11 +87126,8 @@ po102.asw02.hbe1.tfbnw.net
 po102.asw02.hkg1.tfbnw.net
 po102.asw02.iad3.tfbnw.net
 po102.asw02.mba2.tfbnw.net
-po102.asw02.yyz1.tfbnw.net
-po102.asw03.akl1.tfbnw.net
 po102.asw03.bom2.tfbnw.net
 po102.asw03.gig4.tfbnw.net
-po102.asw04.akl1.tfbnw.net
 po102.asw04.doh1.tfbnw.net
 po102.asw04.ist1.tfbnw.net
 po102.asw04.los1.tfbnw.net
@@ -87109,7 +87193,6 @@ po111.asw01.gru2.tfbnw.net
 po111.asw01.mba2.tfbnw.net
 po111.asw01.mrs2.tfbnw.net
 po111.asw01.mxp1.tfbnw.net
-po111.asw01.sin11.tfbnw.net
 po111.asw01.sjc1.tfbnw.net
 po111.asw02.ams2.tfbnw.net
 po111.asw02.fml1.tfbnw.net
@@ -87252,7 +87335,6 @@ po201.asw02.sea1.tfbnw.net
 po201.asw02.sin6.tfbnw.net
 po201.asw02.sjc1.tfbnw.net
 po201.asw02.zrh1.tfbnw.net
-po201.asw03.akl1.tfbnw.net
 po201.asw03.bkk1.tfbnw.net
 po201.asw03.blr1.tfbnw.net
 po201.asw03.bos5.tfbnw.net
@@ -87265,7 +87347,6 @@ po201.asw03.sea1.tfbnw.net
 po201.asw03.sjc1.tfbnw.net
 po201.asw03.xxd1.tfbnw.net
 po201.asw03.xxr1.tfbnw.net
-po201.asw04.akl1.tfbnw.net
 po201.asw04.den2.tfbnw.net
 po201.asw04.mia1.tfbnw.net
 po201.asw04.sea1.tfbnw.net
@@ -87295,7 +87376,6 @@ po202.asw02.cgk1.tfbnw.net
 po202.asw02.del1.tfbnw.net
 po202.asw02.del2.tfbnw.net
 po202.asw02.den2.tfbnw.net
-po202.asw02.hel3.tfbnw.net
 po202.asw02.hou1.tfbnw.net
 po202.asw02.jnb1.tfbnw.net
 po202.asw02.mia1.tfbnw.net
@@ -87303,7 +87383,6 @@ po202.asw02.msp1.tfbnw.net
 po202.asw02.prg1.tfbnw.net
 po202.asw02.ssn1.tfbnw.net
 po202.asw02.zrh1.tfbnw.net
-po202.asw03.akl1.tfbnw.net
 po202.asw03.atl1.tfbnw.net
 po202.asw03.bos5.tfbnw.net
 po202.asw03.bsb1.tfbnw.net
@@ -87313,7 +87392,6 @@ po202.asw03.mct1.tfbnw.net
 po202.asw03.sea1.tfbnw.net
 po202.asw03.sof1.tfbnw.net
 po202.asw03.ssn1.tfbnw.net
-po202.asw04.akl1.tfbnw.net
 po202.asw04.cdg4.tfbnw.net
 po202.asw04.lga1.tfbnw.net
 po202.asw04.yyz1.tfbnw.net
@@ -88201,7 +88279,6 @@ pr06.dfw1.tfbnw.net
 pr06.iad3.tfbnw.net
 pr06.lga1.tfbnw.net
 pr06.mia1.tfbnw.net
-pr06.mxp2.tfbnw.net
 pr06.sea1.tfbnw.net
 pr06.waw1.tfbnw.net
 pr07.lga1.tfbnw.net
@@ -90906,6 +90983,7 @@ ro.itl.facebook.co
 rojellystone.comwww.facebook.co
 rokoszem.www.facebook.pl
 rola0982585839.fbsbx.com
+rold.dewww.facebook.co
 rolkach.www.facebook.pl
 rolland.facebook.com
 roll.facebook.com
@@ -91162,8 +91240,6 @@ rt-gateway-meta-genai-shv-01-icn2.facebook.com
 rt-gateway-meta-genai-shv-01-poa1.facebook.com
 rt-gateway-meta-genai-shv-02-cgk1.facebook.com
 rt-gateway-meta-genai-shv-02-iad3.facebook.com
-rt-gateway-wa-social-shv-01-lhr6.facebook.com
-rt-gateway-wa-social-shv-01-ord5.facebook.com
 rth.workplace.com
 rti-cc1-bz01.fb.me
 rti.i.org
@@ -91375,6 +91451,7 @@ ry.g.m.me
 ry.i.org
 ryoeikaiwa.fb.me
 ryogokuterrace.freebasics.com
+rysports.comwww.facebook.co
 ryugagotoku5.fburl.com
 ryusyou.internalfb.com
 ryvws10.workplace.com
@@ -91554,6 +91631,7 @@ sami.internalfb.com
 samkaup518.workplace.com
 sammystuiterbal.facebook.nl
 samotne.workplace.com
+sampaio.facebook.com.br
 samp-hostlink.fb.me
 samp.internet.org
 samplesb0b-platform-lookaside.fbsbx.com
@@ -91590,6 +91668,7 @@ sanef.facebook.com
 sanef.workplace.com
 san.fb.me
 sangamon.messenger.com
+sang.dewww.facebook.co
 sangeetawaldronpic.internet.org
 san-giorgio-di-nogaro.fburl.com
 sanjarica.messenger.com
@@ -93620,7 +93699,6 @@ scontent.fdps2-1.fna.fbcdn.net
 scontent.fdps3-1.fna.fbcdn.net
 scontent.fdps4-1.fna.fbcdn.net
 scontent.fdps5-1.fna.fbcdn.net
-scontent.fdps6-1.fna.fbcdn.net
 scontent.fdps7-1.fna.fbcdn.net
 scontent.fdps8-1.fna.fbcdn.net
 scontent.fdsa2-1.fna.fbcdn.net
@@ -94420,7 +94498,6 @@ scontent.fkno10-1.fna.fbcdn.net
 scontent.fkno2-1.fna.fbcdn.net
 scontent.fkno3-1.fna.fbcdn.net
 scontent.fkno4-1.fna.fbcdn.net
-scontent.fkno5-1.fna.fbcdn.net
 scontent.fkno6-1.fna.fbcdn.net
 scontent.fkno7-1.fna.fbcdn.net
 scontent.fkno8-1.fna.fbcdn.net
@@ -94447,7 +94524,6 @@ scontent.fktm2-1.fna.fbcdn.net
 scontent.fktm23-1.fna.fbcdn.net
 scontent.fktm3-1.fna.fbcdn.net
 scontent.fktm4-1.fna.fbcdn.net
-scontent.fktm6-1.fna.fbcdn.net
 scontent.fktm7-1.fna.fbcdn.net
 scontent.fktm8-1.fna.fbcdn.net
 scontent.fktm9-2.fna.fbcdn.net
@@ -94466,7 +94542,6 @@ scontent.fkul16-1.fna.fbcdn.net
 scontent.fkul16-2.fna.fbcdn.net
 scontent.fkul16-3.fna.fbcdn.net
 scontent.fkul16-4.fna.fbcdn.net
-scontent.fkul17-1.fna.fbcdn.net
 scontent.fkul18-1.fna.fbcdn.net
 scontent.fkul18-2.fna.fbcdn.net
 scontent.fkul18-3.fna.fbcdn.net
@@ -94592,14 +94667,12 @@ scontent.flim16-2.fna.fbcdn.net
 scontent.flim16-3.fna.fbcdn.net
 scontent.flim17-1.fna.fbcdn.net
 scontent.flim18-1.fna.fbcdn.net
-scontent.flim18-2.fna.fbcdn.net
 scontent.flim18-3.fna.fbcdn.net
 scontent.flim19-1.fna.fbcdn.net
 scontent.flim20-1.fna.fbcdn.net
 scontent.flim2-1.fna.fbcdn.net
 scontent.flim2-2.fna.fbcdn.net
 scontent.flim2-3.fna.fbcdn.net
-scontent.flim25-1.fna.fbcdn.net
 scontent.flim28-1.fna.fbcdn.net
 scontent.flim28-2.fna.fbcdn.net
 scontent.flim29-1.fna.fbcdn.net
@@ -94768,7 +94841,6 @@ scontent.fmci2-1.fna.fbcdn.net
 scontent.fmcp1-1.fna.fbcdn.net
 scontent.fmcp2-1.fna.fbcdn.net
 scontent.fmct2-3.fna.fbcdn.net
-scontent.fmct4-1.fna.fbcdn.net
 scontent.fmct5-1.fna.fbcdn.net
 scontent.fmcz1-1.fna.fbcdn.net
 scontent.fmcz2-1.fna.fbcdn.net
@@ -94867,6 +94939,7 @@ scontent.fmkz1-2.fna.fbcdn.net
 scontent-fml1-1.cdninstagram.com
 scontent-fml1-1.oculuscdn.com
 scontent-fml1-1.xx.fbcdn.net
+scontent-fml20-1.cdninstagram.com
 scontent.fmla1-1.fna.fbcdn.net
 scontent.fmla1-2.fna.fbcdn.net
 scontent.fmla2-1.fna.fbcdn.net
@@ -95198,7 +95271,6 @@ scontent.fplm2-1.fna.fbcdn.net
 scontent.fplm3-1.fna.fbcdn.net
 scontent.fplm4-1.fna.fbcdn.net
 scontent.fplq1-2.fna.fbcdn.net
-scontent.fplu10-1.fna.fbcdn.net
 scontent.fplu1-1.fna.fbcdn.net
 scontent.fplu13-1.fna.fbcdn.net
 scontent.fplu16-1.fna.fbcdn.net
@@ -96011,7 +96083,6 @@ scontent.fuio6-2.fna.fbcdn.net
 scontent.fuio6-3.fna.fbcdn.net
 scontent.fukk2-1.fna.fbcdn.net
 scontent.fuln1-1.fna.fbcdn.net
-scontent.fuln1-2.fna.fbcdn.net
 scontent.fuln2-2.fna.fbcdn.net
 scontent.fuln3-1.fna.fbcdn.net
 scontent.fuln4-2.fna.fbcdn.net
@@ -97802,6 +97873,7 @@ secure.facebook.vn
 secure.facebook.vu
 secure.facebook.wf
 secure.facebook.yt
+secure.fallback.c10r.facebook.com
 secure-fallback.facebook.com
 secure-fallback.instagram.com
 secure-fallback.oculus.com
@@ -99397,6 +99469,7 @@ sites.sonicsinc.net
 sitestaginstagilediscovidev.internet.org
 sites.twistedpixelgames.com
 sitewaysteam.workplace.com
+sitewww.facebook.com.br
 sit.fb.me
 sit.freebasics.com
 sitrain-learning.workplace.com
@@ -102279,7 +102352,6 @@ static.fkkc3-1.fna.fbcdn.net
 static.fkkc4-1.fna.fbcdn.net
 static.fklo1-1.fna.fbcdn.net
 static.fkno3-1.fna.fbcdn.net
-static.fkno5-1.fna.fbcdn.net
 static.fkno6-1.fna.fbcdn.net
 static.fktm1-1.fna.fbcdn.net
 static.fktm3-1.fna.fbcdn.net
@@ -103645,6 +103717,7 @@ synthetic-e2e-elbprod-sli-shv-01-dus1.facebook.com
 synthetic-e2e-elbprod-sli-shv-01-eze1.facebook.com
 synthetic-e2e-elbprod-sli-shv-01-fco2.facebook.com
 synthetic-e2e-elbprod-sli-shv-01-fml1.facebook.com
+synthetic-e2e-elbprod-sli-shv-01-fml20.facebook.com
 synthetic-e2e-elbprod-sli-shv-01-fmx1.facebook.com
 synthetic-e2e-elbprod-sli-shv-01-fra5.facebook.com
 synthetic-e2e-elbprod-sli-shv-01-gig4.facebook.com
@@ -104563,7 +104636,6 @@ synthetic-e2e-shivfna-sli-shv-01-fdps15.shiv.meta.com
 synthetic-e2e-shivfna-sli-shv-01-fdps17.shiv.meta.com
 synthetic-e2e-shivfna-sli-shv-01-fdps1.shiv.meta.com
 synthetic-e2e-shivfna-sli-shv-01-fdps2.shiv.meta.com
-synthetic-e2e-shivfna-sli-shv-01-fdps6.shiv.meta.com
 synthetic-e2e-shivfna-sli-shv-01-fdps7.shiv.meta.com
 synthetic-e2e-shivfna-sli-shv-01-fdps8.shiv.meta.com
 synthetic-e2e-shivfna-sli-shv-01-fdps9.shiv.meta.com
@@ -105185,6 +105257,7 @@ teamnexus.m.facebook.com
 team.oculus.de
 teamtcw.facebook.com
 teaneck.internet.org
+teaovechkin.comwww.cupcakesetclaquettes.comwww.facebook.co
 teatea88.internalfb.com
 t-ec.dewww.facebook.co
 tec.fb.me
@@ -105422,6 +105495,7 @@ tensor.m.facebook.com
 tenthousandcoffees.m.facebook.com
 teoriasdeenfermeriauns.fb.me
 terceiraopensandoaltoe.fb.me
+ter.chknuddelmonsterwww.facebook.co
 te.react.dev
 teresa.briggs.facebook.com.au
 termeszetbaratikor.fb.me
@@ -106166,6 +106240,7 @@ tierkindewww.annettebetz.dewww.facebook.de
 ti-et.facebook.com
 tietoevry.workplace.com
 tifhelene.facebook.fr
+tigede.youtube.comkiz-tv.dewww.mzee.comwww.alphabetisiwww.bing.comwww.facebook.co
 tigekiz-tv.devideo.googlewww.alphabundwww.chancen-erarbeiten.dewww.facebook.co
 tigercny2022.facebook.co
 tiger.facebook.org
@@ -106516,6 +106591,7 @@ torrent.facebook.co
 torrent.facebook.org
 tortem.www.facebook.co
 torvallamaskin.internet.org
+tory.comwww.youtube.comwww.facebook.co
 tosa4life.workplace.com
 toscanini.fburl.com
 tosnotabi.fb.me
@@ -108403,6 +108479,7 @@ u_socialwww.facebook.co
 us.oculus.de
 usohqmacdsms1.fb.me
 usos.facebook.de
+uso.www.facebook.com.br
 usprauth.dev.alpha-04-2.accountkit.com
 usprz2-bb-cr2.fb.me
 usqas2-epclient-vpn2.messenger.com
@@ -109536,7 +109613,6 @@ video.fkno10-1.fna.fbcdn.net
 video.fkno2-1.fna.fbcdn.net
 video.fkno3-1.fna.fbcdn.net
 video.fkno4-1.fna.fbcdn.net
-video.fkno5-1.fna.fbcdn.net
 video.fkno6-1.fna.fbcdn.net
 video.fkno8-1.fna.fbcdn.net
 video.fkno9-1.fna.fbcdn.net
@@ -109550,7 +109626,6 @@ video.fktm14-1.fna.fbcdn.net
 video.fktm2-1.fna.fbcdn.net
 video.fktm3-1.fna.fbcdn.net
 video.fktm4-1.fna.fbcdn.net
-video.fktm6-1.fna.fbcdn.net
 video.fktm7-1.fna.fbcdn.net
 video.fktm8-1.fna.fbcdn.net
 video.fkul10-1.fna.fbcdn.net
@@ -109559,7 +109634,6 @@ video.fkul1-1.fna.fbcdn.net
 video.fkul15-1.fna.fbcdn.net
 video.fkul16-1.fna.fbcdn.net
 video.fkul16-2.fna.fbcdn.net
-video.fkul17-1.fna.fbcdn.net
 video.fkul18-1.fna.fbcdn.net
 video.fkul19-1.fna.fbcdn.net
 video.fkul19-2.fna.fbcdn.net
@@ -109956,7 +110030,6 @@ video.fuet1-1.fna.fbcdn.net
 video.fuet2-1.fna.fbcdn.net
 video.fuio10-2.fna.fbcdn.net
 video.fuln1-1.fna.fbcdn.net
-video.fuln1-2.fna.fbcdn.net
 video.fuln3-1.fna.fbcdn.net
 video.fuln4-2.fna.fbcdn.net
 video.fuln5-1.fna.fbcdn.net
@@ -111842,6 +111915,7 @@ wc.facebook.pr
 wcff9149d1-guydeobxga4tsmd.snr.whatsapp.net
 wcigc.workplace.com
 wc.messenger.com
+w.cnn.comwww.imdb.comwww.ebay.comwww.facebook.co
 wcs.i.org
 wcsjp.facebook.com
 wcsjp.m.facebook.com
@@ -112007,6 +112081,7 @@ web-app.facebook.cl
 web-apps.fb.me
 webapp.svcscm.rampart010.rampart.oculus.com
 webap.workplace.com
+w.ebay.comwww.facebook.co
 webbakeries.workplace.com
 webbc.facebook.com.br
 web-bolcombr.internet.org
@@ -112890,6 +112965,7 @@ whatsapp-chatd-edge-shv-01-dus1.facebook.com
 whatsapp-chatd-edge-shv-01-eze1.facebook.com
 whatsapp-chatd-edge-shv-01-fco2.facebook.com
 whatsapp-chatd-edge-shv-01-fml1.facebook.com
+whatsapp-chatd-edge-shv-01-fml20.facebook.com
 whatsapp-chatd-edge-shv-01-fmx1.facebook.com
 whatsapp-chatd-edge-shv-01-for2.facebook.com
 whatsapp-chatd-edge-shv-01-fra3.facebook.com
@@ -112923,6 +112999,7 @@ whatsapp-chatd-edge-shv-01-maa2.facebook.com
 whatsapp-chatd-edge-shv-01-mad1.facebook.com
 whatsapp-chatd-edge-shv-01-mad2.facebook.com
 whatsapp-chatd-edge-shv-01-man2.facebook.com
+whatsapp-chatd-edge-shv-01-mba2.facebook.com
 whatsapp-chatd-edge-shv-01-mct1.facebook.com
 whatsapp-chatd-edge-shv-01-mia3.facebook.com
 whatsapp-chatd-edge-shv-01-mnl1.facebook.com
@@ -114488,7 +114565,6 @@ wildcard.fbgw27-1.fna.whatsapp.net
 wildcard.fbgw32-1.fna.whatsapp.net
 wildcard.fbgw36-1.fna.fbcdn.net
 wildcard.fbgw36-1.fna.whatsapp.net
-wildcard.fbgw37-1.fna.whatsapp.net
 wildcard.fbgw38-1.fna.whatsapp.net
 wildcard.fbgw39-1.fna.fbcdn.net
 wildcard.fbgw39-1.fna.whatsapp.net
@@ -114883,7 +114959,6 @@ wildcard.fbom7-1.fna.whatsapp.net
 wildcard.fbom8-1.fna.fbcdn.net
 wildcard.fbom8-1.fna.whatsapp.net
 wildcard.fbom9-1.fna.whatsapp.net
-wildcard.fboy1-1.fna.whatsapp.net
 wildcard.fbpg1-1.fna.whatsapp.net
 wildcard.fbpm2-1.fna.whatsapp.net
 wildcard.fbpm3-1.fna.whatsapp.net
@@ -116052,7 +116127,6 @@ wildcard.fdps4-1.fna.fbcdn.net
 wildcard.fdps4-1.fna.whatsapp.net
 wildcard.fdps5-1.fna.fbcdn.net
 wildcard.fdps5-1.fna.whatsapp.net
-wildcard.fdps6-1.fna.whatsapp.net
 wildcard.fdps7-1.fna.fbcdn.net
 wildcard.fdps7-1.fna.whatsapp.net
 wildcard.fdps8-1.fna.fbcdn.net
@@ -117035,7 +117109,6 @@ wildcard.fisu11-1.fna.whatsapp.net
 wildcard.fisu1-3.fna.fbcdn.net
 wildcard.fisu1-3.fna.whatsapp.net
 wildcard.fisu1-4.fna.fbcdn.net
-wildcard.fisu2-3.fna.fbcdn.net
 wildcard.fisu3-1.fna.whatsapp.net
 wildcard.fisu4-4.fna.whatsapp.net
 wildcard.fisu6-2.fna.whatsapp.net
@@ -117366,8 +117439,6 @@ wildcard.fkhh1-1.fna.fbcdn.net
 wildcard.fkhh1-2.fna.whatsapp.net
 wildcard.fkhh2-2.fna.fbcdn.net
 wildcard.fkhh2-2.fna.whatsapp.net
-wildcard.fkhh3-1.fna.fbcdn.net
-wildcard.fkhh3-1.fna.whatsapp.net
 wildcard.fkhi11-1.fna.fbcdn.net
 wildcard.fkhi11-1.fna.whatsapp.net
 wildcard.fkhi11-2.fna.whatsapp.net
@@ -117442,8 +117513,6 @@ wildcard.fkno2-1.fna.whatsapp.net
 wildcard.fkno3-1.fna.fbcdn.net
 wildcard.fkno3-1.fna.whatsapp.net
 wildcard.fkno4-1.fna.whatsapp.net
-wildcard.fkno5-1.fna.fbcdn.net
-wildcard.fkno5-1.fna.whatsapp.net
 wildcard.fkno6-1.fna.whatsapp.net
 wildcard.fkno7-1.fna.whatsapp.net
 wildcard.fkno8-1.fna.fbcdn.net
@@ -117463,7 +117532,6 @@ wildcard.fktm12-1.fna.whatsapp.net
 wildcard.fktm13-1.fna.whatsapp.net
 wildcard.fktm14-1.fna.fbcdn.net
 wildcard.fktm14-1.fna.whatsapp.net
-wildcard.fktm15-1.fna.whatsapp.net
 wildcard.fktm18-1.fna.fbcdn.net
 wildcard.fktm18-1.fna.whatsapp.net
 wildcard.fktm19-1.fna.fbcdn.net
@@ -117473,7 +117541,6 @@ wildcard.fktm21-2.fna.whatsapp.net
 wildcard.fktm2-1.fna.fbcdn.net
 wildcard.fktm22-1.fna.whatsapp.net
 wildcard.fktm2-2.fna.whatsapp.net
-wildcard.fktm6-1.fna.whatsapp.net
 wildcard.fktm7-1.fna.fbcdn.net
 wildcard.fktm7-1.fna.whatsapp.net
 wildcard.fktm8-1.fna.fbcdn.net
@@ -117495,8 +117562,6 @@ wildcard.fkul16-1.fna.whatsapp.net
 wildcard.fkul16-2.fna.whatsapp.net
 wildcard.fkul16-3.fna.whatsapp.net
 wildcard.fkul16-4.fna.whatsapp.net
-wildcard.fkul17-1.fna.fbcdn.net
-wildcard.fkul17-1.fna.whatsapp.net
 wildcard.fkul18-2.fna.fbcdn.net
 wildcard.fkul18-2.fna.whatsapp.net
 wildcard.fkul18-3.fna.fbcdn.net
@@ -117683,15 +117748,12 @@ wildcard.flim16-1.fna.whatsapp.net
 wildcard.flim16-2.fna.whatsapp.net
 wildcard.flim16-3.fna.whatsapp.net
 wildcard.flim18-1.fna.fbcdn.net
-wildcard.flim18-2.fna.fbcdn.net
 wildcard.flim18-3.fna.whatsapp.net
 wildcard.flim19-1.fna.whatsapp.net
 wildcard.flim20-1.fna.fbcdn.net
 wildcard.flim20-1.fna.whatsapp.net
 wildcard.flim21-1.fna.fbcdn.net
 wildcard.flim21-1.fna.whatsapp.net
-wildcard.flim21-2.fna.fbcdn.net
-wildcard.flim21-2.fna.whatsapp.net
 wildcard.flim2-1.fna.fbcdn.net
 wildcard.flim2-1.fna.whatsapp.net
 wildcard.flim22-1.fna.fbcdn.net
@@ -117704,7 +117766,6 @@ wildcard.flim2-3.fna.fbcdn.net
 wildcard.flim2-3.fna.whatsapp.net
 wildcard.flim24-1.fna.whatsapp.net
 wildcard.flim2-4.fna.whatsapp.net
-wildcard.flim25-1.fna.whatsapp.net
 wildcard.flim2-5.fna.fbcdn.net
 wildcard.flim2-5.fna.whatsapp.net
 wildcard.flim26-1.fna.whatsapp.net
@@ -118684,7 +118745,6 @@ wildcard.fpat2-6.fna.fbcdn.net
 wildcard.fpat3-2.fna.whatsapp.net
 wildcard.fpat3-3.fna.whatsapp.net
 wildcard.fpat4-1.fna.whatsapp.net
-wildcard.fpat5-1.fna.whatsapp.net
 wildcard.fpat7-1.fna.fbcdn.net
 wildcard.fpat7-1.fna.whatsapp.net
 wildcard.fpat8-1.fna.fbcdn.net
@@ -118831,7 +118891,6 @@ wildcard.fplm8-1.fna.fbcdn.net
 wildcard.fplm8-1.fna.whatsapp.net
 wildcard.fplq1-2.fna.whatsapp.net
 wildcard.fpls2-1.fna.whatsapp.net
-wildcard.fplu10-1.fna.whatsapp.net
 wildcard.fplu1-1.fna.fbcdn.net
 wildcard.fplu1-1.fna.whatsapp.net
 wildcard.fplu13-1.fna.fbcdn.net
@@ -118923,7 +118982,6 @@ wildcard.fpnh18-5.fna.fbcdn.net
 wildcard.fpnh18-5.fna.whatsapp.net
 wildcard.fpnh18-6.fna.whatsapp.net
 wildcard.fpnh20-1.fna.whatsapp.net
-wildcard.fpnh21-1.fna.whatsapp.net
 wildcard.fpnh2-1.fna.fbcdn.net
 wildcard.fpnh2-1.fna.whatsapp.net
 wildcard.fpnh2-2.fna.whatsapp.net
@@ -120465,7 +120523,6 @@ wildcard.fukk1-1.fna.whatsapp.net
 wildcard.fukk3-1.fna.whatsapp.net
 wildcard.fuln11-1.fna.whatsapp.net
 wildcard.fuln1-1.fna.fbcdn.net
-wildcard.fuln1-2.fna.whatsapp.net
 wildcard.fuln2-2.fna.fbcdn.net
 wildcard.fuln2-2.fna.whatsapp.net
 wildcard.fuln3-1.fna.whatsapp.net
@@ -121391,6 +121448,7 @@ work-22187880.workplace.com
 work-22314513.workplace.com
 work-22333185.workplace.com
 work-22451500.workplace.com
+work-22650533.facebook.com
 work-22971537.workplace.com
 work-23121478.m.facebook.com
 work-23768497.workplace.com
@@ -121953,6 +122011,7 @@ workrooms-teams-media-shv-01-det1.facebook.com
 workrooms-teams-media-shv-01-dub4.facebook.com
 workrooms-teams-media-shv-01-eze1.facebook.com
 workrooms-teams-media-shv-01-fml1.facebook.com
+workrooms-teams-media-shv-01-fml20.facebook.com
 workrooms-teams-media-shv-01-fmx1.facebook.com
 workrooms-teams-media-shv-01-fra5.facebook.com
 workrooms-teams-media-shv-01-gig4.facebook.com
@@ -122405,6 +122464,7 @@ wwinternational.facebook.co
 wwinternational.facebook.com
 wwinternational.workplace.com
 ww.internet.org
+ww.invictamaa.comwww.facebook.co
 ww.i.org
 w.wk.pl
 ww.kunstogkirker.dkwww.facebook.co
@@ -122621,6 +122681,7 @@ www0.dns.facebook.com
 www.0.facebook.co
 www0.facebook.co
 www.0.facebook.com
+www.0.facebook.com.gt
 www.0.facebook.de
 www.0.freebasics.com
 www.0.lite.facebook.com
@@ -123554,6 +123615,7 @@ www.ankommen-in-brandenburg.dewww.facebook.de
 www.annettebetz.dewww.facebook.de
 www.antifa-essen.dewww.facebook.de
 www.aol.messenger.com
+www.aos.africawww.facebook.co
 www.aotearoanz.fb.com
 www.apache.mirror.facebook.net
 www.apacinnovation.atmeta.com
@@ -123781,6 +123843,7 @@ www.ar.yahoo.messenger.com
 www.asahdigital.fb.com
 www.asb-sh.dewww.facebook.de
 www.asb-ulm.orgwww.facebook.de
+www.asheborojellystone.comwww.facebook.co
 www-ask-com.0.internet.org
 www.askfacebook.net
 www.askfacebook.org
@@ -123953,6 +124016,7 @@ www.c8773964-5489-4b1d-a67b-fe9e948e09f4-netseer-ipaddr-assoc.xz.fbcdn.net
 www.ca4ca93c-94a2-43d3-a2c4-6b362a58dc03-netseer-ipaddr-assoc.xz.fbcdn.net
 www.cachelib.com
 www.cachelib.org
+www.cadelrioresort.itwww.facebook.co
 www.ca-es.pt-pt.fbjs.facebook.com
 www.ca-es.ro-ro.fbjs.facebook.com
 www.cafemozart-papenburg.dewww.facebook.de
@@ -124013,6 +124077,7 @@ www.cmvedruna.orgwww.facebook.es
 www.cm-viseu.ptwww.facebook.pt
 www.cn.facebook.com.mx
 www.cn.messenger.com
+www.cnn.comwww.imdb.comwww.ebay.comwww.facebook.co
 www.coarecs.com.arwww.facebook.com.ar
 www.code-dev.fb.com
 www.code.fb.com
@@ -124062,6 +124127,7 @@ www.cs.internet.org
 www.cstools.facebook.com
 www.ctfl.i.org
 www.culihoek.bewww.facebook.be
+www.cupcakesetclaquettes.comwww.facebook.co
 www.curriculum.com.brwww.bne.com.brwww.manager.com.brwww.catho.com.brwww.e-panelinha.com.brwww.linkedin.com.brwww.facebook.com.br
 www.c.workplace.com
 www.d310cba9-8ee0-4e56-84fb-1b1070e01c1f-netseer-ipaddr-assoc.xz.fbcdn.net
@@ -124077,6 +124143,7 @@ www.da-dk.facebook.dk
 www.da-dk.lite.facebook.com
 www.da-dk.mobile.fb.me
 www.dae88568-6daa-4125-8241-ec6d693a3ed0-netseer-ipaddr-assoc.xz.fbcdn.net
+www.danceuniverse.huwww.facebook.co
 www.danseatelier.dkwww.facebook.dk
 www.daphneklbeld.facebook.nl
 -www.dartmouth-.p.c.i.org
@@ -124105,7 +124172,6 @@ www.demotrainingportal.fb.com
 www.derdiedaf.comwww.facebook.de
 www.der-durchblick.euwww.facebook.de
 www.design-subdivide-build.com.auwww.facebook.co
-www.de.sustainability.fb.com
 www-detik-com.0.internet.org
 www-detik-com.0.ziyadbazed.sb.internet.org
 www.deutschand.fb.com
@@ -124253,6 +124319,7 @@ www.eonhanse-alstercup.dewww.facebook.de
 www.e-panelinha.com.brwww.linkedin.com.brwww.facebook.com.br
 www-eplans-com.0.beta.internet.org
 www.eraqc.comwww.facebook.co
+www.erawww.facebook.co
 www.erfolgstreiber.dewww.facebook.de
 www.escuelatrocha.eswww.facebook.es
 www.es-es.c.facebook.com
@@ -124297,7 +124364,6 @@ www.esmatlas.com
 www.espana.fb.com
 www.espia.messenger.com
 www.esslingen-marketing.dewww.facebook.de
-www.es.sustainability.fb.com
 www.estacaohack.fb.com
 www.esta.i.org
 www.et-ee.fbjs.facebook.com
@@ -125083,6 +125149,7 @@ www.gavlegardarna.sewww.facebook.se
 www.gazeta.plwww.allegro.plwww.interia.plwww.gratka.plwww.wp.plwww.facebook.pl
 www.gbclager.sewww.facebook.co
 www.gcashcare.messenger.com
+www.geekuniverse.facebook.com.br
 www.gelbehand.dewww.unterrichtsmaterial.gelbehand.dewww.facebook.de
 www.gelenk-reha-hannover.dewww.facebook.de
 www.gelso-bianco.itwww.facebook.co
@@ -125180,6 +125247,7 @@ www.herpa.dewww.facebook.de
 www.heyne.dewww.facebook.de
 www.hhvm.com
 www.hi5.messenger.com
+www.hidro.ufrj.brwww.facebook.com.br
 www.highland-herold.dewww.facebook.co
 www.hi-in.en-gb.pt-br.fbjs.facebook.com
 www.hi-in.es-la.fbjs.facebook.com
@@ -125856,6 +125924,7 @@ www.kozlovnauplechandy.czwww.facebook.cz
 ww.wk.pl
 www.krebsinformationsdienst.dewww.facebook.de
 www.krelinger-studienzentrum.dewww.facebook.de
+www.kr.facebook.co
 www.ksk-bautzen.dewww.facebook.de
 www.k-taxi.internalfb.com
 www.kuenstlerhaus-saar.dewww.facebook.de
@@ -126836,6 +126905,7 @@ www.rechigiparkhotel.itwww.facebook.co
 www.rechtsanwalt-au.dewww.facebook.de
 www.recoiljs.org
 www.redhot.facebook.us
+www.reginaldo.valadao.facebook.com.br
 www.register.lite.facebook.com
 www.registrarsafe.com
 www.registrarsec.com
@@ -126944,6 +127014,7 @@ www-skylinecomedyclub-com.fbsbx.com
 www.smart-burmester.dewww.facebook.de
 www.sme05.4fgraph3.accountkit.com
 www.smmc.internet.org
+www.snoeks.comwww.facebook.co
 www.socialgood.fb.com
 www.socialimpact.fb.com
 www.someprod.instagram.com
@@ -127234,6 +127305,7 @@ wwww.facebook.co.id
 wwww.facebook.com
 wwww.facebook.com.ar
 wwww.facebook.com.au
+wwww.facebook.com.br
 wwww.facebook.com.mx
 wwww.facebook.com.tw
 wwww.facebook.cz
@@ -127406,6 +127478,7 @@ www.www.www.lear.lite.facebook.com
 www.wwwwww.messenger.com
 wwwwwwwww.v6.facebook.us
 wwwwwwwwwwwwwwwwwwwwwwwwwwww.facebook.at
+wwwwwwwwwwwwwwwwwwwwwwwwwwwww.prod.v6.facebook.com.gt
 wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww.facebook.us
 www.www.ziraat.internet.org
 wwwx2d10x2d03x2dash1.facebook.co.za
@@ -127984,6 +128057,7 @@ xx-fbcdn-shv-02-ccu1.fbcdn.net
 xx-fbcdn-shv-02-ccu2.fbcdn.net
 xx-fbcdn-shv-02-cdg4.fbcdn.net
 xx-fbcdn-shv-02-cgk1.fbcdn.net
+xx-fbcdn-shv-02-cgk2.fbcdn.net
 xx-fbcdn-shv-02-del1.fbcdn.net
 xx-fbcdn-shv-02-del2.fbcdn.net
 xx-fbcdn-shv-02-dfw5.fbcdn.net
@@ -128229,6 +128303,7 @@ yourcameras.internet.org
 yourfashionmirror.fb.me
 your.fb.com
 yourhome.fb.com
+your-instance.kustomer.com
 your-world-at-penn.workplace.com
 youse.facebook.com
 youse.m.facebook.com
@@ -128787,6 +128862,7 @@ z-m-external-sin6-2.xx.fbcdn.net
 z-m-external.xx.fbcdn.net
 z-m.facebook.com
 z-m.facebook.pl
+z-m.fallback.c10r.facebook.com
 z-m-fallback.facebook.com
 zm.freebasics.com
 z-m-gateway.facebook.com
@@ -129893,6 +129969,7 @@ z-p42-instagram.fadb6-2.fna.fbcdn.net
 z-p42-instagram.fadb6-3.fna.fbcdn.net
 z-p42-instagram.fadb6-4.fna.fbcdn.net
 z-p42-instagram.fadb6-5.fna.fbcdn.net
+z-p42-instagram.fallback.c10r.facebook.com
 z-p42-instagram.fallback.c10r.instagram.com
 z-p42-instagram.fbnu5-1.fna.fbcdn.net
 z-p42-instagram.fbsr2-2.fna.fbcdn.net
