@@ -1,10 +1,10 @@
-# Title: Meta RPZ Wilcard
-# Description: Blocking Domains Belonging to Meta Platforms
-# Author: Bundy01
-# Homepage: https://github.com/Bundy01/meta-blocklists
-# Licence: https://raw.githubusercontent.com/Bundy01/meta-blocklists/refs/heads/main/LICENSE
-# RAW: https://raw.githubusercontent.com/Bundy01/meta-blocklists/refs/heads/main/meta-rpz-wilcard.txt
-#
+; Title: Meta RPZ Wildcard
+; Description: Blocking Domains Belonging to Meta Platforms
+; Author: Bundy01
+; Homepage: https://github.com/Bundy01/meta-blocklists
+; Licence: https://raw.githubusercontent.com/Bundy01/meta-blocklists/refs/heads/main/LICENSE
+; RAW: https://raw.githubusercontent.com/Bundy01/meta-blocklists/refs/heads/main/meta-rpz-wildcard.txt
+;
 *.32665.mobi CNAME .
 32665.mobi CNAME .
 *.aboutfacebook.com CNAME .
