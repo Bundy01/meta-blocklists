@@ -1,3 +1,7 @@
+$TTL 300
+@ SOA localhost. root.localhost. 2026021201 43200 3600 1209600 300
+  NS  localhost.
+;
 ; Title: Meta RPZ Wildcard
 ; Description: Blocking Domains Belonging to Meta Platforms
 ; Author: Bundy01
