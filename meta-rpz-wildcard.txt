@@ -1,12 +1,13 @@
-$TTL 300
-@ SOA localhost. root.localhost. 2026021201 43200 3600 1209600 300
-  NS  localhost.
+$TTL 18000
+@ IN SOA localhost. root.localhost. 2026021801 18000 3600 2592000 18000
+  IN NS  localhost.
 ;
 ; Title: Meta RPZ Wildcard
 ; Description: Blocking Domains Belonging to Meta Platforms
 ; Author: Bundy01
+; Last modified: 2026-02-18
 ; Homepage: https://github.com/Bundy01/meta-blocklists
-; Licence: https://raw.githubusercontent.com/Bundy01/meta-blocklists/refs/heads/main/LICENSE
+; Licence: https://github.com/Bundy01/meta-blocklists/blob/main/LICENSE
 ; RAW: https://raw.githubusercontent.com/Bundy01/meta-blocklists/refs/heads/main/meta-rpz-wildcard.txt
 ;
 *.32665.mobi CNAME .
@@ -143,6 +144,10 @@ discoverapp.com CNAME .
 docusaurus.io CNAME .
 *.dotslash-cli.com CNAME .
 dotslash-cli.com CNAME .
+*.downpourinteractive.com CNAME .
+downpourinteractive.com CNAME .
+*.endaga.com CNAME .
+endaga.com CNAME .
 *.engagementmap.net CNAME .
 engagementmap.net CNAME .
 *.engagementmap.tv CNAME .
@@ -341,8 +346,6 @@ facebook.career CNAME .
 facebookcareers.com CNAME .
 *.facebook.casa CNAME .
 facebook.casa CNAME .
-*.facebook.cat CNAME .
-facebook.cat CNAME .
 *.facebook.cc CNAME .
 facebook.cc CNAME .
 *.facebook.ceo CNAME .
@@ -1473,8 +1476,6 @@ instagram.co.id CNAME .
 instagram.co.il CNAME .
 *.instagram.co.im CNAME .
 instagram.co.im CNAME .
-*.instagram.co.ir CNAME .
-instagram.co.ir CNAME .
 *.instagram.co.je CNAME .
 instagram.co.je CNAME .
 *.instagram.co.ke CNAME .
@@ -1981,8 +1982,6 @@ instagram.sh CNAME .
 instagram.shiksha CNAME .
 *.instagram.shop CNAME .
 instagram.shop CNAME .
-*.instagram.si CNAME .
-instagram.si CNAME .
 *.instagram.site CNAME .
 instagram.site CNAME .
 *.instagram.ski CNAME .
@@ -2297,10 +2296,12 @@ mmf.sh CNAME .
 moviegenai.ai CNAME .
 *.moviegenai.org CNAME .
 moviegenai.org CNAME .
+*.moviegen.studio CNAME .
+moviegen.studio CNAME .
 *.msngr.com CNAME .
 msngr.com CNAME .
-*.msngr.it CNAME .
-msngr.it CNAME .
+*.msqrd.com CNAME .
+msqrd.com CNAME .
 *.myrocks.io CNAME .
 myrocks.io CNAME .
 *.nascentobjects.com CNAME .
@@ -3055,6 +3056,8 @@ onavo.org CNAME .
 opacus.ai CNAME .
 *.oversightboard.com CNAME .
 oversightboard.com CNAME .
+*.parakey.com CNAME .
+parakey.com CNAME .
 *.parse.ai CNAME .
 parse.ai CNAME .
 *.parse.com CNAME .
@@ -3133,8 +3136,6 @@ sparkar.com CNAME .
 surreal.vision CNAME .
 *.textvqa.org CNAME .
 textvqa.org CNAME .
-*.tfbnw.net CNAME .
-tfbnw.net CNAME .
 *.thefacebook.at CNAME .
 thefacebook.at CNAME .
 *.thefacebook.com CNAME .
@@ -3163,6 +3164,8 @@ vircado.com CNAME .
 voicestesting.com CNAME .
 *.wa.me CNAME .
 wa.me CNAME .
+*.wavegroup.com CNAME .
+wavegroup.com CNAME .
 *.webinstagramsecurity.com CNAME .
 webinstagramsecurity.com CNAME .
 *.webinstagramsecurity.net CNAME .
