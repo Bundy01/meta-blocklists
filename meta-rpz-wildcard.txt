@@ -1,11 +1,11 @@
 $TTL 18000
-@ IN SOA localhost. root.localhost. 2026021801 18000 3600 2592000 18000
+@ IN SOA localhost. root.localhost. 2026030401 18000 3600 2592000 18000
   IN NS  localhost.
 ;
 ; Title: Meta RPZ Wildcard
 ; Description: Blocking Domains Belonging to Meta Platforms
 ; Author: Bundy01
-; Last modified: 2026-02-18
+; Last modified: 2026-03-04
 ; Homepage: https://github.com/Bundy01/meta-blocklists
 ; Licence: https://github.com/Bundy01/meta-blocklists/blob/main/LICENSE
 ; RAW: https://raw.githubusercontent.com/Bundy01/meta-blocklists/refs/heads/main/meta-rpz-wildcard.txt
@@ -76,8 +76,6 @@ bigboxvr.com CNAME .
 bistro.io CNAME .
 *.bloomsbury.ai CNAME .
 bloomsbury.ai CNAME .
-*.boomerangfrominstagram.co CNAME .
-boomerangfrominstagram.co CNAME .
 *.boomerangfrominstagram.com CNAME .
 boomerangfrominstagram.com CNAME .
 *.boomerangfrominstagram.co.uk CNAME .
@@ -124,12 +122,6 @@ compilergym.com CNAME .
 componentkit.org CNAME .
 *.connect-facebook-cell.com CNAME .
 connect-facebook-cell.com CNAME .
-*.connect-facebook-cell.net CNAME .
-connect-facebook-cell.net CNAME .
-*.connect-facebook-cell.org CNAME .
-connect-facebook-cell.org CNAME .
-*.connect-facebook-mobile.com CNAME .
-connect-facebook-mobile.com CNAME .
 *.connect-facebook-mobile.net CNAME .
 connect-facebook-mobile.net CNAME .
 *.connect-facebook-mobile.org CNAME .
@@ -154,8 +146,6 @@ engagementmap.net CNAME .
 engagementmap.tv CNAME .
 *.engagementroi.net CNAME .
 engagementroi.net CNAME .
-*.engagementroi.tv CNAME .
-engagementroi.tv CNAME .
 *.esmatlas.com CNAME .
 esmatlas.com CNAME .
 *.eyegroove.com CNAME .
@@ -176,8 +166,6 @@ facboo.com CNAME .
 facbook.com CNAME .
 *.facbook.com.co CNAME .
 facbook.com.co CNAME .
-*.facbook.co.uk CNAME .
-facbook.co.uk CNAME .
 *.facbook.me CNAME .
 facbook.me CNAME .
 *.facbook.uk CNAME .
@@ -2314,8 +2302,6 @@ novi.com CNAME .
 novi.net CNAME .
 *.octazen.com CNAME .
 octazen.com CNAME .
-*.oculusacademy.com CNAME .
-oculusacademy.com CNAME .
 *.oculusacademy.net CNAME .
 oculusacademy.net CNAME .
 *.oculusacademy.org CNAME .
@@ -3196,8 +3182,6 @@ whatsapp.co.bw CNAME .
 whatsapp.co.in CNAME .
 *.whatsapp.co.ke CNAME .
 whatsapp.co.ke CNAME .
-*.whatsapp.co.kr CNAME .
-whatsapp.co.kr CNAME .
 *.whatsapp.com.ag CNAME .
 whatsapp.com.ag CNAME .
 *.whatsapp.com.bz CNAME .
@@ -3212,8 +3196,6 @@ whatsapp.co.uk CNAME .
 whatsapp.in CNAME .
 *.whatsapp.info CNAME .
 whatsapp.info CNAME .
-*.whatsapp.kr CNAME .
-whatsapp.kr CNAME .
 *.whatsapp.lu CNAME .
 whatsapp.lu CNAME .
 *.whatsapp.md CNAME .
