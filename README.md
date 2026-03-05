@@ -27,6 +27,9 @@ You can create the `manual-subdomains` file, if not already present and add it t
 | meta-rpz-wildcard.txt | Response Policy Zone, Bind, Knot, PowerDNS, Unbound |
 | meta-unbound.txt | Unbound |
 
+## Limitation
+Blocklists do not work with Meta applications. See [this issue](https://github.com/Bundy01/meta-blocklists/issues/3).
+
 ## Support
 I'm not asking you to buy me a coffee. But if you like this repo, give it a star 🌟️.
 This will give it more visibility. Thanks!
