@@ -1,11 +1,11 @@
 $TTL 18000
-@ IN SOA localhost. root.localhost. 2026030401 18000 3600 2592000 18000
+@ IN SOA localhost. root.localhost. 2026031901 18000 3600 2592000 18000
   IN NS  localhost.
 ;
 ; Title: Meta RPZ Wildcard
 ; Description: Blocking Domains Belonging to Meta Platforms
 ; Author: Bundy01
-; Last modified: 2026-03-04
+; Last modified: 2026-03-19
 ; Homepage: https://github.com/Bundy01/meta-blocklists
 ; Licence: https://github.com/Bundy01/meta-blocklists/blob/main/LICENSE
 ; RAW: https://raw.githubusercontent.com/Bundy01/meta-blocklists/refs/heads/main/meta-rpz-wildcard.txt
@@ -2280,6 +2280,8 @@ mixer.com CNAME .
 m.me CNAME .
 *.mmf.sh CNAME .
 mmf.sh CNAME .
+*.moltbook.com CNAME .
+moltbook.com CNAME .
 *.moviegenai.ai CNAME .
 moviegenai.ai CNAME .
 *.moviegenai.org CNAME .
