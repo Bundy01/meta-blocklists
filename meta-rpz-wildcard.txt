@@ -1,14 +1,14 @@
 $TTL 18000
-@ IN SOA localhost. root.localhost. 2026040401 18000 3600 2592000 18000
+@ IN SOA localhost. root.localhost. 2026042101 18000 3600 2592000 18000
   IN NS  localhost.
 ;
 ; Title: Meta RPZ Wildcard
 ; Description: Blocking Domains Belonging to Meta Platforms
 ; Author: Bundy01
-; Last modified: 2026-04-04
+; Last modified: 2026-04-21
 ; Homepage: https://github.com/Bundy01/meta-blocklists
 ; Licence: https://github.com/Bundy01/meta-blocklists/blob/main/LICENSE
-; RAW: https://raw.githubusercontent.com/Bundy01/meta-blocklists/refs/heads/main/meta-rpz-wildcard.txt
+; RAW: https://raw.githubusercontent.com/Bundy01/meta-blocklists/main/meta-rpz-wildcard.txt
 ;
 *.32665.mobi CNAME .
 32665.mobi CNAME .
@@ -1024,6 +1024,8 @@ faebook.com.co CNAME .
 faebook.de CNAME .
 *.fafacebook.com CNAME .
 fafacebook.com CNAME .
+*.fairanimateddrawings.com CNAME .
+fairanimateddrawings.com CNAME .
 *.faiss.ai CNAME .
 faiss.ai CNAME .
 *.faiss.io CNAME .
@@ -3138,6 +3140,8 @@ sparkar.com CNAME .
 surreal.vision CNAME .
 *.textvqa.org CNAME .
 textvqa.org CNAME .
+*.tfbnw.net CNAME .
+tfbnw.net CNAME .
 *.thefacebook.at CNAME .
 thefacebook.at CNAME .
 *.thefacebook.com CNAME .
