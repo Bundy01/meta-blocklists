@@ -1,0 +1,28 @@
+name: Add Domain(s) and/or Subdomain(s)
+description: List the domain(s)/subdomain(s) that need to be added.
+title: "[Add] "
+labels: ["add"]
+body:
+
+  - type: textarea
+    id: add
+    attributes:
+      label: Which domain(s)/subdomain(s) should be added?
+      description: |
+        List of domain(s)/subdomain(s) belonging to Meta Platforms.
+      placeholder: |
+        facebook.com
+        about.facebook.com
+        …
+      render: yaml
+    validations:
+      required: true
+
+  - type: textarea
+    id: justification
+    attributes:
+      label: Why should the domain(s)/subdomain(s) be added? 
+      description: |
+        Provide details justifying belonging to Meta Platforms.
+    validations:
+      required: true

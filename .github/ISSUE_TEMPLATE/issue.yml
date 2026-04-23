@@ -1,0 +1,56 @@
+name: Issue
+description: Open an issue.
+body:
+
+  - type: dropdown
+    id: os
+    attributes:
+      label: What operating system are you using?
+      description: |
+        Select your OS.
+      options:
+        - Windows
+        - macOS
+        - Linux
+        - iOS
+        - Android
+        - Other
+    validations:
+      required: true
+
+  - type: dropdown
+    id: blocklist
+    attributes:
+      label: Blocklist used.
+      description: |
+        Select the blocklist to which this report refers.
+      options:
+        - meta-adblock.txt
+        - meta-dnsmasq.txt
+        - meta-domains.txt
+        - meta-hosts_4+6.txt
+        - meta-hosts_4.txt
+        - meta-rpz-wildcard.txt
+        - meta-unbound.txt
+    validations:
+      required: true
+
+  - type: input
+    id: app
+    attributes:
+      label: Application used with this blocklist.
+      description: |
+        App name and version.
+      placeholder: |
+        Ex: MyApp v1.2.3
+    validations:
+      required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Description of the issue.
+      description: |
+        Describe the problem you are experiencing.
+    validations:
+      required: true
