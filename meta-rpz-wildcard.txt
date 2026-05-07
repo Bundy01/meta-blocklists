@@ -1,11 +1,11 @@
 $TTL 18000
-@ IN SOA localhost. root.localhost. 2026042101 18000 3600 2592000 18000
+@ IN SOA localhost. root.localhost. 2026050701 18000 3600 2592000 18000
   IN NS  localhost.
 ;
 ; Title: Meta RPZ Wildcard
 ; Description: Blocking Domains Belonging to Meta Platforms
 ; Author: Bundy01
-; Last modified: 2026-04-21
+; Last modified: 2026-05-07
 ; Homepage: https://github.com/Bundy01/meta-blocklists
 ; Licence: https://github.com/Bundy01/meta-blocklists/blob/main/LICENSE
 ; RAW: https://raw.githubusercontent.com/Bundy01/meta-blocklists/main/meta-rpz-wildcard.txt
@@ -330,8 +330,6 @@ facebook.broker CNAME .
 facebook.brussels CNAME .
 *.facebook.bs CNAME .
 facebook.bs CNAME .
-*.facebook.bzh CNAME .
-facebook.bzh CNAME .
 *.facebook.ca CNAME .
 facebook.ca CNAME .
 *.facebook.cam CNAME .
@@ -418,6 +416,8 @@ facebookconnectmobile.net CNAME .
 facebookconnectmobile.org CNAME .
 *.facebook.consulting CNAME .
 facebook.consulting CNAME .
+*.facebookcontentcourt.com CNAME .
+facebookcontentcourt.com CNAME .
 *.facebook.co.nz CNAME .
 facebook.co.nz CNAME .
 *.facebook.co.tt CNAME .
@@ -590,8 +590,6 @@ facebook.icu CNAME .
 facebook.id CNAME .
 *.facebook.ie CNAME .
 facebook.ie CNAME .
-*.facebook.im CNAME .
-facebook.im CNAME .
 *.facebook.inc CNAME .
 facebook.inc CNAME .
 *.facebookinc.com CNAME .
@@ -766,10 +764,12 @@ facebook.ooo CNAME .
 facebook.org CNAME .
 *.facebook.osaka CNAME .
 facebook.osaka CNAME .
+*.facebookoversightboard.com CNAME .
+facebookoversightboard.com CNAME .
+*.facebookoversightsucks.com CNAME .
+facebookoversightsucks.com CNAME .
 *.facebook.page CNAME .
 facebook.page CNAME .
-*.facebook-panel.com CNAME .
-facebook-panel.com CNAME .
 *.facebook.paris CNAME .
 facebook.paris CNAME .
 *.facebookpartner.com CNAME .
@@ -810,8 +810,6 @@ facebookproxy.com CNAME .
 facebook.qa CNAME .
 *.facebook.qpon CNAME .
 facebook.qpon CNAME .
-*.facebook-quiz.com CNAME .
-facebook-quiz.com CNAME .
 *.facebook.racing CNAME .
 facebook.racing CNAME .
 *.facebook.radio CNAME .
@@ -888,8 +886,6 @@ facebook.sydney CNAME .
 facebook.tatar CNAME .
 *.facebook.tattoo CNAME .
 facebook.tattoo CNAME .
-*.facebook.tech CNAME .
-facebook.tech CNAME .
 *.facebook.theatre CNAME .
 facebook.theatre CNAME .
 *.facebook.tickets CNAME .
@@ -2230,8 +2226,6 @@ manus.im CNAME .
 mapillary.biz CNAME .
 *.mapillary.cn CNAME .
 mapillary.cn CNAME .
-*.mapillary.co CNAME .
-mapillary.co CNAME .
 *.mapillary.com CNAME .
 mapillary.com CNAME .
 *.mapillary.com.cn CNAME .
@@ -2240,8 +2234,6 @@ mapillary.com.cn CNAME .
 mapillary.dev CNAME .
 *.mapillary.eu CNAME .
 mapillary.eu CNAME .
-*.mapillary.info CNAME .
-mapillary.info CNAME .
 *.mapillary.net CNAME .
 mapillary.net CNAME .
 *.mapillary.org CNAME .
@@ -2320,10 +2312,6 @@ novi.com CNAME .
 novi.net CNAME .
 *.octazen.com CNAME .
 octazen.com CNAME .
-*.oculusacademy.net CNAME .
-oculusacademy.net CNAME .
-*.oculusacademy.org CNAME .
-oculusacademy.org CNAME .
 *.oculus.accountant CNAME .
 oculus.accountant CNAME .
 *.oculus.accountants CNAME .
@@ -2334,8 +2322,6 @@ oculus.actor CNAME .
 oculus.adult CNAME .
 *.oculus.africa CNAME .
 oculus.africa CNAME .
-*.oculus.agency CNAME .
-oculus.agency CNAME .
 *.oculusair.com CNAME .
 oculusair.com CNAME .
 *.oculus.apartments CNAME .
@@ -2354,8 +2340,6 @@ oculus.at CNAME .
 oculus.auction CNAME .
 *.oculus.band CNAME .
 oculus.band CNAME .
-*.oculus.bar CNAME .
-oculus.bar CNAME .
 *.oculus.bargains CNAME .
 oculus.bargains CNAME .
 *.oculus.bayern CNAME .
@@ -2398,14 +2382,10 @@ oculus.business CNAME .
 oculus.buzz CNAME .
 *.oculus.cab CNAME .
 oculus.cab CNAME .
-*.oculus.ca CNAME .
-oculus.ca CNAME .
 *.oculus.cafe CNAME .
 oculus.cafe CNAME .
 *.oculus.cam CNAME .
 oculus.cam CNAME .
-*.oculus.camera CNAME .
-oculus.camera CNAME .
 *.oculus.camp CNAME .
 oculus.camp CNAME .
 *.oculus.capetown CNAME .
@@ -2446,8 +2426,6 @@ oculus.church CNAME .
 oculus.claims CNAME .
 *.oculus.cleaning CNAME .
 oculus.cleaning CNAME .
-*.oculus.click CNAME .
-oculus.click CNAME .
 *.oculus.clinic CNAME .
 oculus.clinic CNAME .
 *.oculus.clothing CNAME .
@@ -2470,8 +2448,6 @@ oculus.com CNAME .
 oculus.community CNAME .
 *.oculus.company CNAME .
 oculus.company CNAME .
-*.oculus.computer CNAME .
-oculus.computer CNAME .
 *.oculus.condos CNAME .
 oculus.condos CNAME .
 *.oculus.construction CNAME .
@@ -2484,10 +2460,6 @@ oculus.contractors CNAME .
 oculus.cooking CNAME .
 *.oculus.cool CNAME .
 oculus.cool CNAME .
-*.oculus.country CNAME .
-oculus.country CNAME .
-*.oculus.coupons CNAME .
-oculus.coupons CNAME .
 *.oculus.courses CNAME .
 oculus.courses CNAME .
 *.oculus.creditcard CNAME .
@@ -2552,14 +2524,10 @@ oculus.enterprises CNAME .
 oculus.equipment CNAME .
 *.oculus.estate CNAME .
 oculus.estate CNAME .
-*.oculus.events CNAME .
-oculus.events CNAME .
 *.oculus.exchange CNAME .
 oculus.exchange CNAME .
 *.oculus.expert CNAME .
 oculus.expert CNAME .
-*.oculus.exposed CNAME .
-oculus.exposed CNAME .
 *.oculus.express CNAME .
 oculus.express CNAME .
 *.oculus.fail CNAME .
@@ -2570,8 +2538,6 @@ oculus.faith CNAME .
 oculus.family CNAME .
 *.oculus.fan CNAME .
 oculus.fan CNAME .
-*.oculus.fans CNAME .
-oculus.fans CNAME .
 *.oculus.farm CNAME .
 oculus.farm CNAME .
 *.oculus.fashion CNAME .
@@ -2582,8 +2548,6 @@ oculus.feedback CNAME .
 oculus.fi CNAME .
 *.oculus.film CNAME .
 oculus.film CNAME .
-*.oculus.finance CNAME .
-oculus.finance CNAME .
 *.oculus.fish CNAME .
 oculus.fish CNAME .
 *.oculus.fishing CNAME .
@@ -2594,8 +2558,6 @@ oculus.flights CNAME .
 oculus.florist CNAME .
 *.oculus.flowers CNAME .
 oculus.flowers CNAME .
-*.oculus.football CNAME .
-oculus.football CNAME .
 *.oculus.forsale CNAME .
 oculus.forsale CNAME .
 *.oculus.foundation CNAME .
@@ -2604,8 +2566,6 @@ oculus.foundation CNAME .
 oculus.fr CNAME .
 *.oculus.fund CNAME .
 oculus.fund CNAME .
-*.oculus.furniture CNAME .
-oculus.furniture CNAME .
 *.oculus.futbol CNAME .
 oculus.futbol CNAME .
 *.oculus.gallery CNAME .
@@ -2614,8 +2574,6 @@ oculus.gallery CNAME .
 oculus.game CNAME .
 *.oculus.garden CNAME .
 oculus.garden CNAME .
-*.oculus.gift CNAME .
-oculus.gift CNAME .
 *.oculus.gifts CNAME .
 oculus.gifts CNAME .
 *.oculus.gives CNAME .
@@ -2624,8 +2582,6 @@ oculus.gives CNAME .
 oculus.glass CNAME .
 *.oculus.gmbh CNAME .
 oculus.gmbh CNAME .
-*.oculus.gold CNAME .
-oculus.gold CNAME .
 *.oculus.golf CNAME .
 oculus.golf CNAME .
 *.oculus.graphics CNAME .
@@ -2654,22 +2610,12 @@ oculus.hk CNAME .
 oculus.hockey CNAME .
 *.oculus.holdings CNAME .
 oculus.holdings CNAME .
-*.oculus.holiday CNAME .
-oculus.holiday CNAME .
-*.oculus.homes CNAME .
-oculus.homes CNAME .
 *.oculus.horse CNAME .
 oculus.horse CNAME .
 *.oculus.hosting CNAME .
 oculus.hosting CNAME .
-*.oculus.house CNAME .
-oculus.house CNAME .
 *.oculus.how CNAME .
 oculus.how CNAME .
-*.oculus.icu CNAME .
-oculus.icu CNAME .
-*.oculus.immobilien CNAME .
-oculus.immobilien CNAME .
 *.oculus.immo CNAME .
 oculus.immo CNAME .
 *.oculus.inc CNAME .
@@ -2686,12 +2632,6 @@ oculus.ink CNAME .
 oculus.institute CNAME .
 *.oculus.insure CNAME .
 oculus.insure CNAME .
-*.oculus.international CNAME .
-oculus.international CNAME .
-*.oculus.investments CNAME .
-oculus.investments CNAME .
-*.oculus.irish CNAME .
-oculus.irish CNAME .
 *.oculus.istanbul CNAME .
 oculus.istanbul CNAME .
 *.oculus.ist CNAME .
@@ -2702,12 +2642,6 @@ oculus.jetzt CNAME .
 oculus.jewelry CNAME .
 *.oculus.jobs CNAME .
 oculus.jobs CNAME .
-*.oculus.joburg CNAME .
-oculus.joburg CNAME .
-*.oculus.juegos CNAME .
-oculus.juegos CNAME .
-*.oculus.kaufen CNAME .
-oculus.kaufen CNAME .
 *.oculus.kim CNAME .
 oculus.kim CNAME .
 *.oculus.kitchen CNAME .
@@ -2720,16 +2654,8 @@ oculus.koeln CNAME .
 oculus.land CNAME .
 *.oculus.lat CNAME .
 oculus.lat CNAME .
-*.oculus.lease CNAME .
-oculus.lease CNAME .
-*.oculus.legal CNAME .
-oculus.legal CNAME .
 *.oculus.lgbt CNAME .
 oculus.lgbt CNAME .
-*.oculus.life CNAME .
-oculus.life CNAME .
-*.oculus.limited CNAME .
-oculus.limited CNAME .
 *.oculus.limo CNAME .
 oculus.limo CNAME .
 *.oculus.link CNAME .
@@ -2738,8 +2664,6 @@ oculus.link CNAME .
 oculus.live CNAME .
 *.oculus.llc CNAME .
 oculus.llc CNAME .
-*.oculus.loan CNAME .
-oculus.loan CNAME .
 *.oculus.loans CNAME .
 oculus.loans CNAME .
 *.oculus.lol CNAME .
@@ -2750,10 +2674,6 @@ oculus.ltda CNAME .
 oculus.luxe CNAME .
 *.oculus.luxury CNAME .
 oculus.luxury CNAME .
-*.oculus.maison CNAME .
-oculus.maison CNAME .
-*.oculus.management CNAME .
-oculus.management CNAME .
 *.oculus.markets CNAME .
 oculus.markets CNAME .
 *.oculus.mba CNAME .
@@ -2770,8 +2690,6 @@ oculus.miami CNAME .
 oculus.moda CNAME .
 *.oculus.moe CNAME .
 oculus.moe CNAME .
-*.oculus.mom CNAME .
-oculus.mom CNAME .
 *.oculus.money CNAME .
 oculus.money CNAME .
 *.oculus.monster CNAME .
@@ -2792,8 +2710,6 @@ oculus.news CNAME .
 oculus.ninja CNAME .
 *.oculus.okinawa CNAME .
 oculus.okinawa CNAME .
-*.oculus.one CNAME .
-oculus.one CNAME .
 *.oculus.ooo CNAME .
 oculus.ooo CNAME .
 *.oculus.organic CNAME .
@@ -2806,12 +2722,8 @@ oculus.page CNAME .
 oculus.paris CNAME .
 *.oculus.partners CNAME .
 oculus.partners CNAME .
-*.oculus.parts CNAME .
-oculus.parts CNAME .
 *.oculus.pet CNAME .
 oculus.pet CNAME .
-*.oculus.photo CNAME .
-oculus.photo CNAME .
 *.oculus.photos CNAME .
 oculus.photos CNAME .
 *.oculus.pics CNAME .
@@ -2822,14 +2734,10 @@ oculus.pink CNAME .
 oculus.pizza CNAME .
 *.oculus.place CNAME .
 oculus.place CNAME .
-*.oculus.plumbing CNAME .
-oculus.plumbing CNAME .
 *.oculus.plus CNAME .
 oculus.plus CNAME .
 *.oculus.press CNAME .
 oculus.press CNAME .
-*.oculus.productions CNAME .
-oculus.productions CNAME .
 *.oculus.properties CNAME .
 oculus.properties CNAME .
 *.oculus.protection CNAME .
@@ -2840,10 +2748,6 @@ oculus.pub CNAME .
 oculus.qpon CNAME .
 *.oculus.racing CNAME .
 oculus.racing CNAME .
-*.oculus.recipes CNAME .
-oculus.recipes CNAME .
-*.oculus.red CNAME .
-oculus.red CNAME .
 *.oculus.rehab CNAME .
 oculus.rehab CNAME .
 *.oculus.reise CNAME .
@@ -2852,10 +2756,6 @@ oculus.reise CNAME .
 oculus.reisen CNAME .
 *.oculus.rentals CNAME .
 oculus.rentals CNAME .
-*.oculus.rent CNAME .
-oculus.rent CNAME .
-*.oculus.repair CNAME .
-oculus.repair CNAME .
 *.oculus.report CNAME .
 oculus.report CNAME .
 *.oculus.republican CNAME .
@@ -2872,14 +2772,8 @@ oculus.reviews CNAME .
 oculus.rich CNAME .
 *.oculusrift.com CNAME .
 oculusrift.com CNAME .
-*.oculus.rip CNAME .
-oculus.rip CNAME .
-*.oculus.rodeo CNAME .
-oculus.rodeo CNAME .
 *.oculus.ruhr CNAME .
 oculus.ruhr CNAME .
-*.oculus.run CNAME .
-oculus.run CNAME .
 *.oculus.ryukyu CNAME .
 oculus.ryukyu CNAME .
 *.oculus.sale CNAME .
@@ -2892,12 +2786,6 @@ oculus.sarl CNAME .
 oculus.school CNAME .
 *.oculus.schule CNAME .
 oculus.schule CNAME .
-*.oculus.science CNAME .
-oculus.science CNAME .
-*.oculus.scot CNAME .
-oculus.scot CNAME .
-*.oculus.security CNAME .
-oculus.security CNAME .
 *.oculus.services CNAME .
 oculus.services CNAME .
 *.oculus.sex CNAME .
@@ -2908,8 +2796,6 @@ oculus.sexy CNAME .
 oculus.shiksha CNAME .
 *.oculus.shoes CNAME .
 oculus.shoes CNAME .
-*.oculus.shopping CNAME .
-oculus.shopping CNAME .
 *.oculus.show CNAME .
 oculus.show CNAME .
 *.oculus.singles CNAME .
@@ -2928,8 +2814,6 @@ oculus.soy CNAME .
 oculus.space CNAME .
 *.oculus.srl CNAME .
 oculus.srl CNAME .
-*.oculus.storage CNAME .
-oculus.storage CNAME .
 *.oculus.stream CNAME .
 oculus.stream CNAME .
 *.oculus.study CNAME .
