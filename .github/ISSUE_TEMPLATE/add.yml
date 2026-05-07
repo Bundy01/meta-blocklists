@@ -2,6 +2,8 @@ name: Add Domain(s) and/or Subdomain(s)
 description: List the domain(s)/subdomain(s) that need to be added.
 title: "[Add] "
 labels: ["add"]
+assignees: 
+  - Bundy01
 body:
 
   - type: textarea
