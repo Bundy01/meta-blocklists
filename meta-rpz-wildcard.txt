@@ -1,11 +1,11 @@
 $TTL 18000
-@ IN SOA localhost. root.localhost. 2026061901 18000 3600 2592000 18000
+@ IN SOA localhost. root.localhost. 2026070301 18000 3600 2592000 18000
   IN NS  localhost.
 ;
 ; Title: Meta RPZ Wildcard
 ; Description: Blocking Domains Belonging to Meta Platforms
 ; Author: Bundy01
-; Last modified: 2026-06-19
+; Last modified: 2026-07-03
 ; Homepage: https://github.com/Bundy01/meta-blocklists
 ; Licence: https://github.com/Bundy01/meta-blocklists/blob/main/LICENSE
 ; RAW: https://raw.githubusercontent.com/Bundy01/meta-blocklists/main/meta-rpz-wildcard.txt
@@ -504,8 +504,6 @@ facebook.fm CNAME .
 facebookformobileoperators.com CNAME .
 *.facebook.fr CNAME .
 facebook.fr CNAME .
-*.facebook.fun CNAME .
-facebook.fun CNAME .
 *.facebook.ga CNAME .
 facebook.ga CNAME .
 *.facebook.gal CNAME .
@@ -716,8 +714,6 @@ facebookmobile.top CNAME .
 facebook.mom CNAME .
 *.facebook.monster CNAME .
 facebook.monster CNAME .
-*.facebook.moscow CNAME .
-facebook.moscow CNAME .
 *.facebookmx.com CNAME .
 facebookmx.com CNAME .
 *.facebook.nagoya CNAME .
@@ -1272,6 +1268,8 @@ fscebook.com CNAME .
 gacebook.com CNAME .
 *.gameroom.com CNAME .
 gameroom.com CNAME .
+*.getspool.com CNAME .
+getspool.com CNAME .
 *.gotoast.com CNAME .
 gotoast.com CNAME .
 *.groups.com CNAME .
@@ -1826,8 +1824,6 @@ instagram.mobi CNAME .
 instagram.mom CNAME .
 *.instagram.monster CNAME .
 instagram.monster CNAME .
-*.instagram.moscow CNAME .
-instagram.moscow CNAME .
 *.instagram.mq CNAME .
 instagram.mq CNAME .
 *.instagram.ms CNAME .
@@ -2306,8 +2302,6 @@ moltbook.com CNAME .
 moviegenai.ai CNAME .
 *.moviegenai.org CNAME .
 moviegenai.org CNAME .
-*.moviegen.studio CNAME .
-moviegen.studio CNAME .
 *.msngr.com CNAME .
 msngr.com CNAME .
 *.msqrd.com CNAME .
@@ -3062,8 +3056,6 @@ opacus.ai CNAME .
 oversightboard.com CNAME .
 *.parakey.com CNAME .
 parakey.com CNAME .
-*.parse.ai CNAME .
-parse.ai CNAME .
 *.parse.com CNAME .
 parse.com CNAME .
 *.play.ai CNAME .
