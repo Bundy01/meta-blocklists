@@ -1,7 +1,7 @@
 # Title: Meta Hosts (IPv4)
 # Description: Blocking Domains Belonging to Meta Platforms
 # Author: Bundy01
-# Last modified: 2026-07-03
+# Last modified: 2026-07-28
 # Homepage: https://github.com/Bundy01/meta-blocklists
 # Licence: https://github.com/Bundy01/meta-blocklists/blob/main/LICENSE
 # RAW: https://raw.githubusercontent.com/Bundy01/meta-blocklists/main/meta-hosts_4.txt
@@ -232,6 +232,7 @@
 0.0.0.0 01694703783956984565834127796782920233865633901457.oculusvr.com
 0.0.0.0 016j.internet.org
 0.0.0.0 0171.snr.whatsapp.net
+0.0.0.0 0-177.oculusvr.com
 0.0.0.0 01780140-5a28-4e75-a326-b09ffee9d594-netseer-ipaddr-assoc.xz.fbcdn.net
 0.0.0.0 0.17.channel.facebook.co
 0.0.0.0 018071.oculusvr.com
@@ -454,6 +455,7 @@
 0.0.0.0 0.46.channel.facebook.co
 0.0.0.0 046ef6ea1-guydsobygu4dmna.snr.whatsapp.net
 0.0.0.0 0470be9ba1ce11f25db2bcb99b40d3de.fb.me
+0.0.0.0 047201010.fb.me
 0.0.0.0 047201010.fburl.com
 0.0.0.0 047a3fa0-d6f0-4d55-87ca-f7066bf87828-netseer-ipaddr-assoc.xz.fbcdn.net
 0.0.0.0 0.47.channel.facebook.co
@@ -2929,6 +2931,7 @@
 0.0.0.0 2212293f-44e8-4158-b1cc-7e0eff97b9d8-netseer-ipaddr-assoc.xz.fbcdn.net
 0.0.0.0 2214.freebasics.com
 0.0.0.0 22-15.internalfb.com
+0.0.0.0 2215www.messenger.com
 0.0.0.0 221.internet.org
 0.0.0.0 222100.oculusvr.com
 0.0.0.0 222.205.alpha-04-2.accountkit.com
@@ -3795,6 +3798,7 @@
 0.0.0.0 360-total-security.voicestesting.com
 0.0.0.0 360video.fb.com
 0.0.0.0 360videos.fb.com
+0.0.0.0 360weft.comon.fb.me
 0.0.0.0 36120.internalfb.com
 0.0.0.0 3612c53d-f0b6-42da-aac4-b7d7fcb4c736-netseer-ipaddr-assoc.xz.fbcdn.net
 0.0.0.0 361-366.i.org
@@ -7849,6 +7853,7 @@
 0.0.0.0 account.external.fguj4-1.fna.fbcdn.net
 0.0.0.0 account.external.fhan17-1.fna.fbcdn.net
 0.0.0.0 account.external.fhio3-1.fna.fbcdn.net
+0.0.0.0 account.external.fjbr1-1.fna.fbcdn.net
 0.0.0.0 account.external.fluk1-1.fna.fbcdn.net
 0.0.0.0 account.external.fmli1-1.fna.fbcdn.net
 0.0.0.0 account.external.fmnl17-3.fna.fbcdn.net
@@ -8138,6 +8143,7 @@
 0.0.0.0 account.fjal2-1.fna.fbcdn.net
 0.0.0.0 account.fjdh1-2.fna.fbcdn.net
 0.0.0.0 account.fjed5-1.fna.fbcdn.net
+0.0.0.0 account.fjkr2-1.fna.fbcdn.net
 0.0.0.0 account.fjog13-1.fna.fbcdn.net
 0.0.0.0 account.fjsr12-1.fna.fbcdn.net
 0.0.0.0 account.fkhh2-2.fna.fbcdn.net
@@ -8611,6 +8617,7 @@
 0.0.0.0 account.instagram.fssa9-1.fna.fbcdn.net
 0.0.0.0 account.instagram.fsub3-1.fna.fbcdn.net
 0.0.0.0 account.instagram.fsvq2-2.fna.fbcdn.net
+0.0.0.0 account.instagram.fsxr1-1.fna.fbcdn.net
 0.0.0.0 account.instagram.fsyd5-1.fna.fbcdn.net
 0.0.0.0 account.instagram.ftbs4-2.fna.fbcdn.net
 0.0.0.0 account.instagram.ftbs5-3.fna.fbcdn.net
@@ -9086,6 +9093,7 @@
 0.0.0.0 admin.fbgw15-3.fna.fbcdn.net
 0.0.0.0 admin.fbho4-1.fna.fbcdn.net
 0.0.0.0 admin.fbhx2-1.fna.fbcdn.net
+0.0.0.0 admin.fbjr1-1.fna.fbcdn.net
 0.0.0.0 admin.fbjs.facebook.com
 0.0.0.0 admin.fbkk12-6.fna.fbcdn.net
 0.0.0.0 admin.fbkk14-1.fna.fbcdn.net
@@ -9833,6 +9841,7 @@
 0.0.0.0 agate.facebook.nl
 0.0.0.0 agatossin.facebook.com.br
 0.0.0.0 agcapitol.workplace.com
+0.0.0.0 agchurchleadership.comon.fb.me
 0.0.0.0 ag.dewww.facebook.de
 0.0.0.0 ag.dewww.klartext-verlag.dewww.facebook.de
 0.0.0.0 agdstdd.workplace.com
@@ -13868,6 +13877,7 @@
 0.0.0.0 apps-1564585660390128.apps.fbsbx.com
 0.0.0.0 apps-1565811947289068.apps.fbsbx.com
 0.0.0.0 apps-156624161687119.apps.fbsbx.com
+0.0.0.0 apps-1566912581718649.fbsbx.com
 0.0.0.0 apps-1567560453390606.apps.fbsbx.com
 0.0.0.0 apps-1568622306616922.apps.fbsbx.com
 0.0.0.0 apps-156955689214921.apps.fbsbx.com
@@ -14566,6 +14576,7 @@
 0.0.0.0 apps-234575343662975.apps.fbsbx.com
 0.0.0.0 apps-2347519765562753.apps.fbsbx.com
 0.0.0.0 apps-2347852202194386.apps.fbsbx.com
+0.0.0.0 apps-2347954475555692.fbsbx.com
 0.0.0.0 apps-234874953854123.apps.fbsbx.com
 0.0.0.0 apps-234928213999502.apps.fbsbx.com
 0.0.0.0 apps-2349288285317243.apps.fbsbx.com
@@ -15992,6 +16003,7 @@
 0.0.0.0 apps-774108019636004.apps.fbsbx.com
 0.0.0.0 apps-774622982920146.apps.fbsbx.com
 0.0.0.0 apps-775528249560229.apps.fbsbx.com
+0.0.0.0 apps-776407677905295.fbsbx.com
 0.0.0.0 apps-776624556280028.fbsbx.com
 0.0.0.0 apps-776774625993776.apps.fbsbx.com
 0.0.0.0 apps-777120822378600.apps.fbsbx.com
@@ -17544,6 +17556,7 @@
 0.0.0.0 attinawww.facebook.co
 0.0.0.0 att.internet.org
 0.0.0.0 attivodesigns.caon.fb.me
+0.0.0.0 att.messenger.com
 0.0.0.0 att.my.yahoo.messenger.com
 0.0.0.0 atts-api2proms.facebook.co.th
 0.0.0.0 attune.freebasics.com
@@ -18897,6 +18910,7 @@
 0.0.0.0 bancoripley.facebook.com
 0.0.0.0 bancoripley.m.workplace.com
 0.0.0.0 bancoripley.workplace.com
+0.0.0.0 bancosolidario.messenger.com
 0.0.0.0 bandofthewildwest.fb.me
 0.0.0.0 bangaltri.accountkit.com
 0.0.0.0 banglanamazshikha.voicestesting.com
@@ -18921,6 +18935,7 @@
 0.0.0.0 banuba-live-selfie-filters-and-face-masks-camera.co.4g.fb.me
 0.0.0.0 banuba-live-selfie-filters-and-face-masks-camera.messenger.com
 0.0.0.0 baobabgroup.workplace.com
+0.0.0.0 baohanhhitachihn.comon.fb.me
 0.0.0.0 baosonads.internet.org
 0.0.0.0 baoviet.facebook.com
 0.0.0.0 baoviet.m.workplace.com
@@ -19133,6 +19148,7 @@
 0.0.0.0 bcps.workplace.com
 0.0.0.0 bcvbb-wc-d1p.workplace.com
 0.0.0.0 bc.workplace.com
+0.0.0.0 bc-x.fbsbx.com
 0.0.0.0 bd1ed80d-cad6-49fb-b4d1-ee23234df60c-netseer-ipaddr-assoc.xz.fbcdn.net
 0.0.0.0 bd21e430-dacf-420b-b69a-3659140a848c-netseer-ipaddr-assoc.xz.fbcdn.net
 0.0.0.0 bd38a25c-1b2f-4dd1-95ad-abc48eb7291c-netseer-ipaddr-assoc.xz.fbcdn.net
@@ -24186,6 +24202,7 @@
 0.0.0.0 classicalstudies.fbsbx.com
 0.0.0.0 classiclb.internet.org
 0.0.0.0 classicswotworkshop.freebasics.com
+0.0.0.0 classifiedadsgeorgia.comon.fb.me
 0.0.0.0 classifieds.fb.me
 0.0.0.0 classifieds.freebasics.com
 0.0.0.0 classifiedshome.fb.me
@@ -24372,6 +24389,7 @@
 0.0.0.0 climatologie.fb.me
 0.0.0.0 clinicalart-atelier-nae-comask.internet.org
 0.0.0.0 clinicalskillsunitwestsuffolknhsfoundationtrust722.workplace.com
+0.0.0.0 clinicaodontologicadepostgrados.comon.fb.me
 0.0.0.0 clinpharmpps.facebook.nl
 0.0.0.0 cl.internet.org
 0.0.0.0 clip.internet.org
@@ -26304,6 +26322,7 @@
 0.0.0.0 creators.instagram.com
 0.0.0.0 creators.meta.com
 0.0.0.0 creators.oculus.com
+0.0.0.0 creators.prod.facebook.com
 0.0.0.0 creator-staging.facebook.com.ve
 0.0.0.0 creatorsupport.instagram.com
 0.0.0.0 creatps.facebook.com
@@ -26431,6 +26450,7 @@
 0.0.0.0 cscie2x.9bafdd6a-1595-496d-8fb4-c4635925550a-netseer-ipaddr-assoc.xz.fbcdn.net
 0.0.0.0 csc-test.facebook.com
 0.0.0.0 cs-cz.accessiblestreamers.comwww.messenger.com
+0.0.0.0 cs-cz.al.messenger.com
 0.0.0.0 cs-cz.ar-ar.messenger.com
 0.0.0.0 cs-cz.beta.messenger.com
 0.0.0.0 cs-cz.c.facebook.com
@@ -26590,6 +26610,7 @@
 0.0.0.0 cumulus.facebook.com
 0.0.0.0 cumulustest.facebook.com
 0.0.0.0 cumulus.workplace.com
+0.0.0.0 cundall.facebook.com
 0.0.0.0 cundall.workplace.com
 0.0.0.0 cundk-de.m.facebook.com
 0.0.0.0 cun.i.org
@@ -32073,6 +32094,7 @@
 0.0.0.0 edge-ig-dgw-p42-shv-01-bkk1.facebook.com
 0.0.0.0 edge-ig-dgw-p42-shv-01-bos5.facebook.com
 0.0.0.0 edge-ig-dgw-p42-shv-01-cdg4.facebook.com
+0.0.0.0 edge-ig-dgw-p42-shv-01-cgk1.facebook.com
 0.0.0.0 edge-ig-dgw-p42-shv-01-cgk2.facebook.com
 0.0.0.0 edge-ig-dgw-p42-shv-01-cph2.facebook.com
 0.0.0.0 edge-ig-dgw-p42-shv-01-cpt1.facebook.com
@@ -32107,6 +32129,7 @@
 0.0.0.0 edge-ig-dgw-p42-shv-01-mty2.facebook.com
 0.0.0.0 edge-ig-dgw-p42-shv-01-muc2.facebook.com
 0.0.0.0 edge-ig-dgw-p42-shv-01-mxp1.facebook.com
+0.0.0.0 edge-ig-dgw-p42-shv-01-mxp2.facebook.com
 0.0.0.0 edge-ig-dgw-p42-shv-01-nrt1.facebook.com
 0.0.0.0 edge-ig-dgw-p42-shv-01-phx1.facebook.com
 0.0.0.0 edge-ig-dgw-p42-shv-01-pmo1.facebook.com
@@ -32153,6 +32176,7 @@
 0.0.0.0 edge-ig-dgw-shv-01-atl3.facebook.com
 0.0.0.0 edge-ig-dgw-shv-01-bcn1.facebook.com
 0.0.0.0 edge-ig-dgw-shv-01-ber1.facebook.com
+0.0.0.0 edge-ig-dgw-shv-01-bom2.facebook.com
 0.0.0.0 edge-ig-dgw-shv-01-bos5.facebook.com
 0.0.0.0 edge-ig-dgw-shv-01-bru2.facebook.com
 0.0.0.0 edge-ig-dgw-shv-01-bsb1.facebook.com
@@ -32185,6 +32209,7 @@
 0.0.0.0 edge-ig-dgw-shv-01-ist1.facebook.com
 0.0.0.0 edge-ig-dgw-shv-01-itm1.facebook.com
 0.0.0.0 edge-ig-dgw-shv-01-jnb2.facebook.com
+0.0.0.0 edge-ig-dgw-shv-01-kul2.facebook.com
 0.0.0.0 edge-ig-dgw-shv-01-kul3.facebook.com
 0.0.0.0 edge-ig-dgw-shv-01-lax3.facebook.com
 0.0.0.0 edge-ig-dgw-shv-01-lim1.facebook.com
@@ -32222,6 +32247,7 @@
 0.0.0.0 edge-ig-dgw-shv-02-fra5.facebook.com
 0.0.0.0 edge-ig-dgw-shv-02-gru2.facebook.com
 0.0.0.0 edge-ig-dgw-shv-02-hbe1.facebook.com
+0.0.0.0 edge-ig-dgw-shv-02-hkg1.facebook.com
 0.0.0.0 edge-ig-dgw-shv-02-ist1.facebook.com
 0.0.0.0 edge-ig-dgw-shv-02-lax3.facebook.com
 0.0.0.0 edge-ig-dgw-shv-02-lga3.facebook.com
@@ -32753,6 +32779,7 @@
 0.0.0.0 edge-oculus-shv-01-kul3.fbcdn.net
 0.0.0.0 edge-oculus-shv-01-lax3.fbcdn.net
 0.0.0.0 edge-oculus-shv-01-lga3.fbcdn.net
+0.0.0.0 edge-oculus-shv-01-lhr11.fbcdn.net
 0.0.0.0 edge-oculus-shv-01-lhr6.fbcdn.net
 0.0.0.0 edge-oculus-shv-01-lim1.fbcdn.net
 0.0.0.0 edge-oculus-shv-01-lis1.fbcdn.net
@@ -32783,6 +32810,7 @@
 0.0.0.0 edge-oculus-shv-01-sin2.fbcdn.net
 0.0.0.0 edge-oculus-shv-01-sin6.fbcdn.net
 0.0.0.0 edge-oculus-shv-01-sjc3.fbcdn.net
+0.0.0.0 edge-oculus-shv-01-sjc6.fbcdn.net
 0.0.0.0 edge-oculus-shv-01-sof1.fbcdn.net
 0.0.0.0 edge-oculus-shv-01-ssn1.fbcdn.net
 0.0.0.0 edge-oculus-shv-01-syd2.fbcdn.net
@@ -33230,6 +33258,7 @@
 0.0.0.0 edge-sonar-mini-shv-01-ams4.fbcdn.net
 0.0.0.0 edge-sonar-mini-shv-01-arn2.fbcdn.net
 0.0.0.0 edge-sonar-mini-shv-01-atl3.fbcdn.net
+0.0.0.0 edge-sonar-mini-shv-01-baq1.fbcdn.net
 0.0.0.0 edge-sonar-mini-shv-01-bcn1.fbcdn.net
 0.0.0.0 edge-sonar-mini-shv-01-ber1.fbcdn.net
 0.0.0.0 edge-sonar-mini-shv-01-bkk1.fbcdn.net
@@ -33257,6 +33286,7 @@
 0.0.0.0 edge-sonar-mini-shv-01-doh1.fbcdn.net
 0.0.0.0 edge-sonar-mini-shv-01-dub4.fbcdn.net
 0.0.0.0 edge-sonar-mini-shv-01-dus1.fbcdn.net
+0.0.0.0 edge-sonar-mini-shv-01-elp3.fbcdn.net
 0.0.0.0 edge-sonar-mini-shv-01-eze1.fbcdn.net
 0.0.0.0 edge-sonar-mini-shv-01-fco2.fbcdn.net
 0.0.0.0 edge-sonar-mini-shv-01-fml1.fbcdn.net
@@ -33961,6 +33991,7 @@
 0.0.0.0 edge-video-shv-01-sin2.fbcdn.net
 0.0.0.0 edge-video-shv-01-sin6.fbcdn.net
 0.0.0.0 edge-video-shv-01-sjc3.fbcdn.net
+0.0.0.0 edge-video-shv-01-sjc6.fbcdn.net
 0.0.0.0 edge-video-shv-01-sof1.fbcdn.net
 0.0.0.0 edge-video-shv-01-ssn1.fbcdn.net
 0.0.0.0 edge-video-shv-01-syd2.fbcdn.net
@@ -34940,6 +34971,7 @@
 0.0.0.0 eicrisya.workplace.com
 0.0.0.0 eidenbrueck.dewww.facebook.de
 0.0.0.0 eie.messenger.com
+0.0.0.0 eiga226.comon.fb.me
 0.0.0.0 eihoka.workplace.com
 0.0.0.0 eilish.internalfb.com
 0.0.0.0 eimskip.facebook.com
@@ -35888,6 +35920,7 @@
 0.0.0.0 enzkloesterle.dewww.facebook.co
 0.0.0.0 eo1.m.me
 0.0.0.0 eoa.messenger.com
+0.0.0.0 eocilimo.m.me
 0.0.0.0 e.oculusvr.com
 0.0.0.0 eo-eo.facebook.co
 0.0.0.0 eo-eo.facebook.com
@@ -36165,6 +36198,7 @@
 0.0.0.0 es.javocsoft.android.lib.toolbox.facebook.ca
 0.0.0.0 esks.freebasics.com
 0.0.0.0 es-la.af-za.fbjs.facebook.com
+0.0.0.0 es-la.al.messenger.com
 0.0.0.0 es-la.alpha.facebook.com
 0.0.0.0 es-la.apps.fbjs.facebook.com
 0.0.0.0 es-la.apps.prod.facebook.com
@@ -37228,6 +37262,7 @@
 0.0.0.0 external.ffln4-1.fna.fbcdn.net
 0.0.0.0 external.ffor10-1.fna.fbcdn.net
 0.0.0.0 external.ffor11-1.fna.fbcdn.net
+0.0.0.0 external.ffor12-1.fna.fbcdn.net
 0.0.0.0 external.ffor7-1.fna.fbcdn.net
 0.0.0.0 external.ffor8-1.fna.fbcdn.net
 0.0.0.0 external.ffor9-1.fna.fbcdn.net
@@ -37368,6 +37403,7 @@
 0.0.0.0 external.fixe1-1.fna.fbcdn.net
 0.0.0.0 external.fixe2-1.fna.fbcdn.net
 0.0.0.0 external.fixm3-1.fna.fbcdn.net
+0.0.0.0 external.fjdo10-2.fna.fbcdn.net
 0.0.0.0 external.fjdo1-1.fna.fbcdn.net
 0.0.0.0 external.fjed4-4.fna.fbcdn.net
 0.0.0.0 external.fjed4-5.fna.fbcdn.net
@@ -39007,6 +39043,7 @@
 0.0.0.0 factohr.workplace.com
 0.0.0.0 factorysports.comwww.facebook.co
 0.0.0.0 facts42morrow.comon.fb.me
+0.0.0.0 faculdadeunai.messenger.com
 0.0.0.0 fad19a7e080-rnnkyvse1725975684-sonar.snr.fbcdn.net
 0.0.0.0 fad85fc4-9e1b-4e4d-9dc6-359b2f358bfe-netseer-ipaddr-assoc.xz.fbcdn.net
 0.0.0.0 fadebook.com
@@ -39983,6 +40020,7 @@
 0.0.0.0 fna-fbcdn-shv-01-fosu3.fbcdn.net
 0.0.0.0 fna-fbcdn-shv-01-foua3.fbcdn.net
 0.0.0.0 fna-fbcdn-shv-01-fpat2.fbcdn.net
+0.0.0.0 fna-fbcdn-shv-01-fper13.fbcdn.net
 0.0.0.0 fna-fbcdn-shv-01-fper9.fbcdn.net
 0.0.0.0 fna-fbcdn-shv-01-fpll6.fbcdn.net
 0.0.0.0 fna-fbcdn-shv-01-fplu1.fbcdn.net
@@ -40056,6 +40094,7 @@
 0.0.0.0 fna-fbcdn-shv-02-foma1.fbcdn.net
 0.0.0.0 fna-fbcdn-shv-02-fpll6.fbcdn.net
 0.0.0.0 fna-fbcdn-shv-02-fpmy1.fbcdn.net
+0.0.0.0 fna-fbcdn-shv-02-fpss1.fbcdn.net
 0.0.0.0 fna-fbcdn-shv-02-frao1.fbcdn.net
 0.0.0.0 fna-fbcdn-shv-02-fric1.fbcdn.net
 0.0.0.0 fna-fbcdn-shv-02-fros3.fbcdn.net
@@ -40201,6 +40240,7 @@
 0.0.0.0 fna-fbcdn-z-m-shv-01-fbom19.fbcdn.net
 0.0.0.0 fna-fbcdn-z-m-shv-01-fbri5.fbcdn.net
 0.0.0.0 fna-fbcdn-z-m-shv-01-fbts12.fbcdn.net
+0.0.0.0 fna-fbcdn-z-m-shv-01-fbwn5.fbcdn.net
 0.0.0.0 fna-fbcdn-z-m-shv-01-fceb5.fbcdn.net
 0.0.0.0 fna-fbcdn-z-m-shv-01-fcix3.fbcdn.net
 0.0.0.0 fna-fbcdn-z-m-shv-01-fclo13.fbcdn.net
@@ -40270,6 +40310,7 @@
 0.0.0.0 fna-fbcdn-z-m-shv-02-fagc1.fbcdn.net
 0.0.0.0 fna-fbcdn-z-m-shv-02-fbom19.fbcdn.net
 0.0.0.0 fna-fbcdn-z-m-shv-02-fccu4.fbcdn.net
+0.0.0.0 fna-fbcdn-z-m-shv-02-fcor4.fbcdn.net
 0.0.0.0 fna-fbcdn-z-m-shv-02-fdel1.fbcdn.net
 0.0.0.0 fna-fbcdn-z-m-shv-02-fdmm3.fbcdn.net
 0.0.0.0 fna-fbcdn-z-m-shv-02-ffcm1.fbcdn.net
@@ -40502,6 +40543,7 @@
 0.0.0.0 fna-fbcdn-z-p4-shv-02-fnqn1.fbcdn.net
 0.0.0.0 fna-fbcdn-z-p4-shv-02-foma1.fbcdn.net
 0.0.0.0 fna-fbcdn-z-p4-shv-02-fpmy1.fbcdn.net
+0.0.0.0 fna-fbcdn-z-p4-shv-02-fpss1.fbcdn.net
 0.0.0.0 fna-fbcdn-z-p4-shv-02-fric1.fbcdn.net
 0.0.0.0 fna-fbcdn-z-p4-shv-02-fros3.fbcdn.net
 0.0.0.0 fna-fbcdn-z-p4-shv-02-fruh5.fbcdn.net
@@ -40596,6 +40638,7 @@
 0.0.0.0 fna-instagram-p42-shv-02-fagc1.fbcdn.net
 0.0.0.0 fna-instagram-p42-shv-02-fbom19.fbcdn.net
 0.0.0.0 fna-instagram-p42-shv-02-fccu4.fbcdn.net
+0.0.0.0 fna-instagram-p42-shv-02-fcor4.fbcdn.net
 0.0.0.0 fna-instagram-p42-shv-02-fdel1.fbcdn.net
 0.0.0.0 fna-instagram-p42-shv-02-fdmm3.fbcdn.net
 0.0.0.0 fna-instagram-p42-shv-02-ffcm1.fbcdn.net
@@ -40847,6 +40890,7 @@
 0.0.0.0 fna-instagram-shv-02-fnqn1.fbcdn.net
 0.0.0.0 fna-instagram-shv-02-foma1.fbcdn.net
 0.0.0.0 fna-instagram-shv-02-fpmy1.fbcdn.net
+0.0.0.0 fna-instagram-shv-02-fpss1.fbcdn.net
 0.0.0.0 fna-instagram-shv-02-fric1.fbcdn.net
 0.0.0.0 fna-instagram-shv-02-fros3.fbcdn.net
 0.0.0.0 fna-instagram-shv-02-fruh5.fbcdn.net
@@ -40951,6 +40995,7 @@
 0.0.0.0 fna-whatsapp-shv-01-fsjo10.fbcdn.net
 0.0.0.0 fna-whatsapp-shv-01-fslc3.fbcdn.net
 0.0.0.0 fna-whatsapp-shv-01-fstr1.fbcdn.net
+0.0.0.0 fna-whatsapp-shv-01-fsub30.fbcdn.net
 0.0.0.0 fna-whatsapp-shv-01-ftas8.fbcdn.net
 0.0.0.0 fna-whatsapp-shv-01-ftia13.fbcdn.net
 0.0.0.0 fna-whatsapp-shv-01-ftnr1.fbcdn.net
@@ -42292,6 +42337,7 @@
 0.0.0.0 futbolxinternet.messenger.com
 0.0.0.0 futurecorps.facebook.com
 0.0.0.0 futurefortourism.workplace.com
+0.0.0.0 futureinn-tokyo.comon.fb.me
 0.0.0.0 futurenettechnologiesindiaprivatelimited027.workplace.com
 0.0.0.0 futureofcio.fb.me
 0.0.0.0 futureofworktechnology937.workplace.com
@@ -45708,6 +45754,7 @@
 0.0.0.0 hermes.freebasics.com
 0.0.0.0 hermes.ifi.messenger.com
 0.0.0.0 hermes-platform-lookaside.fbsbx.com
+0.0.0.0 hermes-web.omnihub.projectaria.com
 0.0.0.0 hermidamaiaadv.workplace.com
 0.0.0.0 hermiolviajes.messenger.com
 0.0.0.0 heroes-and-villians.fb.me
@@ -46743,6 +46790,7 @@
 0.0.0.0 hr-hr.mobile.fb.me
 0.0.0.0 hr-hr.myteddycasino.comwww.fb.me
 0.0.0.0 hr-hr.on.fb.me
+0.0.0.0 hr-hr.pchelplinebd.comwww.fb.me
 0.0.0.0 hr-hr.prod.facebook.co
 0.0.0.0 hr-hr.prod.facebook.com
 0.0.0.0 hr-hr.pt-br.fb.me
@@ -51733,6 +51781,7 @@
 0.0.0.0 http-www-mastergblog-com-ng.0.freebasics.com
 0.0.0.0 httpwww.messenger.com
 0.0.0.0 http-www-millznations.com.ng-com.0.freebasics.com
+0.0.0.0 httpwww.m.me
 0.0.0.0 http-www-msugensan-edu-ph.0.freebasics.com
 0.0.0.0 http-www-msunaawan-edu-ph.0.freebasics.com
 0.0.0.0 http-www-netpriyo-cf.0.freebasics.com
@@ -52409,6 +52458,7 @@
 0.0.0.0 igc.messenger.com
 0.0.0.0 igeechtergeech.facebook.com.au
 0.0.0.0 ig.facebook.com
+0.0.0.0 ighdr.fb.com
 0.0.0.0 igkeit.www.facebook.co
 0.0.0.0 iglesiawww.portantos.eswww.facebook.es
 0.0.0.0 ig.me
@@ -52452,6 +52502,7 @@
 0.0.0.0 iibtamerica.workplace.com
 0.0.0.0 iicefs.comon.fb.me
 0.0.0.0 iictt.m.workplace.com
+0.0.0.0 iifl.facebook.com
 0.0.0.0 iifl.m.facebook.com
 0.0.0.0 iifl.workplace.com
 0.0.0.0 iihi.messenger.com
@@ -53294,6 +53345,7 @@
 0.0.0.0 instagram.com.bo
 0.0.0.0 instagram.com.br
 0.0.0.0 instagram.com.bz
+0.0.0.0 instagram.com-cdn.fb.me
 0.0.0.0 instagram.com.cm
 0.0.0.0 instagram.com.ee
 0.0.0.0 instagram.com.fj
@@ -55257,6 +55309,7 @@
 0.0.0.0 instagram.fixc4-2.fna.fbcdn.net
 0.0.0.0 instagram.fixc4-3.fna.fbcdn.net
 0.0.0.0 instagram.fixc5-1.fna.fbcdn.net
+0.0.0.0 instagram.fixc6-1.fna.fbcdn.net
 0.0.0.0 instagram.fixc7-1.fna.fbcdn.net
 0.0.0.0 instagram.fixc8-1.fna.fbcdn.net
 0.0.0.0 instagram.fixc8-2.fna.fbcdn.net
@@ -55309,6 +55362,7 @@
 0.0.0.0 instagram.fjai9-1.fna.fbcdn.net
 0.0.0.0 instagram.fjal2-1.fna.fbcdn.net
 0.0.0.0 instagram.fjal3-1.fna.fbcdn.net
+0.0.0.0 instagram.fjbr1-1.fna.fbcdn.net
 0.0.0.0 instagram.fjdf1-1.fna.fbcdn.net
 0.0.0.0 instagram.fjdf2-2.fna.fbcdn.net
 0.0.0.0 instagram.fjdf3-1.fna.fbcdn.net
@@ -55342,6 +55396,7 @@
 0.0.0.0 instagram.fjed6-2.fna.fbcdn.net
 0.0.0.0 instagram.fjga1-1.fna.fbcdn.net
 0.0.0.0 instagram.fjga2-1.fna.fbcdn.net
+0.0.0.0 instagram.fjib1-1.fna.fbcdn.net
 0.0.0.0 instagram.fjkr2-1.fna.fbcdn.net
 0.0.0.0 instagram.fjlr1-1.fna.fbcdn.net
 0.0.0.0 instagram.fjlr2-1.fna.fbcdn.net
@@ -55358,6 +55413,7 @@
 0.0.0.0 instagram.fjog9-1.fna.fbcdn.net
 0.0.0.0 instagram.fjoi1-1.fna.fbcdn.net
 0.0.0.0 instagram.fjoi2-1.fna.fbcdn.net
+0.0.0.0 instagram.fjoi8-1.fna.fbcdn.net
 0.0.0.0 instagram.fjpa11-1.fna.fbcdn.net
 0.0.0.0 instagram.fjpa1-1.fna.fbcdn.net
 0.0.0.0 instagram.fjpa12-1.fna.fbcdn.net
@@ -56071,6 +56127,7 @@
 0.0.0.0 instagram.fosl2-1.fna.fbcdn.net
 0.0.0.0 instagram.fosl3-1.fna.fbcdn.net
 0.0.0.0 instagram.fosl3-2.fna.fbcdn.net
+0.0.0.0 instagram.fosm1-1.fna.fbcdn.net
 0.0.0.0 instagram.fosm2-1.fna.fbcdn.net
 0.0.0.0 instagram.fosm2-2.fna.fbcdn.net
 0.0.0.0 instagram.foss1-1.fna.fbcdn.net
@@ -56791,6 +56848,7 @@
 0.0.0.0 instagram.fsvq4-1.fna.fbcdn.net
 0.0.0.0 instagram.fsvq5-1.fna.fbcdn.net
 0.0.0.0 instagram.fsvz2-1.fna.fbcdn.net
+0.0.0.0 instagram.fsxr1-1.fna.fbcdn.net
 0.0.0.0 instagram.fsxv1-1.fna.fbcdn.net
 0.0.0.0 instagram.fsxv3-1.fna.fbcdn.net
 0.0.0.0 instagram.fsyd10-1.fna.fbcdn.net
@@ -56971,6 +57029,7 @@
 0.0.0.0 instagram.ftuc3-1.fna.fbcdn.net
 0.0.0.0 instagram.ftuc4-1.fna.fbcdn.net
 0.0.0.0 instagram.ftul2-1.fna.fbcdn.net
+0.0.0.0 instagram.ftun10-1.fna.fbcdn.net
 0.0.0.0 instagram.ftun1-2.fna.fbcdn.net
 0.0.0.0 instagram.ftun14-1.fna.fbcdn.net
 0.0.0.0 instagram.ftun16-1.fna.fbcdn.net
@@ -57481,6 +57540,7 @@
 0.0.0.0 instagram-p3-shv-01-cpt1.fbcdn.net
 0.0.0.0 instagram-p3-shv-01-del2.fbcdn.net
 0.0.0.0 instagram-p3-shv-01-den2.fbcdn.net
+0.0.0.0 instagram-p3-shv-01-det1.fbcdn.net
 0.0.0.0 instagram-p3-shv-01-dfw5.fbcdn.net
 0.0.0.0 instagram-p3-shv-01-doh1.fbcdn.net
 0.0.0.0 instagram-p3-shv-01-dub4.fbcdn.net
@@ -57570,6 +57630,7 @@
 0.0.0.0 instagram-p3-shv-02-del2.fbcdn.net
 0.0.0.0 instagram-p3-shv-02-dfw5.fbcdn.net
 0.0.0.0 instagram-p3-shv-02-eze1.fbcdn.net
+0.0.0.0 instagram-p3-shv-02-for2.fbcdn.net
 0.0.0.0 instagram-p3-shv-02-fra3.fbcdn.net
 0.0.0.0 instagram-p3-shv-02-fra5.fbcdn.net
 0.0.0.0 instagram-p3-shv-02-gig4.fbcdn.net
@@ -57623,6 +57684,7 @@
 0.0.0.0 instagram-p42-shv-01-blr1.fbcdn.net
 0.0.0.0 instagram-p42-shv-01-bog2.fbcdn.net
 0.0.0.0 instagram-p42-shv-01-bom2.fbcdn.net
+0.0.0.0 instagram-p42-shv-01-bom5.fbcdn.net
 0.0.0.0 instagram-p42-shv-01-bos5.fbcdn.net
 0.0.0.0 instagram-p42-shv-01-bru2.fbcdn.net
 0.0.0.0 instagram-p42-shv-01-bsb1.fbcdn.net
@@ -59000,6 +59062,7 @@
 0.0.0.0 iphoncultura.facebook.com.br
 0.0.0.0 iphondb3.facebook.com.br
 0.0.0.0 iphone.0.accountkit.com
+0.0.0.0 iphone77s.voicestesting.com
 0.0.0.0 iphone-cs16c.facebook.se
 0.0.0.0 iphone.facebook.co
 0.0.0.0 iphone.facebook.com
@@ -59444,6 +59507,7 @@
 0.0.0.0 it-it.en-gb.prod.facebook.com
 0.0.0.0 it-it.en-gb.ro.fbjs.facebook.com
 0.0.0.0 it-it.en-gb.ro-ro.fbjs.facebook.com
+0.0.0.0 it-it.eo-eo.fbjs.facebook.com
 0.0.0.0 it-it.es-es.c.facebook.com
 0.0.0.0 it-it.es-es.es-es.fbjs.facebook.com
 0.0.0.0 it-it.es-es.es-es.prod.facebook.com
@@ -60745,6 +60809,7 @@
 0.0.0.0 kickthebucket.internet.org
 0.0.0.0 kicp.internet.org
 0.0.0.0 k-idolstar.messenger.com
+0.0.0.0 kidpresidents.coml.messenger.com
 0.0.0.0 kids.gumi.fb.me
 0.0.0.0 kidshasegawa.fburl.com
 0.0.0.0 kidsneedmoreorg.workplace.com
@@ -62050,6 +62115,7 @@
 0.0.0.0 libs.fbsbx.com
 0.0.0.0 lib.workplace.com
 0.0.0.0 licencestatuscheck.wk.pl
+0.0.0.0 license.m.me
 0.0.0.0 licensing-expo.fburl.com
 0.0.0.0 licianonichetti.facebook.com.br
 0.0.0.0 licitacao.fb.me
@@ -62335,6 +62401,7 @@
 0.0.0.0 live-fallback.oculus.com
 0.0.0.0 live.fb.com
 0.0.0.0 live.fb.je
+0.0.0.0 live.fb.me
 0.0.0.0 live.fbsbx.com
 0.0.0.0 live.fbstack.com
 0.0.0.0 live.fburl.com
@@ -63674,6 +63741,7 @@
 0.0.0.0 mail2.apps-383041995381848.apps.fbsbx.com
 0.0.0.0 mail2.developer.oculusvr.com
 0.0.0.0 mail2.dns.facebook.com
+0.0.0.0 mail2.embed.fbsbx.com
 0.0.0.0 mail2.facebook.co.id
 0.0.0.0 mail2.facebook.com.br
 0.0.0.0 mail2.facebook.com.mx
@@ -64049,6 +64117,7 @@
 0.0.0.0 manulife-securities.fburl.thefacebook.com
 0.0.0.0 manulife-stage65.internalfb.com
 0.0.0.0 manuphi.facebook.fr
+0.0.0.0 manus-addon-slides.manus.im
 0.0.0.0 manus.ai
 0.0.0.0 manus.im
 0.0.0.0 manus.internalfb.com
@@ -71284,6 +71353,7 @@
 0.0.0.0 ns3.on.fb.me
 0.0.0.0 ns41.oculusvr.com
 0.0.0.0 ns4.apps-474443516378085.apps.fbsbx.com
+0.0.0.0 ns4.cdn.fbsbx.com
 0.0.0.0 ns4.developer.oculusvr.com
 0.0.0.0 ns4.dns.facebook.com
 0.0.0.0 ns4.facebook.co
@@ -72742,6 +72812,7 @@
 0.0.0.0 orayagkcj.m.me
 0.0.0.0 oraznawww.facebook.pl
 0.0.0.0 orazwww.facebook.pl
+0.0.0.0 orbilu.voicestesting.com
 0.0.0.0 orbit.internet.org
 0.0.0.0 orbyano.internet.org
 0.0.0.0 orca.fb.me
@@ -72846,6 +72917,7 @@
 0.0.0.0 origin.facebook.ca
 0.0.0.0 origin.facebook.com.mx
 0.0.0.0 origin.facebook.in
+0.0.0.0 origin.gateway.messenger.com
 0.0.0.0 origin-gfs204n143.facebook.com.br
 0.0.0.0 origin-jujube.workplace.com
 0.0.0.0 origin-meuespaco.facebook.com.br
@@ -77991,6 +78063,7 @@
 0.0.0.0 s3b-soap.workplace.com
 0.0.0.0 s3-eu4.fbsbx.com
 0.0.0.0 s3-external-1.internet.org
+0.0.0.0 s3.facebook.co
 0.0.0.0 s3.freebasics.com
 0.0.0.0 s3-lookaside.fbsbx.com
 0.0.0.0 s3.messenger.com
@@ -78048,6 +78121,7 @@
 0.0.0.0 sacry-fun.fb.me
 0.0.0.0 sadaqah871.workplace.com
 0.0.0.0 saddleback.workplace.com
+0.0.0.0 sadiemybaby9.facebook.co
 0.0.0.0 sadmin.freebasics.com
 0.0.0.0 sadnessimmer-cc.fburl.com
 0.0.0.0 sa-east-1-prod.ads.xsec.internet.org
@@ -79274,6 +79348,7 @@
 0.0.0.0 scontent.fayt2-2.fna.fbcdn.net
 0.0.0.0 scontent.fayt2-3.fna.fbcdn.net
 0.0.0.0 scontent.fayt3-1.fna.fbcdn.net
+0.0.0.0 scontent.fayt4-1.fna.fbcdn.net
 0.0.0.0 scontent.fbag1-2.fna.fbcdn.net
 0.0.0.0 scontent.fbag4-1.fna.fbcdn.net
 0.0.0.0 scontent.fbah1-1.fna.fbcdn.net
@@ -79440,6 +79515,7 @@
 0.0.0.0 scontent.fbgw14-2.fna.fbcdn.net
 0.0.0.0 scontent.fbgw14-3.fna.fbcdn.net
 0.0.0.0 scontent.fbgw15-3.fna.fbcdn.net
+0.0.0.0 scontent.fbgw19-1.fna.fbcdn.net
 0.0.0.0 scontent.fbgw2-2.fna.fbcdn.net
 0.0.0.0 scontent.fbgw25-2.fna.fbcdn.net
 0.0.0.0 scontent.fbgw27-1.fna.fbcdn.net
@@ -79858,6 +79934,7 @@
 0.0.0.0 scontent.fbud7-3.fna.fbcdn.net
 0.0.0.0 scontent.fbud7-4.fna.fbcdn.net
 0.0.0.0 scontent.fbup1-1.fna.fbcdn.net
+0.0.0.0 scontent.fbvb1-2.fna.fbcdn.net
 0.0.0.0 scontent.fbvh1-1.fna.fbcdn.net
 0.0.0.0 scontent.fbwa1-1.fna.fbcdn.net
 0.0.0.0 scontent.fbwa3-1.fna.fbcdn.net
@@ -81574,6 +81651,7 @@
 0.0.0.0 scontent.fixc4-3.fna.fbcdn.net
 0.0.0.0 scontent.fixc5-1.fna.fbcdn.net
 0.0.0.0 scontent.fixc5-2.fna.fbcdn.net
+0.0.0.0 scontent.fixc6-1.fna.fbcdn.net
 0.0.0.0 scontent.fixc7-1.fna.fbcdn.net
 0.0.0.0 scontent.fixc8-1.fna.fbcdn.net
 0.0.0.0 scontent.fixc8-2.fna.fbcdn.net
@@ -81638,6 +81716,7 @@
 0.0.0.0 scontent.fjau1-1.fna.fbcdn.net
 0.0.0.0 scontent.fjau2-1.fna.fbcdn.net
 0.0.0.0 scontent.fjau4-1.fna.fbcdn.net
+0.0.0.0 scontent.fjbr1-1.fna.fbcdn.net
 0.0.0.0 scontent.fjdf1-1.fna.fbcdn.net
 0.0.0.0 scontent.fjdf2-2.fna.fbcdn.net
 0.0.0.0 scontent.fjdf3-1.fna.fbcdn.net
@@ -81678,6 +81757,7 @@
 0.0.0.0 scontent.fjer1-1.fna.fbcdn.net
 0.0.0.0 scontent.fjga1-1.fna.fbcdn.net
 0.0.0.0 scontent.fjia1-1.fna.fbcdn.net
+0.0.0.0 scontent.fjib1-1.fna.fbcdn.net
 0.0.0.0 scontent.fjjg2-1.fna.fbcdn.net
 0.0.0.0 scontent.fjkr1-1.fna.fbcdn.net
 0.0.0.0 scontent.fjkr2-1.fna.fbcdn.net
@@ -82304,6 +82384,7 @@
 0.0.0.0 scontent.fmct8-1.fna.fbcdn.net
 0.0.0.0 scontent.fmcz1-1.fna.fbcdn.net
 0.0.0.0 scontent.fmcz1-2.fna.fbcdn.net
+0.0.0.0 scontent.fmcz15-1.fna.fbcdn.net
 0.0.0.0 scontent.fmcz16-1.fna.fbcdn.net
 0.0.0.0 scontent.fmcz17-1.fna.fbcdn.net
 0.0.0.0 scontent.fmcz20-1.fna.fbcdn.net
@@ -82831,6 +82912,7 @@
 0.0.0.0 scontent.fosl3-2.fna.fbcdn.net
 0.0.0.0 scontent.fosl5-1.fna.fbcdn.net
 0.0.0.0 scontent.fosl6-1.fna.fbcdn.net
+0.0.0.0 scontent.fosm1-1.fna.fbcdn.net
 0.0.0.0 scontent.fosm20-1.fna.fbcdn.net
 0.0.0.0 scontent.fosm2-1.fna.fbcdn.net
 0.0.0.0 scontent.fosm22-1.fna.fbcdn.net
@@ -83528,6 +83610,7 @@
 0.0.0.0 scontent.fsaw2-1.fna.fbcdn.net
 0.0.0.0 scontent.fsaw2-2.fna.fbcdn.net
 0.0.0.0 scontent.fsaw2-3.fna.fbcdn.net
+0.0.0.0 scontent.fsaw3-1.fna.fbcdn.net
 0.0.0.0 scontent.fsaw6-1.fna.fbcdn.net
 0.0.0.0 scontent.fsbz1-1.fna.fbcdn.net
 0.0.0.0 scontent.fsbz1-2.fna.fbcdn.net
@@ -83931,6 +84014,8 @@
 0.0.0.0 scontent.fsxb1-1.fna.fbcdn.net
 0.0.0.0 scontent.fsxm1-1.fna.fbcdn.net
 0.0.0.0 scontent.fsxo1-1.fna.fbcdn.net
+0.0.0.0 scontent.fsxr1-1.fna.fbcdn.net
+0.0.0.0 scontent.fsxr1-2.fna.fbcdn.net
 0.0.0.0 scontent.fsxr2-1.fna.fbcdn.net
 0.0.0.0 scontent.fsxv1-1.fna.fbcdn.net
 0.0.0.0 scontent.fsxv3-1.fna.fbcdn.net
@@ -84215,6 +84300,7 @@
 0.0.0.0 scontent.ftuc4-1.fna.fbcdn.net
 0.0.0.0 scontent.ftuc4-2.fna.fbcdn.net
 0.0.0.0 scontent.ftul2-1.fna.fbcdn.net
+0.0.0.0 scontent.ftun10-1.fna.fbcdn.net
 0.0.0.0 scontent.ftun10-2.fna.fbcdn.net
 0.0.0.0 scontent.ftun1-2.fna.fbcdn.net
 0.0.0.0 scontent.ftun14-1.fna.fbcdn.net
@@ -84646,6 +84732,7 @@
 0.0.0.0 scontent-iad3-2.xx.fbcdn.net
 0.0.0.0 scontent-iad6-1.cdninstagram.com
 0.0.0.0 scontent-iad6-1.oculuscdn.com
+0.0.0.0 scontent-iad6-1.xx.fbcdn.net
 0.0.0.0 scontent-iad.cdninstagram.com
 0.0.0.0 scontent-iad.xx.fbcdn.net
 0.0.0.0 scontent-icn2-1.cdninstagram.com
@@ -84725,6 +84812,7 @@
 0.0.0.0 scontent-lis1-1.xx.fbcdn.net
 0.0.0.0 scontent-lis.cdninstagram.com
 0.0.0.0 scontent-lko1-1.cdninstagram.com
+0.0.0.0 scontent-lko1-2.cdninstagram.com
 0.0.0.0 scontent-los4-1.cdninstagram.com
 0.0.0.0 scontent-los4-1.oculuscdn.com
 0.0.0.0 scontent-los.cdninstagram.com
@@ -84826,6 +84914,7 @@
 0.0.0.0 scontent-nrt1-2.cdninstagram.com
 0.0.0.0 scontent-nrt1-2.oculuscdn.com
 0.0.0.0 scontent-nrt1-2.xx.fbcdn.net
+0.0.0.0 scontent-nrt1-3.cdninstagram.com
 0.0.0.0 scontent-nrt6-1.cdninstagram.com
 0.0.0.0 scontent-nrt6-1.oculuscdn.com
 0.0.0.0 scontent-nrt6-1.xx.fbcdn.net
@@ -85995,6 +86084,7 @@
 0.0.0.0 securecdn-mxp.oculus.com
 0.0.0.0 securecdn-nrt1-1.oculus.com
 0.0.0.0 securecdn-nrt1-2.oculus.com
+0.0.0.0 securecdn-nrt1-3.oculus.com
 0.0.0.0 securecdn-nrt6-1.oculus.com
 0.0.0.0 securecdn-nrt.oculus.com
 0.0.0.0 securecdn.oculus.com
@@ -89475,6 +89565,7 @@
 0.0.0.0 sonar-mad1-1.xx.fbcdn.net
 0.0.0.0 sonar-mad.xx.fbcdn.net
 0.0.0.0 sonar-man2-1.xx.fbcdn.net
+0.0.0.0 sonar-man.xx.fbcdn.net
 0.0.0.0 sonar-mba.cdn.whatsapp.net
 0.0.0.0 sonar-mba.xx.fbcdn.net
 0.0.0.0 sonar-mct1-1.cdn.whatsapp.net
@@ -89648,6 +89739,7 @@
 0.0.0.0 southwestresearchinstitute047.workplace.com
 0.0.0.0 south-whittier-appliance.fb.me
 0.0.0.0 sovaa.workplace.com
+0.0.0.0 sovereign.facebook.com
 0.0.0.0 sovereign.workplace.com
 0.0.0.0 sowarnochnixwww.facebook.de
 0.0.0.0 sowiwww.facebook.de
@@ -89879,6 +89971,7 @@
 0.0.0.0 sql.dns.facebook.com
 0.0.0.0 sql.facebook.org
 0.0.0.0 sql.fbjs.facebook.com
+0.0.0.0 sql.fb.me
 0.0.0.0 sql.messenger.com
 0.0.0.0 sqlserver.freebasics.com
 0.0.0.0 sqlserverw2ftpw6ca.facebook.com.br
@@ -97729,6 +97822,7 @@
 0.0.0.0 video.fjai9-1.fna.fbcdn.net
 0.0.0.0 video.fjal1-1.fna.fbcdn.net
 0.0.0.0 video.fjal2-1.fna.fbcdn.net
+0.0.0.0 video.fjbr1-1.fna.fbcdn.net
 0.0.0.0 video.fjdo10-1.fna.fbcdn.net
 0.0.0.0 video.fjdo10-2.fna.fbcdn.net
 0.0.0.0 video.fjdo1-1.fna.fbcdn.net
@@ -97784,6 +97878,7 @@
 0.0.0.0 video.fkhi3-1.fna.fbcdn.net
 0.0.0.0 video.fkhi4-2.fna.fbcdn.net
 0.0.0.0 video.fkhi5-1.fna.fbcdn.net
+0.0.0.0 video.fkhi5-2.fna.fbcdn.net
 0.0.0.0 video.fkhi6-1.fna.fbcdn.net
 0.0.0.0 video.fkhi8-1.fna.fbcdn.net
 0.0.0.0 video.fkiv1-1.fna.fbcdn.net
@@ -98787,6 +98882,7 @@
 0.0.0.0 video-iad3-1.xx.fbcdn.net
 0.0.0.0 video-iad3-2.cdninstagram.com
 0.0.0.0 video-iad3-2.xx.fbcdn.net
+0.0.0.0 video-iad6-1.xx.fbcdn.net
 0.0.0.0 video-iad.cdninstagram.com
 0.0.0.0 video-iad.xx.fbcdn.net
 0.0.0.0 video-icn.xx.fbcdn.net
@@ -99675,6 +99771,7 @@
 0.0.0.0 vr.meta.me
 0.0.0.0 vrprogamer878.workplace.com
 0.0.0.0 vrunitygamer440.workplace.com
+0.0.0.0 vrvideoproduction.atmeta.com
 0.0.0.0 vrvip107.workplace.com
 0.0.0.0 vrwww.oculusvr.com
 0.0.0.0 vsecvn.workplace.com
@@ -101961,6 +102058,7 @@
 0.0.0.0 wharton.fb.me
 0.0.0.0 whartonmbaadmissions.workplace.com
 0.0.0.0 whartonmbawelcome.workplace.com
+0.0.0.0 whataweek.fbsbx.com
 0.0.0.0 whatchamakinnow.messenger.com
 0.0.0.0 whatculture-wreslting.fburl.com
 0.0.0.0 whatculusvr.com.oculusvr.com
@@ -102004,6 +102102,7 @@
 0.0.0.0 whatsapp-cdn-shv-01-den2.fbcdn.net
 0.0.0.0 whatsapp-cdn-shv-01-den4.internalfb.com
 0.0.0.0 whatsapp-cdn-shv-01-dfw5.fbcdn.net
+0.0.0.0 whatsapp-cdn-shv-01-dfw6.fbcdn.net
 0.0.0.0 whatsapp-cdn-shv-01-doh1.fbcdn.net
 0.0.0.0 whatsapp-cdn-shv-01-dub4.fbcdn.net
 0.0.0.0 whatsapp-cdn-shv-01-dus1.fbcdn.net
@@ -102036,7 +102135,9 @@
 0.0.0.0 whatsapp-cdn-shv-01-kul2.fbcdn.net
 0.0.0.0 whatsapp-cdn-shv-01-kul3.fbcdn.net
 0.0.0.0 whatsapp-cdn-shv-01-lax3.fbcdn.net
+0.0.0.0 whatsapp-cdn-shv-01-lax7.fbcdn.net
 0.0.0.0 whatsapp-cdn-shv-01-lga3.fbcdn.net
+0.0.0.0 whatsapp-cdn-shv-01-lhr11.fbcdn.net
 0.0.0.0 whatsapp-cdn-shv-01-lhr6.fbcdn.net
 0.0.0.0 whatsapp-cdn-shv-01-lim1.fbcdn.net
 0.0.0.0 whatsapp-cdn-shv-01-lis1.fbcdn.net
@@ -102138,7 +102239,9 @@
 0.0.0.0 whatsapp-cdn-shv-03-bom2.fbcdn.net
 0.0.0.0 whatsapp-cdn-shv-03-cdg4.fbcdn.net
 0.0.0.0 whatsapp-cdn-shv-03-del2.fbcdn.net
+0.0.0.0 whatsapp-cdn-shv-03-dfw5.fbcdn.net
 0.0.0.0 whatsapp-cdn-shv-03-lga3.fbcdn.net
+0.0.0.0 whatsapp-cdn-shv-03-maa3.fbcdn.net
 0.0.0.0 whatsapp-cdn-shv-03-mia3.fbcdn.net
 0.0.0.0 whatsapp-cdn-shv-03-mrs2.fbcdn.net
 0.0.0.0 whatsapp-cdn-shv-03-ord5.fbcdn.net
@@ -113897,6 +114000,7 @@
 0.0.0.0 www.impara-uspreprod.fb.com
 0.0.0.0 www.impara-usuat.fb.com
 0.0.0.0 www.imstagram.com
+0.0.0.0 www.imtm.mewww.messenger.com
 0.0.0.0 www.ina-award.dewww.facebook.de
 0.0.0.0 www.inastagram.com
 0.0.0.0 www.inatagram.com
@@ -114686,6 +114790,7 @@
 0.0.0.0 www.mail2ff.com
 0.0.0.0 wwwmail.facebook.nl
 0.0.0.0 wwwmail.freebasics.com
+0.0.0.0 www.mail.live.messenger.com
 0.0.0.0 www.mail.messenger.com
 0.0.0.0 www.mail.yahoo.messenger.com
 0.0.0.0 www.main-infallible-pare-0bfn2fm.ip-10-0-180-125.h22d0nsuf7bj62so.1e96e832-2bcd-4002-b8f9-fea0dd93bae7-netseer-ipaddr-assoc.xz.fbcdn.net
@@ -116166,6 +116271,7 @@
 0.0.0.0 www.wba69e6f01-gm2dknrrgm4daojs.snr.whatsapp.net
 0.0.0.0 www.wc249f3801-haztinrthe3tooa.snr.whatsapp.net
 0.0.0.0 www.wca998f281-gm3tamrqga3tonzx.snr.whatsapp.net
+0.0.0.0 wwww.calvinnyashwaphiri.facebook.co
 0.0.0.0 www.wcdeafb981-ge4dkmbrgq3timjz.snr.whatsapp.net
 0.0.0.0 www.wcmg-perinatology.internet.org
 0.0.0.0 www.wczesniak.plwww.facebook.pl
@@ -119399,6 +119505,7 @@
 0.0.0.0 z-p42-scontent-b-tpe.cdninstagram.com
 0.0.0.0 z-p42-scontent-b-vie.cdninstagram.com
 0.0.0.0 z-p42-scontent-b-yyz.cdninstagram.com
+0.0.0.0 z-p42-scontent-cdg4-1.cdninstagram.com
 0.0.0.0 z-p42-scontent.cdninstagram.com
 0.0.0.0 z-p42-scontent-cgk1-1.cdninstagram.com
 0.0.0.0 z-p42-scontent-cgk1-2.cdninstagram.com
@@ -119418,6 +119525,7 @@
 0.0.0.0 z-p42-scontent-dfw5-1.cdninstagram.com
 0.0.0.0 z-p42-scontent-dfw5-3.cdninstagram.com
 0.0.0.0 z-p42-scontent-dfw6-1.cdninstagram.com
+0.0.0.0 z-p42-scontent-dfw6-2.cdninstagram.com
 0.0.0.0 z-p42-scontent-dfw.cdninstagram.com
 0.0.0.0 z-p42-scontent-dub4-1.cdninstagram.com
 0.0.0.0 z-p42-scontent-dub.cdninstagram.com

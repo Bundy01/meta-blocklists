@@ -1,7 +1,7 @@
 # Title: Meta Unbound
 # Description: Blocking Domains Belonging to Meta Platforms
 # Author: Bundy01
-# Last modified: 2026-07-03
+# Last modified: 2026-07-28
 # Homepage: https://github.com/Bundy01/meta-blocklists
 # Licence: https://github.com/Bundy01/meta-blocklists/blob/main/LICENSE
 # RAW: https://raw.githubusercontent.com/Bundy01/meta-blocklists/main/meta-unbound.txt
@@ -232,6 +232,7 @@ local-zone: "0-168-234-61.m.me" always_refuse
 local-zone: "01694703783956984565834127796782920233865633901457.oculusvr.com" always_refuse
 local-zone: "016j.internet.org" always_refuse
 local-zone: "0171.snr.whatsapp.net" always_refuse
+local-zone: "0-177.oculusvr.com" always_refuse
 local-zone: "01780140-5a28-4e75-a326-b09ffee9d594-netseer-ipaddr-assoc.xz.fbcdn.net" always_refuse
 local-zone: "0.17.channel.facebook.co" always_refuse
 local-zone: "018071.oculusvr.com" always_refuse
@@ -454,6 +455,7 @@ local-zone: "046-1-d.prod.facebook.com" always_refuse
 local-zone: "0.46.channel.facebook.co" always_refuse
 local-zone: "046ef6ea1-guydsobygu4dmna.snr.whatsapp.net" always_refuse
 local-zone: "0470be9ba1ce11f25db2bcb99b40d3de.fb.me" always_refuse
+local-zone: "047201010.fb.me" always_refuse
 local-zone: "047201010.fburl.com" always_refuse
 local-zone: "047a3fa0-d6f0-4d55-87ca-f7066bf87828-netseer-ipaddr-assoc.xz.fbcdn.net" always_refuse
 local-zone: "0.47.channel.facebook.co" always_refuse
@@ -2929,6 +2931,7 @@ local-zone: "221-224.i.org" always_refuse
 local-zone: "2212293f-44e8-4158-b1cc-7e0eff97b9d8-netseer-ipaddr-assoc.xz.fbcdn.net" always_refuse
 local-zone: "2214.freebasics.com" always_refuse
 local-zone: "22-15.internalfb.com" always_refuse
+local-zone: "2215www.messenger.com" always_refuse
 local-zone: "221.internet.org" always_refuse
 local-zone: "222100.oculusvr.com" always_refuse
 local-zone: "222.205.alpha-04-2.accountkit.com" always_refuse
@@ -3795,6 +3798,7 @@ local-zone: "360.i.org" always_refuse
 local-zone: "360-total-security.voicestesting.com" always_refuse
 local-zone: "360video.fb.com" always_refuse
 local-zone: "360videos.fb.com" always_refuse
+local-zone: "360weft.comon.fb.me" always_refuse
 local-zone: "36120.internalfb.com" always_refuse
 local-zone: "3612c53d-f0b6-42da-aac4-b7d7fcb4c736-netseer-ipaddr-assoc.xz.fbcdn.net" always_refuse
 local-zone: "361-366.i.org" always_refuse
@@ -7849,6 +7853,7 @@ local-zone: "account.external.ffjr1-6.fna.fbcdn.net" always_refuse
 local-zone: "account.external.fguj4-1.fna.fbcdn.net" always_refuse
 local-zone: "account.external.fhan17-1.fna.fbcdn.net" always_refuse
 local-zone: "account.external.fhio3-1.fna.fbcdn.net" always_refuse
+local-zone: "account.external.fjbr1-1.fna.fbcdn.net" always_refuse
 local-zone: "account.external.fluk1-1.fna.fbcdn.net" always_refuse
 local-zone: "account.external.fmli1-1.fna.fbcdn.net" always_refuse
 local-zone: "account.external.fmnl17-3.fna.fbcdn.net" always_refuse
@@ -8138,6 +8143,7 @@ local-zone: "account.fjai5-1.fna.fbcdn.net" always_refuse
 local-zone: "account.fjal2-1.fna.fbcdn.net" always_refuse
 local-zone: "account.fjdh1-2.fna.fbcdn.net" always_refuse
 local-zone: "account.fjed5-1.fna.fbcdn.net" always_refuse
+local-zone: "account.fjkr2-1.fna.fbcdn.net" always_refuse
 local-zone: "account.fjog13-1.fna.fbcdn.net" always_refuse
 local-zone: "account.fjsr12-1.fna.fbcdn.net" always_refuse
 local-zone: "account.fkhh2-2.fna.fbcdn.net" always_refuse
@@ -8611,6 +8617,7 @@ local-zone: "account.instagram.fssa11-1.fna.fbcdn.net" always_refuse
 local-zone: "account.instagram.fssa9-1.fna.fbcdn.net" always_refuse
 local-zone: "account.instagram.fsub3-1.fna.fbcdn.net" always_refuse
 local-zone: "account.instagram.fsvq2-2.fna.fbcdn.net" always_refuse
+local-zone: "account.instagram.fsxr1-1.fna.fbcdn.net" always_refuse
 local-zone: "account.instagram.fsyd5-1.fna.fbcdn.net" always_refuse
 local-zone: "account.instagram.ftbs4-2.fna.fbcdn.net" always_refuse
 local-zone: "account.instagram.ftbs5-3.fna.fbcdn.net" always_refuse
@@ -9086,6 +9093,7 @@ local-zone: "admin.fbfh7-1.fna.whatsapp.net" always_refuse
 local-zone: "admin.fbgw15-3.fna.fbcdn.net" always_refuse
 local-zone: "admin.fbho4-1.fna.fbcdn.net" always_refuse
 local-zone: "admin.fbhx2-1.fna.fbcdn.net" always_refuse
+local-zone: "admin.fbjr1-1.fna.fbcdn.net" always_refuse
 local-zone: "admin.fbjs.facebook.com" always_refuse
 local-zone: "admin.fbkk12-6.fna.fbcdn.net" always_refuse
 local-zone: "admin.fbkk14-1.fna.fbcdn.net" always_refuse
@@ -9833,6 +9841,7 @@ local-zone: "ag-arttravel.wk.pl" always_refuse
 local-zone: "agate.facebook.nl" always_refuse
 local-zone: "agatossin.facebook.com.br" always_refuse
 local-zone: "agcapitol.workplace.com" always_refuse
+local-zone: "agchurchleadership.comon.fb.me" always_refuse
 local-zone: "ag.dewww.facebook.de" always_refuse
 local-zone: "ag.dewww.klartext-verlag.dewww.facebook.de" always_refuse
 local-zone: "agdstdd.workplace.com" always_refuse
@@ -13868,6 +13877,7 @@ local-zone: "apps-1562786961203164.fbsbx.com" always_refuse
 local-zone: "apps-1564585660390128.apps.fbsbx.com" always_refuse
 local-zone: "apps-1565811947289068.apps.fbsbx.com" always_refuse
 local-zone: "apps-156624161687119.apps.fbsbx.com" always_refuse
+local-zone: "apps-1566912581718649.fbsbx.com" always_refuse
 local-zone: "apps-1567560453390606.apps.fbsbx.com" always_refuse
 local-zone: "apps-1568622306616922.apps.fbsbx.com" always_refuse
 local-zone: "apps-156955689214921.apps.fbsbx.com" always_refuse
@@ -14566,6 +14576,7 @@ local-zone: "apps-2344652665821913.apps.fbsbx.com" always_refuse
 local-zone: "apps-234575343662975.apps.fbsbx.com" always_refuse
 local-zone: "apps-2347519765562753.apps.fbsbx.com" always_refuse
 local-zone: "apps-2347852202194386.apps.fbsbx.com" always_refuse
+local-zone: "apps-2347954475555692.fbsbx.com" always_refuse
 local-zone: "apps-234874953854123.apps.fbsbx.com" always_refuse
 local-zone: "apps-234928213999502.apps.fbsbx.com" always_refuse
 local-zone: "apps-2349288285317243.apps.fbsbx.com" always_refuse
@@ -15992,6 +16003,7 @@ local-zone: "apps-773798489451470.apps.fbsbx.com" always_refuse
 local-zone: "apps-774108019636004.apps.fbsbx.com" always_refuse
 local-zone: "apps-774622982920146.apps.fbsbx.com" always_refuse
 local-zone: "apps-775528249560229.apps.fbsbx.com" always_refuse
+local-zone: "apps-776407677905295.fbsbx.com" always_refuse
 local-zone: "apps-776624556280028.fbsbx.com" always_refuse
 local-zone: "apps-776774625993776.apps.fbsbx.com" always_refuse
 local-zone: "apps-777120822378600.apps.fbsbx.com" always_refuse
@@ -17544,6 +17556,7 @@ local-zone: "attiministeriali.oculusvr.com" always_refuse
 local-zone: "attinawww.facebook.co" always_refuse
 local-zone: "att.internet.org" always_refuse
 local-zone: "attivodesigns.caon.fb.me" always_refuse
+local-zone: "att.messenger.com" always_refuse
 local-zone: "att.my.yahoo.messenger.com" always_refuse
 local-zone: "atts-api2proms.facebook.co.th" always_refuse
 local-zone: "attune.freebasics.com" always_refuse
@@ -18897,6 +18910,7 @@ local-zone: "bancoripley097.workplace.com" always_refuse
 local-zone: "bancoripley.facebook.com" always_refuse
 local-zone: "bancoripley.m.workplace.com" always_refuse
 local-zone: "bancoripley.workplace.com" always_refuse
+local-zone: "bancosolidario.messenger.com" always_refuse
 local-zone: "bandofthewildwest.fb.me" always_refuse
 local-zone: "bangaltri.accountkit.com" always_refuse
 local-zone: "banglanamazshikha.voicestesting.com" always_refuse
@@ -18921,6 +18935,7 @@ local-zone: "bansinwww.facebook.de" always_refuse
 local-zone: "banuba-live-selfie-filters-and-face-masks-camera.co.4g.fb.me" always_refuse
 local-zone: "banuba-live-selfie-filters-and-face-masks-camera.messenger.com" always_refuse
 local-zone: "baobabgroup.workplace.com" always_refuse
+local-zone: "baohanhhitachihn.comon.fb.me" always_refuse
 local-zone: "baosonads.internet.org" always_refuse
 local-zone: "baoviet.facebook.com" always_refuse
 local-zone: "baoviet.m.workplace.com" always_refuse
@@ -19133,6 +19148,7 @@ local-zone: "bcp-cand.internalfb.com" always_refuse
 local-zone: "bcps.workplace.com" always_refuse
 local-zone: "bcvbb-wc-d1p.workplace.com" always_refuse
 local-zone: "bc.workplace.com" always_refuse
+local-zone: "bc-x.fbsbx.com" always_refuse
 local-zone: "bd1ed80d-cad6-49fb-b4d1-ee23234df60c-netseer-ipaddr-assoc.xz.fbcdn.net" always_refuse
 local-zone: "bd21e430-dacf-420b-b69a-3659140a848c-netseer-ipaddr-assoc.xz.fbcdn.net" always_refuse
 local-zone: "bd38a25c-1b2f-4dd1-95ad-abc48eb7291c-netseer-ipaddr-assoc.xz.fbcdn.net" always_refuse
@@ -24186,6 +24202,7 @@ local-zone: "class.freebasics.com" always_refuse
 local-zone: "classicalstudies.fbsbx.com" always_refuse
 local-zone: "classiclb.internet.org" always_refuse
 local-zone: "classicswotworkshop.freebasics.com" always_refuse
+local-zone: "classifiedadsgeorgia.comon.fb.me" always_refuse
 local-zone: "classifieds.fb.me" always_refuse
 local-zone: "classifieds.freebasics.com" always_refuse
 local-zone: "classifiedshome.fb.me" always_refuse
@@ -24372,6 +24389,7 @@ local-zone: "climateverse.fb.com" always_refuse
 local-zone: "climatologie.fb.me" always_refuse
 local-zone: "clinicalart-atelier-nae-comask.internet.org" always_refuse
 local-zone: "clinicalskillsunitwestsuffolknhsfoundationtrust722.workplace.com" always_refuse
+local-zone: "clinicaodontologicadepostgrados.comon.fb.me" always_refuse
 local-zone: "clinpharmpps.facebook.nl" always_refuse
 local-zone: "cl.internet.org" always_refuse
 local-zone: "clip.internet.org" always_refuse
@@ -26304,6 +26322,7 @@ local-zone: "creators-game.comon.fb.me" always_refuse
 local-zone: "creators.instagram.com" always_refuse
 local-zone: "creators.meta.com" always_refuse
 local-zone: "creators.oculus.com" always_refuse
+local-zone: "creators.prod.facebook.com" always_refuse
 local-zone: "creator-staging.facebook.com.ve" always_refuse
 local-zone: "creatorsupport.instagram.com" always_refuse
 local-zone: "creatps.facebook.com" always_refuse
@@ -26431,6 +26450,7 @@ local-zone: "cscc.facebook.co" always_refuse
 local-zone: "cscie2x.9bafdd6a-1595-496d-8fb4-c4635925550a-netseer-ipaddr-assoc.xz.fbcdn.net" always_refuse
 local-zone: "csc-test.facebook.com" always_refuse
 local-zone: "cs-cz.accessiblestreamers.comwww.messenger.com" always_refuse
+local-zone: "cs-cz.al.messenger.com" always_refuse
 local-zone: "cs-cz.ar-ar.messenger.com" always_refuse
 local-zone: "cs-cz.beta.messenger.com" always_refuse
 local-zone: "cs-cz.c.facebook.com" always_refuse
@@ -26590,6 +26610,7 @@ local-zone: "cumulusdigitalcom403.workplace.com" always_refuse
 local-zone: "cumulus.facebook.com" always_refuse
 local-zone: "cumulustest.facebook.com" always_refuse
 local-zone: "cumulus.workplace.com" always_refuse
+local-zone: "cundall.facebook.com" always_refuse
 local-zone: "cundall.workplace.com" always_refuse
 local-zone: "cundk-de.m.facebook.com" always_refuse
 local-zone: "cun.i.org" always_refuse
@@ -32073,6 +32094,7 @@ local-zone: "edge-ig-dgw-p42-shv-01-atl3.facebook.com" always_refuse
 local-zone: "edge-ig-dgw-p42-shv-01-bkk1.facebook.com" always_refuse
 local-zone: "edge-ig-dgw-p42-shv-01-bos5.facebook.com" always_refuse
 local-zone: "edge-ig-dgw-p42-shv-01-cdg4.facebook.com" always_refuse
+local-zone: "edge-ig-dgw-p42-shv-01-cgk1.facebook.com" always_refuse
 local-zone: "edge-ig-dgw-p42-shv-01-cgk2.facebook.com" always_refuse
 local-zone: "edge-ig-dgw-p42-shv-01-cph2.facebook.com" always_refuse
 local-zone: "edge-ig-dgw-p42-shv-01-cpt1.facebook.com" always_refuse
@@ -32107,6 +32129,7 @@ local-zone: "edge-ig-dgw-p42-shv-01-mrs2.facebook.com" always_refuse
 local-zone: "edge-ig-dgw-p42-shv-01-mty2.facebook.com" always_refuse
 local-zone: "edge-ig-dgw-p42-shv-01-muc2.facebook.com" always_refuse
 local-zone: "edge-ig-dgw-p42-shv-01-mxp1.facebook.com" always_refuse
+local-zone: "edge-ig-dgw-p42-shv-01-mxp2.facebook.com" always_refuse
 local-zone: "edge-ig-dgw-p42-shv-01-nrt1.facebook.com" always_refuse
 local-zone: "edge-ig-dgw-p42-shv-01-phx1.facebook.com" always_refuse
 local-zone: "edge-ig-dgw-p42-shv-01-pmo1.facebook.com" always_refuse
@@ -32153,6 +32176,7 @@ local-zone: "edge-ig-dgw-shv-01-arn2.facebook.com" always_refuse
 local-zone: "edge-ig-dgw-shv-01-atl3.facebook.com" always_refuse
 local-zone: "edge-ig-dgw-shv-01-bcn1.facebook.com" always_refuse
 local-zone: "edge-ig-dgw-shv-01-ber1.facebook.com" always_refuse
+local-zone: "edge-ig-dgw-shv-01-bom2.facebook.com" always_refuse
 local-zone: "edge-ig-dgw-shv-01-bos5.facebook.com" always_refuse
 local-zone: "edge-ig-dgw-shv-01-bru2.facebook.com" always_refuse
 local-zone: "edge-ig-dgw-shv-01-bsb1.facebook.com" always_refuse
@@ -32185,6 +32209,7 @@ local-zone: "edge-ig-dgw-shv-01-icn2.facebook.com" always_refuse
 local-zone: "edge-ig-dgw-shv-01-ist1.facebook.com" always_refuse
 local-zone: "edge-ig-dgw-shv-01-itm1.facebook.com" always_refuse
 local-zone: "edge-ig-dgw-shv-01-jnb2.facebook.com" always_refuse
+local-zone: "edge-ig-dgw-shv-01-kul2.facebook.com" always_refuse
 local-zone: "edge-ig-dgw-shv-01-kul3.facebook.com" always_refuse
 local-zone: "edge-ig-dgw-shv-01-lax3.facebook.com" always_refuse
 local-zone: "edge-ig-dgw-shv-01-lim1.facebook.com" always_refuse
@@ -32222,6 +32247,7 @@ local-zone: "edge-ig-dgw-shv-02-fra3.facebook.com" always_refuse
 local-zone: "edge-ig-dgw-shv-02-fra5.facebook.com" always_refuse
 local-zone: "edge-ig-dgw-shv-02-gru2.facebook.com" always_refuse
 local-zone: "edge-ig-dgw-shv-02-hbe1.facebook.com" always_refuse
+local-zone: "edge-ig-dgw-shv-02-hkg1.facebook.com" always_refuse
 local-zone: "edge-ig-dgw-shv-02-ist1.facebook.com" always_refuse
 local-zone: "edge-ig-dgw-shv-02-lax3.facebook.com" always_refuse
 local-zone: "edge-ig-dgw-shv-02-lga3.facebook.com" always_refuse
@@ -32753,6 +32779,7 @@ local-zone: "edge-oculus-shv-01-kul2.fbcdn.net" always_refuse
 local-zone: "edge-oculus-shv-01-kul3.fbcdn.net" always_refuse
 local-zone: "edge-oculus-shv-01-lax3.fbcdn.net" always_refuse
 local-zone: "edge-oculus-shv-01-lga3.fbcdn.net" always_refuse
+local-zone: "edge-oculus-shv-01-lhr11.fbcdn.net" always_refuse
 local-zone: "edge-oculus-shv-01-lhr6.fbcdn.net" always_refuse
 local-zone: "edge-oculus-shv-01-lim1.fbcdn.net" always_refuse
 local-zone: "edge-oculus-shv-01-lis1.fbcdn.net" always_refuse
@@ -32783,6 +32810,7 @@ local-zone: "edge-oculus-shv-01-sin11.fbcdn.net" always_refuse
 local-zone: "edge-oculus-shv-01-sin2.fbcdn.net" always_refuse
 local-zone: "edge-oculus-shv-01-sin6.fbcdn.net" always_refuse
 local-zone: "edge-oculus-shv-01-sjc3.fbcdn.net" always_refuse
+local-zone: "edge-oculus-shv-01-sjc6.fbcdn.net" always_refuse
 local-zone: "edge-oculus-shv-01-sof1.fbcdn.net" always_refuse
 local-zone: "edge-oculus-shv-01-ssn1.fbcdn.net" always_refuse
 local-zone: "edge-oculus-shv-01-syd2.fbcdn.net" always_refuse
@@ -33230,6 +33258,7 @@ local-zone: "edge-sonar-mini-shv-01-ams2.fbcdn.net" always_refuse
 local-zone: "edge-sonar-mini-shv-01-ams4.fbcdn.net" always_refuse
 local-zone: "edge-sonar-mini-shv-01-arn2.fbcdn.net" always_refuse
 local-zone: "edge-sonar-mini-shv-01-atl3.fbcdn.net" always_refuse
+local-zone: "edge-sonar-mini-shv-01-baq1.fbcdn.net" always_refuse
 local-zone: "edge-sonar-mini-shv-01-bcn1.fbcdn.net" always_refuse
 local-zone: "edge-sonar-mini-shv-01-ber1.fbcdn.net" always_refuse
 local-zone: "edge-sonar-mini-shv-01-bkk1.fbcdn.net" always_refuse
@@ -33257,6 +33286,7 @@ local-zone: "edge-sonar-mini-shv-01-dfw6.fbcdn.net" always_refuse
 local-zone: "edge-sonar-mini-shv-01-doh1.fbcdn.net" always_refuse
 local-zone: "edge-sonar-mini-shv-01-dub4.fbcdn.net" always_refuse
 local-zone: "edge-sonar-mini-shv-01-dus1.fbcdn.net" always_refuse
+local-zone: "edge-sonar-mini-shv-01-elp3.fbcdn.net" always_refuse
 local-zone: "edge-sonar-mini-shv-01-eze1.fbcdn.net" always_refuse
 local-zone: "edge-sonar-mini-shv-01-fco2.fbcdn.net" always_refuse
 local-zone: "edge-sonar-mini-shv-01-fml1.fbcdn.net" always_refuse
@@ -33961,6 +33991,7 @@ local-zone: "edge-video-shv-01-sin11.fbcdn.net" always_refuse
 local-zone: "edge-video-shv-01-sin2.fbcdn.net" always_refuse
 local-zone: "edge-video-shv-01-sin6.fbcdn.net" always_refuse
 local-zone: "edge-video-shv-01-sjc3.fbcdn.net" always_refuse
+local-zone: "edge-video-shv-01-sjc6.fbcdn.net" always_refuse
 local-zone: "edge-video-shv-01-sof1.fbcdn.net" always_refuse
 local-zone: "edge-video-shv-01-ssn1.fbcdn.net" always_refuse
 local-zone: "edge-video-shv-01-syd2.fbcdn.net" always_refuse
@@ -34940,6 +34971,7 @@ local-zone: "eiccorporation592.workplace.com" always_refuse
 local-zone: "eicrisya.workplace.com" always_refuse
 local-zone: "eidenbrueck.dewww.facebook.de" always_refuse
 local-zone: "eie.messenger.com" always_refuse
+local-zone: "eiga226.comon.fb.me" always_refuse
 local-zone: "eihoka.workplace.com" always_refuse
 local-zone: "eilish.internalfb.com" always_refuse
 local-zone: "eimskip.facebook.com" always_refuse
@@ -35888,6 +35920,7 @@ local-zone: "enx2dgb.facebook.ca" always_refuse
 local-zone: "enzkloesterle.dewww.facebook.co" always_refuse
 local-zone: "eo1.m.me" always_refuse
 local-zone: "eoa.messenger.com" always_refuse
+local-zone: "eocilimo.m.me" always_refuse
 local-zone: "e.oculusvr.com" always_refuse
 local-zone: "eo-eo.facebook.co" always_refuse
 local-zone: "eo-eo.facebook.com" always_refuse
@@ -36165,6 +36198,7 @@ local-zone: "es.javocsoft.android.lib.toolbox.facebook.be" always_refuse
 local-zone: "es.javocsoft.android.lib.toolbox.facebook.ca" always_refuse
 local-zone: "esks.freebasics.com" always_refuse
 local-zone: "es-la.af-za.fbjs.facebook.com" always_refuse
+local-zone: "es-la.al.messenger.com" always_refuse
 local-zone: "es-la.alpha.facebook.com" always_refuse
 local-zone: "es-la.apps.fbjs.facebook.com" always_refuse
 local-zone: "es-la.apps.prod.facebook.com" always_refuse
@@ -37228,6 +37262,7 @@ local-zone: "external.ffln3-1.fna.fbcdn.net" always_refuse
 local-zone: "external.ffln4-1.fna.fbcdn.net" always_refuse
 local-zone: "external.ffor10-1.fna.fbcdn.net" always_refuse
 local-zone: "external.ffor11-1.fna.fbcdn.net" always_refuse
+local-zone: "external.ffor12-1.fna.fbcdn.net" always_refuse
 local-zone: "external.ffor7-1.fna.fbcdn.net" always_refuse
 local-zone: "external.ffor8-1.fna.fbcdn.net" always_refuse
 local-zone: "external.ffor9-1.fna.fbcdn.net" always_refuse
@@ -37368,6 +37403,7 @@ local-zone: "external.fixc8-3.fna.fbcdn.net" always_refuse
 local-zone: "external.fixe1-1.fna.fbcdn.net" always_refuse
 local-zone: "external.fixe2-1.fna.fbcdn.net" always_refuse
 local-zone: "external.fixm3-1.fna.fbcdn.net" always_refuse
+local-zone: "external.fjdo10-2.fna.fbcdn.net" always_refuse
 local-zone: "external.fjdo1-1.fna.fbcdn.net" always_refuse
 local-zone: "external.fjed4-4.fna.fbcdn.net" always_refuse
 local-zone: "external.fjed4-5.fna.fbcdn.net" always_refuse
@@ -39007,6 +39043,7 @@ local-zone: "facscanblog.facebook.pl" always_refuse
 local-zone: "factohr.workplace.com" always_refuse
 local-zone: "factorysports.comwww.facebook.co" always_refuse
 local-zone: "facts42morrow.comon.fb.me" always_refuse
+local-zone: "faculdadeunai.messenger.com" always_refuse
 local-zone: "fad19a7e080-rnnkyvse1725975684-sonar.snr.fbcdn.net" always_refuse
 local-zone: "fad85fc4-9e1b-4e4d-9dc6-359b2f358bfe-netseer-ipaddr-assoc.xz.fbcdn.net" always_refuse
 local-zone: "fadebook.com" always_refuse
@@ -39983,6 +40020,7 @@ local-zone: "fna-fbcdn-shv-01-fnat21.fbcdn.net" always_refuse
 local-zone: "fna-fbcdn-shv-01-fosu3.fbcdn.net" always_refuse
 local-zone: "fna-fbcdn-shv-01-foua3.fbcdn.net" always_refuse
 local-zone: "fna-fbcdn-shv-01-fpat2.fbcdn.net" always_refuse
+local-zone: "fna-fbcdn-shv-01-fper13.fbcdn.net" always_refuse
 local-zone: "fna-fbcdn-shv-01-fper9.fbcdn.net" always_refuse
 local-zone: "fna-fbcdn-shv-01-fpll6.fbcdn.net" always_refuse
 local-zone: "fna-fbcdn-shv-01-fplu1.fbcdn.net" always_refuse
@@ -40056,6 +40094,7 @@ local-zone: "fna-fbcdn-shv-02-fnqn1.fbcdn.net" always_refuse
 local-zone: "fna-fbcdn-shv-02-foma1.fbcdn.net" always_refuse
 local-zone: "fna-fbcdn-shv-02-fpll6.fbcdn.net" always_refuse
 local-zone: "fna-fbcdn-shv-02-fpmy1.fbcdn.net" always_refuse
+local-zone: "fna-fbcdn-shv-02-fpss1.fbcdn.net" always_refuse
 local-zone: "fna-fbcdn-shv-02-frao1.fbcdn.net" always_refuse
 local-zone: "fna-fbcdn-shv-02-fric1.fbcdn.net" always_refuse
 local-zone: "fna-fbcdn-shv-02-fros3.fbcdn.net" always_refuse
@@ -40201,6 +40240,7 @@ local-zone: "fna-fbcdn-z-m-shv-01-fbne7.fbcdn.net" always_refuse
 local-zone: "fna-fbcdn-z-m-shv-01-fbom19.fbcdn.net" always_refuse
 local-zone: "fna-fbcdn-z-m-shv-01-fbri5.fbcdn.net" always_refuse
 local-zone: "fna-fbcdn-z-m-shv-01-fbts12.fbcdn.net" always_refuse
+local-zone: "fna-fbcdn-z-m-shv-01-fbwn5.fbcdn.net" always_refuse
 local-zone: "fna-fbcdn-z-m-shv-01-fceb5.fbcdn.net" always_refuse
 local-zone: "fna-fbcdn-z-m-shv-01-fcix3.fbcdn.net" always_refuse
 local-zone: "fna-fbcdn-z-m-shv-01-fclo13.fbcdn.net" always_refuse
@@ -40270,6 +40310,7 @@ local-zone: "fna-fbcdn-z-m-shv-01-fzzz1.fbcdn.net" always_refuse
 local-zone: "fna-fbcdn-z-m-shv-02-fagc1.fbcdn.net" always_refuse
 local-zone: "fna-fbcdn-z-m-shv-02-fbom19.fbcdn.net" always_refuse
 local-zone: "fna-fbcdn-z-m-shv-02-fccu4.fbcdn.net" always_refuse
+local-zone: "fna-fbcdn-z-m-shv-02-fcor4.fbcdn.net" always_refuse
 local-zone: "fna-fbcdn-z-m-shv-02-fdel1.fbcdn.net" always_refuse
 local-zone: "fna-fbcdn-z-m-shv-02-fdmm3.fbcdn.net" always_refuse
 local-zone: "fna-fbcdn-z-m-shv-02-ffcm1.fbcdn.net" always_refuse
@@ -40502,6 +40543,7 @@ local-zone: "fna-fbcdn-z-p4-shv-02-fmem1.fbcdn.net" always_refuse
 local-zone: "fna-fbcdn-z-p4-shv-02-fnqn1.fbcdn.net" always_refuse
 local-zone: "fna-fbcdn-z-p4-shv-02-foma1.fbcdn.net" always_refuse
 local-zone: "fna-fbcdn-z-p4-shv-02-fpmy1.fbcdn.net" always_refuse
+local-zone: "fna-fbcdn-z-p4-shv-02-fpss1.fbcdn.net" always_refuse
 local-zone: "fna-fbcdn-z-p4-shv-02-fric1.fbcdn.net" always_refuse
 local-zone: "fna-fbcdn-z-p4-shv-02-fros3.fbcdn.net" always_refuse
 local-zone: "fna-fbcdn-z-p4-shv-02-fruh5.fbcdn.net" always_refuse
@@ -40596,6 +40638,7 @@ local-zone: "fna-instagram-p42-shv-01-fzzz1.fbcdn.net" always_refuse
 local-zone: "fna-instagram-p42-shv-02-fagc1.fbcdn.net" always_refuse
 local-zone: "fna-instagram-p42-shv-02-fbom19.fbcdn.net" always_refuse
 local-zone: "fna-instagram-p42-shv-02-fccu4.fbcdn.net" always_refuse
+local-zone: "fna-instagram-p42-shv-02-fcor4.fbcdn.net" always_refuse
 local-zone: "fna-instagram-p42-shv-02-fdel1.fbcdn.net" always_refuse
 local-zone: "fna-instagram-p42-shv-02-fdmm3.fbcdn.net" always_refuse
 local-zone: "fna-instagram-p42-shv-02-ffcm1.fbcdn.net" always_refuse
@@ -40847,6 +40890,7 @@ local-zone: "fna-instagram-shv-02-fmem1.fbcdn.net" always_refuse
 local-zone: "fna-instagram-shv-02-fnqn1.fbcdn.net" always_refuse
 local-zone: "fna-instagram-shv-02-foma1.fbcdn.net" always_refuse
 local-zone: "fna-instagram-shv-02-fpmy1.fbcdn.net" always_refuse
+local-zone: "fna-instagram-shv-02-fpss1.fbcdn.net" always_refuse
 local-zone: "fna-instagram-shv-02-fric1.fbcdn.net" always_refuse
 local-zone: "fna-instagram-shv-02-fros3.fbcdn.net" always_refuse
 local-zone: "fna-instagram-shv-02-fruh5.fbcdn.net" always_refuse
@@ -40951,6 +40995,7 @@ local-zone: "fna-whatsapp-shv-01-fsac1.fbcdn.net" always_refuse
 local-zone: "fna-whatsapp-shv-01-fsjo10.fbcdn.net" always_refuse
 local-zone: "fna-whatsapp-shv-01-fslc3.fbcdn.net" always_refuse
 local-zone: "fna-whatsapp-shv-01-fstr1.fbcdn.net" always_refuse
+local-zone: "fna-whatsapp-shv-01-fsub30.fbcdn.net" always_refuse
 local-zone: "fna-whatsapp-shv-01-ftas8.fbcdn.net" always_refuse
 local-zone: "fna-whatsapp-shv-01-ftia13.fbcdn.net" always_refuse
 local-zone: "fna-whatsapp-shv-01-ftnr1.fbcdn.net" always_refuse
@@ -42292,6 +42337,7 @@ local-zone: "futa.internet.org" always_refuse
 local-zone: "futbolxinternet.messenger.com" always_refuse
 local-zone: "futurecorps.facebook.com" always_refuse
 local-zone: "futurefortourism.workplace.com" always_refuse
+local-zone: "futureinn-tokyo.comon.fb.me" always_refuse
 local-zone: "futurenettechnologiesindiaprivatelimited027.workplace.com" always_refuse
 local-zone: "futureofcio.fb.me" always_refuse
 local-zone: "futureofworktechnology937.workplace.com" always_refuse
@@ -45708,6 +45754,7 @@ local-zone: "hermes.facebook.com.br" always_refuse
 local-zone: "hermes.freebasics.com" always_refuse
 local-zone: "hermes.ifi.messenger.com" always_refuse
 local-zone: "hermes-platform-lookaside.fbsbx.com" always_refuse
+local-zone: "hermes-web.omnihub.projectaria.com" always_refuse
 local-zone: "hermidamaiaadv.workplace.com" always_refuse
 local-zone: "hermiolviajes.messenger.com" always_refuse
 local-zone: "heroes-and-villians.fb.me" always_refuse
@@ -46743,6 +46790,7 @@ local-zone: "hr-hr.messenger.com" always_refuse
 local-zone: "hr-hr.mobile.fb.me" always_refuse
 local-zone: "hr-hr.myteddycasino.comwww.fb.me" always_refuse
 local-zone: "hr-hr.on.fb.me" always_refuse
+local-zone: "hr-hr.pchelplinebd.comwww.fb.me" always_refuse
 local-zone: "hr-hr.prod.facebook.co" always_refuse
 local-zone: "hr-hr.prod.facebook.com" always_refuse
 local-zone: "hr-hr.pt-br.fb.me" always_refuse
@@ -51733,6 +51781,7 @@ local-zone: "http-www-masrawy-com.0.freebasics.com" always_refuse
 local-zone: "http-www-mastergblog-com-ng.0.freebasics.com" always_refuse
 local-zone: "httpwww.messenger.com" always_refuse
 local-zone: "http-www-millznations.com.ng-com.0.freebasics.com" always_refuse
+local-zone: "httpwww.m.me" always_refuse
 local-zone: "http-www-msugensan-edu-ph.0.freebasics.com" always_refuse
 local-zone: "http-www-msunaawan-edu-ph.0.freebasics.com" always_refuse
 local-zone: "http-www-netpriyo-cf.0.freebasics.com" always_refuse
@@ -52409,6 +52458,7 @@ local-zone: "ig-cdn-cachefill-shv-02-mrs2.workplace.com" always_refuse
 local-zone: "igc.messenger.com" always_refuse
 local-zone: "igeechtergeech.facebook.com.au" always_refuse
 local-zone: "ig.facebook.com" always_refuse
+local-zone: "ighdr.fb.com" always_refuse
 local-zone: "igkeit.www.facebook.co" always_refuse
 local-zone: "iglesiawww.portantos.eswww.facebook.es" always_refuse
 local-zone: "ig.me" always_refuse
@@ -52452,6 +52502,7 @@ local-zone: "ihvision.fb.me" always_refuse
 local-zone: "iibtamerica.workplace.com" always_refuse
 local-zone: "iicefs.comon.fb.me" always_refuse
 local-zone: "iictt.m.workplace.com" always_refuse
+local-zone: "iifl.facebook.com" always_refuse
 local-zone: "iifl.m.facebook.com" always_refuse
 local-zone: "iifl.workplace.com" always_refuse
 local-zone: "iihi.messenger.com" always_refuse
@@ -53294,6 +53345,7 @@ local-zone: "instagram.com.bh" always_refuse
 local-zone: "instagram.com.bo" always_refuse
 local-zone: "instagram.com.br" always_refuse
 local-zone: "instagram.com.bz" always_refuse
+local-zone: "instagram.com-cdn.fb.me" always_refuse
 local-zone: "instagram.com.cm" always_refuse
 local-zone: "instagram.com.ee" always_refuse
 local-zone: "instagram.com.fj" always_refuse
@@ -55257,6 +55309,7 @@ local-zone: "instagram.fixc4-1.fna.fbcdn.net" always_refuse
 local-zone: "instagram.fixc4-2.fna.fbcdn.net" always_refuse
 local-zone: "instagram.fixc4-3.fna.fbcdn.net" always_refuse
 local-zone: "instagram.fixc5-1.fna.fbcdn.net" always_refuse
+local-zone: "instagram.fixc6-1.fna.fbcdn.net" always_refuse
 local-zone: "instagram.fixc7-1.fna.fbcdn.net" always_refuse
 local-zone: "instagram.fixc8-1.fna.fbcdn.net" always_refuse
 local-zone: "instagram.fixc8-2.fna.fbcdn.net" always_refuse
@@ -55309,6 +55362,7 @@ local-zone: "instagram.fjai8-1.fna.fbcdn.net" always_refuse
 local-zone: "instagram.fjai9-1.fna.fbcdn.net" always_refuse
 local-zone: "instagram.fjal2-1.fna.fbcdn.net" always_refuse
 local-zone: "instagram.fjal3-1.fna.fbcdn.net" always_refuse
+local-zone: "instagram.fjbr1-1.fna.fbcdn.net" always_refuse
 local-zone: "instagram.fjdf1-1.fna.fbcdn.net" always_refuse
 local-zone: "instagram.fjdf2-2.fna.fbcdn.net" always_refuse
 local-zone: "instagram.fjdf3-1.fna.fbcdn.net" always_refuse
@@ -55342,6 +55396,7 @@ local-zone: "instagram.fjed6-1.fna.fbcdn.net" always_refuse
 local-zone: "instagram.fjed6-2.fna.fbcdn.net" always_refuse
 local-zone: "instagram.fjga1-1.fna.fbcdn.net" always_refuse
 local-zone: "instagram.fjga2-1.fna.fbcdn.net" always_refuse
+local-zone: "instagram.fjib1-1.fna.fbcdn.net" always_refuse
 local-zone: "instagram.fjkr2-1.fna.fbcdn.net" always_refuse
 local-zone: "instagram.fjlr1-1.fna.fbcdn.net" always_refuse
 local-zone: "instagram.fjlr2-1.fna.fbcdn.net" always_refuse
@@ -55358,6 +55413,7 @@ local-zone: "instagram.fjog5-1.fna.fbcdn.net" always_refuse
 local-zone: "instagram.fjog9-1.fna.fbcdn.net" always_refuse
 local-zone: "instagram.fjoi1-1.fna.fbcdn.net" always_refuse
 local-zone: "instagram.fjoi2-1.fna.fbcdn.net" always_refuse
+local-zone: "instagram.fjoi8-1.fna.fbcdn.net" always_refuse
 local-zone: "instagram.fjpa11-1.fna.fbcdn.net" always_refuse
 local-zone: "instagram.fjpa1-1.fna.fbcdn.net" always_refuse
 local-zone: "instagram.fjpa12-1.fna.fbcdn.net" always_refuse
@@ -56071,6 +56127,7 @@ local-zone: "instagram.fosl1-1.fna.fbcdn.net" always_refuse
 local-zone: "instagram.fosl2-1.fna.fbcdn.net" always_refuse
 local-zone: "instagram.fosl3-1.fna.fbcdn.net" always_refuse
 local-zone: "instagram.fosl3-2.fna.fbcdn.net" always_refuse
+local-zone: "instagram.fosm1-1.fna.fbcdn.net" always_refuse
 local-zone: "instagram.fosm2-1.fna.fbcdn.net" always_refuse
 local-zone: "instagram.fosm2-2.fna.fbcdn.net" always_refuse
 local-zone: "instagram.foss1-1.fna.fbcdn.net" always_refuse
@@ -56791,6 +56848,7 @@ local-zone: "instagram.fsvq2-2.fna.fbcdn.net" always_refuse
 local-zone: "instagram.fsvq4-1.fna.fbcdn.net" always_refuse
 local-zone: "instagram.fsvq5-1.fna.fbcdn.net" always_refuse
 local-zone: "instagram.fsvz2-1.fna.fbcdn.net" always_refuse
+local-zone: "instagram.fsxr1-1.fna.fbcdn.net" always_refuse
 local-zone: "instagram.fsxv1-1.fna.fbcdn.net" always_refuse
 local-zone: "instagram.fsxv3-1.fna.fbcdn.net" always_refuse
 local-zone: "instagram.fsyd10-1.fna.fbcdn.net" always_refuse
@@ -56971,6 +57029,7 @@ local-zone: "instagram.ftuc2-1.fna.fbcdn.net" always_refuse
 local-zone: "instagram.ftuc3-1.fna.fbcdn.net" always_refuse
 local-zone: "instagram.ftuc4-1.fna.fbcdn.net" always_refuse
 local-zone: "instagram.ftul2-1.fna.fbcdn.net" always_refuse
+local-zone: "instagram.ftun10-1.fna.fbcdn.net" always_refuse
 local-zone: "instagram.ftun1-2.fna.fbcdn.net" always_refuse
 local-zone: "instagram.ftun14-1.fna.fbcdn.net" always_refuse
 local-zone: "instagram.ftun16-1.fna.fbcdn.net" always_refuse
@@ -57481,6 +57540,7 @@ local-zone: "instagram-p3-shv-01-cph2.fbcdn.net" always_refuse
 local-zone: "instagram-p3-shv-01-cpt1.fbcdn.net" always_refuse
 local-zone: "instagram-p3-shv-01-del2.fbcdn.net" always_refuse
 local-zone: "instagram-p3-shv-01-den2.fbcdn.net" always_refuse
+local-zone: "instagram-p3-shv-01-det1.fbcdn.net" always_refuse
 local-zone: "instagram-p3-shv-01-dfw5.fbcdn.net" always_refuse
 local-zone: "instagram-p3-shv-01-doh1.fbcdn.net" always_refuse
 local-zone: "instagram-p3-shv-01-dub4.fbcdn.net" always_refuse
@@ -57570,6 +57630,7 @@ local-zone: "instagram-p3-shv-02-cgk2.fbcdn.net" always_refuse
 local-zone: "instagram-p3-shv-02-del2.fbcdn.net" always_refuse
 local-zone: "instagram-p3-shv-02-dfw5.fbcdn.net" always_refuse
 local-zone: "instagram-p3-shv-02-eze1.fbcdn.net" always_refuse
+local-zone: "instagram-p3-shv-02-for2.fbcdn.net" always_refuse
 local-zone: "instagram-p3-shv-02-fra3.fbcdn.net" always_refuse
 local-zone: "instagram-p3-shv-02-fra5.fbcdn.net" always_refuse
 local-zone: "instagram-p3-shv-02-gig4.fbcdn.net" always_refuse
@@ -57623,6 +57684,7 @@ local-zone: "instagram-p42-shv-01-bkk1.fbcdn.net" always_refuse
 local-zone: "instagram-p42-shv-01-blr1.fbcdn.net" always_refuse
 local-zone: "instagram-p42-shv-01-bog2.fbcdn.net" always_refuse
 local-zone: "instagram-p42-shv-01-bom2.fbcdn.net" always_refuse
+local-zone: "instagram-p42-shv-01-bom5.fbcdn.net" always_refuse
 local-zone: "instagram-p42-shv-01-bos5.fbcdn.net" always_refuse
 local-zone: "instagram-p42-shv-01-bru2.fbcdn.net" always_refuse
 local-zone: "instagram-p42-shv-01-bsb1.fbcdn.net" always_refuse
@@ -59000,6 +59062,7 @@ local-zone: "iphonbarton.facebook.pl" always_refuse
 local-zone: "iphoncultura.facebook.com.br" always_refuse
 local-zone: "iphondb3.facebook.com.br" always_refuse
 local-zone: "iphone.0.accountkit.com" always_refuse
+local-zone: "iphone77s.voicestesting.com" always_refuse
 local-zone: "iphone-cs16c.facebook.se" always_refuse
 local-zone: "iphone.facebook.co" always_refuse
 local-zone: "iphone.facebook.com" always_refuse
@@ -59444,6 +59507,7 @@ local-zone: "it-it.en-gb.fb.me" always_refuse
 local-zone: "it-it.en-gb.prod.facebook.com" always_refuse
 local-zone: "it-it.en-gb.ro.fbjs.facebook.com" always_refuse
 local-zone: "it-it.en-gb.ro-ro.fbjs.facebook.com" always_refuse
+local-zone: "it-it.eo-eo.fbjs.facebook.com" always_refuse
 local-zone: "it-it.es-es.c.facebook.com" always_refuse
 local-zone: "it-it.es-es.es-es.fbjs.facebook.com" always_refuse
 local-zone: "it-it.es-es.es-es.prod.facebook.com" always_refuse
@@ -60745,6 +60809,7 @@ local-zone: "kickers-project.fburl.com" always_refuse
 local-zone: "kickthebucket.internet.org" always_refuse
 local-zone: "kicp.internet.org" always_refuse
 local-zone: "k-idolstar.messenger.com" always_refuse
+local-zone: "kidpresidents.coml.messenger.com" always_refuse
 local-zone: "kids.gumi.fb.me" always_refuse
 local-zone: "kidshasegawa.fburl.com" always_refuse
 local-zone: "kidsneedmoreorg.workplace.com" always_refuse
@@ -62050,6 +62115,7 @@ local-zone: "libs.facebook.fr" always_refuse
 local-zone: "libs.fbsbx.com" always_refuse
 local-zone: "lib.workplace.com" always_refuse
 local-zone: "licencestatuscheck.wk.pl" always_refuse
+local-zone: "license.m.me" always_refuse
 local-zone: "licensing-expo.fburl.com" always_refuse
 local-zone: "licianonichetti.facebook.com.br" always_refuse
 local-zone: "licitacao.fb.me" always_refuse
@@ -62335,6 +62401,7 @@ local-zone: "live.facebook.vn" always_refuse
 local-zone: "live-fallback.oculus.com" always_refuse
 local-zone: "live.fb.com" always_refuse
 local-zone: "live.fb.je" always_refuse
+local-zone: "live.fb.me" always_refuse
 local-zone: "live.fbsbx.com" always_refuse
 local-zone: "live.fbstack.com" always_refuse
 local-zone: "live.fburl.com" always_refuse
@@ -63674,6 +63741,7 @@ local-zone: "mail-223-67-usw2.internalfb.com" always_refuse
 local-zone: "mail2.apps-383041995381848.apps.fbsbx.com" always_refuse
 local-zone: "mail2.developer.oculusvr.com" always_refuse
 local-zone: "mail2.dns.facebook.com" always_refuse
+local-zone: "mail2.embed.fbsbx.com" always_refuse
 local-zone: "mail2.facebook.co.id" always_refuse
 local-zone: "mail2.facebook.com.br" always_refuse
 local-zone: "mail2.facebook.com.mx" always_refuse
@@ -64049,6 +64117,7 @@ local-zone: "manulifepromos-employee.profiles.esbmbl.fburl.thefacebook.com" alwa
 local-zone: "manulife-securities.fburl.thefacebook.com" always_refuse
 local-zone: "manulife-stage65.internalfb.com" always_refuse
 local-zone: "manuphi.facebook.fr" always_refuse
+local-zone: "manus-addon-slides.manus.im" always_refuse
 local-zone: "manus.ai" always_refuse
 local-zone: "manus.im" always_refuse
 local-zone: "manus.internalfb.com" always_refuse
@@ -71284,6 +71353,7 @@ local-zone: "ns3.messenger.com" always_refuse
 local-zone: "ns3.on.fb.me" always_refuse
 local-zone: "ns41.oculusvr.com" always_refuse
 local-zone: "ns4.apps-474443516378085.apps.fbsbx.com" always_refuse
+local-zone: "ns4.cdn.fbsbx.com" always_refuse
 local-zone: "ns4.developer.oculusvr.com" always_refuse
 local-zone: "ns4.dns.facebook.com" always_refuse
 local-zone: "ns4.facebook.co" always_refuse
@@ -72742,6 +72812,7 @@ local-zone: "oratoriosanmartinoleffe.fb.me" always_refuse
 local-zone: "orayagkcj.m.me" always_refuse
 local-zone: "oraznawww.facebook.pl" always_refuse
 local-zone: "orazwww.facebook.pl" always_refuse
+local-zone: "orbilu.voicestesting.com" always_refuse
 local-zone: "orbit.internet.org" always_refuse
 local-zone: "orbyano.internet.org" always_refuse
 local-zone: "orca.fb.me" always_refuse
@@ -72846,6 +72917,7 @@ local-zone: "origin-engage-server-int-b.fb.me" always_refuse
 local-zone: "origin.facebook.ca" always_refuse
 local-zone: "origin.facebook.com.mx" always_refuse
 local-zone: "origin.facebook.in" always_refuse
+local-zone: "origin.gateway.messenger.com" always_refuse
 local-zone: "origin-gfs204n143.facebook.com.br" always_refuse
 local-zone: "origin-jujube.workplace.com" always_refuse
 local-zone: "origin-meuespaco.facebook.com.br" always_refuse
@@ -77991,6 +78063,7 @@ local-zone: "s3beta.latest.instagram.com" always_refuse
 local-zone: "s3b-soap.workplace.com" always_refuse
 local-zone: "s3-eu4.fbsbx.com" always_refuse
 local-zone: "s3-external-1.internet.org" always_refuse
+local-zone: "s3.facebook.co" always_refuse
 local-zone: "s3.freebasics.com" always_refuse
 local-zone: "s3-lookaside.fbsbx.com" always_refuse
 local-zone: "s3.messenger.com" always_refuse
@@ -78048,6 +78121,7 @@ local-zone: "sacredheartmission.workplace.com" always_refuse
 local-zone: "sacry-fun.fb.me" always_refuse
 local-zone: "sadaqah871.workplace.com" always_refuse
 local-zone: "saddleback.workplace.com" always_refuse
+local-zone: "sadiemybaby9.facebook.co" always_refuse
 local-zone: "sadmin.freebasics.com" always_refuse
 local-zone: "sadnessimmer-cc.fburl.com" always_refuse
 local-zone: "sa-east-1-prod.ads.xsec.internet.org" always_refuse
@@ -79274,6 +79348,7 @@ local-zone: "scontent.fayt2-1.fna.fbcdn.net" always_refuse
 local-zone: "scontent.fayt2-2.fna.fbcdn.net" always_refuse
 local-zone: "scontent.fayt2-3.fna.fbcdn.net" always_refuse
 local-zone: "scontent.fayt3-1.fna.fbcdn.net" always_refuse
+local-zone: "scontent.fayt4-1.fna.fbcdn.net" always_refuse
 local-zone: "scontent.fbag1-2.fna.fbcdn.net" always_refuse
 local-zone: "scontent.fbag4-1.fna.fbcdn.net" always_refuse
 local-zone: "scontent.fbah1-1.fna.fbcdn.net" always_refuse
@@ -79440,6 +79515,7 @@ local-zone: "scontent.fbgw13-2.fna.fbcdn.net" always_refuse
 local-zone: "scontent.fbgw14-2.fna.fbcdn.net" always_refuse
 local-zone: "scontent.fbgw14-3.fna.fbcdn.net" always_refuse
 local-zone: "scontent.fbgw15-3.fna.fbcdn.net" always_refuse
+local-zone: "scontent.fbgw19-1.fna.fbcdn.net" always_refuse
 local-zone: "scontent.fbgw2-2.fna.fbcdn.net" always_refuse
 local-zone: "scontent.fbgw25-2.fna.fbcdn.net" always_refuse
 local-zone: "scontent.fbgw27-1.fna.fbcdn.net" always_refuse
@@ -79858,6 +79934,7 @@ local-zone: "scontent.fbud6-4.fna.fbcdn.net" always_refuse
 local-zone: "scontent.fbud7-3.fna.fbcdn.net" always_refuse
 local-zone: "scontent.fbud7-4.fna.fbcdn.net" always_refuse
 local-zone: "scontent.fbup1-1.fna.fbcdn.net" always_refuse
+local-zone: "scontent.fbvb1-2.fna.fbcdn.net" always_refuse
 local-zone: "scontent.fbvh1-1.fna.fbcdn.net" always_refuse
 local-zone: "scontent.fbwa1-1.fna.fbcdn.net" always_refuse
 local-zone: "scontent.fbwa3-1.fna.fbcdn.net" always_refuse
@@ -81574,6 +81651,7 @@ local-zone: "scontent.fixc4-2.fna.fbcdn.net" always_refuse
 local-zone: "scontent.fixc4-3.fna.fbcdn.net" always_refuse
 local-zone: "scontent.fixc5-1.fna.fbcdn.net" always_refuse
 local-zone: "scontent.fixc5-2.fna.fbcdn.net" always_refuse
+local-zone: "scontent.fixc6-1.fna.fbcdn.net" always_refuse
 local-zone: "scontent.fixc7-1.fna.fbcdn.net" always_refuse
 local-zone: "scontent.fixc8-1.fna.fbcdn.net" always_refuse
 local-zone: "scontent.fixc8-2.fna.fbcdn.net" always_refuse
@@ -81638,6 +81716,7 @@ local-zone: "scontent.fjap1-1.fna.fbcdn.net" always_refuse
 local-zone: "scontent.fjau1-1.fna.fbcdn.net" always_refuse
 local-zone: "scontent.fjau2-1.fna.fbcdn.net" always_refuse
 local-zone: "scontent.fjau4-1.fna.fbcdn.net" always_refuse
+local-zone: "scontent.fjbr1-1.fna.fbcdn.net" always_refuse
 local-zone: "scontent.fjdf1-1.fna.fbcdn.net" always_refuse
 local-zone: "scontent.fjdf2-2.fna.fbcdn.net" always_refuse
 local-zone: "scontent.fjdf3-1.fna.fbcdn.net" always_refuse
@@ -81678,6 +81757,7 @@ local-zone: "scontent.fjed6-2.fna.fbcdn.net" always_refuse
 local-zone: "scontent.fjer1-1.fna.fbcdn.net" always_refuse
 local-zone: "scontent.fjga1-1.fna.fbcdn.net" always_refuse
 local-zone: "scontent.fjia1-1.fna.fbcdn.net" always_refuse
+local-zone: "scontent.fjib1-1.fna.fbcdn.net" always_refuse
 local-zone: "scontent.fjjg2-1.fna.fbcdn.net" always_refuse
 local-zone: "scontent.fjkr1-1.fna.fbcdn.net" always_refuse
 local-zone: "scontent.fjkr2-1.fna.fbcdn.net" always_refuse
@@ -82304,6 +82384,7 @@ local-zone: "scontent.fmct5-1.fna.fbcdn.net" always_refuse
 local-zone: "scontent.fmct8-1.fna.fbcdn.net" always_refuse
 local-zone: "scontent.fmcz1-1.fna.fbcdn.net" always_refuse
 local-zone: "scontent.fmcz1-2.fna.fbcdn.net" always_refuse
+local-zone: "scontent.fmcz15-1.fna.fbcdn.net" always_refuse
 local-zone: "scontent.fmcz16-1.fna.fbcdn.net" always_refuse
 local-zone: "scontent.fmcz17-1.fna.fbcdn.net" always_refuse
 local-zone: "scontent.fmcz20-1.fna.fbcdn.net" always_refuse
@@ -82831,6 +82912,7 @@ local-zone: "scontent.fosl3-1.fna.fbcdn.net" always_refuse
 local-zone: "scontent.fosl3-2.fna.fbcdn.net" always_refuse
 local-zone: "scontent.fosl5-1.fna.fbcdn.net" always_refuse
 local-zone: "scontent.fosl6-1.fna.fbcdn.net" always_refuse
+local-zone: "scontent.fosm1-1.fna.fbcdn.net" always_refuse
 local-zone: "scontent.fosm20-1.fna.fbcdn.net" always_refuse
 local-zone: "scontent.fosm2-1.fna.fbcdn.net" always_refuse
 local-zone: "scontent.fosm22-1.fna.fbcdn.net" always_refuse
@@ -83528,6 +83610,7 @@ local-zone: "scontent.fsaw1-15.fna.fbcdn.net" always_refuse
 local-zone: "scontent.fsaw2-1.fna.fbcdn.net" always_refuse
 local-zone: "scontent.fsaw2-2.fna.fbcdn.net" always_refuse
 local-zone: "scontent.fsaw2-3.fna.fbcdn.net" always_refuse
+local-zone: "scontent.fsaw3-1.fna.fbcdn.net" always_refuse
 local-zone: "scontent.fsaw6-1.fna.fbcdn.net" always_refuse
 local-zone: "scontent.fsbz1-1.fna.fbcdn.net" always_refuse
 local-zone: "scontent.fsbz1-2.fna.fbcdn.net" always_refuse
@@ -83931,6 +84014,8 @@ local-zone: "scontent.fsvz2-1.fna.fbcdn.net" always_refuse
 local-zone: "scontent.fsxb1-1.fna.fbcdn.net" always_refuse
 local-zone: "scontent.fsxm1-1.fna.fbcdn.net" always_refuse
 local-zone: "scontent.fsxo1-1.fna.fbcdn.net" always_refuse
+local-zone: "scontent.fsxr1-1.fna.fbcdn.net" always_refuse
+local-zone: "scontent.fsxr1-2.fna.fbcdn.net" always_refuse
 local-zone: "scontent.fsxr2-1.fna.fbcdn.net" always_refuse
 local-zone: "scontent.fsxv1-1.fna.fbcdn.net" always_refuse
 local-zone: "scontent.fsxv3-1.fna.fbcdn.net" always_refuse
@@ -84215,6 +84300,7 @@ local-zone: "scontent.ftuc3-1.fna.fbcdn.net" always_refuse
 local-zone: "scontent.ftuc4-1.fna.fbcdn.net" always_refuse
 local-zone: "scontent.ftuc4-2.fna.fbcdn.net" always_refuse
 local-zone: "scontent.ftul2-1.fna.fbcdn.net" always_refuse
+local-zone: "scontent.ftun10-1.fna.fbcdn.net" always_refuse
 local-zone: "scontent.ftun10-2.fna.fbcdn.net" always_refuse
 local-zone: "scontent.ftun1-2.fna.fbcdn.net" always_refuse
 local-zone: "scontent.ftun14-1.fna.fbcdn.net" always_refuse
@@ -84646,6 +84732,7 @@ local-zone: "scontent-iad3-2.oculuscdn.com" always_refuse
 local-zone: "scontent-iad3-2.xx.fbcdn.net" always_refuse
 local-zone: "scontent-iad6-1.cdninstagram.com" always_refuse
 local-zone: "scontent-iad6-1.oculuscdn.com" always_refuse
+local-zone: "scontent-iad6-1.xx.fbcdn.net" always_refuse
 local-zone: "scontent-iad.cdninstagram.com" always_refuse
 local-zone: "scontent-iad.xx.fbcdn.net" always_refuse
 local-zone: "scontent-icn2-1.cdninstagram.com" always_refuse
@@ -84725,6 +84812,7 @@ local-zone: "scontent-lis1-1.oculuscdn.com" always_refuse
 local-zone: "scontent-lis1-1.xx.fbcdn.net" always_refuse
 local-zone: "scontent-lis.cdninstagram.com" always_refuse
 local-zone: "scontent-lko1-1.cdninstagram.com" always_refuse
+local-zone: "scontent-lko1-2.cdninstagram.com" always_refuse
 local-zone: "scontent-los4-1.cdninstagram.com" always_refuse
 local-zone: "scontent-los4-1.oculuscdn.com" always_refuse
 local-zone: "scontent-los.cdninstagram.com" always_refuse
@@ -84826,6 +84914,7 @@ local-zone: "scontent-nrt1-1.xx.fbcdn.net" always_refuse
 local-zone: "scontent-nrt1-2.cdninstagram.com" always_refuse
 local-zone: "scontent-nrt1-2.oculuscdn.com" always_refuse
 local-zone: "scontent-nrt1-2.xx.fbcdn.net" always_refuse
+local-zone: "scontent-nrt1-3.cdninstagram.com" always_refuse
 local-zone: "scontent-nrt6-1.cdninstagram.com" always_refuse
 local-zone: "scontent-nrt6-1.oculuscdn.com" always_refuse
 local-zone: "scontent-nrt6-1.xx.fbcdn.net" always_refuse
@@ -85995,6 +86084,7 @@ local-zone: "securecdn-mxp2-1.oculus.com" always_refuse
 local-zone: "securecdn-mxp.oculus.com" always_refuse
 local-zone: "securecdn-nrt1-1.oculus.com" always_refuse
 local-zone: "securecdn-nrt1-2.oculus.com" always_refuse
+local-zone: "securecdn-nrt1-3.oculus.com" always_refuse
 local-zone: "securecdn-nrt6-1.oculus.com" always_refuse
 local-zone: "securecdn-nrt.oculus.com" always_refuse
 local-zone: "securecdn.oculus.com" always_refuse
@@ -89475,6 +89565,7 @@ local-zone: "sonar-maa.xx.fbcdn.net" always_refuse
 local-zone: "sonar-mad1-1.xx.fbcdn.net" always_refuse
 local-zone: "sonar-mad.xx.fbcdn.net" always_refuse
 local-zone: "sonar-man2-1.xx.fbcdn.net" always_refuse
+local-zone: "sonar-man.xx.fbcdn.net" always_refuse
 local-zone: "sonar-mba.cdn.whatsapp.net" always_refuse
 local-zone: "sonar-mba.xx.fbcdn.net" always_refuse
 local-zone: "sonar-mct1-1.cdn.whatsapp.net" always_refuse
@@ -89648,6 +89739,7 @@ local-zone: "southsystem.workplace.com" always_refuse
 local-zone: "southwestresearchinstitute047.workplace.com" always_refuse
 local-zone: "south-whittier-appliance.fb.me" always_refuse
 local-zone: "sovaa.workplace.com" always_refuse
+local-zone: "sovereign.facebook.com" always_refuse
 local-zone: "sovereign.workplace.com" always_refuse
 local-zone: "sowarnochnixwww.facebook.de" always_refuse
 local-zone: "sowiwww.facebook.de" always_refuse
@@ -89879,6 +89971,7 @@ local-zone: "sqlbrasil.accountkit.com" always_refuse
 local-zone: "sql.dns.facebook.com" always_refuse
 local-zone: "sql.facebook.org" always_refuse
 local-zone: "sql.fbjs.facebook.com" always_refuse
+local-zone: "sql.fb.me" always_refuse
 local-zone: "sql.messenger.com" always_refuse
 local-zone: "sqlserver.freebasics.com" always_refuse
 local-zone: "sqlserverw2ftpw6ca.facebook.com.br" always_refuse
@@ -97729,6 +97822,7 @@ local-zone: "video.fjai3-1.fna.fbcdn.net" always_refuse
 local-zone: "video.fjai9-1.fna.fbcdn.net" always_refuse
 local-zone: "video.fjal1-1.fna.fbcdn.net" always_refuse
 local-zone: "video.fjal2-1.fna.fbcdn.net" always_refuse
+local-zone: "video.fjbr1-1.fna.fbcdn.net" always_refuse
 local-zone: "video.fjdo10-1.fna.fbcdn.net" always_refuse
 local-zone: "video.fjdo10-2.fna.fbcdn.net" always_refuse
 local-zone: "video.fjdo1-1.fna.fbcdn.net" always_refuse
@@ -97784,6 +97878,7 @@ local-zone: "video.fkhi2-3.fna.fbcdn.net" always_refuse
 local-zone: "video.fkhi3-1.fna.fbcdn.net" always_refuse
 local-zone: "video.fkhi4-2.fna.fbcdn.net" always_refuse
 local-zone: "video.fkhi5-1.fna.fbcdn.net" always_refuse
+local-zone: "video.fkhi5-2.fna.fbcdn.net" always_refuse
 local-zone: "video.fkhi6-1.fna.fbcdn.net" always_refuse
 local-zone: "video.fkhi8-1.fna.fbcdn.net" always_refuse
 local-zone: "video.fkiv1-1.fna.fbcdn.net" always_refuse
@@ -98787,6 +98882,7 @@ local-zone: "video-iad3-1.cdninstagram.com" always_refuse
 local-zone: "video-iad3-1.xx.fbcdn.net" always_refuse
 local-zone: "video-iad3-2.cdninstagram.com" always_refuse
 local-zone: "video-iad3-2.xx.fbcdn.net" always_refuse
+local-zone: "video-iad6-1.xx.fbcdn.net" always_refuse
 local-zone: "video-iad.cdninstagram.com" always_refuse
 local-zone: "video-iad.xx.fbcdn.net" always_refuse
 local-zone: "video-icn.xx.fbcdn.net" always_refuse
@@ -99675,6 +99771,7 @@ local-zone: "vrmasterunity171.workplace.com" always_refuse
 local-zone: "vr.meta.me" always_refuse
 local-zone: "vrprogamer878.workplace.com" always_refuse
 local-zone: "vrunitygamer440.workplace.com" always_refuse
+local-zone: "vrvideoproduction.atmeta.com" always_refuse
 local-zone: "vrvip107.workplace.com" always_refuse
 local-zone: "vrwww.oculusvr.com" always_refuse
 local-zone: "vsecvn.workplace.com" always_refuse
@@ -101961,6 +102058,7 @@ local-zone: "whangarei.internalfb.com" always_refuse
 local-zone: "wharton.fb.me" always_refuse
 local-zone: "whartonmbaadmissions.workplace.com" always_refuse
 local-zone: "whartonmbawelcome.workplace.com" always_refuse
+local-zone: "whataweek.fbsbx.com" always_refuse
 local-zone: "whatchamakinnow.messenger.com" always_refuse
 local-zone: "whatculture-wreslting.fburl.com" always_refuse
 local-zone: "whatculusvr.com.oculusvr.com" always_refuse
@@ -102004,6 +102102,7 @@ local-zone: "whatsapp-cdn-shv-01-del3.fbcdn.net" always_refuse
 local-zone: "whatsapp-cdn-shv-01-den2.fbcdn.net" always_refuse
 local-zone: "whatsapp-cdn-shv-01-den4.internalfb.com" always_refuse
 local-zone: "whatsapp-cdn-shv-01-dfw5.fbcdn.net" always_refuse
+local-zone: "whatsapp-cdn-shv-01-dfw6.fbcdn.net" always_refuse
 local-zone: "whatsapp-cdn-shv-01-doh1.fbcdn.net" always_refuse
 local-zone: "whatsapp-cdn-shv-01-dub4.fbcdn.net" always_refuse
 local-zone: "whatsapp-cdn-shv-01-dus1.fbcdn.net" always_refuse
@@ -102036,7 +102135,9 @@ local-zone: "whatsapp-cdn-shv-01-jnb2.fbcdn.net" always_refuse
 local-zone: "whatsapp-cdn-shv-01-kul2.fbcdn.net" always_refuse
 local-zone: "whatsapp-cdn-shv-01-kul3.fbcdn.net" always_refuse
 local-zone: "whatsapp-cdn-shv-01-lax3.fbcdn.net" always_refuse
+local-zone: "whatsapp-cdn-shv-01-lax7.fbcdn.net" always_refuse
 local-zone: "whatsapp-cdn-shv-01-lga3.fbcdn.net" always_refuse
+local-zone: "whatsapp-cdn-shv-01-lhr11.fbcdn.net" always_refuse
 local-zone: "whatsapp-cdn-shv-01-lhr6.fbcdn.net" always_refuse
 local-zone: "whatsapp-cdn-shv-01-lim1.fbcdn.net" always_refuse
 local-zone: "whatsapp-cdn-shv-01-lis1.fbcdn.net" always_refuse
@@ -102138,7 +102239,9 @@ local-zone: "whatsapp-cdn-shv-03-atl3.fbcdn.net" always_refuse
 local-zone: "whatsapp-cdn-shv-03-bom2.fbcdn.net" always_refuse
 local-zone: "whatsapp-cdn-shv-03-cdg4.fbcdn.net" always_refuse
 local-zone: "whatsapp-cdn-shv-03-del2.fbcdn.net" always_refuse
+local-zone: "whatsapp-cdn-shv-03-dfw5.fbcdn.net" always_refuse
 local-zone: "whatsapp-cdn-shv-03-lga3.fbcdn.net" always_refuse
+local-zone: "whatsapp-cdn-shv-03-maa3.fbcdn.net" always_refuse
 local-zone: "whatsapp-cdn-shv-03-mia3.fbcdn.net" always_refuse
 local-zone: "whatsapp-cdn-shv-03-mrs2.fbcdn.net" always_refuse
 local-zone: "whatsapp-cdn-shv-03-ord5.fbcdn.net" always_refuse
@@ -113897,6 +114000,7 @@ local-zone: "www.impara-usdev.fb.com" always_refuse
 local-zone: "www.impara-uspreprod.fb.com" always_refuse
 local-zone: "www.impara-usuat.fb.com" always_refuse
 local-zone: "www.imstagram.com" always_refuse
+local-zone: "www.imtm.mewww.messenger.com" always_refuse
 local-zone: "www.ina-award.dewww.facebook.de" always_refuse
 local-zone: "www.inastagram.com" always_refuse
 local-zone: "www.inatagram.com" always_refuse
@@ -114686,6 +114790,7 @@ local-zone: "www.maeur.nlwww.facebook.nl" always_refuse
 local-zone: "www.mail2ff.com" always_refuse
 local-zone: "wwwmail.facebook.nl" always_refuse
 local-zone: "wwwmail.freebasics.com" always_refuse
+local-zone: "www.mail.live.messenger.com" always_refuse
 local-zone: "www.mail.messenger.com" always_refuse
 local-zone: "www.mail.yahoo.messenger.com" always_refuse
 local-zone: "www.main-infallible-pare-0bfn2fm.ip-10-0-180-125.h22d0nsuf7bj62so.1e96e832-2bcd-4002-b8f9-fea0dd93bae7-netseer-ipaddr-assoc.xz.fbcdn.net" always_refuse
@@ -116166,6 +116271,7 @@ local-zone: "www.wb8d9d1e41-ge3tqnzqhe2dgma.snr.whatsapp.net" always_refuse
 local-zone: "www.wba69e6f01-gm2dknrrgm4daojs.snr.whatsapp.net" always_refuse
 local-zone: "www.wc249f3801-haztinrthe3tooa.snr.whatsapp.net" always_refuse
 local-zone: "www.wca998f281-gm3tamrqga3tonzx.snr.whatsapp.net" always_refuse
+local-zone: "wwww.calvinnyashwaphiri.facebook.co" always_refuse
 local-zone: "www.wcdeafb981-ge4dkmbrgq3timjz.snr.whatsapp.net" always_refuse
 local-zone: "www.wcmg-perinatology.internet.org" always_refuse
 local-zone: "www.wczesniak.plwww.facebook.pl" always_refuse
@@ -119399,6 +119505,7 @@ local-zone: "z-p42-scontent-b-ssn.cdninstagram.com" always_refuse
 local-zone: "z-p42-scontent-b-tpe.cdninstagram.com" always_refuse
 local-zone: "z-p42-scontent-b-vie.cdninstagram.com" always_refuse
 local-zone: "z-p42-scontent-b-yyz.cdninstagram.com" always_refuse
+local-zone: "z-p42-scontent-cdg4-1.cdninstagram.com" always_refuse
 local-zone: "z-p42-scontent.cdninstagram.com" always_refuse
 local-zone: "z-p42-scontent-cgk1-1.cdninstagram.com" always_refuse
 local-zone: "z-p42-scontent-cgk1-2.cdninstagram.com" always_refuse
@@ -119418,6 +119525,7 @@ local-zone: "z-p42-scontent-den.cdninstagram.com" always_refuse
 local-zone: "z-p42-scontent-dfw5-1.cdninstagram.com" always_refuse
 local-zone: "z-p42-scontent-dfw5-3.cdninstagram.com" always_refuse
 local-zone: "z-p42-scontent-dfw6-1.cdninstagram.com" always_refuse
+local-zone: "z-p42-scontent-dfw6-2.cdninstagram.com" always_refuse
 local-zone: "z-p42-scontent-dfw.cdninstagram.com" always_refuse
 local-zone: "z-p42-scontent-dub4-1.cdninstagram.com" always_refuse
 local-zone: "z-p42-scontent-dub.cdninstagram.com" always_refuse
