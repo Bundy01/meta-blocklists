@@ -2,7 +2,7 @@
 ! Title: Meta Adblock
 ! Description: Blocking Domains Belonging to Meta Platforms
 ! Author: Bundy01
-! Last modified: 2026-08-07
+! Last modified: 2026-08-22
 ! Homepage: https://github.com/Bundy01/meta-blocklists
 ! Licence: https://github.com/Bundy01/meta-blocklists/blob/main/LICENSE
 ! RAW: https://raw.githubusercontent.com/Bundy01/meta-blocklists/main/meta-adblock.txt
@@ -1489,6 +1489,7 @@
 ||1-1-4.freebasics.com^
 ||115-206.fbsbx.com^
 ||115df692-a0e8-45fe-8896-c1f5dc928de3-netseer-ipaddr-assoc.xz.fbcdn.net^
+||116-192.thefacebook.de^
 ||116b5881-036f-45dd-a3f8-38954128fbc7-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||116m.facebook.com11www.facebook.com83t.co8t.co62doc.itc5www.sosscisurvey.de55im.facebook.de^
 ||116profile.fb.me^
@@ -3117,6 +3118,7 @@
 ||25252525252525252525252525252525252fwww.m.me^
 ||2525252525252525252525252525252fwww.m.me^
 ||25252525252525252525252525252fwww.m.me^
+||252525252525252525252525252fwww.m.me^
 ||2525252525252525252525252fwww.internalfb.com^
 ||2525252525252525252525252fwww.m.me^
 ||25252525252525252525252fwww.m.me^
@@ -3807,6 +3809,7 @@
 ||3-6.0.freebasics.com^
 ||36.0.freebasics.com^
 ||360.i.org^
+||360-security-antivirus-free.beta.facebook.net^
 ||360-total-security.voicestesting.com^
 ||360video.fb.com^
 ||360videos.fb.com^
@@ -5106,6 +5109,7 @@
 ||59.0.freebasics.com^
 ||5-9-1.freebasics.com^
 ||59302284648610335201252946167366072529350985108855.i.org^
+||59317.od.m.me^
 ||59384.internalfb.com^
 ||59391127-8688-4a32-8848-426102047174-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||595d0bad-8ee9-4422-a58f-0c58e093a794-netseer-ipaddr-assoc.xz.fbcdn.net^
@@ -5402,6 +5406,7 @@
 ||63219b33-ae45-471e-8aa3-7a7d0a57eead-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||632268eb-7d43-4568-9a64-0b409d406fb9-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||633163953.accountkit.com^
+||6331od.internalfb.com^
 ||6335190f-772b-4a01-8466-bccb041d33ab-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||63389b506e38fc346328b86b4e313eae.fb.me^
 ||63-3.freebasics.com^
@@ -8056,6 +8061,7 @@
 ||account.fcgk18-2.fna.whatsapp.net^
 ||account.fcgk30-1.fna.whatsapp.net^
 ||account.fcgk3-2.fna.whatsapp.net^
+||account.fcgk34-1.fna.fbcdn.net^
 ||account.fcgk4-5.fna.whatsapp.net^
 ||account.fcgk52-1.fna.fbcdn.net^
 ||account.fcgk8-1.fna.whatsapp.net^
@@ -8708,6 +8714,7 @@
 ||accountssupport.fb.me^
 ||accountssystem.workplace.com^
 ||accountsublevel18.internet.org^
+||accounts.vrvideoproduction.atmeta.com^
 ||account.thefacebook.at^
 ||account.thefacebook.de^
 ||account.updateRequired.facebook.de^
@@ -10212,6 +10219,7 @@
 ||agendsai.fb.me^
 ||agent.0.discoverapp.com^
 ||agent.fbsbx.com^
+||agent.meta.ai^
 ||agents.0.discoverapp.com^
 ||agents-ru2-cloud.fb.me^
 ||agenturberns.dewww.agenturberns.dewww.facebook.co^
@@ -10425,6 +10433,7 @@
 ||ajamess.facebook.se^
 ||ajax.emails.oculusvr.com^
 ||ajbgesso.facebook.com.br^
+||ajdkwlx9z8c27mu6y50v3qgfpsi4brtneh1o.fbsbx.com^
 ||ajg63ofiuql17petzrh0ckvxs9n54mdb8wy2.fbsbx.com^
 ||ajibocaigongsi.accountkit.com^
 ||ajinomoto-group.facebook.com^
@@ -10651,6 +10660,7 @@
 ||allegretti.facebook.it^
 ||allegro.facebook.com^
 ||allenandoveryllpuk418.workplace.com^
+||allenstps.fbsbx.com^
 ||all.fbsbx.com^
 ||all.freebasics.com^
 ||allianceofsportincriminaljustice928.workplace.com^
@@ -12238,6 +12248,8 @@
 ||alpha-jencrum.messenger.com^
 ||alphamediausa.fbsbx.com^
 ||alpha.messenger.com^
+||alpha.meta.ai^
+||alpha.mirror.facebook.net^
 ||alphaneodesign925.m.workplace.com^
 ||alphaomegalogistics307.workplace.com^
 ||alphapub.messenger.com^
@@ -12440,6 +12452,7 @@
 ||analytics.0.discoverapp.com^
 ||analyticsagent.internalfb.com^
 ||analytics.apps-2210323535904466.apps.fbsbx.com^
+||analytics.cdn-fallback.fbsbx.com^
 ||analytics-demo.secure.latest.instagram.com^
 ||analyticsevelynn.workplace.com^
 ||analytics.fabj7-1.fna.whatsapp.net^
@@ -12997,6 +13010,7 @@
 ||apache32.accountkit.com^
 ||apache-cdn.whatsapp.org^
 ||apache.facebook.at^
+||apache.mirror.facebook.net^
 ||apache.www.prod.onavo.com^
 ||apacingthepanicroomi.facebook.nl^
 ||apacinnovation.atmeta.com^
@@ -13571,6 +13585,7 @@
 ||appcdn.oculus.university^
 ||appcdn.thefacebook.at^
 ||appcdn.thefacebook.de^
+||appcheckbluetick-lookaside.fbsbx.com^
 ||appcomunitadigitali.facebook.nl^
 ||App.Config.auth.consumers.facebook.ca^
 ||App.Config.auth.consumers.facebook.cl^
@@ -14384,6 +14399,7 @@
 ||apps-1724946294211578.apps.fbsbx.com^
 ||apps-1725221324256918.apps.fbsbx.com^
 ||apps-1729244020569573.apps.fbsbx.com^
+||apps-1730664881256480.fbsbx.com^
 ||apps-1732805307026670.apps.fbsbx.com^
 ||apps-173455408005131.fbsbx.com^
 ||apps-173516733350390.apps.fbsbx.com^
@@ -15146,6 +15162,7 @@
 ||apps-2683214548598222.apps.fbsbx.com^
 ||apps-2684871571774008.apps.fbsbx.com^
 ||apps-268654700492700.apps.fbsbx.com^
+||apps-26873632862330338.fbsbx.com^
 ||apps-2690191634372468.apps.fbsbx.com^
 ||apps-2693472074192945.apps.fbsbx.com^
 ||apps-2694690164119897.apps.fbsbx.com^
@@ -15878,6 +15895,7 @@
 ||apps-486508172940887.fbsbx.com^
 ||apps-487028831860750.apps.fbsbx.com^
 ||apps-487626972155681.apps.fbsbx.com^
+||apps-487713480918752.fbsbx.com^
 ||apps-487906894882661.apps.fbsbx.com^
 ||apps-488283585710548.apps.fbsbx.com^
 ||apps-488390359124107.fbsbx.com^
@@ -15921,6 +15939,7 @@
 ||apps-501768950300134.apps.fbsbx.com^
 ||apps-502150750598156.apps.fbsbx.com^
 ||apps-502517394186489.fbsbx.com^
+||apps-502669676025194.fbsbx.com^
 ||apps-502814130126446.apps.fbsbx.com^
 ||apps-502918463793402.apps.fbsbx.com^
 ||apps-503585843551911.apps.fbsbx.com^
@@ -16587,6 +16606,7 @@
 ||apps-9562639740423261.apps.fbsbx.com^
 ||apps-956558846289800.apps.fbsbx.com^
 ||apps-956644700396805.fbsbx.com^
+||apps-957123243095627.fbsbx.com^
 ||apps-957135587777375.apps.fbsbx.com^
 ||apps-959198313032254.apps.fbsbx.com^
 ||apps-959752399109547.fbsbx.com^
@@ -17349,6 +17369,7 @@
 ||arte-as-v03.messenger.com^
 ||arteehistoriaepci.fburl.com^
 ||artefact.facebook.com^
+||artelibre.diariolibre.comon.fb.me^
 ||artemonische.facebook.com.br^
 ||artesanias.voicestesting.com^
 ||artesdavotita.fburl.com^
@@ -17365,6 +17386,7 @@
 ||artifactory.0.discoverapp.com^
 ||artifactory-edge07.fb.me^
 ||artifactory-edge1.freebasics.com^
+||artifacts.meta.ai^
 ||artificialintelligence-notes.fb.me^
 ||arti-ho-008p.messenger.com^
 ||arti.itwww.facebook.co^
@@ -17658,6 +17680,7 @@
 ||assets.fmex12-1.fna.whatsapp.net^
 ||assets.fmex25-1.fna.whatsapp.net^
 ||assets.fmex3-3.fna.whatsapp.net^
+||assets.fmex9-1.fna.whatsapp.net^
 ||assets.fnbo9-1.fna.whatsapp.net^
 ||assets.fotp7-2.fna.whatsapp.net^
 ||assets.fpll4-1.fna.whatsapp.net^
@@ -17886,10 +17909,12 @@
 ||atn0.internalfb.com^
 ||at-od.api.meta.com^
 ||at-od.facebook.com^
+||at-od.facebook-hardware.com^
 ||at-od-fallback.oculus.com^
 ||at-od.graph.meta.com^
 ||at-od.instagram.com^
 ||at-od.llama.com^
+||at-od.meta.ai^
 ||at-od.oculus.com^
 ||at-od.work.meta.com^
 ||at-od.workplace.com^
@@ -17933,6 +17958,7 @@
 ||attune.freebasics.com^
 ||attvisitorwireless.internet.org^
 ||aturel-pilat.frwww.facebook.co^
+||at.voicestesting.com^
 ||atwdb.workplace.com^
 ||atwww.facebook.at^
 ||atwww.facebook.co^
@@ -18193,6 +18219,7 @@
 ||autoconfig.beatsaber.com^
 ||autoconfig.beta.accountkit.com^
 ||autoconfig.beta.facebook.com^
+||autoconfig.beta.facebook.net^
 ||autoconfig.beta.internet.org^
 ||autoconfig.blog.internet.org^
 ||autoconfig.crm.internet.org^
@@ -19226,6 +19253,7 @@
 ||baidu.i.org^
 ||baidu.messenger.com^
 ||baijiahao.fb.me^
+||baijiale10faze.thefacebook.de^
 ||baijialemask.facebook.net.au^
 ||baijialemask.messenger.com^
 ||baijialepukeyouxiqiutuijian.internet.org^
@@ -19451,6 +19479,7 @@
 ||bbds.oculusvr.com^
 ||bbeeler.fb.me^
 ||bbeibbeiliciousous.facebook.fr^
+||b.beta.facebook.net^
 ||bbfa9277-4569-49d1-94f9-096844167195-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||bb.facebook.com.br^
 ||bb.freebasics.com^
@@ -20103,6 +20132,7 @@
 ||beta.messenger.com^
 ||beta.meta.ae^
 ||beta.metaenterprise.com^
+||beta.mirror.facebook.net^
 ||beta.m.me^
 ||betanet-shv-03-atn1.facebook.co^
 ||beta.oculus.blog^
@@ -21849,6 +21879,7 @@
 ||bunnings.workplace.com^
 ||bunny0812.freebasics.com^
 ||bunnylol.facebook.com^
+||bunnylol.facebook.net^
 ||bunnylol.internalfb.com^
 ||burapaprospercoltd435.workplace.com^
 ||burbach-siegerland.dewww.burbach-siegerland.dewww.facebook.de^
@@ -23702,6 +23733,7 @@
 ||chat.fmex10-6.fna.whatsapp.net^
 ||chat.fmex4-1.fna.whatsapp.net^
 ||chat.fmex4-2.fna.whatsapp.net^
+||chat.fmex9-1.fna.whatsapp.net^
 ||chat.fmkz1-2.fna.whatsapp.net^
 ||chat.fmlg11-1.fna.whatsapp.net^
 ||chat.fnbo10-1.fna.whatsapp.net^
@@ -24568,6 +24600,7 @@
 ||class.freebasics.com^
 ||classicalstudies.fbsbx.com^
 ||classiclb.internet.org^
+||classic.meta.ai^
 ||classicswotworkshop.freebasics.com^
 ||classifiedadsgeorgia.comon.fb.me^
 ||classifieds.fb.me^
@@ -24609,6 +24642,7 @@
 ||clereporting.messenger.com^
 ||clerk.play.ai^
 ||clerk.research-annotations.atmeta.com^
+||clerk.vrvideoproduction.atmeta.com^
 ||clevelandtn.messenger.com^
 ||clevy.facebook.com^
 ||cl.facebook.cl^
@@ -24724,6 +24758,7 @@
 ||click.ftow1-1.fna.whatsapp.net^
 ||click.ftrn5-2.fna.whatsapp.net^
 ||click-gtg.fbsbx.com^
+||click.internalfb.com^
 ||click.mc.facebookmail.com^
 ||clicknext.facebook.co^
 ||clicknote.voicestesting.com^
@@ -24819,6 +24854,7 @@
 ||cloud.fccu20-1.fna.whatsapp.net^
 ||cloud.fcgh5-2.fna.whatsapp.net^
 ||cloud.fcgk25-2.fna.whatsapp.net^
+||cloud.fcgk34-1.fna.whatsapp.net^
 ||cloud.fcgk42-1.fna.whatsapp.net^
 ||cloud.fcgr10-1.fna.whatsapp.net^
 ||cloud.fcjb3-3.fna.whatsapp.net^
@@ -24897,6 +24933,7 @@
 ||cloudpanel.0.freebasics.com^
 ||cloudpanel.fb.me^
 ||cloud-portal-covid-na-ne1-1.facebook.vn^
+||cloud-portal-covid-na-ne1-1.mirror.facebook.net^
 ||cloud-portal-covid-na-ne1-1.m.prod.facebook.com^
 ||cloud-portal-production-web-custom-covid-na-ne1-1.alpha.accountkit.com^
 ||cloud-portal-production-web-custom-covid-na-ne1-1.facebook.de^
@@ -25208,6 +25245,7 @@
 ||cocina.messenger.com^
 ||cocnl.facebook.com^
 ||cocnl.workplace.com^
+||cocn.messenger.com^
 ||cocoba818.workplace.com^
 ||cocodesiles.facebook.fr^
 ||cocoenelin.www-0-78.accountkit.com^
@@ -25217,6 +25255,7 @@
 ||coconuts-isl.internet.org^
 ||cocorico.facebook.se^
 ||cocovida.fquestions.com^
+||cocovida.mirror.facebook.net^
 ||cocugumlaeglenirken.freebasics.com^
 ||code.accountkit.com^
 ||codebrewinnovationscom060.workplace.com^
@@ -25554,6 +25593,7 @@
 ||comm.facebooklogin.com^
 ||comm.fb.me^
 ||comm.htmlm.facebook.co.za^
+||com.mirror.facebook.net^
 ||com.m.me^
 ||commobile.fb.me^
 ||CommonProp.facebook.ca^
@@ -25933,6 +25973,7 @@
 ||connectag.workplace.com^
 ||connectassistance.workplace.com^
 ||connect.beta.facebook.com^
+||connect.beta.facebook.net^
 ||connected.internet.org^
 ||connect.f8.net^
 ||connect.facebook.at^
@@ -26466,6 +26507,7 @@
 ||cpanel.soundengineering.wavegroup.com^
 ||cpanel.wavegroup.com^
 ||cpanel.workplace.com^
+||cpan.mirror.facebook.net^
 ||cpapcenter.comon.fb.me^
 ||cpap-masks-ebook.internet.org^
 ||cpcalendars.audioengineering.wavegroup.com^
@@ -26685,6 +26727,7 @@
 ||creators.oculus.com^
 ||creators.prod.facebook.com^
 ||creator-staging.facebook.com.ve^
+||creatorstudio.facebook.com^
 ||creatorsupport.instagram.com^
 ||creatps.facebook.com^
 ||crechepinguinhodegente.internalfb.com^
@@ -27118,6 +27161,7 @@
 ||cybercite445.workplace.com^
 ||cybercoedoctrine.freebasics.com^
 ||cybercrimeconference.accountkit.com^
+||cyber.fb.me^
 ||cyberian.workplace.com^
 ||cyberkidvietnam.workplace.com^
 ||cyber-phreaker-medan.0.internet.org^
@@ -28544,6 +28588,7 @@
 ||deninopers.facebook.com.br^
 ||denki.fb.me^
 ||denpa.fburl.com^
+||densi.thefacebook.de^
 ||densomaketinguofisu024.workplace.com^
 ||densosa.workplace.com^
 ||dental.fb.me^
@@ -29439,6 +29484,7 @@
 ||developers.nb-no.id-id.prod.facebook.com^
 ||developers-netherlands.wk.pl^
 ||developers.new.facebook.com^
+||developers-new.facebook.net^
 ||developersnibble.facebook.pl^
 ||developers.nl-nl.es-la.prod.facebook.com^
 ||developers.nl-nl.ro-ro.fbjs.facebook.com^
@@ -30010,6 +30056,7 @@
 ||dev.messenger.com^
 ||devmestaoper.facebook.com.au^
 ||dev.meta.ae^
+||dev.meta.ai^
 ||devmilkenoper.facebook.com.br^
 ||devmlillopers.facebook.com.br^
 ||dev.m.me^
@@ -31016,6 +31063,7 @@
 ||domain.facebook.co^
 ||domain.facebook.org^
 ||domain-fb.workplace.com^
+||domainingamericas.comon.fb.me^
 ||domainlocking.accountkit.com^
 ||domainmanagement.facebook.com.ar^
 ||domains.facebook.co.nz^
@@ -31906,6 +31954,7 @@
 ||ecsa.workplace.com^
 ||ecsmidatlantic488.workplace.com^
 ||ecs.voicestesting.com^
+||ecto1.meta.ai^
 ||ecuadorerotico.freebasics.com^
 ||ecudemo12810.internet.org^
 ||ecudemo71040.messenger.com^
@@ -32095,6 +32144,7 @@
 ||edge-chat.facebook.co^
 ||edge-chat.facebook.com^
 ||edge-chat.facebook.com.br^
+||edge-chat.facebook.net^
 ||edge-chat-fallback.facebook.com^
 ||edge-chat-fallback.instagram.com^
 ||edge-chat-fallback.oculus.com^
@@ -32113,6 +32163,7 @@
 ||edge-chat.meta.ai^
 ||edge-chat.oculus.com^
 ||edge-chat.p.facebook.com^
+||edge-chat.socialplugin.facebook.net^
 ||edge-chat.work.meta.com^
 ||edge-chat.workplace.com^
 ||edge-chat.www.meta.com^
@@ -32689,6 +32740,7 @@
 ||edge-extern-shv-04-bom2.facebook.com^
 ||edge.fbjs.facebook.com^
 ||edge-fblite-ws-p1-shv-01-tpe1.fb.me^
+||edge.fb.me^
 ||edge.fbsbx.com^
 ||edge-fwdproxy-1-bgp-61-amt2.fbsbx.com^
 ||edge-fwdproxy-3-bgp-01-fra3.facebook.lv^
@@ -32702,6 +32754,7 @@
 ||edge-ig-dgw-p42-shv-01-atl3.facebook.com^
 ||edge-ig-dgw-p42-shv-01-bkk1.facebook.com^
 ||edge-ig-dgw-p42-shv-01-bos5.facebook.com^
+||edge-ig-dgw-p42-shv-01-bru2.facebook.com^
 ||edge-ig-dgw-p42-shv-01-cdg4.facebook.com^
 ||edge-ig-dgw-p42-shv-01-cgk1.facebook.com^
 ||edge-ig-dgw-p42-shv-01-cgk2.facebook.com^
@@ -32832,6 +32885,7 @@
 ||edge-ig-dgw-shv-01-mxp1.facebook.com^
 ||edge-ig-dgw-shv-01-mxp2.facebook.com^
 ||edge-ig-dgw-shv-01-nrt1.facebook.com^
+||edge-ig-dgw-shv-01-nrt6.facebook.com^
 ||edge-ig-dgw-shv-01-ord5.facebook.com^
 ||edge-ig-dgw-shv-01-otp1.facebook.com^
 ||edge-ig-dgw-shv-01-pmo1.facebook.com^
@@ -34193,6 +34247,7 @@
 ||edge-star-mini-shv-02-cgk1.facebook.com^
 ||edge-star-mini-shv-02-cgk2.facebook.com^
 ||edge-star-mini-shv-02-del2.facebook.com^
+||edge-star-mini-shv-02-del3.facebook.com^
 ||edge-star-mini-shv-02-dfw5.facebook.com^
 ||edge-star-mini-shv-02-dfw5.facebook.org^
 ||edge-star-mini-shv-02-eze1.facebook.com^
@@ -36114,6 +36169,7 @@
 ||email.whatsapp.in^
 ||email.whatsapp.org.uk^
 ||email.whatsapp.tw^
+||email.with.in^
 ||email.wk.pl^
 ||email.workplace.com^
 ||emakina.workplace.com^
@@ -36799,6 +36855,7 @@
 ||es-la.beta.facebook.com^
 ||es-la.beta.messenger.com^
 ||es-la.c.facebook.com^
+||es-la.cs-cz.fb.me^
 ||es-la.cs-cz.ro-ro.fbjs.facebook.com^
 ||es-la.da-dk.c.facebook.com^
 ||es-la.da-dk.fb.me^
@@ -37639,6 +37696,7 @@
 ||external.fbru5-1.fna.fbcdn.net^
 ||external.fbsb1-1.fna.fbcdn.net^
 ||external.fbsb23-1.fna.fbcdn.net^
+||external.fbsb3-1.fna.fbcdn.net^
 ||external.fbsb6-1.fna.fbcdn.net^
 ||external.fbsb9-1.fna.fbcdn.net^
 ||external.fbsl1-1.fna.fbcdn.net^
@@ -38278,6 +38336,7 @@
 ||external.fper12-1.fna.fbcdn.net^
 ||external.fpew1-1.fna.fbcdn.net^
 ||external.fpew3-1.fna.fbcdn.net^
+||external.fpew4-1.fna.fbcdn.net^
 ||external.fpfb1-1.fna.fbcdn.net^
 ||external.fpfo1-1.fna.fbcdn.net^
 ||external.fphs1-1.fna.fbcdn.net^
@@ -39334,10 +39393,10 @@
 ||facebook.info^
 ||facebook.ink^
 ||facebookinnigeria.fb.com^
+||facebook.instagram.beta.facebook.net^
 ||facebook.internalfb.com^
 ||facebook.internet.org^
 ||facebook.i.org^
-||facebook.ir^
 ||facebook.irish^
 ||facebook.ist^
 ||facebook.istanbul^
@@ -39829,7 +39888,6 @@
 ||fb.beta.facebook.com^
 ||fb.beta.messenger.com^
 ||fb.biz^
-||fb.careers^
 ||fbcdn.com^
 ||fbcdn.facebook.co^
 ||fbcdn.facebook.co.id^
@@ -40063,6 +40121,7 @@
 ||federation.facebook.co^
 ||federruckhaltgebenhomepagewww.fcg-wien-aps.atfacebookwww.facebook.co^
 ||fedexfreight.workplace.com^
+||fedora.mirror.facebook.net^
 ||fedrigoni.workplace.com^
 ||fedyancovy.internet.org^
 ||feedback.facebook.com^
@@ -40298,6 +40357,7 @@
 ||files.fb.me^
 ||files.freebasics.com^
 ||filesicfp.chauffeur.9bafdd6a-1595-496d-8fb4-c4635925550a-netseer-ipaddr-assoc.xz.fbcdn.net^
+||files.internalfb.com^
 ||files.internet.org^
 ||files.messenger.com^
 ||filestore.internet.org^
@@ -40814,6 +40874,7 @@
 ||fna-fbcdn-z-m-shv-01-fagc1.fbcdn.net^
 ||fna-fbcdn-z-m-shv-01-faqp7.fbcdn.net^
 ||fna-fbcdn-z-m-shv-01-fbeg10.fbcdn.net^
+||fna-fbcdn-z-m-shv-01-fbgw68.fbcdn.net^
 ||fna-fbcdn-z-m-shv-01-fbkk5.fbcdn.net^
 ||fna-fbcdn-z-m-shv-01-fblq7.fbcdn.net^
 ||fna-fbcdn-z-m-shv-01-fbne7.fbcdn.net^
@@ -41962,6 +42023,7 @@
 ||forum.facebook.ug^
 ||forum.facebook.us^
 ||forum.facebook.vn^
+||forum.familycenter.messenger.com^
 ||forum.fb.je^
 ||forum.fbjs.facebook.com^
 ||forum.fb.me^
@@ -43005,6 +43067,7 @@
 ||gac-rds-external-readonly.fbjs.facebook.com^
 ||gac-rds-external-readonly-preprod.dns.facebook.com^
 ||gac-rds-external-readonly-preprod.fbjs.facebook.com^
+||gadalkaeva.voicestesting.com^
 ||gademiaorange.plwww.facebook.co^
 ||gadgetvn.workplace.com^
 ||ga.dns.facebook.com^
@@ -43541,6 +43604,7 @@
 ||ghostcat.facebook.fr^
 ||ghostfacemask.accountkit.com^
 ||ghostfacemask.messenger.com^
+||ghost.thefacebook.de^
 ||gho.workplace.com^
 ||ghs04022.messenger.com^
 ||ghsa.workplace.com^
@@ -45964,7 +46028,9 @@
 ||hashtag.facebook.com^
 ||hasp.fb.me^
 ||haswpl.workplace.com^
+||hatch-api.meta.ai^
 ||hatch.internalfb.com^
+||hatch.meta.ai^
 ||haticeseyitceker.internet.org^
 ||hattingenwww.hattinger-fluechtlingshilfe.dewww.facebook.de^
 ||hatun.facebook.com^
@@ -51313,6 +51379,7 @@
 ||https-newserv-freewha-com.0.discoverapp.com^
 ||https-ngstudentforum-com-ng.0.freebasics.com^
 ||https-n.mobile.twitter.byrdfletcher.ninecircuit.prl.facebook.org^
+||https-oad-clsu2-edu-ph.0.discoverapp.com^
 ||https-odr-mookie1-com.0.discoverapp.com^
 ||https-office-planpromatrix-com.0.freebasics.com^
 ||http-sokker-org.0.freebasics.com^
@@ -53251,6 +53318,7 @@
 ||images4.messenger.com^
 ||images6.messenger.com^
 ||images.apps-474443516378085.apps.fbsbx.com^
+||images.attachment.fbsbx.com^
 ||images.beta.facebook.com^
 ||images.beta.github.latest.instagram.com^
 ||images.beta.secure.latest.instagram.com^
@@ -54914,6 +54982,7 @@
 ||instagram.fcgk3-2.fna.fbcdn.net^
 ||instagram.fcgk33-1.fna.fbcdn.net^
 ||instagram.fcgk3-3.fna.fbcdn.net^
+||instagram.fcgk34-1.fna.fbcdn.net^
 ||instagram.fcgk3-4.fna.fbcdn.net^
 ||instagram.fcgk35-1.fna.fbcdn.net^
 ||instagram.fcgk36-1.fna.fbcdn.net^
@@ -55150,6 +55219,7 @@
 ||instagram.fdac19-1.fna.fbcdn.net^
 ||instagram.fdac20-1.fna.fbcdn.net^
 ||instagram.fdac2-1.fna.fbcdn.net^
+||instagram.fdac22-1.fna.fbcdn.net^
 ||instagram.fdac22-2.fna.fbcdn.net^
 ||instagram.fdac2-2.fna.fbcdn.net^
 ||instagram.fdac23-1.fna.fbcdn.net^
@@ -58176,6 +58246,7 @@
 ||instagram-p3-shv-01-lis1.fbcdn.net^
 ||instagram-p3-shv-01-los4.fbcdn.net^
 ||instagram-p3-shv-01-maa2.internalfb.com^
+||instagram-p3-shv-01-maa3.fbcdn.net^
 ||instagram-p3-shv-01-maa5.fbcdn.net^
 ||instagram-p3-shv-01-mad1.fbcdn.net^
 ||instagram-p3-shv-01-mad2.fbcdn.net^
@@ -60627,6 +60698,7 @@
 ||jenkins-c.i.org^
 ||jenkins-developers.wk.pl^
 ||jenkins.facebook.com.br^
+||jenkins.fb.me^
 ||jenkins-ghcpinodewebproxy.workplace.com^
 ||jenkinskulsvpndev01-dmz.internalfb.com^
 ||jenkinsmacvelopers.facebook.se^
@@ -62677,6 +62749,7 @@
 ||liberationroute.accountkit.com^
 ||libero.itwww.facebook.it^
 ||libertyagents.workplace.com^
+||liberty-healthcare.fbsbx.com^
 ||libertyworkplace814.workplace.com^
 ||lib.fb.me^
 ||lib.fburl.com^
@@ -62758,6 +62831,7 @@
 ||light.facebook.in^
 ||lighthouselearning.workplace.com^
 ||lightning.4fgraph3.accountkit.com^
+||lightning-edge.facebook.net^
 ||lightricks.workplace.com^
 ||lightshot.fbsbx.com^
 ||lightwarena168.workplace.com^
@@ -63288,6 +63362,7 @@
 ||l.lite.facebook.com^
 ||llive.messenger.com^
 ||lll.i.org^
+||ll.m.me^
 ||lloydminsterwww.facebook.ca^
 ||lltb.secure.latest.instagram.com^
 ||l.lt-lt.fbjs.facebook.com^
@@ -63734,6 +63809,7 @@
 ||lplfinancial.workplace.com^
 ||l.pl-pl.es-es.roro.fbjs.facebook.com^
 ||l.pl-pl.ru-ru.pl-pl.lite.facebook.com^
+||l.p.messenger.com^
 ||lppm.workplace.com^
 ||lprimtest.messenger.com^
 ||l.prod.facebook.com^
@@ -64154,6 +64230,7 @@
 ||ma-applecert-support-mdn.workplace.com^
 ||maarvin.koubemba.facebook.fr^
 ||maawaytechnologypvtltd966.workplace.com^
+||mabasic.beta.facebook.net^
 ||mabinogi.fburl.com^
 ||mabossswelweb1.fb.me^
 ||mac11.freebasics.com^
@@ -65141,6 +65218,7 @@
 ||mbe50.fb.me^
 ||mbeauty.workplace.com^
 ||m.beta.facebook.com^
+||m.beta.facebook.net^
 ||m.beta.internet.org^
 ||m.beta.workplace.com^
 ||m.bewww.facebook.co^
@@ -68203,6 +68281,7 @@
 ||mig33.messenger.com^
 ||mightyparty.internet.org^
 ||migrate.workplace.com^
+||migration.meta.ai^
 ||migsopcubed849.workplace.com^
 ||mi.internet.org^
 ||miiot.workplace.com^
@@ -68318,6 +68397,7 @@
 ||miroglio.m.workplace.com^
 ||mirror.accountkit.com^
 ||mirrorbeta-securitymc.latest.instagram.com^
+||mirror-ext.facebook.net^
 ||mirror.f8.net^
 ||mirror.facebook.at^
 ||mirror.facebook.be^
@@ -68602,6 +68682,7 @@
 ||m.lite.facebook.com^
 ||m-livestream-lookaside.facebook.com^
 ||mll135.messenger.com^
+||m.l.messenger.com^
 ||ml.messenger.com^
 ||mlms.internalfb.com^
 ||mlokcooler.facebook.pl^
@@ -68641,6 +68722,7 @@
 ||mmg.whatsapp.net^
 ||mmh.whatsapp.net^
 ||mm.internet.org^
+||m.mirror.facebook.net^
 ||mmitts.malaysia.facebook.co^
 ||m.m.lite.facebook.com^
 ||m.m.me^
@@ -69046,6 +69128,7 @@
 ||moviedownloadinhdx.internet.org^
 ||moviegenai.ai^
 ||moviegenai.org^
+||moviegen.studio^
 ||movies2015-09-10.internet.org^
 ||movies.freebasics.com^
 ||movie-zap.internet.org^
@@ -69056,6 +69139,7 @@
 ||movistar.facebook.com.mx^
 ||movistar.messenger.com^
 ||mozarttafensw.fb.me^
+||mozilla.mirror.facebook.net^
 ||mozsoccer.workplace.com^
 ||mp3cutter.fburl.com^
 ||mp3top.facebook.com.ve^
@@ -70361,6 +70445,7 @@
 ||mysql.fb.me^
 ||mysql.messenger.com^
 ||mysql.m.facebook.com^
+||mysql.mirror.facebook.net^
 ||mysql.m.workplace.com^
 ||mysql.on.fb.me^
 ||mysql-ssh.fbsbx.com^
@@ -70666,6 +70751,7 @@
 ||naturschutz.internalfb.com^
 ||naturwacht.dewww.facebook.de^
 ||naturwacht.dewww.naturwacht.dewww.facebook.de^
+||natuursoep.beon.fb.me^
 ||natygomez.facebook.com.ar^
 ||naudistancelearnadmin.internet.org^
 ||nau.facebook.co^
@@ -71217,6 +71303,7 @@
 ||newsletter.oculus.de^
 ||newsletters.workplace.com^
 ||news.lightbox.ch^
+||news.lookaside.fbsbx.com^
 ||newsmatome.internalfb.com^
 ||news.messenger.com^
 ||news.meta.ae^
@@ -71407,6 +71494,7 @@
 ||nichtegal.fburl.com^
 ||nic.m.me^
 ||nicotest.facebook.com^
+||nicovideo.beta.facebook.net^
 ||nicovideo.cdn.accountkit.com^
 ||nicuvar.freebasics.com^
 ||nid-ask-com.0.internet.org^
@@ -71917,6 +72005,7 @@
 ||ns3.facebook.org^
 ||ns3.fbjs.facebook.com^
 ||ns3.fb.me^
+||ns3.internalfb.com^
 ||ns3.internet.org^
 ||ns3.messenger.com^
 ||ns3.on.fb.me^
@@ -72267,6 +72356,7 @@
 ||octodb-pag.internet.org^
 ||oct-webdb-platform-lookaside.fbsbx.com^
 ||oculimundienclase.workplace.com^
+||oculusacademy.com^
 ||oculusacademy.net^
 ||oculusacademy.org^
 ||oculus.accountant^
@@ -72325,7 +72415,6 @@
 ||oculus.center^
 ||oculus.ceo^
 ||oculus.charity^
-||oculus.chat^
 ||oculus.cheap^
 ||oculus.christmas^
 ||oculus.church^
@@ -72422,7 +72511,6 @@
 ||oculus.gifts^
 ||oculus.gives^
 ||oculus.glass^
-||oculus.gmbh^
 ||oculus.gold^
 ||oculus.golf^
 ||oculus.graphics^
@@ -72464,6 +72552,7 @@
 ||oculus.jobs^
 ||oculus.joburg^
 ||oculus.juegos^
+||oculus.kaufen^
 ||oculus.kim^
 ||oculus.kitchen^
 ||oculus.kiwi^
@@ -72474,6 +72563,7 @@
 ||oculus.legal^
 ||oculus.lgbt^
 ||oculus.life^
+||oculus.limited^
 ||oculus.limo^
 ||oculus.link^
 ||oculus.live^
@@ -73323,6 +73413,7 @@
 ||operamini.freebasics.com^
 ||operamini.internet.org^
 ||opera-mini-repo.fb.me^
+||opera.mirror.facebook.net^
 ||operatiebomenbuurt.thefacebook.at^
 ||operationhammond.workplace.com^
 ||operations.freebasics.com^
@@ -74371,6 +74462,7 @@
 ||pd.internalfb.com^
 ||pdsa.facebook.com^
 ||pdsa.workplace.com^
+||pdu1b.thefacebook.at^
 ||pdw-edge.facebookdownloader.com^
 ||pdx-1-gateway.dev.us-west-2.vdi.fb.com^
 ||pdx-1.vdi.fb.com^
@@ -74648,6 +74740,7 @@
 ||php.internet.org^
 ||phplist.internet.org^
 ||php.messenger.com^
+||php.mirror.facebook.net^
 ||phpmyadmin.facebook.com.br^
 ||phpportal.telkomsel.affle.sg.fb.me^
 ||php.www.secure.instagram.com^
@@ -76223,6 +76316,7 @@
 ||profile.facebook.co^
 ||profile.facebook.pl^
 ||profile.facebook.us^
+||profile.fb.me^
 ||profilegfs204n143.facebook.com.br^
 ||profile.networks.facebook.us^
 ||profile.prod.oculus.com^
@@ -76250,6 +76344,7 @@
 ||profitonline.workplace.com^
 ||prof.messenger.com^
 ||profmilton.facebook.com.br^
+||proftpd.mirror.facebook.net^
 ||progaming.workplace.com^
 ||progepe.accountkit.com^
 ||proglobal.m.workplace.com^
@@ -76297,6 +76392,7 @@
 ||promedon.workplace.com^
 ||pro.messenger.com^
 ||prometheus-2.internet.org^
+||prometheus.attachment.fbsbx.com^
 ||prometheus-cust-eng.facebook.jp^
 ||promise11.internet.org^
 ||prommaterials.workplace.com^
@@ -76868,6 +76964,7 @@
 ||puskesmaskota.facebook.ug^
 ||puskesmaskota.messenger.com^
 ||putpay.accountkit.com^
+||putty.mirror.facebook.net^
 ||put.wk.pl^
 ||puyoko.workplace.com^
 ||puzo1-iphone.facebook.com.br^
@@ -77632,7 +77729,9 @@
 ||registro.freebasics.com^
 ||registros.freebasics.com^
 ||registry-apps-436896427524778.fbsbx.com^
+||registry.facebook.net^
 ||registryweb57.internet.org^
+||registry.x2p.facebook.net^
 ||regnskapnorge.workplace.com^
 ||regObj.facebook.us^
 ||regportal.workplace.com^
@@ -77654,6 +77753,7 @@
 ||relay112p8.freebasics.com^
 ||relay1.facebook.com.br^
 ||relay1.freebasics.com^
+||relay1.oculus.fi^
 ||relay1p4.freebasics.com^
 ||relay2.facebook.com.br^
 ||relay2.facebook.co.th^
@@ -77809,6 +77909,7 @@
 ||repo519222771883502appsbrand.fbsbx.com^
 ||repo549222501883502appsbrand.fbsbx.com^
 ||repoo1brasil.accountkit.com^
+||repo.reactnative.dev^
 ||reportermaceio.facebook.com.ve^
 ||reportforamerica682.workplace.com^
 ||reporting-emea.fburl.com^
@@ -77821,6 +77922,7 @@
 ||reports.workplace.com^
 ||repositoriobiblioteca.freebasics.com^
 ||repositoryapps.fbsbx.com^
+||repostage.reactnative.dev^
 ||repowww.wk.pl^
 ||repssrs01.facebook.dk^
 ||republican.usa.facebook.us^
@@ -77845,6 +77947,7 @@
 ||researchgov.workplace.com^
 ||research.internet.org^
 ||research.mapillary.com^
+||research.meta.ai^
 ||researchn.i.n.i.org^
 ||reseauentreprendre.facebook.com^
 ||reseauentreprendre.m.facebook.com^
@@ -77940,6 +78043,7 @@
 ||retriever.workplace.com^
 ||retro-mj.freebasics.com^
 ||retrorides.fburl.com^
+||retrovirus.beta.facebook.net^
 ||retrovirus.fb.me^
 ||retrovirus.internet.org^
 ||rettet-st-barbara.dewww.kirchort-st-barbara.dewww.facebook.de^
@@ -78467,6 +78571,7 @@
 ||rtschule-schoeneck.dewww.facebook.de^
 ||rts.comwww.facebook.co^
 ||rttys.ucentral.pe.xwf.internet.org^
+||ru2-wr-baas.facebook.com.tw^
 ||ruangguru841.m.workplace.com^
 ||ruanne.moreno.rsj.facebook.fr^
 ||ruay.frlm.facebook.co^
@@ -78647,6 +78752,7 @@
 ||s343-azurejenkins.fb.me^
 ||s347.internet.org^
 ||s3arquellesthurman.fb.me^
+||s3.attachment.fbsbx.com^
 ||s3axosoft-pc1mdc.internalfb.com^
 ||s3beta.latest.instagram.com^
 ||s3b-soap.workplace.com^
@@ -78802,6 +78908,7 @@
 ||samcloud.freebasics.com^
 ||samedayprinting.fb.me^
 ||samemogu.messenger.com^
+||s.a.messenger.com^
 ||sametime.internet.org^
 ||samford.facebook.co^
 ||sam.freebasics.com^
@@ -78832,6 +78939,7 @@
 ||sandbox-5.wk.pl^
 ||sandbox-asuperb02-abrahamloa.fb.me^
 ||sandbox.emails.oculusvr.com^
+||sandbox.embed.fbsbx.com^
 ||sandboxers.facebook.de^
 ||sandbox.facebook.com^
 ||sandboxforum.freebasics.com^
@@ -81173,6 +81281,7 @@
 ||scontent.fdac19-1.fna.fbcdn.net^
 ||scontent.fdac20-1.fna.fbcdn.net^
 ||scontent.fdac2-1.fna.fbcdn.net^
+||scontent.fdac22-1.fna.fbcdn.net^
 ||scontent.fdac22-2.fna.fbcdn.net^
 ||scontent.fdac2-2.fna.fbcdn.net^
 ||scontent.fdac23-1.fna.fbcdn.net^
@@ -85296,6 +85405,7 @@
 ||scontent-hyd1-1.xx.fbcdn.net^
 ||scontent-hyd1-2.cdninstagram.com^
 ||scontent-hyd1-2.oculuscdn.com^
+||scontent-iad10-1.cdninstagram.com^
 ||scontent-iad3-1.cdninstagram.com^
 ||scontent-iad3-1.oculuscdn.com^
 ||scontent-iad3-1.xx.fbcdn.net^
@@ -85321,6 +85431,7 @@
 ||scontent-ist1-2.cdninstagram.com^
 ||scontent-ist1-2.oculuscdn.com^
 ||scontent-ist1-2.xx.fbcdn.net^
+||scontent-ist2-1.cdninstagram.com^
 ||scontent-itm1-1.cdninstagram.com^
 ||scontent-itm1-1.oculuscdn.com^
 ||scontent-itm1-1.xx.fbcdn.net^
@@ -85595,6 +85706,7 @@
 ||scontent-tpe1-1.cdninstagram.com^
 ||scontent-tpe1-1.oculuscdn.com^
 ||scontent-tpe1-1.xx.fbcdn.net^
+||scontent-tpe5-1.cdninstagram.com^
 ||scontent-tpe.cdninstagram.com^
 ||scontent-tpe.xx.fbcdn.net^
 ||scontent-vie1-1.cdninstagram.com^
@@ -87824,6 +87936,7 @@
 ||shortwave.facebook.com^
 ||shortwave-fallback.instagram.com^
 ||shortwave.instagram.com^
+||shortwave.meta.ai^
 ||shota.www-0-78.accountkit.com^
 ||shotgunned.internet.org^
 ||shoudian.internalfb.com^
@@ -88458,6 +88571,7 @@
 ||skype.fb.me^
 ||skype.messenger.com^
 ||skyrr-exchpf1.fb.me^
+||slack.endaga.com^
 ||slackware.freebasics.com^
 ||slac.messenger.com^
 ||slalom.facebook.com^
@@ -89061,6 +89175,7 @@
 ||socialnetworks.facebook.cl^
 ||social.oculus.de^
 ||socialoutliercom.workplace.com^
+||socialplugin.facebook.net^
 ||socials.facebook.us^
 ||socialshareprivacy.facebook.de^
 ||socialsharks.facebook.com^
@@ -90359,6 +90474,7 @@
 ||spartams.internet.org^
 ||spartan.facebook.com.br^
 ||spartanracegermany.fb.me^
+||spaten.thefacebook.de^
 ||spawngts.fbsbx.com^
 ||spazio.facebook.it^
 ||spb.accountkit.com^
@@ -91725,6 +91841,7 @@
 ||_status.facebook.us^
 ||status.fb.com^
 ||status.fb.me^
+||status.fbsbx.com^
 ||status.graph.accountkit.com^
 ||status-im.contexts.chat.messenger.com^
 ||status.internalfb.com^
@@ -94283,6 +94400,7 @@
 ||testing2-platform-lookaside.fbsbx.com^
 ||testing3-m-dscvr.i.org^
 ||testing-developers.wk.pl^
+||testing.endaga.com^
 ||testing.facebook.com.br^
 ||testing-toolbarevents.latest.instagram.com^
 ||testing.workplace.com^
@@ -94407,6 +94525,7 @@
 ||tgebenhomepagewww.fcg-wien-aps.atfacebookwww.facebook.co^
 ||tgfymca.facebook.com^
 ||tgfymca.workplace.com^
+||tgpoolvillapattaya.thefacebook.at^
 ||tg.react.dev^
 ||tg-tj.facebook.com^
 ||tg-tj.messenger.com^
@@ -95793,6 +95912,7 @@
 ||twitter.facebook.co^
 ||twitter.facebook.com^
 ||twitter.facebook.org^
+||twitter.iapp.fb.me^
 ||twitter.internet.org^
 ||twitter.messenger.com^
 ||twittlog.freebasics.com^
@@ -97836,6 +97956,7 @@
 ||video.fcgk3-2.fna.fbcdn.net^
 ||video.fcgk33-1.fna.fbcdn.net^
 ||video.fcgk3-3.fna.fbcdn.net^
+||video.fcgk34-1.fna.fbcdn.net^
 ||video.fcgk3-4.fna.fbcdn.net^
 ||video.fcgk35-1.fna.fbcdn.net^
 ||video.fcgk40-1.fna.fbcdn.net^
@@ -100119,6 +100240,7 @@
 ||vorbehalten.facebook.de^
 ||vordergrund.www.facebook.de^
 ||vorlesungsverzeichnis.fb.me^
+||voroncovka.mirror.facebook.net^
 ||vos--spb.accountkit.com^
 ||voteadmstbski.accountkit.com^
 ||votifier.fb.me^
@@ -102006,6 +102128,7 @@
 ||webdisk.audiopostproduction.wavegroup.com^
 ||webdisk.beta.accountkit.com^
 ||webdisk.beta.facebook.com^
+||webdisk.beta.facebook.net^
 ||webdisk.beta.freebasics.com^
 ||webdisk.beta.internet.org^
 ||webdisk.c.facebook.com^
@@ -102025,6 +102148,7 @@
 ||webdisk.mobile.internet.org^
 ||webdisk.new.facebook.com^
 ||webdisk.newswww3-53.accountkit.com^
+||webdisk.oculus.fi^
 ||webdisk.oculusvr.com^
 ||webdisk.on.fb.me^
 ||webdisk.postproduction.wavegroup.com^
@@ -102584,6 +102708,7 @@
 ||whatsapp.at^
 ||whatsapp-bb.fb.me^
 ||whatsapp.be^
+||whatsapp.biz.pl^
 ||whatsappbrand.com^
 ||whatsapp-business-api.api.metastatus.com^
 ||whatsapp.bz^
@@ -102948,6 +103073,7 @@
 ||wildcard.apps.fbsbx.com^
 ||wildcard.beta.accountkit.com^
 ||wildcard.beta.facebook.com^
+||wildcard.beta.facebook.net^
 ||wildcard.beta.freebasics.com^
 ||wildcard.beta.messenger.com^
 ||wildcard.beta.oculus.com^
@@ -102960,6 +103086,7 @@
 ||wildcard.dev.messenger.com^
 ||wildcard.dscvr.i.org^
 ||wildcard.extern.facebook.com^
+||wildcard.extern-silfra.facebook.net^
 ||wildcard.faae1-2.fna.whatsapp.net^
 ||wildcard.faae2-3.fna.whatsapp.net^
 ||wildcard.faae2-4.fna.fbcdn.net^
@@ -109400,6 +109527,7 @@
 ||wildcard.m-dscvr.i.org^
 ||wildcard.messenger.com^
 ||wildcard.m.internmc.workplace.com^
+||wildcard.mirror.facebook.net^
 ||wildcard.m.me^
 ||wildcard.mobile.discoverapp.com^
 ||wildcard.mobile.freebasics.com^
@@ -109428,6 +109556,7 @@
 ||wildcard.standalone.ccpl.xwf.internet.org^
 ||wildcard.standalone.xsec.internet.org^
 ||wildcard.standalone.xwf.internet.org^
+||wildcard.thefacebook.de^
 ||wildcard.tokenizer.xwf.internet.org^
 ||wildcard.trunkstable.facebook.com^
 ||wildcard.trunkstable.oculus.com^
@@ -109726,6 +109855,7 @@
 ||wm.facebook.com.br^
 ||wmhs-aps-nm.messenger.com^
 ||wmi.freebasics.com^
+||w.mirror.facebook.net^
 ||wmlwww.facebook.fr^
 ||wmlwww.facebookwww.facebook.com.au^
 ||wmlwww.intern.facebook.com^
@@ -109787,6 +109917,7 @@
 ||wordpress.fb.me^
 ||wordpress.freebasics.com^
 ||wordpress.messenger.com^
+||wordpress.mirror.facebook.net^
 ||wordpress.oculus.de^
 ||wordpress.on.fb.me^
 ||wordswithfriends.facebook.co^
@@ -112071,6 +112202,7 @@
 ||www.7aad0809-b948-4ef7-bd45-93e8920bfd21-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||www-7.accountkit.com^
 ||www7.accountkit.com^
+||www7a.fb.me^
 ||www7a.fbsbx.com^
 ||www7a.freebasics.com^
 ||www7a.internet.org^
@@ -112669,6 +112801,7 @@
 ||www.atlasbyfacebook.org^
 ||www.atlasin-stream.com^
 ||www.atlasinstreamvideo.com^
+||www.atlassolutions.com^
 ||www.atlassolutions.com.au^
 ||www.atlassolutions.co.uk^
 ||www.atol.wk.pl^
@@ -112784,6 +112917,7 @@
 ||www.beta.aidemos.meta.com^
 ||www.beta.facebook.com^
 ||www.betafacebook.info^
+||www.beta.facebook.net^
 ||www.beta.internet.org^
 ||www.beta.messenger.com^
 ||www.beta.oculus.com^
@@ -113020,6 +113154,7 @@
 ||www-counter.www-0-78.accountkit.com^
 ||www.countryhub.fb.com^
 ||www.courses.i.org^
+||www.cpan.mirror.facebook.net^
 ||www-cphost.alpha-04-2.accountkit.com^
 ||www.c.p.j.i.org^
 ||www.cramer-edeka.dewww.facebook.co^
@@ -113602,6 +113737,7 @@
 ||www.facebook.earth^
 ||www.facebook.ec^
 ||www.facebook.ee^
+||www.facebookenterprise.com^
 ||www.facebook.es^
 ||www.facebook.eu^
 ||www.facebook.eus^
@@ -113997,6 +114133,7 @@
 ||www.fecebook.cl^
 ||www.fecebook.com.ar^
 ||www.fecebook.net^
+||www.fedora.mirror.facebook.net^
 ||www.fee06515-ee28-4e35-b6bf-23ea81be2265-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||www.feedback.messenger.com^
 ||www.f.e.i.org^
@@ -115478,6 +115615,7 @@
 ||www.mig33.messenger.com^
 ||www.mineralwasser.comwww.trinken-im-unterricht.dewww.facebook.de^
 ||www.mint-ec.dewww.facebook.co^
+||www.mirror.facebook.net^
 ||www.miss.facebook.fr^
 ||www.mittelstand-karriere.dewww.facebook.de^
 ||www.mitternachtssport.comwww.facebook.de^
@@ -115521,6 +115659,7 @@
 ||www.mounthectorexploration.facebook.co.id^
 ||www.moviegenai.ai^
 ||www.moviegenai.org^
+||www.moviegen.studio^
 ||www.movimentodown.org.brwww.facebook.com.br^
 ||www.movistar.facebook.co^
 ||www.mpcongress.itwww.facebook.it^
@@ -115650,6 +115789,7 @@
 ||www-n.wk.pl^
 ||www.occupyvillaberg.dewww.facebook.de^
 ||www.octazen.com^
+||www.oculusacademy.com^
 ||www.oculusacademy.net^
 ||www.oculusacademy.org^
 ||www.oculus.accountant^
@@ -116062,6 +116202,7 @@
 ||www.parkinson.dkwww.facebook.dk^
 ||www.parkinsonsnsw.org.auwww.facebook.com.au^
 ||www.parks-nuernberg.dewww.facebook.de^
+||www.parse.com^
 ||www.partners.internet.org^
 ||www-pass-ng.0.freebasics.com^
 ||www.path2change.org.auwww.facebook.com.au^
@@ -116081,6 +116222,7 @@
 ||www.philippines.fb.com^
 ||www.ph.messenger.com^
 ||www.php.internet.org^
+||www.php.mirror.facebook.net^
 ||www.ph.yahoo.messenger.com^
 ||www.pidgin.yahoo.messenger.com^
 ||www.pierfrancescopellegrini.facebook.it^
@@ -116867,6 +117009,7 @@
 ||www.whatsapp.am^
 ||www.whatsapp.at^
 ||www.whatsapp.be^
+||www.whatsapp.biz.pl^
 ||www.whatsappbrand.com^
 ||www.whatsapp.bz^
 ||www.whatsapp.cc^
@@ -116924,6 +117067,7 @@
 ||www.wirtschaftsfoerderung-sbh.dewww.facebook.de^
 ||www.wische.dewww.facebook.de^
 ||www.wit.ai^
+||www.with.in^
 ||wwww.it-it.facebook.us^
 ||www.wittich.dewww.facebook.de^
 ||www.wj-dortmund.dewww.facebook.de^
@@ -118480,6 +118624,7 @@
 ||z-m.c10r.facebook.com^
 ||z-m-cdn.fbsbx.com^
 ||z-m-cdn-martinique.fbsbx.com^
+||z-m-connect.facebook.net^
 ||z-m-cstonerobixxxn.fbsbx.com^
 ||z.messenger.com^
 ||z-m-esun.fbsbx.com^
@@ -120054,6 +120199,7 @@
 ||z-p42-scontent-hou.cdninstagram.com^
 ||z-p42-scontent-iad3-1.cdninstagram.com^
 ||z-p42-scontent-iad3-2.cdninstagram.com^
+||z-p42-scontent-iad6-1.cdninstagram.com^
 ||z-p42-scontent-iad.cdninstagram.com^
 ||z-p42-scontent-icn2-1.cdninstagram.com^
 ||z-p42-scontent-iev1-1.cdninstagram.com^

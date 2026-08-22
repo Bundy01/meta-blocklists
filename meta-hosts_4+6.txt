@@ -1,7 +1,7 @@
 # Title: Meta Hosts (IPv4 & IPv6)
 # Description: Blocking Domains Belonging to Meta Platforms
 # Author: Bundy01
-# Last modified: 2026-08-07
+# Last modified: 2026-08-22
 # Homepage: https://github.com/Bundy01/meta-blocklists
 # Licence: https://github.com/Bundy01/meta-blocklists/blob/main/LICENSE
 # RAW: https://raw.githubusercontent.com/Bundy01/meta-blocklists/main/meta-hosts_4+6.txt
@@ -2970,6 +2970,8 @@
 :: 115-206.fbsbx.com
 0.0.0.0 115df692-a0e8-45fe-8896-c1f5dc928de3-netseer-ipaddr-assoc.xz.fbcdn.net
 :: 115df692-a0e8-45fe-8896-c1f5dc928de3-netseer-ipaddr-assoc.xz.fbcdn.net
+0.0.0.0 116-192.thefacebook.de
+:: 116-192.thefacebook.de
 0.0.0.0 116b5881-036f-45dd-a3f8-38954128fbc7-netseer-ipaddr-assoc.xz.fbcdn.net
 :: 116b5881-036f-45dd-a3f8-38954128fbc7-netseer-ipaddr-assoc.xz.fbcdn.net
 0.0.0.0 116m.facebook.com11www.facebook.com83t.co8t.co62doc.itc5www.sosscisurvey.de55im.facebook.de
@@ -6226,6 +6228,8 @@
 :: 2525252525252525252525252525252fwww.m.me
 0.0.0.0 25252525252525252525252525252fwww.m.me
 :: 25252525252525252525252525252fwww.m.me
+0.0.0.0 252525252525252525252525252fwww.m.me
+:: 252525252525252525252525252fwww.m.me
 0.0.0.0 2525252525252525252525252fwww.internalfb.com
 :: 2525252525252525252525252fwww.internalfb.com
 0.0.0.0 2525252525252525252525252fwww.m.me
@@ -7606,6 +7610,8 @@
 :: 36.0.freebasics.com
 0.0.0.0 360.i.org
 :: 360.i.org
+0.0.0.0 360-security-antivirus-free.beta.facebook.net
+:: 360-security-antivirus-free.beta.facebook.net
 0.0.0.0 360-total-security.voicestesting.com
 :: 360-total-security.voicestesting.com
 0.0.0.0 360video.fb.com
@@ -10204,6 +10210,8 @@
 :: 5-9-1.freebasics.com
 0.0.0.0 59302284648610335201252946167366072529350985108855.i.org
 :: 59302284648610335201252946167366072529350985108855.i.org
+0.0.0.0 59317.od.m.me
+:: 59317.od.m.me
 0.0.0.0 59384.internalfb.com
 :: 59384.internalfb.com
 0.0.0.0 59391127-8688-4a32-8848-426102047174-netseer-ipaddr-assoc.xz.fbcdn.net
@@ -10796,6 +10804,8 @@
 :: 632268eb-7d43-4568-9a64-0b409d406fb9-netseer-ipaddr-assoc.xz.fbcdn.net
 0.0.0.0 633163953.accountkit.com
 :: 633163953.accountkit.com
+0.0.0.0 6331od.internalfb.com
+:: 6331od.internalfb.com
 0.0.0.0 6335190f-772b-4a01-8466-bccb041d33ab-netseer-ipaddr-assoc.xz.fbcdn.net
 :: 6335190f-772b-4a01-8466-bccb041d33ab-netseer-ipaddr-assoc.xz.fbcdn.net
 0.0.0.0 63389b506e38fc346328b86b4e313eae.fb.me
@@ -16104,6 +16114,8 @@
 :: account.fcgk30-1.fna.whatsapp.net
 0.0.0.0 account.fcgk3-2.fna.whatsapp.net
 :: account.fcgk3-2.fna.whatsapp.net
+0.0.0.0 account.fcgk34-1.fna.fbcdn.net
+:: account.fcgk34-1.fna.fbcdn.net
 0.0.0.0 account.fcgk4-5.fna.whatsapp.net
 :: account.fcgk4-5.fna.whatsapp.net
 0.0.0.0 account.fcgk52-1.fna.fbcdn.net
@@ -17408,6 +17420,8 @@
 :: accountssystem.workplace.com
 0.0.0.0 accountsublevel18.internet.org
 :: accountsublevel18.internet.org
+0.0.0.0 accounts.vrvideoproduction.atmeta.com
+:: accounts.vrvideoproduction.atmeta.com
 0.0.0.0 account.thefacebook.at
 :: account.thefacebook.at
 0.0.0.0 account.thefacebook.de
@@ -20416,6 +20430,8 @@
 :: agent.0.discoverapp.com
 0.0.0.0 agent.fbsbx.com
 :: agent.fbsbx.com
+0.0.0.0 agent.meta.ai
+:: agent.meta.ai
 0.0.0.0 agents.0.discoverapp.com
 :: agents.0.discoverapp.com
 0.0.0.0 agents-ru2-cloud.fb.me
@@ -20842,6 +20858,8 @@
 :: ajax.emails.oculusvr.com
 0.0.0.0 ajbgesso.facebook.com.br
 :: ajbgesso.facebook.com.br
+0.0.0.0 ajdkwlx9z8c27mu6y50v3qgfpsi4brtneh1o.fbsbx.com
+:: ajdkwlx9z8c27mu6y50v3qgfpsi4brtneh1o.fbsbx.com
 0.0.0.0 ajg63ofiuql17petzrh0ckvxs9n54mdb8wy2.fbsbx.com
 :: ajg63ofiuql17petzrh0ckvxs9n54mdb8wy2.fbsbx.com
 0.0.0.0 ajibocaigongsi.accountkit.com
@@ -21294,6 +21312,8 @@
 :: allegro.facebook.com
 0.0.0.0 allenandoveryllpuk418.workplace.com
 :: allenandoveryllpuk418.workplace.com
+0.0.0.0 allenstps.fbsbx.com
+:: allenstps.fbsbx.com
 0.0.0.0 all.fbsbx.com
 :: all.fbsbx.com
 0.0.0.0 all.freebasics.com
@@ -24468,6 +24488,10 @@
 :: alphamediausa.fbsbx.com
 0.0.0.0 alpha.messenger.com
 :: alpha.messenger.com
+0.0.0.0 alpha.meta.ai
+:: alpha.meta.ai
+0.0.0.0 alpha.mirror.facebook.net
+:: alpha.mirror.facebook.net
 0.0.0.0 alphaneodesign925.m.workplace.com
 :: alphaneodesign925.m.workplace.com
 0.0.0.0 alphaomegalogistics307.workplace.com
@@ -24872,6 +24896,8 @@
 :: analyticsagent.internalfb.com
 0.0.0.0 analytics.apps-2210323535904466.apps.fbsbx.com
 :: analytics.apps-2210323535904466.apps.fbsbx.com
+0.0.0.0 analytics.cdn-fallback.fbsbx.com
+:: analytics.cdn-fallback.fbsbx.com
 0.0.0.0 analytics-demo.secure.latest.instagram.com
 :: analytics-demo.secure.latest.instagram.com
 0.0.0.0 analyticsevelynn.workplace.com
@@ -25986,6 +26012,8 @@
 :: apache-cdn.whatsapp.org
 0.0.0.0 apache.facebook.at
 :: apache.facebook.at
+0.0.0.0 apache.mirror.facebook.net
+:: apache.mirror.facebook.net
 0.0.0.0 apache.www.prod.onavo.com
 :: apache.www.prod.onavo.com
 0.0.0.0 apacingthepanicroomi.facebook.nl
@@ -27134,6 +27162,8 @@
 :: appcdn.thefacebook.at
 0.0.0.0 appcdn.thefacebook.de
 :: appcdn.thefacebook.de
+0.0.0.0 appcheckbluetick-lookaside.fbsbx.com
+:: appcheckbluetick-lookaside.fbsbx.com
 0.0.0.0 appcomunitadigitali.facebook.nl
 :: appcomunitadigitali.facebook.nl
 0.0.0.0 App.Config.auth.consumers.facebook.ca
@@ -28760,6 +28790,8 @@
 :: apps-1725221324256918.apps.fbsbx.com
 0.0.0.0 apps-1729244020569573.apps.fbsbx.com
 :: apps-1729244020569573.apps.fbsbx.com
+0.0.0.0 apps-1730664881256480.fbsbx.com
+:: apps-1730664881256480.fbsbx.com
 0.0.0.0 apps-1732805307026670.apps.fbsbx.com
 :: apps-1732805307026670.apps.fbsbx.com
 0.0.0.0 apps-173455408005131.fbsbx.com
@@ -30284,6 +30316,8 @@
 :: apps-2684871571774008.apps.fbsbx.com
 0.0.0.0 apps-268654700492700.apps.fbsbx.com
 :: apps-268654700492700.apps.fbsbx.com
+0.0.0.0 apps-26873632862330338.fbsbx.com
+:: apps-26873632862330338.fbsbx.com
 0.0.0.0 apps-2690191634372468.apps.fbsbx.com
 :: apps-2690191634372468.apps.fbsbx.com
 0.0.0.0 apps-2693472074192945.apps.fbsbx.com
@@ -31748,6 +31782,8 @@
 :: apps-487028831860750.apps.fbsbx.com
 0.0.0.0 apps-487626972155681.apps.fbsbx.com
 :: apps-487626972155681.apps.fbsbx.com
+0.0.0.0 apps-487713480918752.fbsbx.com
+:: apps-487713480918752.fbsbx.com
 0.0.0.0 apps-487906894882661.apps.fbsbx.com
 :: apps-487906894882661.apps.fbsbx.com
 0.0.0.0 apps-488283585710548.apps.fbsbx.com
@@ -31834,6 +31870,8 @@
 :: apps-502150750598156.apps.fbsbx.com
 0.0.0.0 apps-502517394186489.fbsbx.com
 :: apps-502517394186489.fbsbx.com
+0.0.0.0 apps-502669676025194.fbsbx.com
+:: apps-502669676025194.fbsbx.com
 0.0.0.0 apps-502814130126446.apps.fbsbx.com
 :: apps-502814130126446.apps.fbsbx.com
 0.0.0.0 apps-502918463793402.apps.fbsbx.com
@@ -33166,6 +33204,8 @@
 :: apps-956558846289800.apps.fbsbx.com
 0.0.0.0 apps-956644700396805.fbsbx.com
 :: apps-956644700396805.fbsbx.com
+0.0.0.0 apps-957123243095627.fbsbx.com
+:: apps-957123243095627.fbsbx.com
 0.0.0.0 apps-957135587777375.apps.fbsbx.com
 :: apps-957135587777375.apps.fbsbx.com
 0.0.0.0 apps-959198313032254.apps.fbsbx.com
@@ -34690,6 +34730,8 @@
 :: arteehistoriaepci.fburl.com
 0.0.0.0 artefact.facebook.com
 :: artefact.facebook.com
+0.0.0.0 artelibre.diariolibre.comon.fb.me
+:: artelibre.diariolibre.comon.fb.me
 0.0.0.0 artemonische.facebook.com.br
 :: artemonische.facebook.com.br
 0.0.0.0 artesanias.voicestesting.com
@@ -34722,6 +34764,8 @@
 :: artifactory-edge07.fb.me
 0.0.0.0 artifactory-edge1.freebasics.com
 :: artifactory-edge1.freebasics.com
+0.0.0.0 artifacts.meta.ai
+:: artifacts.meta.ai
 0.0.0.0 artificialintelligence-notes.fb.me
 :: artificialintelligence-notes.fb.me
 0.0.0.0 arti-ho-008p.messenger.com
@@ -35308,6 +35352,8 @@
 :: assets.fmex25-1.fna.whatsapp.net
 0.0.0.0 assets.fmex3-3.fna.whatsapp.net
 :: assets.fmex3-3.fna.whatsapp.net
+0.0.0.0 assets.fmex9-1.fna.whatsapp.net
+:: assets.fmex9-1.fna.whatsapp.net
 0.0.0.0 assets.fnbo9-1.fna.whatsapp.net
 :: assets.fnbo9-1.fna.whatsapp.net
 0.0.0.0 assets.fotp7-2.fna.whatsapp.net
@@ -35764,6 +35810,8 @@
 :: at-od.api.meta.com
 0.0.0.0 at-od.facebook.com
 :: at-od.facebook.com
+0.0.0.0 at-od.facebook-hardware.com
+:: at-od.facebook-hardware.com
 0.0.0.0 at-od-fallback.oculus.com
 :: at-od-fallback.oculus.com
 0.0.0.0 at-od.graph.meta.com
@@ -35772,6 +35820,8 @@
 :: at-od.instagram.com
 0.0.0.0 at-od.llama.com
 :: at-od.llama.com
+0.0.0.0 at-od.meta.ai
+:: at-od.meta.ai
 0.0.0.0 at-od.oculus.com
 :: at-od.oculus.com
 0.0.0.0 at-od.work.meta.com
@@ -35858,6 +35908,8 @@
 :: attvisitorwireless.internet.org
 0.0.0.0 aturel-pilat.frwww.facebook.co
 :: aturel-pilat.frwww.facebook.co
+0.0.0.0 at.voicestesting.com
+:: at.voicestesting.com
 0.0.0.0 atwdb.workplace.com
 :: atwdb.workplace.com
 0.0.0.0 atwww.facebook.at
@@ -36378,6 +36430,8 @@
 :: autoconfig.beta.accountkit.com
 0.0.0.0 autoconfig.beta.facebook.com
 :: autoconfig.beta.facebook.com
+0.0.0.0 autoconfig.beta.facebook.net
+:: autoconfig.beta.facebook.net
 0.0.0.0 autoconfig.beta.internet.org
 :: autoconfig.beta.internet.org
 0.0.0.0 autoconfig.blog.internet.org
@@ -38444,6 +38498,8 @@
 :: baidu.messenger.com
 0.0.0.0 baijiahao.fb.me
 :: baijiahao.fb.me
+0.0.0.0 baijiale10faze.thefacebook.de
+:: baijiale10faze.thefacebook.de
 0.0.0.0 baijialemask.facebook.net.au
 :: baijialemask.facebook.net.au
 0.0.0.0 baijialemask.messenger.com
@@ -38894,6 +38950,8 @@
 :: bbeeler.fb.me
 0.0.0.0 bbeibbeiliciousous.facebook.fr
 :: bbeibbeiliciousous.facebook.fr
+0.0.0.0 b.beta.facebook.net
+:: b.beta.facebook.net
 0.0.0.0 bbfa9277-4569-49d1-94f9-096844167195-netseer-ipaddr-assoc.xz.fbcdn.net
 :: bbfa9277-4569-49d1-94f9-096844167195-netseer-ipaddr-assoc.xz.fbcdn.net
 0.0.0.0 bb.facebook.com.br
@@ -40198,6 +40256,8 @@
 :: beta.meta.ae
 0.0.0.0 beta.metaenterprise.com
 :: beta.metaenterprise.com
+0.0.0.0 beta.mirror.facebook.net
+:: beta.mirror.facebook.net
 0.0.0.0 beta.m.me
 :: beta.m.me
 0.0.0.0 betanet-shv-03-atn1.facebook.co
@@ -43690,6 +43750,8 @@
 :: bunny0812.freebasics.com
 0.0.0.0 bunnylol.facebook.com
 :: bunnylol.facebook.com
+0.0.0.0 bunnylol.facebook.net
+:: bunnylol.facebook.net
 0.0.0.0 bunnylol.internalfb.com
 :: bunnylol.internalfb.com
 0.0.0.0 burapaprospercoltd435.workplace.com
@@ -47396,6 +47458,8 @@
 :: chat.fmex4-1.fna.whatsapp.net
 0.0.0.0 chat.fmex4-2.fna.whatsapp.net
 :: chat.fmex4-2.fna.whatsapp.net
+0.0.0.0 chat.fmex9-1.fna.whatsapp.net
+:: chat.fmex9-1.fna.whatsapp.net
 0.0.0.0 chat.fmkz1-2.fna.whatsapp.net
 :: chat.fmkz1-2.fna.whatsapp.net
 0.0.0.0 chat.fmlg11-1.fna.whatsapp.net
@@ -49128,6 +49192,8 @@
 :: classicalstudies.fbsbx.com
 0.0.0.0 classiclb.internet.org
 :: classiclb.internet.org
+0.0.0.0 classic.meta.ai
+:: classic.meta.ai
 0.0.0.0 classicswotworkshop.freebasics.com
 :: classicswotworkshop.freebasics.com
 0.0.0.0 classifiedadsgeorgia.comon.fb.me
@@ -49210,6 +49276,8 @@
 :: clerk.play.ai
 0.0.0.0 clerk.research-annotations.atmeta.com
 :: clerk.research-annotations.atmeta.com
+0.0.0.0 clerk.vrvideoproduction.atmeta.com
+:: clerk.vrvideoproduction.atmeta.com
 0.0.0.0 clevelandtn.messenger.com
 :: clevelandtn.messenger.com
 0.0.0.0 clevy.facebook.com
@@ -49440,6 +49508,8 @@
 :: click.ftrn5-2.fna.whatsapp.net
 0.0.0.0 click-gtg.fbsbx.com
 :: click-gtg.fbsbx.com
+0.0.0.0 click.internalfb.com
+:: click.internalfb.com
 0.0.0.0 click.mc.facebookmail.com
 :: click.mc.facebookmail.com
 0.0.0.0 clicknext.facebook.co
@@ -49630,6 +49700,8 @@
 :: cloud.fcgh5-2.fna.whatsapp.net
 0.0.0.0 cloud.fcgk25-2.fna.whatsapp.net
 :: cloud.fcgk25-2.fna.whatsapp.net
+0.0.0.0 cloud.fcgk34-1.fna.whatsapp.net
+:: cloud.fcgk34-1.fna.whatsapp.net
 0.0.0.0 cloud.fcgk42-1.fna.whatsapp.net
 :: cloud.fcgk42-1.fna.whatsapp.net
 0.0.0.0 cloud.fcgr10-1.fna.whatsapp.net
@@ -49786,6 +49858,8 @@
 :: cloudpanel.fb.me
 0.0.0.0 cloud-portal-covid-na-ne1-1.facebook.vn
 :: cloud-portal-covid-na-ne1-1.facebook.vn
+0.0.0.0 cloud-portal-covid-na-ne1-1.mirror.facebook.net
+:: cloud-portal-covid-na-ne1-1.mirror.facebook.net
 0.0.0.0 cloud-portal-covid-na-ne1-1.m.prod.facebook.com
 :: cloud-portal-covid-na-ne1-1.m.prod.facebook.com
 0.0.0.0 cloud-portal-production-web-custom-covid-na-ne1-1.alpha.accountkit.com
@@ -50408,6 +50482,8 @@
 :: cocnl.facebook.com
 0.0.0.0 cocnl.workplace.com
 :: cocnl.workplace.com
+0.0.0.0 cocn.messenger.com
+:: cocn.messenger.com
 0.0.0.0 cocoba818.workplace.com
 :: cocoba818.workplace.com
 0.0.0.0 cocodesiles.facebook.fr
@@ -50426,6 +50502,8 @@
 :: cocorico.facebook.se
 0.0.0.0 cocovida.fquestions.com
 :: cocovida.fquestions.com
+0.0.0.0 cocovida.mirror.facebook.net
+:: cocovida.mirror.facebook.net
 0.0.0.0 cocugumlaeglenirken.freebasics.com
 :: cocugumlaeglenirken.freebasics.com
 0.0.0.0 code.accountkit.com
@@ -51100,6 +51178,8 @@
 :: comm.fb.me
 0.0.0.0 comm.htmlm.facebook.co.za
 :: comm.htmlm.facebook.co.za
+0.0.0.0 com.mirror.facebook.net
+:: com.mirror.facebook.net
 0.0.0.0 com.m.me
 :: com.m.me
 0.0.0.0 commobile.fb.me
@@ -51858,6 +51938,8 @@
 :: connectassistance.workplace.com
 0.0.0.0 connect.beta.facebook.com
 :: connect.beta.facebook.com
+0.0.0.0 connect.beta.facebook.net
+:: connect.beta.facebook.net
 0.0.0.0 connected.internet.org
 :: connected.internet.org
 0.0.0.0 connect.f8.net
@@ -52924,6 +53006,8 @@
 :: cpanel.wavegroup.com
 0.0.0.0 cpanel.workplace.com
 :: cpanel.workplace.com
+0.0.0.0 cpan.mirror.facebook.net
+:: cpan.mirror.facebook.net
 0.0.0.0 cpapcenter.comon.fb.me
 :: cpapcenter.comon.fb.me
 0.0.0.0 cpap-masks-ebook.internet.org
@@ -53362,6 +53446,8 @@
 :: creators.prod.facebook.com
 0.0.0.0 creator-staging.facebook.com.ve
 :: creator-staging.facebook.com.ve
+0.0.0.0 creatorstudio.facebook.com
+:: creatorstudio.facebook.com
 0.0.0.0 creatorsupport.instagram.com
 :: creatorsupport.instagram.com
 0.0.0.0 creatps.facebook.com
@@ -54228,6 +54314,8 @@
 :: cybercoedoctrine.freebasics.com
 0.0.0.0 cybercrimeconference.accountkit.com
 :: cybercrimeconference.accountkit.com
+0.0.0.0 cyber.fb.me
+:: cyber.fb.me
 0.0.0.0 cyberian.workplace.com
 :: cyberian.workplace.com
 0.0.0.0 cyberkidvietnam.workplace.com
@@ -57080,6 +57168,8 @@
 :: denki.fb.me
 0.0.0.0 denpa.fburl.com
 :: denpa.fburl.com
+0.0.0.0 densi.thefacebook.de
+:: densi.thefacebook.de
 0.0.0.0 densomaketinguofisu024.workplace.com
 :: densomaketinguofisu024.workplace.com
 0.0.0.0 densosa.workplace.com
@@ -58870,6 +58960,8 @@
 :: developers-netherlands.wk.pl
 0.0.0.0 developers.new.facebook.com
 :: developers.new.facebook.com
+0.0.0.0 developers-new.facebook.net
+:: developers-new.facebook.net
 0.0.0.0 developersnibble.facebook.pl
 :: developersnibble.facebook.pl
 0.0.0.0 developers.nl-nl.es-la.prod.facebook.com
@@ -60012,6 +60104,8 @@
 :: devmestaoper.facebook.com.au
 0.0.0.0 dev.meta.ae
 :: dev.meta.ae
+0.0.0.0 dev.meta.ai
+:: dev.meta.ai
 0.0.0.0 devmilkenoper.facebook.com.br
 :: devmilkenoper.facebook.com.br
 0.0.0.0 devmlillopers.facebook.com.br
@@ -62024,6 +62118,8 @@
 :: domain.facebook.org
 0.0.0.0 domain-fb.workplace.com
 :: domain-fb.workplace.com
+0.0.0.0 domainingamericas.comon.fb.me
+:: domainingamericas.comon.fb.me
 0.0.0.0 domainlocking.accountkit.com
 :: domainlocking.accountkit.com
 0.0.0.0 domainmanagement.facebook.com.ar
@@ -63804,6 +63900,8 @@
 :: ecsmidatlantic488.workplace.com
 0.0.0.0 ecs.voicestesting.com
 :: ecs.voicestesting.com
+0.0.0.0 ecto1.meta.ai
+:: ecto1.meta.ai
 0.0.0.0 ecuadorerotico.freebasics.com
 :: ecuadorerotico.freebasics.com
 0.0.0.0 ecudemo12810.internet.org
@@ -64182,6 +64280,8 @@
 :: edge-chat.facebook.com
 0.0.0.0 edge-chat.facebook.com.br
 :: edge-chat.facebook.com.br
+0.0.0.0 edge-chat.facebook.net
+:: edge-chat.facebook.net
 0.0.0.0 edge-chat-fallback.facebook.com
 :: edge-chat-fallback.facebook.com
 0.0.0.0 edge-chat-fallback.instagram.com
@@ -64218,6 +64318,8 @@
 :: edge-chat.oculus.com
 0.0.0.0 edge-chat.p.facebook.com
 :: edge-chat.p.facebook.com
+0.0.0.0 edge-chat.socialplugin.facebook.net
+:: edge-chat.socialplugin.facebook.net
 0.0.0.0 edge-chat.work.meta.com
 :: edge-chat.work.meta.com
 0.0.0.0 edge-chat.workplace.com
@@ -65370,6 +65472,8 @@
 :: edge.fbjs.facebook.com
 0.0.0.0 edge-fblite-ws-p1-shv-01-tpe1.fb.me
 :: edge-fblite-ws-p1-shv-01-tpe1.fb.me
+0.0.0.0 edge.fb.me
+:: edge.fb.me
 0.0.0.0 edge.fbsbx.com
 :: edge.fbsbx.com
 0.0.0.0 edge-fwdproxy-1-bgp-61-amt2.fbsbx.com
@@ -65396,6 +65500,8 @@
 :: edge-ig-dgw-p42-shv-01-bkk1.facebook.com
 0.0.0.0 edge-ig-dgw-p42-shv-01-bos5.facebook.com
 :: edge-ig-dgw-p42-shv-01-bos5.facebook.com
+0.0.0.0 edge-ig-dgw-p42-shv-01-bru2.facebook.com
+:: edge-ig-dgw-p42-shv-01-bru2.facebook.com
 0.0.0.0 edge-ig-dgw-p42-shv-01-cdg4.facebook.com
 :: edge-ig-dgw-p42-shv-01-cdg4.facebook.com
 0.0.0.0 edge-ig-dgw-p42-shv-01-cgk1.facebook.com
@@ -65656,6 +65762,8 @@
 :: edge-ig-dgw-shv-01-mxp2.facebook.com
 0.0.0.0 edge-ig-dgw-shv-01-nrt1.facebook.com
 :: edge-ig-dgw-shv-01-nrt1.facebook.com
+0.0.0.0 edge-ig-dgw-shv-01-nrt6.facebook.com
+:: edge-ig-dgw-shv-01-nrt6.facebook.com
 0.0.0.0 edge-ig-dgw-shv-01-ord5.facebook.com
 :: edge-ig-dgw-shv-01-ord5.facebook.com
 0.0.0.0 edge-ig-dgw-shv-01-otp1.facebook.com
@@ -68378,6 +68486,8 @@
 :: edge-star-mini-shv-02-cgk2.facebook.com
 0.0.0.0 edge-star-mini-shv-02-del2.facebook.com
 :: edge-star-mini-shv-02-del2.facebook.com
+0.0.0.0 edge-star-mini-shv-02-del3.facebook.com
+:: edge-star-mini-shv-02-del3.facebook.com
 0.0.0.0 edge-star-mini-shv-02-dfw5.facebook.com
 :: edge-star-mini-shv-02-dfw5.facebook.com
 0.0.0.0 edge-star-mini-shv-02-dfw5.facebook.org
@@ -72220,6 +72330,8 @@
 :: email.whatsapp.org.uk
 0.0.0.0 email.whatsapp.tw
 :: email.whatsapp.tw
+0.0.0.0 email.with.in
+:: email.with.in
 0.0.0.0 email.wk.pl
 :: email.wk.pl
 0.0.0.0 email.workplace.com
@@ -73590,6 +73702,8 @@
 :: es-la.beta.messenger.com
 0.0.0.0 es-la.c.facebook.com
 :: es-la.c.facebook.com
+0.0.0.0 es-la.cs-cz.fb.me
+:: es-la.cs-cz.fb.me
 0.0.0.0 es-la.cs-cz.ro-ro.fbjs.facebook.com
 :: es-la.cs-cz.ro-ro.fbjs.facebook.com
 0.0.0.0 es-la.da-dk.c.facebook.com
@@ -75270,6 +75384,8 @@
 :: external.fbsb1-1.fna.fbcdn.net
 0.0.0.0 external.fbsb23-1.fna.fbcdn.net
 :: external.fbsb23-1.fna.fbcdn.net
+0.0.0.0 external.fbsb3-1.fna.fbcdn.net
+:: external.fbsb3-1.fna.fbcdn.net
 0.0.0.0 external.fbsb6-1.fna.fbcdn.net
 :: external.fbsb6-1.fna.fbcdn.net
 0.0.0.0 external.fbsb9-1.fna.fbcdn.net
@@ -76548,6 +76664,8 @@
 :: external.fpew1-1.fna.fbcdn.net
 0.0.0.0 external.fpew3-1.fna.fbcdn.net
 :: external.fpew3-1.fna.fbcdn.net
+0.0.0.0 external.fpew4-1.fna.fbcdn.net
+:: external.fpew4-1.fna.fbcdn.net
 0.0.0.0 external.fpfb1-1.fna.fbcdn.net
 :: external.fpfb1-1.fna.fbcdn.net
 0.0.0.0 external.fpfo1-1.fna.fbcdn.net
@@ -78660,14 +78778,14 @@
 :: facebook.ink
 0.0.0.0 facebookinnigeria.fb.com
 :: facebookinnigeria.fb.com
+0.0.0.0 facebook.instagram.beta.facebook.net
+:: facebook.instagram.beta.facebook.net
 0.0.0.0 facebook.internalfb.com
 :: facebook.internalfb.com
 0.0.0.0 facebook.internet.org
 :: facebook.internet.org
 0.0.0.0 facebook.i.org
 :: facebook.i.org
-0.0.0.0 facebook.ir
-:: facebook.ir
 0.0.0.0 facebook.irish
 :: facebook.irish
 0.0.0.0 facebook.ist
@@ -79650,8 +79768,6 @@
 :: fb.beta.messenger.com
 0.0.0.0 fb.biz
 :: fb.biz
-0.0.0.0 fb.careers
-:: fb.careers
 0.0.0.0 fbcdn.com
 :: fbcdn.com
 0.0.0.0 fbcdn.facebook.co
@@ -80118,6 +80234,8 @@
 :: federruckhaltgebenhomepagewww.fcg-wien-aps.atfacebookwww.facebook.co
 0.0.0.0 fedexfreight.workplace.com
 :: fedexfreight.workplace.com
+0.0.0.0 fedora.mirror.facebook.net
+:: fedora.mirror.facebook.net
 0.0.0.0 fedrigoni.workplace.com
 :: fedrigoni.workplace.com
 0.0.0.0 fedyancovy.internet.org
@@ -80588,6 +80706,8 @@
 :: files.freebasics.com
 0.0.0.0 filesicfp.chauffeur.9bafdd6a-1595-496d-8fb4-c4635925550a-netseer-ipaddr-assoc.xz.fbcdn.net
 :: filesicfp.chauffeur.9bafdd6a-1595-496d-8fb4-c4635925550a-netseer-ipaddr-assoc.xz.fbcdn.net
+0.0.0.0 files.internalfb.com
+:: files.internalfb.com
 0.0.0.0 files.internet.org
 :: files.internet.org
 0.0.0.0 files.messenger.com
@@ -81620,6 +81740,8 @@
 :: fna-fbcdn-z-m-shv-01-faqp7.fbcdn.net
 0.0.0.0 fna-fbcdn-z-m-shv-01-fbeg10.fbcdn.net
 :: fna-fbcdn-z-m-shv-01-fbeg10.fbcdn.net
+0.0.0.0 fna-fbcdn-z-m-shv-01-fbgw68.fbcdn.net
+:: fna-fbcdn-z-m-shv-01-fbgw68.fbcdn.net
 0.0.0.0 fna-fbcdn-z-m-shv-01-fbkk5.fbcdn.net
 :: fna-fbcdn-z-m-shv-01-fbkk5.fbcdn.net
 0.0.0.0 fna-fbcdn-z-m-shv-01-fblq7.fbcdn.net
@@ -83916,6 +84038,8 @@
 :: forum.facebook.us
 0.0.0.0 forum.facebook.vn
 :: forum.facebook.vn
+0.0.0.0 forum.familycenter.messenger.com
+:: forum.familycenter.messenger.com
 0.0.0.0 forum.fb.je
 :: forum.fb.je
 0.0.0.0 forum.fbjs.facebook.com
@@ -86002,6 +86126,8 @@
 :: gac-rds-external-readonly-preprod.dns.facebook.com
 0.0.0.0 gac-rds-external-readonly-preprod.fbjs.facebook.com
 :: gac-rds-external-readonly-preprod.fbjs.facebook.com
+0.0.0.0 gadalkaeva.voicestesting.com
+:: gadalkaeva.voicestesting.com
 0.0.0.0 gademiaorange.plwww.facebook.co
 :: gademiaorange.plwww.facebook.co
 0.0.0.0 gadgetvn.workplace.com
@@ -87074,6 +87200,8 @@
 :: ghostfacemask.accountkit.com
 0.0.0.0 ghostfacemask.messenger.com
 :: ghostfacemask.messenger.com
+0.0.0.0 ghost.thefacebook.de
+:: ghost.thefacebook.de
 0.0.0.0 gho.workplace.com
 :: gho.workplace.com
 0.0.0.0 ghs04022.messenger.com
@@ -91920,8 +92048,12 @@
 :: hasp.fb.me
 0.0.0.0 haswpl.workplace.com
 :: haswpl.workplace.com
+0.0.0.0 hatch-api.meta.ai
+:: hatch-api.meta.ai
 0.0.0.0 hatch.internalfb.com
 :: hatch.internalfb.com
+0.0.0.0 hatch.meta.ai
+:: hatch.meta.ai
 0.0.0.0 haticeseyitceker.internet.org
 :: haticeseyitceker.internet.org
 0.0.0.0 hattingenwww.hattinger-fluechtlingshilfe.dewww.facebook.de
@@ -102618,6 +102750,8 @@
 :: https-ngstudentforum-com-ng.0.freebasics.com
 0.0.0.0 https-n.mobile.twitter.byrdfletcher.ninecircuit.prl.facebook.org
 :: https-n.mobile.twitter.byrdfletcher.ninecircuit.prl.facebook.org
+0.0.0.0 https-oad-clsu2-edu-ph.0.discoverapp.com
+:: https-oad-clsu2-edu-ph.0.discoverapp.com
 0.0.0.0 https-odr-mookie1-com.0.discoverapp.com
 :: https-odr-mookie1-com.0.discoverapp.com
 0.0.0.0 https-office-planpromatrix-com.0.freebasics.com
@@ -106494,6 +106628,8 @@
 :: images6.messenger.com
 0.0.0.0 images.apps-474443516378085.apps.fbsbx.com
 :: images.apps-474443516378085.apps.fbsbx.com
+0.0.0.0 images.attachment.fbsbx.com
+:: images.attachment.fbsbx.com
 0.0.0.0 images.beta.facebook.com
 :: images.beta.facebook.com
 0.0.0.0 images.beta.github.latest.instagram.com
@@ -109820,6 +109956,8 @@
 :: instagram.fcgk33-1.fna.fbcdn.net
 0.0.0.0 instagram.fcgk3-3.fna.fbcdn.net
 :: instagram.fcgk3-3.fna.fbcdn.net
+0.0.0.0 instagram.fcgk34-1.fna.fbcdn.net
+:: instagram.fcgk34-1.fna.fbcdn.net
 0.0.0.0 instagram.fcgk3-4.fna.fbcdn.net
 :: instagram.fcgk3-4.fna.fbcdn.net
 0.0.0.0 instagram.fcgk35-1.fna.fbcdn.net
@@ -110292,6 +110430,8 @@
 :: instagram.fdac20-1.fna.fbcdn.net
 0.0.0.0 instagram.fdac2-1.fna.fbcdn.net
 :: instagram.fdac2-1.fna.fbcdn.net
+0.0.0.0 instagram.fdac22-1.fna.fbcdn.net
+:: instagram.fdac22-1.fna.fbcdn.net
 0.0.0.0 instagram.fdac22-2.fna.fbcdn.net
 :: instagram.fdac22-2.fna.fbcdn.net
 0.0.0.0 instagram.fdac2-2.fna.fbcdn.net
@@ -116344,6 +116484,8 @@
 :: instagram-p3-shv-01-los4.fbcdn.net
 0.0.0.0 instagram-p3-shv-01-maa2.internalfb.com
 :: instagram-p3-shv-01-maa2.internalfb.com
+0.0.0.0 instagram-p3-shv-01-maa3.fbcdn.net
+:: instagram-p3-shv-01-maa3.fbcdn.net
 0.0.0.0 instagram-p3-shv-01-maa5.fbcdn.net
 :: instagram-p3-shv-01-maa5.fbcdn.net
 0.0.0.0 instagram-p3-shv-01-mad1.fbcdn.net
@@ -121246,6 +121388,8 @@
 :: jenkins-developers.wk.pl
 0.0.0.0 jenkins.facebook.com.br
 :: jenkins.facebook.com.br
+0.0.0.0 jenkins.fb.me
+:: jenkins.fb.me
 0.0.0.0 jenkins-ghcpinodewebproxy.workplace.com
 :: jenkins-ghcpinodewebproxy.workplace.com
 0.0.0.0 jenkinskulsvpndev01-dmz.internalfb.com
@@ -125346,6 +125490,8 @@
 :: libero.itwww.facebook.it
 0.0.0.0 libertyagents.workplace.com
 :: libertyagents.workplace.com
+0.0.0.0 liberty-healthcare.fbsbx.com
+:: liberty-healthcare.fbsbx.com
 0.0.0.0 libertyworkplace814.workplace.com
 :: libertyworkplace814.workplace.com
 0.0.0.0 lib.fb.me
@@ -125508,6 +125654,8 @@
 :: lighthouselearning.workplace.com
 0.0.0.0 lightning.4fgraph3.accountkit.com
 :: lightning.4fgraph3.accountkit.com
+0.0.0.0 lightning-edge.facebook.net
+:: lightning-edge.facebook.net
 0.0.0.0 lightricks.workplace.com
 :: lightricks.workplace.com
 0.0.0.0 lightshot.fbsbx.com
@@ -126568,6 +126716,8 @@
 :: llive.messenger.com
 0.0.0.0 lll.i.org
 :: lll.i.org
+0.0.0.0 ll.m.me
+:: ll.m.me
 0.0.0.0 lloydminsterwww.facebook.ca
 :: lloydminsterwww.facebook.ca
 0.0.0.0 lltb.secure.latest.instagram.com
@@ -127460,6 +127610,8 @@
 :: l.pl-pl.es-es.roro.fbjs.facebook.com
 0.0.0.0 l.pl-pl.ru-ru.pl-pl.lite.facebook.com
 :: l.pl-pl.ru-ru.pl-pl.lite.facebook.com
+0.0.0.0 l.p.messenger.com
+:: l.p.messenger.com
 0.0.0.0 lppm.workplace.com
 :: lppm.workplace.com
 0.0.0.0 lprimtest.messenger.com
@@ -128300,6 +128452,8 @@
 :: maarvin.koubemba.facebook.fr
 0.0.0.0 maawaytechnologypvtltd966.workplace.com
 :: maawaytechnologypvtltd966.workplace.com
+0.0.0.0 mabasic.beta.facebook.net
+:: mabasic.beta.facebook.net
 0.0.0.0 mabinogi.fburl.com
 :: mabinogi.fburl.com
 0.0.0.0 mabossswelweb1.fb.me
@@ -130274,6 +130428,8 @@
 :: mbeauty.workplace.com
 0.0.0.0 m.beta.facebook.com
 :: m.beta.facebook.com
+0.0.0.0 m.beta.facebook.net
+:: m.beta.facebook.net
 0.0.0.0 m.beta.internet.org
 :: m.beta.internet.org
 0.0.0.0 m.beta.workplace.com
@@ -136398,6 +136554,8 @@
 :: mightyparty.internet.org
 0.0.0.0 migrate.workplace.com
 :: migrate.workplace.com
+0.0.0.0 migration.meta.ai
+:: migration.meta.ai
 0.0.0.0 migsopcubed849.workplace.com
 :: migsopcubed849.workplace.com
 0.0.0.0 mi.internet.org
@@ -136628,6 +136786,8 @@
 :: mirror.accountkit.com
 0.0.0.0 mirrorbeta-securitymc.latest.instagram.com
 :: mirrorbeta-securitymc.latest.instagram.com
+0.0.0.0 mirror-ext.facebook.net
+:: mirror-ext.facebook.net
 0.0.0.0 mirror.f8.net
 :: mirror.f8.net
 0.0.0.0 mirror.facebook.at
@@ -137196,6 +137356,8 @@
 :: m-livestream-lookaside.facebook.com
 0.0.0.0 mll135.messenger.com
 :: mll135.messenger.com
+0.0.0.0 m.l.messenger.com
+:: m.l.messenger.com
 0.0.0.0 ml.messenger.com
 :: ml.messenger.com
 0.0.0.0 mlms.internalfb.com
@@ -137274,6 +137436,8 @@
 :: mmh.whatsapp.net
 0.0.0.0 mm.internet.org
 :: mm.internet.org
+0.0.0.0 m.mirror.facebook.net
+:: m.mirror.facebook.net
 0.0.0.0 mmitts.malaysia.facebook.co
 :: mmitts.malaysia.facebook.co
 0.0.0.0 m.m.lite.facebook.com
@@ -138084,6 +138248,8 @@
 :: moviegenai.ai
 0.0.0.0 moviegenai.org
 :: moviegenai.org
+0.0.0.0 moviegen.studio
+:: moviegen.studio
 0.0.0.0 movies2015-09-10.internet.org
 :: movies2015-09-10.internet.org
 0.0.0.0 movies.freebasics.com
@@ -138104,6 +138270,8 @@
 :: movistar.messenger.com
 0.0.0.0 mozarttafensw.fb.me
 :: mozarttafensw.fb.me
+0.0.0.0 mozilla.mirror.facebook.net
+:: mozilla.mirror.facebook.net
 0.0.0.0 mozsoccer.workplace.com
 :: mozsoccer.workplace.com
 0.0.0.0 mp3cutter.fburl.com
@@ -140714,6 +140882,8 @@
 :: mysql.messenger.com
 0.0.0.0 mysql.m.facebook.com
 :: mysql.m.facebook.com
+0.0.0.0 mysql.mirror.facebook.net
+:: mysql.mirror.facebook.net
 0.0.0.0 mysql.m.workplace.com
 :: mysql.m.workplace.com
 0.0.0.0 mysql.on.fb.me
@@ -141324,6 +141494,8 @@
 :: naturwacht.dewww.facebook.de
 0.0.0.0 naturwacht.dewww.naturwacht.dewww.facebook.de
 :: naturwacht.dewww.naturwacht.dewww.facebook.de
+0.0.0.0 natuursoep.beon.fb.me
+:: natuursoep.beon.fb.me
 0.0.0.0 natygomez.facebook.com.ar
 :: natygomez.facebook.com.ar
 0.0.0.0 naudistancelearnadmin.internet.org
@@ -142426,6 +142598,8 @@
 :: newsletters.workplace.com
 0.0.0.0 news.lightbox.ch
 :: news.lightbox.ch
+0.0.0.0 news.lookaside.fbsbx.com
+:: news.lookaside.fbsbx.com
 0.0.0.0 newsmatome.internalfb.com
 :: newsmatome.internalfb.com
 0.0.0.0 news.messenger.com
@@ -142806,6 +142980,8 @@
 :: nic.m.me
 0.0.0.0 nicotest.facebook.com
 :: nicotest.facebook.com
+0.0.0.0 nicovideo.beta.facebook.net
+:: nicovideo.beta.facebook.net
 0.0.0.0 nicovideo.cdn.accountkit.com
 :: nicovideo.cdn.accountkit.com
 0.0.0.0 nicuvar.freebasics.com
@@ -143826,6 +144002,8 @@
 :: ns3.fbjs.facebook.com
 0.0.0.0 ns3.fb.me
 :: ns3.fb.me
+0.0.0.0 ns3.internalfb.com
+:: ns3.internalfb.com
 0.0.0.0 ns3.internet.org
 :: ns3.internet.org
 0.0.0.0 ns3.messenger.com
@@ -144526,6 +144704,8 @@
 :: oct-webdb-platform-lookaside.fbsbx.com
 0.0.0.0 oculimundienclase.workplace.com
 :: oculimundienclase.workplace.com
+0.0.0.0 oculusacademy.com
+:: oculusacademy.com
 0.0.0.0 oculusacademy.net
 :: oculusacademy.net
 0.0.0.0 oculusacademy.org
@@ -144642,8 +144822,6 @@
 :: oculus.ceo
 0.0.0.0 oculus.charity
 :: oculus.charity
-0.0.0.0 oculus.chat
-:: oculus.chat
 0.0.0.0 oculus.cheap
 :: oculus.cheap
 0.0.0.0 oculus.christmas
@@ -144836,8 +145014,6 @@
 :: oculus.gives
 0.0.0.0 oculus.glass
 :: oculus.glass
-0.0.0.0 oculus.gmbh
-:: oculus.gmbh
 0.0.0.0 oculus.gold
 :: oculus.gold
 0.0.0.0 oculus.golf
@@ -144920,6 +145096,8 @@
 :: oculus.joburg
 0.0.0.0 oculus.juegos
 :: oculus.juegos
+0.0.0.0 oculus.kaufen
+:: oculus.kaufen
 0.0.0.0 oculus.kim
 :: oculus.kim
 0.0.0.0 oculus.kitchen
@@ -144940,6 +145118,8 @@
 :: oculus.lgbt
 0.0.0.0 oculus.life
 :: oculus.life
+0.0.0.0 oculus.limited
+:: oculus.limited
 0.0.0.0 oculus.limo
 :: oculus.limo
 0.0.0.0 oculus.link
@@ -146638,6 +146818,8 @@
 :: operamini.internet.org
 0.0.0.0 opera-mini-repo.fb.me
 :: opera-mini-repo.fb.me
+0.0.0.0 opera.mirror.facebook.net
+:: opera.mirror.facebook.net
 0.0.0.0 operatiebomenbuurt.thefacebook.at
 :: operatiebomenbuurt.thefacebook.at
 0.0.0.0 operationhammond.workplace.com
@@ -148734,6 +148916,8 @@
 :: pdsa.facebook.com
 0.0.0.0 pdsa.workplace.com
 :: pdsa.workplace.com
+0.0.0.0 pdu1b.thefacebook.at
+:: pdu1b.thefacebook.at
 0.0.0.0 pdw-edge.facebookdownloader.com
 :: pdw-edge.facebookdownloader.com
 0.0.0.0 pdx-1-gateway.dev.us-west-2.vdi.fb.com
@@ -149288,6 +149472,8 @@
 :: phplist.internet.org
 0.0.0.0 php.messenger.com
 :: php.messenger.com
+0.0.0.0 php.mirror.facebook.net
+:: php.mirror.facebook.net
 0.0.0.0 phpmyadmin.facebook.com.br
 :: phpmyadmin.facebook.com.br
 0.0.0.0 phpportal.telkomsel.affle.sg.fb.me
@@ -152438,6 +152624,8 @@
 :: profile.facebook.pl
 0.0.0.0 profile.facebook.us
 :: profile.facebook.us
+0.0.0.0 profile.fb.me
+:: profile.fb.me
 0.0.0.0 profilegfs204n143.facebook.com.br
 :: profilegfs204n143.facebook.com.br
 0.0.0.0 profile.networks.facebook.us
@@ -152492,6 +152680,8 @@
 :: prof.messenger.com
 0.0.0.0 profmilton.facebook.com.br
 :: profmilton.facebook.com.br
+0.0.0.0 proftpd.mirror.facebook.net
+:: proftpd.mirror.facebook.net
 0.0.0.0 progaming.workplace.com
 :: progaming.workplace.com
 0.0.0.0 progepe.accountkit.com
@@ -152586,6 +152776,8 @@
 :: pro.messenger.com
 0.0.0.0 prometheus-2.internet.org
 :: prometheus-2.internet.org
+0.0.0.0 prometheus.attachment.fbsbx.com
+:: prometheus.attachment.fbsbx.com
 0.0.0.0 prometheus-cust-eng.facebook.jp
 :: prometheus-cust-eng.facebook.jp
 0.0.0.0 promise11.internet.org
@@ -153728,6 +153920,8 @@
 :: puskesmaskota.messenger.com
 0.0.0.0 putpay.accountkit.com
 :: putpay.accountkit.com
+0.0.0.0 putty.mirror.facebook.net
+:: putty.mirror.facebook.net
 0.0.0.0 put.wk.pl
 :: put.wk.pl
 0.0.0.0 puyoko.workplace.com
@@ -155256,8 +155450,12 @@
 :: registros.freebasics.com
 0.0.0.0 registry-apps-436896427524778.fbsbx.com
 :: registry-apps-436896427524778.fbsbx.com
+0.0.0.0 registry.facebook.net
+:: registry.facebook.net
 0.0.0.0 registryweb57.internet.org
 :: registryweb57.internet.org
+0.0.0.0 registry.x2p.facebook.net
+:: registry.x2p.facebook.net
 0.0.0.0 regnskapnorge.workplace.com
 :: regnskapnorge.workplace.com
 0.0.0.0 regObj.facebook.us
@@ -155300,6 +155498,8 @@
 :: relay1.facebook.com.br
 0.0.0.0 relay1.freebasics.com
 :: relay1.freebasics.com
+0.0.0.0 relay1.oculus.fi
+:: relay1.oculus.fi
 0.0.0.0 relay1p4.freebasics.com
 :: relay1p4.freebasics.com
 0.0.0.0 relay2.facebook.com.br
@@ -155610,6 +155810,8 @@
 :: repo549222501883502appsbrand.fbsbx.com
 0.0.0.0 repoo1brasil.accountkit.com
 :: repoo1brasil.accountkit.com
+0.0.0.0 repo.reactnative.dev
+:: repo.reactnative.dev
 0.0.0.0 reportermaceio.facebook.com.ve
 :: reportermaceio.facebook.com.ve
 0.0.0.0 reportforamerica682.workplace.com
@@ -155634,6 +155836,8 @@
 :: repositoriobiblioteca.freebasics.com
 0.0.0.0 repositoryapps.fbsbx.com
 :: repositoryapps.fbsbx.com
+0.0.0.0 repostage.reactnative.dev
+:: repostage.reactnative.dev
 0.0.0.0 repowww.wk.pl
 :: repowww.wk.pl
 0.0.0.0 repssrs01.facebook.dk
@@ -155682,6 +155886,8 @@
 :: research.internet.org
 0.0.0.0 research.mapillary.com
 :: research.mapillary.com
+0.0.0.0 research.meta.ai
+:: research.meta.ai
 0.0.0.0 researchn.i.n.i.org
 :: researchn.i.n.i.org
 0.0.0.0 reseauentreprendre.facebook.com
@@ -155872,6 +156078,8 @@
 :: retro-mj.freebasics.com
 0.0.0.0 retrorides.fburl.com
 :: retrorides.fburl.com
+0.0.0.0 retrovirus.beta.facebook.net
+:: retrovirus.beta.facebook.net
 0.0.0.0 retrovirus.fb.me
 :: retrovirus.fb.me
 0.0.0.0 retrovirus.internet.org
@@ -156926,6 +157134,8 @@
 :: rts.comwww.facebook.co
 0.0.0.0 rttys.ucentral.pe.xwf.internet.org
 :: rttys.ucentral.pe.xwf.internet.org
+0.0.0.0 ru2-wr-baas.facebook.com.tw
+:: ru2-wr-baas.facebook.com.tw
 0.0.0.0 ruangguru841.m.workplace.com
 :: ruangguru841.m.workplace.com
 0.0.0.0 ruanne.moreno.rsj.facebook.fr
@@ -157286,6 +157496,8 @@
 :: s347.internet.org
 0.0.0.0 s3arquellesthurman.fb.me
 :: s3arquellesthurman.fb.me
+0.0.0.0 s3.attachment.fbsbx.com
+:: s3.attachment.fbsbx.com
 0.0.0.0 s3axosoft-pc1mdc.internalfb.com
 :: s3axosoft-pc1mdc.internalfb.com
 0.0.0.0 s3beta.latest.instagram.com
@@ -157596,6 +157808,8 @@
 :: samedayprinting.fb.me
 0.0.0.0 samemogu.messenger.com
 :: samemogu.messenger.com
+0.0.0.0 s.a.messenger.com
+:: s.a.messenger.com
 0.0.0.0 sametime.internet.org
 :: sametime.internet.org
 0.0.0.0 samford.facebook.co
@@ -157656,6 +157870,8 @@
 :: sandbox-asuperb02-abrahamloa.fb.me
 0.0.0.0 sandbox.emails.oculusvr.com
 :: sandbox.emails.oculusvr.com
+0.0.0.0 sandbox.embed.fbsbx.com
+:: sandbox.embed.fbsbx.com
 0.0.0.0 sandboxers.facebook.de
 :: sandboxers.facebook.de
 0.0.0.0 sandbox.facebook.com
@@ -162338,6 +162554,8 @@
 :: scontent.fdac20-1.fna.fbcdn.net
 0.0.0.0 scontent.fdac2-1.fna.fbcdn.net
 :: scontent.fdac2-1.fna.fbcdn.net
+0.0.0.0 scontent.fdac22-1.fna.fbcdn.net
+:: scontent.fdac22-1.fna.fbcdn.net
 0.0.0.0 scontent.fdac22-2.fna.fbcdn.net
 :: scontent.fdac22-2.fna.fbcdn.net
 0.0.0.0 scontent.fdac2-2.fna.fbcdn.net
@@ -170584,6 +170802,8 @@
 :: scontent-hyd1-2.cdninstagram.com
 0.0.0.0 scontent-hyd1-2.oculuscdn.com
 :: scontent-hyd1-2.oculuscdn.com
+0.0.0.0 scontent-iad10-1.cdninstagram.com
+:: scontent-iad10-1.cdninstagram.com
 0.0.0.0 scontent-iad3-1.cdninstagram.com
 :: scontent-iad3-1.cdninstagram.com
 0.0.0.0 scontent-iad3-1.oculuscdn.com
@@ -170634,6 +170854,8 @@
 :: scontent-ist1-2.oculuscdn.com
 0.0.0.0 scontent-ist1-2.xx.fbcdn.net
 :: scontent-ist1-2.xx.fbcdn.net
+0.0.0.0 scontent-ist2-1.cdninstagram.com
+:: scontent-ist2-1.cdninstagram.com
 0.0.0.0 scontent-itm1-1.cdninstagram.com
 :: scontent-itm1-1.cdninstagram.com
 0.0.0.0 scontent-itm1-1.oculuscdn.com
@@ -171182,6 +171404,8 @@
 :: scontent-tpe1-1.oculuscdn.com
 0.0.0.0 scontent-tpe1-1.xx.fbcdn.net
 :: scontent-tpe1-1.xx.fbcdn.net
+0.0.0.0 scontent-tpe5-1.cdninstagram.com
+:: scontent-tpe5-1.cdninstagram.com
 0.0.0.0 scontent-tpe.cdninstagram.com
 :: scontent-tpe.cdninstagram.com
 0.0.0.0 scontent-tpe.xx.fbcdn.net
@@ -175640,6 +175864,8 @@
 :: shortwave-fallback.instagram.com
 0.0.0.0 shortwave.instagram.com
 :: shortwave.instagram.com
+0.0.0.0 shortwave.meta.ai
+:: shortwave.meta.ai
 0.0.0.0 shota.www-0-78.accountkit.com
 :: shota.www-0-78.accountkit.com
 0.0.0.0 shotgunned.internet.org
@@ -176908,6 +177134,8 @@
 :: skype.messenger.com
 0.0.0.0 skyrr-exchpf1.fb.me
 :: skyrr-exchpf1.fb.me
+0.0.0.0 slack.endaga.com
+:: slack.endaga.com
 0.0.0.0 slackware.freebasics.com
 :: slackware.freebasics.com
 0.0.0.0 slac.messenger.com
@@ -178114,6 +178342,8 @@
 :: social.oculus.de
 0.0.0.0 socialoutliercom.workplace.com
 :: socialoutliercom.workplace.com
+0.0.0.0 socialplugin.facebook.net
+:: socialplugin.facebook.net
 0.0.0.0 socials.facebook.us
 :: socials.facebook.us
 0.0.0.0 socialshareprivacy.facebook.de
@@ -180710,6 +180940,8 @@
 :: spartan.facebook.com.br
 0.0.0.0 spartanracegermany.fb.me
 :: spartanracegermany.fb.me
+0.0.0.0 spaten.thefacebook.de
+:: spaten.thefacebook.de
 0.0.0.0 spawngts.fbsbx.com
 :: spawngts.fbsbx.com
 0.0.0.0 spazio.facebook.it
@@ -183442,6 +183674,8 @@
 :: status.fb.com
 0.0.0.0 status.fb.me
 :: status.fb.me
+0.0.0.0 status.fbsbx.com
+:: status.fbsbx.com
 0.0.0.0 status.graph.accountkit.com
 :: status.graph.accountkit.com
 0.0.0.0 status-im.contexts.chat.messenger.com
@@ -188558,6 +188792,8 @@
 :: testing3-m-dscvr.i.org
 0.0.0.0 testing-developers.wk.pl
 :: testing-developers.wk.pl
+0.0.0.0 testing.endaga.com
+:: testing.endaga.com
 0.0.0.0 testing.facebook.com.br
 :: testing.facebook.com.br
 0.0.0.0 testing-toolbarevents.latest.instagram.com
@@ -188806,6 +189042,8 @@
 :: tgfymca.facebook.com
 0.0.0.0 tgfymca.workplace.com
 :: tgfymca.workplace.com
+0.0.0.0 tgpoolvillapattaya.thefacebook.at
+:: tgpoolvillapattaya.thefacebook.at
 0.0.0.0 tg.react.dev
 :: tg.react.dev
 0.0.0.0 tg-tj.facebook.com
@@ -191578,6 +191816,8 @@
 :: twitter.facebook.com
 0.0.0.0 twitter.facebook.org
 :: twitter.facebook.org
+0.0.0.0 twitter.iapp.fb.me
+:: twitter.iapp.fb.me
 0.0.0.0 twitter.internet.org
 :: twitter.internet.org
 0.0.0.0 twitter.messenger.com
@@ -195664,6 +195904,8 @@
 :: video.fcgk33-1.fna.fbcdn.net
 0.0.0.0 video.fcgk3-3.fna.fbcdn.net
 :: video.fcgk3-3.fna.fbcdn.net
+0.0.0.0 video.fcgk34-1.fna.fbcdn.net
+:: video.fcgk34-1.fna.fbcdn.net
 0.0.0.0 video.fcgk3-4.fna.fbcdn.net
 :: video.fcgk3-4.fna.fbcdn.net
 0.0.0.0 video.fcgk35-1.fna.fbcdn.net
@@ -200230,6 +200472,8 @@
 :: vordergrund.www.facebook.de
 0.0.0.0 vorlesungsverzeichnis.fb.me
 :: vorlesungsverzeichnis.fb.me
+0.0.0.0 voroncovka.mirror.facebook.net
+:: voroncovka.mirror.facebook.net
 0.0.0.0 vos--spb.accountkit.com
 :: vos--spb.accountkit.com
 0.0.0.0 voteadmstbski.accountkit.com
@@ -204004,6 +204248,8 @@
 :: webdisk.beta.accountkit.com
 0.0.0.0 webdisk.beta.facebook.com
 :: webdisk.beta.facebook.com
+0.0.0.0 webdisk.beta.facebook.net
+:: webdisk.beta.facebook.net
 0.0.0.0 webdisk.beta.freebasics.com
 :: webdisk.beta.freebasics.com
 0.0.0.0 webdisk.beta.internet.org
@@ -204042,6 +204288,8 @@
 :: webdisk.new.facebook.com
 0.0.0.0 webdisk.newswww3-53.accountkit.com
 :: webdisk.newswww3-53.accountkit.com
+0.0.0.0 webdisk.oculus.fi
+:: webdisk.oculus.fi
 0.0.0.0 webdisk.oculusvr.com
 :: webdisk.oculusvr.com
 0.0.0.0 webdisk.on.fb.me
@@ -205160,6 +205408,8 @@
 :: whatsapp-bb.fb.me
 0.0.0.0 whatsapp.be
 :: whatsapp.be
+0.0.0.0 whatsapp.biz.pl
+:: whatsapp.biz.pl
 0.0.0.0 whatsappbrand.com
 :: whatsappbrand.com
 0.0.0.0 whatsapp-business-api.api.metastatus.com
@@ -205888,6 +206138,8 @@
 :: wildcard.beta.accountkit.com
 0.0.0.0 wildcard.beta.facebook.com
 :: wildcard.beta.facebook.com
+0.0.0.0 wildcard.beta.facebook.net
+:: wildcard.beta.facebook.net
 0.0.0.0 wildcard.beta.freebasics.com
 :: wildcard.beta.freebasics.com
 0.0.0.0 wildcard.beta.messenger.com
@@ -205912,6 +206164,8 @@
 :: wildcard.dscvr.i.org
 0.0.0.0 wildcard.extern.facebook.com
 :: wildcard.extern.facebook.com
+0.0.0.0 wildcard.extern-silfra.facebook.net
+:: wildcard.extern-silfra.facebook.net
 0.0.0.0 wildcard.faae1-2.fna.whatsapp.net
 :: wildcard.faae1-2.fna.whatsapp.net
 0.0.0.0 wildcard.faae2-3.fna.whatsapp.net
@@ -218792,6 +219046,8 @@
 :: wildcard.messenger.com
 0.0.0.0 wildcard.m.internmc.workplace.com
 :: wildcard.m.internmc.workplace.com
+0.0.0.0 wildcard.mirror.facebook.net
+:: wildcard.mirror.facebook.net
 0.0.0.0 wildcard.m.me
 :: wildcard.m.me
 0.0.0.0 wildcard.mobile.discoverapp.com
@@ -218848,6 +219104,8 @@
 :: wildcard.standalone.xsec.internet.org
 0.0.0.0 wildcard.standalone.xwf.internet.org
 :: wildcard.standalone.xwf.internet.org
+0.0.0.0 wildcard.thefacebook.de
+:: wildcard.thefacebook.de
 0.0.0.0 wildcard.tokenizer.xwf.internet.org
 :: wildcard.tokenizer.xwf.internet.org
 0.0.0.0 wildcard.trunkstable.facebook.com
@@ -219444,6 +219702,8 @@
 :: wmhs-aps-nm.messenger.com
 0.0.0.0 wmi.freebasics.com
 :: wmi.freebasics.com
+0.0.0.0 w.mirror.facebook.net
+:: w.mirror.facebook.net
 0.0.0.0 wmlwww.facebook.fr
 :: wmlwww.facebook.fr
 0.0.0.0 wmlwww.facebookwww.facebook.com.au
@@ -219566,6 +219826,8 @@
 :: wordpress.freebasics.com
 0.0.0.0 wordpress.messenger.com
 :: wordpress.messenger.com
+0.0.0.0 wordpress.mirror.facebook.net
+:: wordpress.mirror.facebook.net
 0.0.0.0 wordpress.oculus.de
 :: wordpress.oculus.de
 0.0.0.0 wordpress.on.fb.me
@@ -224134,6 +224396,8 @@
 :: www-7.accountkit.com
 0.0.0.0 www7.accountkit.com
 :: www7.accountkit.com
+0.0.0.0 www7a.fb.me
+:: www7a.fb.me
 0.0.0.0 www7a.fbsbx.com
 :: www7a.fbsbx.com
 0.0.0.0 www7a.freebasics.com
@@ -225330,6 +225594,8 @@
 :: www.atlasin-stream.com
 0.0.0.0 www.atlasinstreamvideo.com
 :: www.atlasinstreamvideo.com
+0.0.0.0 www.atlassolutions.com
+:: www.atlassolutions.com
 0.0.0.0 www.atlassolutions.com.au
 :: www.atlassolutions.com.au
 0.0.0.0 www.atlassolutions.co.uk
@@ -225560,6 +225826,8 @@
 :: www.beta.facebook.com
 0.0.0.0 www.betafacebook.info
 :: www.betafacebook.info
+0.0.0.0 www.beta.facebook.net
+:: www.beta.facebook.net
 0.0.0.0 www.beta.internet.org
 :: www.beta.internet.org
 0.0.0.0 www.beta.messenger.com
@@ -226032,6 +226300,8 @@
 :: www.countryhub.fb.com
 0.0.0.0 www.courses.i.org
 :: www.courses.i.org
+0.0.0.0 www.cpan.mirror.facebook.net
+:: www.cpan.mirror.facebook.net
 0.0.0.0 www-cphost.alpha-04-2.accountkit.com
 :: www-cphost.alpha-04-2.accountkit.com
 0.0.0.0 www.c.p.j.i.org
@@ -227196,6 +227466,8 @@
 :: www.facebook.ec
 0.0.0.0 www.facebook.ee
 :: www.facebook.ee
+0.0.0.0 www.facebookenterprise.com
+:: www.facebookenterprise.com
 0.0.0.0 www.facebook.es
 :: www.facebook.es
 0.0.0.0 www.facebook.eu
@@ -227986,6 +228258,8 @@
 :: www.fecebook.com.ar
 0.0.0.0 www.fecebook.net
 :: www.fecebook.net
+0.0.0.0 www.fedora.mirror.facebook.net
+:: www.fedora.mirror.facebook.net
 0.0.0.0 www.fee06515-ee28-4e35-b6bf-23ea81be2265-netseer-ipaddr-assoc.xz.fbcdn.net
 :: www.fee06515-ee28-4e35-b6bf-23ea81be2265-netseer-ipaddr-assoc.xz.fbcdn.net
 0.0.0.0 www.feedback.messenger.com
@@ -230948,6 +231222,8 @@
 :: www.mineralwasser.comwww.trinken-im-unterricht.dewww.facebook.de
 0.0.0.0 www.mint-ec.dewww.facebook.co
 :: www.mint-ec.dewww.facebook.co
+0.0.0.0 www.mirror.facebook.net
+:: www.mirror.facebook.net
 0.0.0.0 www.miss.facebook.fr
 :: www.miss.facebook.fr
 0.0.0.0 www.mittelstand-karriere.dewww.facebook.de
@@ -231034,6 +231310,8 @@
 :: www.moviegenai.ai
 0.0.0.0 www.moviegenai.org
 :: www.moviegenai.org
+0.0.0.0 www.moviegen.studio
+:: www.moviegen.studio
 0.0.0.0 www.movimentodown.org.brwww.facebook.com.br
 :: www.movimentodown.org.brwww.facebook.com.br
 0.0.0.0 www.movistar.facebook.co
@@ -231292,6 +231570,8 @@
 :: www.occupyvillaberg.dewww.facebook.de
 0.0.0.0 www.octazen.com
 :: www.octazen.com
+0.0.0.0 www.oculusacademy.com
+:: www.oculusacademy.com
 0.0.0.0 www.oculusacademy.net
 :: www.oculusacademy.net
 0.0.0.0 www.oculusacademy.org
@@ -232116,6 +232396,8 @@
 :: www.parkinsonsnsw.org.auwww.facebook.com.au
 0.0.0.0 www.parks-nuernberg.dewww.facebook.de
 :: www.parks-nuernberg.dewww.facebook.de
+0.0.0.0 www.parse.com
+:: www.parse.com
 0.0.0.0 www.partners.internet.org
 :: www.partners.internet.org
 0.0.0.0 www-pass-ng.0.freebasics.com
@@ -232154,6 +232436,8 @@
 :: www.ph.messenger.com
 0.0.0.0 www.php.internet.org
 :: www.php.internet.org
+0.0.0.0 www.php.mirror.facebook.net
+:: www.php.mirror.facebook.net
 0.0.0.0 www.ph.yahoo.messenger.com
 :: www.ph.yahoo.messenger.com
 0.0.0.0 www.pidgin.yahoo.messenger.com
@@ -233726,6 +234010,8 @@
 :: www.whatsapp.at
 0.0.0.0 www.whatsapp.be
 :: www.whatsapp.be
+0.0.0.0 www.whatsapp.biz.pl
+:: www.whatsapp.biz.pl
 0.0.0.0 www.whatsappbrand.com
 :: www.whatsappbrand.com
 0.0.0.0 www.whatsapp.bz
@@ -233840,6 +234126,8 @@
 :: www.wische.dewww.facebook.de
 0.0.0.0 www.wit.ai
 :: www.wit.ai
+0.0.0.0 www.with.in
+:: www.with.in
 0.0.0.0 wwww.it-it.facebook.us
 :: wwww.it-it.facebook.us
 0.0.0.0 www.wittich.dewww.facebook.de
@@ -236952,6 +237240,8 @@
 :: z-m-cdn.fbsbx.com
 0.0.0.0 z-m-cdn-martinique.fbsbx.com
 :: z-m-cdn-martinique.fbsbx.com
+0.0.0.0 z-m-connect.facebook.net
+:: z-m-connect.facebook.net
 0.0.0.0 z-m-cstonerobixxxn.fbsbx.com
 :: z-m-cstonerobixxxn.fbsbx.com
 0.0.0.0 z.messenger.com
@@ -240100,6 +240390,8 @@
 :: z-p42-scontent-iad3-1.cdninstagram.com
 0.0.0.0 z-p42-scontent-iad3-2.cdninstagram.com
 :: z-p42-scontent-iad3-2.cdninstagram.com
+0.0.0.0 z-p42-scontent-iad6-1.cdninstagram.com
+:: z-p42-scontent-iad6-1.cdninstagram.com
 0.0.0.0 z-p42-scontent-iad.cdninstagram.com
 :: z-p42-scontent-iad.cdninstagram.com
 0.0.0.0 z-p42-scontent-icn2-1.cdninstagram.com

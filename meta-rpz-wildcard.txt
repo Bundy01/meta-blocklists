@@ -1,11 +1,11 @@
 $TTL 18000
-@ IN SOA localhost. root.localhost. 2026080701 18000 3600 2592000 18000
+@ IN SOA localhost. root.localhost. 2026082201 18000 3600 2592000 18000
   IN NS  localhost.
 ;
 ; Title: Meta RPZ Wildcard
 ; Description: Blocking Domains Belonging to Meta Platforms
 ; Author: Bundy01
-; Last modified: 2026-08-07
+; Last modified: 2026-08-22
 ; Homepage: https://github.com/Bundy01/meta-blocklists
 ; Licence: https://github.com/Bundy01/meta-blocklists/blob/main/LICENSE
 ; RAW: https://raw.githubusercontent.com/Bundy01/meta-blocklists/main/meta-rpz-wildcard.txt
@@ -600,8 +600,6 @@ facebook.in CNAME .
 facebook.info CNAME .
 *.facebook.ink CNAME .
 facebook.ink CNAME .
-*.facebook.ir CNAME .
-facebook.ir CNAME .
 *.facebook.irish CNAME .
 facebook.irish CNAME .
 *.facebook.istanbul CNAME .
@@ -1048,8 +1046,6 @@ fbaipublicfiles.com CNAME .
 fb.audio CNAME .
 *.fb.biz CNAME .
 fb.biz CNAME .
-*.fb.careers CNAME .
-fb.careers CNAME .
 *.fbcdn.com CNAME .
 fbcdn.com CNAME .
 *.fbcdn.net CNAME .
@@ -2302,6 +2298,8 @@ moltbook.com CNAME .
 moviegenai.ai CNAME .
 *.moviegenai.org CNAME .
 moviegenai.org CNAME .
+*.moviegen.studio CNAME .
+moviegen.studio CNAME .
 *.msngr.com CNAME .
 msngr.com CNAME .
 *.msqrd.com CNAME .
@@ -2318,6 +2316,8 @@ novi.com CNAME .
 novi.net CNAME .
 *.octazen.com CNAME .
 octazen.com CNAME .
+*.oculusacademy.com CNAME .
+oculusacademy.com CNAME .
 *.oculusacademy.net CNAME .
 oculusacademy.net CNAME .
 *.oculusacademy.org CNAME .
@@ -2432,8 +2432,6 @@ oculus.center CNAME .
 oculus.ceo CNAME .
 *.oculus.charity CNAME .
 oculus.charity CNAME .
-*.oculus.chat CNAME .
-oculus.chat CNAME .
 *.oculus.cheap CNAME .
 oculus.cheap CNAME .
 *.oculus.christmas CNAME .
@@ -2620,8 +2618,6 @@ oculus.gifts CNAME .
 oculus.gives CNAME .
 *.oculus.glass CNAME .
 oculus.glass CNAME .
-*.oculus.gmbh CNAME .
-oculus.gmbh CNAME .
 *.oculus.gold CNAME .
 oculus.gold CNAME .
 *.oculus.golf CNAME .
@@ -2704,6 +2700,8 @@ oculus.jobs CNAME .
 oculus.joburg CNAME .
 *.oculus.juegos CNAME .
 oculus.juegos CNAME .
+*.oculus.kaufen CNAME .
+oculus.kaufen CNAME .
 *.oculus.kim CNAME .
 oculus.kim CNAME .
 *.oculus.kitchen CNAME .
@@ -2724,6 +2722,8 @@ oculus.legal CNAME .
 oculus.lgbt CNAME .
 *.oculus.life CNAME .
 oculus.life CNAME .
+*.oculus.limited CNAME .
+oculus.limited CNAME .
 *.oculus.limo CNAME .
 oculus.limo CNAME .
 *.oculus.link CNAME .
@@ -3178,6 +3178,8 @@ whatsapp.am CNAME .
 whatsapp.at CNAME .
 *.whatsapp.be CNAME .
 whatsapp.be CNAME .
+*.whatsapp.biz.pl CNAME .
+whatsapp.biz.pl CNAME .
 *.whatsappbrand.com CNAME .
 whatsappbrand.com CNAME .
 *.whatsapp.bz CNAME .
