@@ -10336,7 +10336,6 @@ local-zone: "aimagelab.m.facebook.com" always_refuse
 local-zone: "aime8.i.org" always_refuse
 local-zone: "ai.messenger.com" always_refuse
 local-zone: "ai.meta.com" always_refuse
-local-zone: "Ai.meta.com" always_refuse
 local-zone: "aiminternet.facebook.com" always_refuse
 local-zone: "aim.messenger.com" always_refuse
 local-zone: "aimmxtest7.accountkit.com" always_refuse

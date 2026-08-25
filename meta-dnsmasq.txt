@@ -10337,7 +10337,6 @@ local=/aimagelab.m.facebook.com/
 local=/aime8.i.org/
 local=/ai.messenger.com/
 local=/ai.meta.com/
-local=/Ai.meta.com/
 local=/aiminternet.facebook.com/
 local=/aim.messenger.com/
 local=/aimmxtest7.accountkit.com/
