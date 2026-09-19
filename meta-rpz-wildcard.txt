@@ -1,11 +1,11 @@
 $TTL 18000
-@ IN SOA localhost. root.localhost. 2026090601 18000 3600 2592000 18000
+@ IN SOA localhost. root.localhost. 2026091901 18000 3600 2592000 18000
   IN NS  localhost.
 ;
 ; Title: Meta RPZ Wildcard
 ; Description: Blocking Domains Belonging to Meta Platforms
 ; Author: Bundy01
-; Last modified: 2026-09-06
+; Last modified: 2026-09-19
 ; Homepage: https://github.com/Bundy01/meta-blocklists
 ; Licence: https://github.com/Bundy01/meta-blocklists/blob/main/LICENSE
 ; RAW: https://raw.githubusercontent.com/Bundy01/meta-blocklists/main/meta-rpz-wildcard.txt
@@ -100,6 +100,8 @@ bpfilter.io CNAME .
 buck2.build CNAME .
 *.buck.build CNAME .
 buck.build CNAME .
+*.bulletin.com CNAME .
+bulletin.com CNAME .
 *.cachelib.com CNAME .
 cachelib.com CNAME .
 *.cachelib.org CNAME .
@@ -3128,6 +3130,8 @@ sonicsinc.net CNAME .
 sonicsinc.org CNAME .
 *.sparkar.com CNAME .
 sparkar.com CNAME .
+*.stilla.ai CNAME .
+stilla.ai CNAME .
 *.surreal.vision CNAME .
 surreal.vision CNAME .
 *.textvqa.org CNAME .
