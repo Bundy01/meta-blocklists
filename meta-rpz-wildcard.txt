@@ -1,11 +1,11 @@
 $TTL 18000
-@ IN SOA localhost. root.localhost. 2026091901 18000 3600 2592000 18000
+@ IN SOA localhost. root.localhost. 2026100701 18000 3600 2592000 18000
   IN NS  localhost.
 ;
 ; Title: Meta RPZ Wildcard
 ; Description: Blocking Domains Belonging to Meta Platforms
 ; Author: Bundy01
-; Last modified: 2026-09-19
+; Last modified: 2026-10-07
 ; Homepage: https://github.com/Bundy01/meta-blocklists
 ; Licence: https://github.com/Bundy01/meta-blocklists/blob/main/LICENSE
 ; RAW: https://raw.githubusercontent.com/Bundy01/meta-blocklists/main/meta-rpz-wildcard.txt
@@ -942,6 +942,12 @@ facebook.website CNAME .
 facebook.wien CNAME .
 *.facebook.wiki CNAME .
 facebook.wiki CNAME .
+*.facebookworkmail.com CNAME .
+facebookworkmail.com CNAME .
+*.facebookworkmail.net CNAME .
+facebookworkmail.net CNAME .
+*.facebookworkmail.org CNAME .
+facebookworkmail.org CNAME .
 *.facebook.xyz CNAME .
 facebook.xyz CNAME .
 *.facebook.yachts CNAME .
@@ -2434,6 +2440,8 @@ oculus.center CNAME .
 oculus.ceo CNAME .
 *.oculus.charity CNAME .
 oculus.charity CNAME .
+*.oculus.chat CNAME .
+oculus.chat CNAME .
 *.oculus.cheap CNAME .
 oculus.cheap CNAME .
 *.oculus.christmas CNAME .
