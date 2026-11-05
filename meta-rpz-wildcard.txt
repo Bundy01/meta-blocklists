@@ -1,11 +1,11 @@
 $TTL 18000
-@ IN SOA localhost. root.localhost. 2026102101 18000 3600 2592000 18000
+@ IN SOA localhost. root.localhost. 2026110501 18000 3600 2592000 18000
   IN NS  localhost.
 ;
 ; Title: Meta RPZ Wildcard
 ; Description: Blocking Domains Belonging to Meta Platforms
 ; Author: Bundy01
-; Last modified: 2026-10-21
+; Last modified: 2026-11-05
 ; Homepage: https://github.com/Bundy01/meta-blocklists
 ; Licence: https://github.com/Bundy01/meta-blocklists/blob/main/LICENSE
 ; RAW: https://raw.githubusercontent.com/Bundy01/meta-blocklists/main/meta-rpz-wildcard.txt
@@ -164,8 +164,6 @@ esmatlas.com CNAME .
 eyegroove.com CNAME .
 *.f8.com CNAME .
 f8.com CNAME .
-*.f8.net CNAME .
-f8.net CNAME .
 *.faacebook.com CNAME .
 faacebook.com CNAME .
 *.faacebook.de CNAME .
@@ -2324,8 +2322,6 @@ novi.com CNAME .
 novi.net CNAME .
 *.octazen.com CNAME .
 octazen.com CNAME .
-*.oculusacademy.com CNAME .
-oculusacademy.com CNAME .
 *.oculusacademy.net CNAME .
 oculusacademy.net CNAME .
 *.oculusacademy.org CNAME .
@@ -3164,6 +3160,8 @@ threads.com CNAME .
 threads.net CNAME .
 *.twistedpixelgames.com CNAME .
 twistedpixelgames.com CNAME .
+*.unit2games.com CNAME .
+unit2games.com CNAME .
 *.vidpresso.com CNAME .
 vidpresso.com CNAME .
 *.viewpointsfromfacebook.com CNAME .
