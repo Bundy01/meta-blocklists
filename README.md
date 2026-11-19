@@ -1,4 +1,5 @@
-# Meta Blocklists
+<h1 align="center">Meta Blocklists</h1>
+
 **I'm taking over the excellent [facebook-extended.txt](https://github.com/lightswitch05/hosts/blob/master/docs/lists/facebook-extended.txt) hosts list after his repo is archived.**
 
 ## Contributions
